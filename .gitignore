@@ -1,2 +1,5 @@
 node_modules/
-brand-study/node_modules/
+video/renders/
+video/snapshots/
+video/audio/score_raw.wav
+.hyperframes/

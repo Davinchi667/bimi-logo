@@ -1,0 +1,705 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Mojisola Oshinubi — Operations Manager</title>
+    <script src="assets/vendor/gsap.min.js"></script>
+    <script src="cues.js"></script>
+    <style>
+      @font-face { font-family: "Instrument Serif"; font-style: normal; font-weight: 400; src: url(assets/fonts/instrument-serif-latin-400-normal.woff2) format("woff2"); }
+      @font-face { font-family: "Instrument Serif"; font-style: italic; font-weight: 400; src: url(assets/fonts/instrument-serif-latin-400-italic.woff2) format("woff2"); }
+      @font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-weight: 200 800; src: url(assets/fonts/plus-jakarta-sans-latin-wght-normal.woff2) format("woff2"); }
+
+      :root {
+        --paper: #FCFBF8; --ink: #141414; --muted: #6E6C64; --hair: #E6E2D8;
+        --band: #3A2140; --accent: #B4748F; --accent-ink: #8A4A66; --pink: #EAC3D6; --live: #2FBF6E;
+        --serif: "Instrument Serif", Georgia, serif;
+        --sans: "Plus Jakarta Sans", system-ui, sans-serif;
+        --shadow: 0 50px 90px -40px rgba(58, 33, 64, .42), 0 14px 30px -18px rgba(20, 20, 20, .25);
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1920px; height: 1080px; overflow: hidden; background: var(--paper); }
+      body { font-family: var(--sans); color: var(--ink); letter-spacing: -.03em; -webkit-font-smoothing: antialiased; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; background: var(--paper); }
+      .clip { position: absolute; inset: 0; overflow: hidden; }
+      .abs { position: absolute; }
+      .serif { font-family: var(--serif); font-weight: 400; letter-spacing: -.022em; line-height: .92; }
+      .it { font-style: italic; color: var(--accent); }
+      .mask { display: block; overflow: hidden; padding: 0 .06em .1em; margin: 0 -.06em -.1em; }
+      .mask > span { display: block; will-change: transform; }
+      svg.ic { fill: none; stroke: currentColor; stroke-width: 3.2; stroke-linecap: round; stroke-linejoin: round; overflow: visible; }
+      .card { background: #fff; border: 1px solid var(--hair); border-radius: 28px; box-shadow: var(--shadow); }
+      .label { font: 600 26px/1 var(--sans); text-transform: uppercase; letter-spacing: .02em; color: var(--muted); }
+      .chip { display: inline-flex; align-items: center; gap: 12px; height: 66px; padding: 0 28px; border-radius: 999px; background: #fff; border: 1px solid var(--hair); font: 500 32px/1 var(--sans); white-space: nowrap; }
+
+      /* ── header chrome (from the site's top bar) ───────────── */
+      #chrome { position: absolute; left: 0; right: 0; top: 0; height: 110px; padding: 0 110px; display: flex; align-items: center; justify-content: space-between; z-index: 50; color: var(--ink); }
+      #chrome .who { font: 600 24px/1 var(--sans); text-transform: uppercase; letter-spacing: .02em; }
+      #chrome .who span { opacity: .62; font-weight: 500; }
+      #chrome .st { display: flex; align-items: center; gap: 18px; font: 500 24px/1 var(--sans); }
+      .dotwrap { position: relative; width: 16px; height: 16px; display: block; }
+      .dotwrap i { position: absolute; inset: 0; border-radius: 50%; background: var(--live); display: block; }
+      .dotwrap b { position: absolute; inset: -9px; border-radius: 50%; border: 2px solid var(--live); display: block; }
+
+      /* ── odometer ──────────────────────────────────────────── */
+      .odo { display: inline-flex; align-items: flex-start; white-space: nowrap; }
+      .odo .col { position: relative; display: block; height: 1em; overflow: hidden; width: .52em; }
+      .odo .col span { position: absolute; left: 0; right: 0; top: 0; text-align: center; display: block; height: 1em; line-height: 1em; }
+      .odo .sep { display: block; line-height: 1em; }
+      .odo .sfx { display: block; line-height: 1em; }
+
+      /* ── scene 1: ops ──────────────────────────────────────── */
+      #ops-world { position: absolute; inset: 0; transform-origin: 0 0; }
+      #ops-copy { position: absolute; left: 110px; top: 150px; width: 1000px; }
+      #w-ops { font-size: 236px; }
+      #w-down { font-size: 112px; margin-top: 26px; }
+      #w-some, #w-rep { font-size: 236px; }
+      .toast { position: absolute; left: 0; top: 0; width: 700px; height: 128px; display: flex; align-items: center; gap: 24px; padding: 0 30px; border-radius: 26px; background: #fff; border: 1px solid var(--hair); box-shadow: var(--shadow); }
+      .toast .ico { position: relative; width: 68px; height: 68px; flex: none; }
+      .toast .ico > div { position: absolute; inset: 0; border-radius: 50%; display: grid; place-items: center; }
+      .toast .ico .bad { background: #F4E7ED; color: var(--accent-ink); }
+      .toast .ico .ok { background: var(--ink); color: #fff; }
+      .toast .ico svg { width: 40px; height: 40px; }
+      .toast .tx { flex: 1; min-width: 0; }
+      .toast .t1 { font: 600 34px/1.1 var(--sans); white-space: nowrap; }
+      .toast .t2 { position: relative; height: 28px; margin-top: 8px; font: 500 25px/28px var(--sans); color: var(--muted); }
+      .toast .t2 span { position: absolute; left: 0; top: 0; white-space: nowrap; }
+      .toast .t2 .done { color: var(--accent-ink); }
+      .toast .now { font: 500 22px/1 var(--sans); color: var(--muted); }
+      #pill { position: absolute; left: 0; top: 0; height: 132px; display: flex; align-items: center; gap: 30px; padding: 0 18px 0 46px; border-radius: 999px; background: #fff; border: 1px solid var(--hair); box-shadow: var(--shadow); font: 500 44px/1 var(--sans); white-space: nowrap; }
+      #pill .go { width: 98px; height: 98px; border-radius: 50%; background: var(--band); display: grid; place-items: center; color: #fff; }
+      #pill .go svg { width: 40px; height: 40px; stroke-width: 2.2; }
+
+      /* ── track (name → stats → approach) ───────────────────── */
+      #track { position: absolute; left: 0; top: 0; height: 1080px; width: calc(1920px * 6); display: flex; }
+      .panel { position: relative; width: 1920px; height: 1080px; flex: none; overflow: hidden; }
+      #p-name { background: var(--band); color: #fff; }
+      #n-first { position: absolute; left: 104px; top: 170px; font-size: 300px; }
+      #n-last { position: absolute; left: 560px; top: 432px; font-size: 300px; color: var(--pink); }
+      #sticker { position: absolute; left: 1380px; top: 150px; width: 300px; }
+      #sticker .box { background: #fff; color: var(--band); font: 400 52px/1.05 var(--serif); letter-spacing: -.015em; padding: 22px 30px; transform: rotate(-3deg); box-shadow: 0 30px 50px -30px rgba(0,0,0,.6); }
+      #sticker .box em { font-style: italic; color: var(--accent-ink); }
+      #sticker svg { position: absolute; left: -150px; top: 140px; width: 190px; height: 160px; stroke: #fff; stroke-width: 3.6; fill: none; stroke-linecap: round; stroke-linejoin: round; overflow: visible; }
+      #n-bar { position: absolute; left: 110px; right: 110px; bottom: 96px; padding-top: 34px; display: flex; justify-content: space-between; align-items: center; }
+      #n-bar .rule { position: absolute; left: 0; top: 0; height: 1px; width: 100%; background: rgba(255,255,255,.28); transform-origin: 0 0; }
+      #n-bar .role { font: 600 28px/1 var(--sans); text-transform: uppercase; letter-spacing: .02em; color: #fff; }
+      #n-bar .open { display: flex; align-items: center; gap: 20px; font: 500 30px/1 var(--sans); color: #fff; }
+
+      .stat .idx { position: absolute; left: 110px; top: 186px; font-size: 28px; color: var(--accent-ink); }
+      .stat .rules { position: absolute; left: 0; right: 0; top: 160px; bottom: 120px; border-top: 1px solid var(--hair); border-bottom: 1px solid var(--hair); }
+      .stat .num { position: absolute; left: 96px; top: 262px; font-size: 420px; line-height: 1; }
+      .stat .cap { position: absolute; left: 110px; top: 720px; width: 820px; font: 400 76px/1.02 var(--serif); letter-spacing: -.02em; }
+      .stat .obj { position: absolute; left: 1060px; top: 210px; width: 760px; height: 660px; padding: 48px 52px; }
+      .obj .hd { display: flex; flex-direction: column-reverse; align-items: flex-start; gap: 14px; }
+      .obj .ttl { font: 600 34px/1.1 var(--sans); }
+
+      #s40 .row { margin-top: 44px; display: flex; align-items: center; justify-content: space-between; padding: 26px 30px; border: 1px solid var(--hair); border-radius: 22px; }
+      #s40 .row .k { font: 500 32px/1 var(--sans); }
+      .tog { position: relative; width: 132px; height: 72px; border-radius: 999px; background: var(--hair); }
+      .tog .knob { position: absolute; left: 6px; top: 6px; width: 60px; height: 60px; border-radius: 50%; background: #fff; box-shadow: 0 4px 10px rgba(0,0,0,.18); }
+      .tog .on { position: absolute; inset: 0; border-radius: 999px; background: var(--ink); }
+      .bars { margin-top: 46px; display: grid; gap: 30px; }
+      .bars .b { display: grid; grid-template-columns: 150px 1fr; align-items: center; gap: 20px; font: 500 28px/1 var(--sans); color: var(--muted); }
+      .bars .tr { position: relative; height: 54px; border-radius: 14px; background: #F3F0EA; overflow: hidden; }
+      .bars .fill { position: absolute; left: 0; top: 0; bottom: 0; width: 100%; border-radius: 14px; transform-origin: 0 50%; }
+      .bars .f1 { background: #D9D4C8; }
+      .bars .f2 { background: var(--accent); }
+      .bars .delta { position: absolute; right: 0; top: -2px; font: 400 54px/1 var(--serif); color: var(--accent-ink); letter-spacing: -.02em; }
+
+      #s10 .ring { position: absolute; left: 50%; top: 150px; width: 420px; height: 420px; margin-left: -210px; }
+      #s10 .ring svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+      #s10 .ring .mid { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; }
+      #s10 .ring .mid b { display: block; font: 400 120px/1 var(--serif); letter-spacing: -.02em; }
+      #s10 .ring .mid i { display: block; font: 500 28px/1 var(--sans); color: var(--muted); font-style: normal; margin-top: 4px; }
+      #s10 .clockic { position: absolute; left: 52px; bottom: 44px; display: flex; align-items: center; gap: 14px; font: 500 28px/1 var(--sans); color: var(--muted); }
+      #s10 .clockic svg { width: 42px; height: 42px; color: var(--accent-ink); }
+
+      #s20 .chart { position: absolute; left: 52px; right: 52px; top: 150px; height: 400px; }
+      #s20 .chart svg { width: 100%; height: 100%; overflow: visible; }
+      #s20 .tip { position: absolute; left: 0; top: 0; background: var(--ink); color: #fff; font: 400 58px/1 var(--serif); padding: 14px 24px 16px; border-radius: 18px; letter-spacing: -.02em; }
+      #s20 .axis { position: absolute; left: 52px; right: 52px; bottom: 50px; display: flex; justify-content: space-between; font: 500 26px/1 var(--sans); color: var(--muted); }
+
+      #s6000 .num { font-size: 300px; top: 330px; }
+      #s6000 .grid { position: absolute; left: 52px; top: 170px; display: grid; grid-template-columns: repeat(20, 26px); gap: 9px; }
+      #s6000 .grid i { width: 26px; height: 26px; border-radius: 50%; background: #F1EDE5; display: block; }
+      #s6000 .grid i.on { background: var(--band); }
+      #s6000 .sla { position: absolute; left: 52px; bottom: 48px; height: 76px; font-size: 32px; padding: 0 30px 0 14px; gap: 16px; border-color: var(--ink); }
+      #s6000 .sla .c { width: 50px; height: 50px; border-radius: 50%; background: var(--live); color: #fff; display: grid; place-items: center; }
+      #s6000 .sla svg { width: 32px; height: 32px; stroke-width: 4.5; }
+
+      #p-approach .line { position: absolute; left: 110px; display: flex; align-items: center; gap: 44px; }
+      #p-approach .w { font-size: 210px; }
+      #p-approach .icb { width: 150px; height: 150px; border-radius: 50%; border: 2px solid var(--ink); display: grid; place-items: center; flex: none; }
+      #p-approach .icb svg { width: 84px; height: 84px; stroke-width: 3; }
+      #p-approach .ds { position: absolute; left: 1250px; width: 580px; font: 500 38px/1.25 var(--sans); color: var(--muted); }
+
+      /* ── stillness ─────────────────────────────────────────── */
+      #still-copy { position: absolute; left: 110px; top: 300px; }
+      #still-copy .l { line-height: 1.1; }
+      #still-copy .l { font-size: 184px; }
+      #still-lab { position: absolute; left: 110px; top: 196px; display: flex; align-items: center; gap: 18px; }
+
+      /* ── cases ─────────────────────────────────────────────── */
+      #c-stage { position: absolute; inset: 0; perspective: 2200px; perspective-origin: 70% 40%; }
+      #c-count { position: absolute; left: 96px; top: 200px; font-size: 300px; line-height: 1; color: var(--ink); }
+      #c-count .of { display: block; font: 600 26px/1 var(--sans); letter-spacing: .02em; color: var(--muted); text-transform: uppercase; margin: 22px 0 0 14px; }
+      #c-lab { position: absolute; left: 110px; top: 640px; width: 440px; font: 400 70px/1 var(--serif); letter-spacing: -.02em; }
+      .case { position: absolute; left: 610px; top: 200px; width: 1200px; height: 720px; padding: 56px 60px; transform-style: preserve-3d; }
+      .case .top { display: flex; align-items: center; justify-content: space-between; }
+      .case .co { font: 600 30px/1 var(--sans); text-transform: uppercase; letter-spacing: .02em; }
+      .case .co b { color: var(--accent-ink); font-weight: 600; margin-right: 18px; }
+      .case .go { width: 74px; height: 74px; border-radius: 50%; background: var(--ink); color: #fff; display: grid; place-items: center; }
+      .case .go svg { width: 30px; height: 30px; stroke-width: 2.4; }
+      .case h3 { margin-top: 28px; font: 400 92px/.98 var(--serif); letter-spacing: -.022em; text-wrap: balance; max-width: 1060px; }
+      .case h3 em { font-style: italic; color: var(--accent); }
+      .case .meta { margin-top: 22px; font: 500 30px/1.2 var(--sans); color: var(--muted); }
+      .case .live { position: absolute; left: 60px; right: 60px; bottom: 56px; }
+      .case .shade { position: absolute; inset: -1px; border-radius: 28px; background: var(--paper); pointer-events: none; }
+      .stages { display: grid; grid-template-columns: repeat(7, 1fr); gap: 12px; }
+      .stg { position: relative; height: 112px; border: 2px solid var(--hair); border-radius: 18px; padding: 16px 14px; background: #fff; }
+      .stg .s { font: 600 22px/1 var(--sans); color: var(--muted); }
+      .stg h4 { margin-top: 14px; font: 600 27px/1 var(--sans); letter-spacing: -.035em; }
+      .stg .hit { position: absolute; inset: -2px; border: 2px solid var(--accent); border-radius: 18px; background: #FBF4F7; }
+      .stg .hit h4 { color: var(--accent-ink); }
+      .fleet { display: grid; grid-template-columns: repeat(25, 1fr); gap: 7px; }
+      .fleet i { display: block; height: 34px; border-radius: 7px; background: #F1EDE5; }
+      .fleet i.on { background: var(--band); }
+      .crow { display: flex; gap: 14px; margin-top: 22px; flex-wrap: nowrap; }
+      .flow { display: flex; align-items: center; gap: 0; }
+      .flow .node { height: 84px; padding: 0 34px; border-radius: 999px; border: 2px solid var(--ink); display: flex; align-items: center; font: 600 32px/1 var(--sans); background: #fff; }
+      .flow .link { width: 110px; height: 30px; }
+      .flow .link svg { width: 100%; height: 100%; stroke-width: 3; color: var(--accent-ink); }
+      .mini { height: 150px; }
+      .mini svg { width: 100%; height: 100%; overflow: visible; }
+
+      /* ── close ─────────────────────────────────────────────── */
+      #cl-copy { position: absolute; left: 110px; top: 150px; }
+      #cl-copy .l { font-size: 214px; }
+      #marq { position: absolute; left: -120px; width: 2160px; top: 676px; height: 104px; background: var(--band); color: #fff; overflow: hidden; transform-origin: 50% 50%; }
+      #marq .run { position: absolute; left: 0; top: 0; height: 104px; display: flex; align-items: center; gap: 44px; white-space: nowrap; font: 400 54px/1 var(--serif); letter-spacing: -.015em; }
+      #marq .run svg { width: 26px; height: 26px; fill: var(--pink); stroke: none; flex: none; }
+      #cta { position: absolute; left: 110px; top: 862px; height: 112px; display: flex; align-items: center; gap: 22px; padding: 0 22px 0 52px; border-radius: 999px; background: var(--ink); color: var(--paper); font: 500 42px/1 var(--sans); white-space: nowrap; }
+      #cta .go { width: 72px; height: 72px; border-radius: 50%; background: var(--paper); color: var(--ink); display: grid; place-items: center; }
+      #cta .go svg { width: 30px; height: 30px; stroke-width: 2.4; }
+      #cta .hov { position: absolute; inset: 0; border-radius: 999px; background: var(--accent-ink); }
+      #cta .lab { position: relative; }
+      #cta .go { position: relative; }
+      #url { position: absolute; right: 110px; top: 900px; text-align: right; }
+      #url .u { font: 600 40px/1 var(--sans); }
+      #url .e { margin-top: 14px; font: 500 28px/1 var(--sans); color: var(--muted); }
+      #cursor { position: absolute; left: 0; top: 0; width: 64px; height: 64px; z-index: 5; }
+      #cursor svg { width: 100%; height: 100%; fill: var(--ink); stroke: #fff; stroke-width: 2.4; stroke-linejoin: round; filter: drop-shadow(0 8px 10px rgba(0,0,0,.25)); }
+      #toast { position: absolute; right: 110px; top: 200px; display: flex; align-items: center; gap: 18px; padding: 26px 34px; border-radius: 22px; background: var(--ink); color: var(--paper); font: 500 32px/1 var(--sans); box-shadow: var(--shadow); }
+    </style>
+  </head>
+  <body>
+    <svg width="0" height="0" style="position:absolute">
+      <defs>
+        <filter id="mblur" x="-20%" y="-5%" width="140%" height="110%"><feGaussianBlur id="mblur-g" stdDeviation="0 0" /></filter>
+        <symbol id="i-alert" viewBox="0 0 48 48"><circle cx="24" cy="24" r="17" /><path d="M24 15v11" /><path d="M24 32.5v.2" /></symbol>
+        <symbol id="i-arrow" viewBox="0 0 18 18"><path d="M4 14L14 4M14 4H6m8 0v8" /></symbol>
+        <symbol id="i-star" viewBox="0 0 48 48"><path d="M24 2c1.6 12 6 20.4 22 22-16 1.6-20.4 10-22 22-1.6-12-6-20.4-22-22 16-1.6 20.4-10 22-22z" /></symbol>
+      </defs>
+    </svg>
+
+    <div id="root" data-composition-id="main" data-start="0" data-duration="38" data-width="1920" data-height="1080">
+      <!-- 0–8: notification storm → order → dive -->
+      <section id="sc-ops" class="clip" data-start="0" data-duration="8" data-track-index="1">
+        <div id="ops-world">
+          <div id="ops-copy">
+            <div class="mask serif" id="w-ops"><span>Operations,</span></div>
+            <div class="serif" id="w-down"><span class="mask" style="display:inline-block"><span>brought</span></span> <span class="mask" style="display:inline-block"><span>down</span></span> <span class="mask" style="display:inline-block"><span>to</span></span></div>
+            <div class="mask serif it" id="w-some"><span>something</span></div>
+            <div class="mask serif it" id="w-rep"><span>repeatable.</span></div>
+          </div>
+          <div id="toasts" data-layout-allow-overlap></div>
+          <div id="pill"><span>Process Improvement</span><span class="go"><svg class="ic"><use href="#i-arrow" /></svg></span></div>
+        </div>
+      </section>
+
+      <!-- 8–24: one horizontal track; the camera whips across it -->
+      <section id="sc-track" class="clip" data-start="8" data-duration="16" data-track-index="2">
+        <div id="track">
+          <div class="panel" id="p-name">
+            <div class="mask serif" id="n-first"><span>Mojisola</span></div>
+            <div class="mask serif" id="n-last" style="font-style:italic"><span>Oshinubi</span></div>
+            <div id="sticker">
+              <div class="box">Want to<br /><em>know more</em></div>
+              <svg viewBox="0 0 190 160"><path id="stk-a1" d="M150 8C120 40 70 70 20 140" /><path id="stk-a2" d="M18 112l2 30 28-10" /></svg>
+            </div>
+            <div id="n-bar">
+              <div class="rule"></div>
+              <div class="role">Operations Manager &amp; Business Operations Professional</div>
+              <div class="open"><span class="dotwrap"><b></b><i></i></span>Open to opportunities</div>
+            </div>
+          </div>
+
+          <div class="panel stat" id="s40">
+            <div class="idx label">01 / 04 · Try Bundler</div><div class="rules"></div>
+            <div class="num serif" id="o40"></div>
+            <div class="cap">Reduction in manual work</div>
+            <div class="obj card">
+              <div class="hd"><span class="ttl">Workflow automation</span><span class="label">Stripe · Notion · Asana</span></div>
+              <div class="row"><span class="k">Automate workflows</span><div class="tog"><div class="on"></div><div class="knob"></div></div></div>
+              <div class="bars">
+                <div class="b"><span>Before</span><div class="tr"><div class="fill f1"></div></div></div>
+                <div class="b"><span>After</span><div class="tr"><div class="fill f2"></div></div></div>
+              </div>
+              <div style="position:relative;height:60px;margin-top:34px"><span class="label" style="position:absolute;left:0;top:18px">Manual work</span><span class="delta" style="position:absolute;right:0;top:0;font:400 64px/1 var(--serif);color:var(--accent-ink);letter-spacing:-.02em">−40%</span></div>
+            </div>
+          </div>
+
+          <div class="panel stat" id="s10">
+            <div class="idx label">02 / 04 · Try Bundler</div><div class="rules"></div>
+            <div class="num serif" id="o10"></div>
+            <div class="cap">Hours saved weekly</div>
+            <div class="obj card">
+              <div class="hd"><span class="ttl">Time back, every week</span></div>
+              <div class="ring">
+                <svg viewBox="0 0 200 200"><circle cx="100" cy="100" r="86" fill="none" stroke="#F1EDE5" stroke-width="18" /><circle id="ring-f" cx="100" cy="100" r="86" fill="none" stroke="#3A2140" stroke-width="18" stroke-linecap="round" /></svg>
+                <div class="mid"><div><b id="ring-n">0</b><i>hours / week</i></div></div>
+              </div>
+              <div class="clockic"><svg class="ic" viewBox="0 0 48 48"><circle cx="24" cy="24" r="18" /><path id="clk-h" d="M24 13v11l7 5" /></svg>Saved weekly</div>
+            </div>
+          </div>
+
+          <div class="panel stat" id="s20">
+            <div class="idx label">03 / 04 · Try Bundler</div><div class="rules"></div>
+            <div class="num serif" id="o20"></div>
+            <div class="cap">Increase in customer retention</div>
+            <div class="obj card">
+              <div class="hd"><span class="ttl">Customer retention</span><span class="label">CRM-driven</span></div>
+              <div class="chart">
+                <svg viewBox="0 0 656 400" preserveAspectRatio="none">
+                  <path d="M0 399.5H656" stroke="#E6E2D8" stroke-width="2" fill="none" />
+                  <path d="M0 266.5H656M0 133.5H656" stroke="#F1EDE5" stroke-width="2" fill="none" />
+                  <path id="ret-area" d="M0 300 C120 296 180 290 260 262 S420 170 520 120 S610 92 656 80 V400 H0Z" fill="#F4E7ED" />
+                  <path id="ret-line" d="M0 300 C120 296 180 290 260 262 S420 170 520 120 S610 92 656 80" stroke="#8A4A66" stroke-width="7" fill="none" stroke-linecap="round" />
+                  <circle id="ret-dot" cx="656" cy="80" r="14" fill="#8A4A66" stroke="#fff" stroke-width="5" />
+                </svg>
+                <div class="tip" id="ret-tip">+20%</div>
+              </div>
+              <div class="axis"><span>Before</span><span>After</span></div>
+            </div>
+          </div>
+
+          <div class="panel stat" id="s6000">
+            <div class="idx label">04 / 04 · Try Bundler</div><div class="rules"></div>
+            <div class="num serif" id="o6000"></div>
+            <div class="cap">Users supported</div>
+            <div class="obj card">
+              <div class="hd"><span class="ttl">SaaS platform users</span><span class="label">Daily operations</span></div>
+              <div class="grid" id="ugrid"></div>
+              <div class="chip sla"><span class="c"><svg class="ic" viewBox="0 0 48 48"><path id="sla-ck" d="M13 25l7.5 7.5L35 17" /></svg></span>90%+ SLA resolution</div>
+            </div>
+          </div>
+
+          <div class="panel" id="p-approach"></div>
+        </div>
+      </section>
+
+      <!-- 24–26: the held moment -->
+      <section id="sc-still" class="clip" data-start="24" data-duration="2" data-track-index="3">
+        <div id="still-lab"><span class="dotwrap"><b></b><i></i></span><span class="label">Featured case work</span></div>
+        <div id="still-copy">
+          <div class="serif l">Four teams,</div>
+          <div class="serif l">four operations,</div>
+          <div class="serif l it">one approach.</div>
+        </div>
+      </section>
+
+      <!-- 26–32: DROP 2 — case deck -->
+      <section id="sc-cases" class="clip" data-start="26" data-duration="6" data-track-index="4">
+        <div id="c-world" style="position:absolute;inset:0">
+          <div id="c-count" class="serif"><span id="c-odo"></span><span class="of">of 04 case studies</span></div>
+          <div id="c-lab">Four teams, four operations, <em class="it">one approach.</em></div>
+          <div id="c-stage"></div>
+        </div>
+      </section>
+
+      <!-- 32–38: close -->
+      <section id="sc-close" class="clip" data-start="32" data-duration="6" data-track-index="5">
+        <div id="cl-world" style="position:absolute;inset:0">
+          <div id="cl-copy">
+            <div class="mask serif l"><span>Let's build</span></div>
+            <div class="mask serif l it"><span>better operations.</span></div>
+          </div>
+          <div id="marq"><div class="run" id="marq-run"></div></div>
+          <div id="cta"><div class="hov"></div><span class="lab">Book a 30-minute call</span><span class="go"><svg class="ic"><use href="#i-arrow" /></svg></span></div>
+          <div id="url"><div class="u">mojisola-oshinubi.vercel.app</div><div class="e">mojisolaoshinubi@yahoo.com</div></div>
+          <div id="toast"><span class="dotwrap"><b></b><i></i></span>Open to opportunities</div>
+          <div id="cursor"><svg viewBox="0 0 48 48"><path d="M10 5l27 15-11.5 3.2 7 12.8-5.6 3-7-12.8L12 34z" /></svg></div>
+        </div>
+      </section>
+
+      <!-- persistent chrome, after the site's top bar -->
+      <div id="chrome" class="clip" data-start="0" data-duration="38" data-track-index="6" style="inset:auto 0 auto 0;height:110px;overflow:visible">
+        <div class="who">Mojisola Oshinubi <span>— Operations Manager</span></div>
+        <div class="st"><span id="clock"></span><span>GMT+2</span><span class="dotwrap"><b></b><i></i></span></div>
+      </div>
+
+      <audio id="score" src="audio/score_master.wav" data-start="0" data-duration="38" data-track-index="0" data-volume="1"></audio>
+    </div>
+
+    <script>
+      (function () {
+        const C = window.CUES, W = 1920, H = 1080;
+        const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+        const clamp = (v, a = 0, b = 1) => Math.min(b, Math.max(a, v));
+        const lerp = (a, b, u) => a + (b - a) * u;
+        const E = {}; ["power2.out", "power3.out", "power4.out", "power2.inOut", "power3.in", "expo.inOut", "expo.out", "back.out(1.7)", "back.out(2.6)", "back.out(1.2)", "sine.inOut", "power1.inOut", "elastic.out(1,0.45)"].forEach((n) => (E[n] = gsap.parseEase(n)));
+        const ez = (n) => E[n] || (E[n] = gsap.parseEase(n));
+        const seg = (t, t0, d, e = "power3.out") => ez(e)(clamp((t - t0) / d));
+        const tf = (el, o) => { el.style.transform = `translate3d(${o.x || 0}px,${o.y || 0}px,${o.z || 0}px)` + (o.rx ? ` rotateX(${o.rx}deg)` : "") + (o.ry ? ` rotateY(${o.ry}deg)` : "") + (o.r ? ` rotate(${o.r}deg)` : "") + (o.s !== undefined ? ` scale(${o.s})` : "") + (o.sx !== undefined ? ` scaleX(${o.sx})` : "") + (o.sy !== undefined ? ` scaleY(${o.sy})` : ""); };
+        const op = (el, v) => { el.style.opacity = v; el.style.visibility = v <= 0.001 ? "hidden" : ""; }; // never force "visible": it would override the clip being hidden
+        // deterministic PRNG for scatter / grid order
+        const prng = (a) => () => { a |= 0; a = (a + 0x6d2b79f5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+        const svgNS = "http://www.w3.org/2000/svg";
+        const icon = (paths, cls = "ic") => `<svg class="${cls}" viewBox="0 0 48 48">${paths}</svg>`;
+        const ICON = {
+          check: '<path d="M13 25l7.5 7.5L35 17"/>',
+          people: '<circle cx="18" cy="16" r="6.5"/><path d="M6 39c1.6-7.6 6.4-11 12-11s10.4 3.4 12 11"/><circle cx="33.5" cy="18.5" r="5"/><path d="M31.5 28.6c5 .2 8.8 3 10.5 9.4"/>',
+          process: '<circle cx="9" cy="24" r="4.5"/><circle cx="39" cy="11" r="4.5"/><circle cx="39" cy="37" r="4.5"/><path d="M13.5 24c9 0 10-13 21-13"/><path d="M13.5 24c9 0 10 13 21 13"/>',
+          systems: '<path d="M24 7 5.5 16.5 24 26l18.5-9.5z"/><path d="M5.5 24.5 24 34l18.5-9.5"/><path d="M5.5 32.5 24 42l18.5-9.5"/>',
+          execute: '<circle cx="24" cy="24" r="18"/><path d="M17 31l14-14"/><path d="M19 17h12v12"/>',
+        };
+        const drawables = (root) => $$("path,circle,line,polyline", root).map((p) => { const L = p.getTotalLength ? p.getTotalLength() : 100; p.style.strokeDasharray = `${L} ${L}`; return { p, L }; });
+        const draw = (list, u) => list.forEach(({ p, L }) => (p.style.strokeDashoffset = L * (1 - clamp(u))));
+
+        // ── odometer ───────────────────────────────────────────
+        // A column turns over only while the column to its right passes 9 → 0.
+        function odometer(el, { digits, comma = false, suffix = "", pad = false }) {
+          el.classList.add("odo"); el.setAttribute("data-layout-allow-overlap", "");
+          const cols = [];
+          for (let k = digits - 1; k >= 0; k--) {
+            const col = document.createElement("span"); col.className = "col";
+            const a = document.createElement("span"), b = document.createElement("span");
+            [col, a, b].forEach((n) => n.setAttribute("data-layout-allow-overlap", ""));
+            col.append(a, b); el.append(col); cols.push({ k, col, a, b });
+            if (comma && k === 3) { const s = document.createElement("span"); s.className = "sep"; s.textContent = ","; el.append(s); cols.push({ sep: s }); }
+          }
+          let sfx = null; if (suffix) { sfx = document.createElement("span"); sfx.className = "sfx"; sfx.textContent = suffix; el.append(sfx); }
+          return {
+            sfx,
+            set(v) {
+              for (const c of cols) {
+                if (c.sep) { const on = clamp((v - 900) / 100); c.sep.style.display = on > 0 ? "" : "none"; c.sep.style.opacity = on; continue; }
+                const p = Math.pow(10, c.k);
+                let pos;
+                if (c.k === 0) pos = v;
+                else { const base = Math.floor(v / p), lower = v - base * p; pos = base + clamp((lower - (p - p / 10)) / (p / 10)) * 1; }
+                const d = Math.floor(pos + 1e-6), fr = pos - d;
+                c.a.textContent = ((d % 10) + 10) % 10; c.b.textContent = (((d + 1) % 10) + 10) % 10;
+                const show = pad || c.k === 0 ? 1 : clamp((v - (p - 1)) / 1);
+                c.col.style.width = (0.52 * show) + "em"; c.col.style.opacity = show;
+                c.a.style.transform = `translateY(${-fr * 100}%)`; c.b.style.transform = `translateY(${(1 - fr) * 100}%)`;
+                c.b.style.visibility = fr > 0.001 ? "visible" : "hidden";
+              }
+            },
+          };
+        }
+
+        // ── build: scene 1 toasts ──────────────────────────────
+        const TOASTS = ["OTP failures", "ETA discrepancies", "Incorrect order status", "Rider live-location not visible", "Login problems"];
+        const SCATTER = [[1050, 140, -6], [130, 640, 5], [1070, 560, -3], [560, 455, 4], [760, 850, -5]];
+        const toastsEl = $("#toasts");
+        const toasts = TOASTS.map((txt, i) => {
+          const d = document.createElement("div"); d.className = "toast"; d.setAttribute("data-layout-allow-overlap", "");
+          d.innerHTML = `<div class="ico"><div class="bad">${icon('<circle cx="24" cy="24" r="15"/><path d="M24 16v10"/><path d="M24 31.5v.3"/>')}</div><div class="ok">${icon(ICON.check)}</div></div>
+            <div class="tx" data-layout-allow-overlap><div class="t1" data-layout-allow-overlap>${txt}</div><div class="t2" data-layout-allow-overlap><span class="iss" data-layout-allow-overlap>Field test · issue 0${i + 1}</span><span class="done" data-layout-allow-overlap>Routed to product</span></div></div><div class="now">now</div>`;
+          toastsEl.append(d);
+          return { el: d, ok: $(".ok", d), bad: $(".bad", d), iss: $(".iss", d), done: $(".done", d), ck: drawables($(".ok", d)) };
+        });
+        const pill = $("#pill"); const PILL_W = pill.offsetWidth; // measured once at build
+
+        // ── build: approach panel ──────────────────────────────
+        const APP = [["People.", ICON.people, "Align the people responsible for execution."], ["Processes.", ICON.process, "Create clear and repeatable ways of working."], ["Systems.", ICON.systems, "Use the right tools and documentation to support consistency."], ["Execution.", ICON.execute, "Turn plans into measurable action."]];
+        const pa = $("#p-approach");
+        const appRows = APP.map(([w, ic, ds], i) => {
+          const top = 130 + i * 228;
+          const line = document.createElement("div"); line.className = "line"; line.style.top = top + "px";
+          line.innerHTML = `<div class="icb">${icon(ic)}</div><div class="mask serif w ${i === 3 ? "it" : ""}"><span>${w}</span></div>`;
+          const d = document.createElement("div"); d.className = "ds"; d.style.top = top + 44 + "px"; d.textContent = ds;
+          pa.append(line, d);
+          return { line, word: $(".mask > span", line), icb: $(".icb", line), ic: drawables($(".icb", line)), ds: d };
+        });
+
+        // ── build: odometers ───────────────────────────────────
+        const o40 = odometer($("#o40"), { digits: 2, suffix: "%" });
+        const o10 = odometer($("#o10"), { digits: 2, suffix: "+" });
+        const o20 = odometer($("#o20"), { digits: 2, suffix: "%" });
+        const o6000 = odometer($("#o6000"), { digits: 4, comma: true, suffix: "+" });
+        const clock = odometer($("#clock"), { digits: 2, pad: true });
+        $("#clock").insertAdjacentHTML("afterbegin", '<span style="display:block">14:</span>');
+        $("#clock").style.fontVariantNumeric = "tabular-nums";
+        const cOdo = odometer($("#c-odo"), { digits: 2, pad: true });
+
+        // user grid: 240 dots, filled in a seeded order as the counter rolls
+        const ug = $("#ugrid"), rnd = prng(7), dots = [];
+        for (let i = 0; i < 240; i++) { const d = document.createElement("i"); ug.append(d); dots.push({ d, o: rnd() }); }
+        const dotOrder = dots.slice().sort((a, b) => a.o - b.o);
+
+        // ring + chart
+        const ringF = $("#ring-f"), RL = 2 * Math.PI * 86; ringF.style.strokeDasharray = `${RL} ${RL}`;
+        const retLine = drawables($("#ret-line").parentNode.querySelector("#ret-line").parentNode).filter((x) => x.p.id === "ret-line");
+        const slaCk = drawables($("#sla-ck").parentNode);
+        const stk = drawables($("#sticker svg"));
+
+        // ── build: cases ───────────────────────────────────────
+        const arrow = '<svg class="ic" viewBox="0 0 18 18"><path d="M4 14L14 4M14 4H6m8 0v8"/></svg>';
+        const CASES = [
+          { co: "DropX", h: "Standing up a multi-service delivery platform <em>before launch</em>", meta: "Operations Manager · June 2026 – Present · Remote",
+            live: `<div class="label" style="margin-bottom:18px">7-stage delivery flow · field-tested end to end</div><div class="stages">${["Vendor", "Order", "Dispatch", "Rider", "Pickup", "Delivery", "Customer"].map((s, i) => `<div class="stg"><div class="s">0${i + 1}</div><h4>${s}</h4><div class="hit"><div style="padding:14px 12px"><div class="s" style="color:var(--accent-ink)">0${i + 1}</div><h4>${s}</h4></div></div></div>`).join("")}</div>` },
+          { co: "Levvy Box", h: "Campaign operations &amp; <em>fleet management</em>", meta: "Operations Lead · February 2026 – Present · Remote",
+            live: `<div class="fleet">${"<i></i>".repeat(100)}</div><div class="crow"><span class="chip"><b id="fleet-n" class="odo-sm" style="font-weight:600">0</b>&nbsp;vehicles</span><span class="chip">100+ drivers</span><span class="chip">Up to 32 placements per campaign</span></div>` },
+          { co: "Try Bundler", h: "Scaling &amp; improving <em>e-commerce operations</em>", meta: "Operations Lead · December 2022 – January 2026 · Remote",
+            live: `<div class="flow">${["Stripe", "Notion", "Asana"].map((n, i) => (i ? `<div class="link"><svg class="ic" viewBox="0 0 110 30"><path d="M6 15h92"/><path d="M88 6l10 9-10 9"/></svg></div>` : "") + `<div class="node">${n}</div>`).join("")}</div><div class="crow"><span class="chip">40% less admin</span><span class="chip">Platform launch</span><span class="chip">6,000+ users</span></div>` },
+          { co: "Wholeeats Africa", h: "Customer operations &amp; <em>CRM management</em>", meta: "August 2021 – April 2022 · Remote",
+            live: `<div class="mini"><svg viewBox="0 0 1080 150" preserveAspectRatio="none"><path d="M0 149H1080" stroke="#E6E2D8" stroke-width="2" fill="none"/><path class="wl" d="M0 120 C200 118 330 110 470 96 S760 52 1080 30" stroke="#8A4A66" stroke-width="6" fill="none" stroke-linecap="round"/></svg></div><div class="crow"><span class="chip" style="border-color:var(--accent);color:var(--accent-ink)">+20% engagement</span><span class="chip">CRM</span><span class="chip">Support tickets</span></div>` },
+        ];
+        const stage = $("#c-stage");
+        const cards = CASES.map((c, i) => {
+          const d = document.createElement("div"); d.className = "case card"; d.setAttribute("data-layout-allow-overlap", "");
+          d.innerHTML = `<div class="top"><div class="co"><b>0${i + 1}</b>${c.co}</div><div class="go">${arrow}</div></div><h3>${c.h}</h3><div class="meta">${c.meta}</div><div class="live">${c.live}</div><div class="shade"></div>`;
+          stage.append(d);
+          return { el: d, shade: $(".shade", d), go: $(".go", d), hits: $$(".hit", d), fleet: $$(".fleet i", d), flowLinks: $$(".link path", d).map((p) => { const L = 110; p.style.strokeDasharray = `${L} ${L}`; return { p, L }; }), nodes: $$(".node", d), wl: $$(".wl", d).map((p) => { const L = p.getTotalLength(); p.style.strokeDasharray = `${L} ${L}`; return { p, L }; }), chips: $$(".crow .chip", d) };
+        });
+        const fleetN = $("#fleet-n");
+
+        // marquee — her skills (from the site footer), ✦ as SVG
+        const SK = ["Operations Management", "Process Improvement", "Workflow Design", "Project Coordination", "SOP Development", "Operational Documentation", "Customer Operations", "CRM Management", "Vendor Operations", "Business Analysis"];
+        $("#marq-run").innerHTML = [...SK, ...SK].map((s) => `<span>${s}</span><svg viewBox="0 0 48 48"><use href="#i-star"/></svg>`).join("");
+
+        // ── element handles ────────────────────────────────────
+        const opsWorld = $("#ops-world");
+        const wOps = $("#w-ops > span"), wDown = $$("#w-down .mask > span"), wSome = $("#w-some > span"), wRep = $("#w-rep > span");
+        const track = $("#track"), blurG = $("#mblur-g");
+        const nFirst = $("#n-first > span"), nLast = $("#n-last > span"), sticker = $("#sticker"), stkBox = $("#sticker .box");
+        const nRule = $("#n-bar .rule"), nRole = $("#n-bar .role"), nOpen = $("#n-bar .open");
+        const chrome = $("#chrome"), clockEl = $("#clock");
+        const tog = { on: $("#s40 .tog .on"), knob: $("#s40 .tog .knob"), row: $("#s40 .row") };
+        const fills = $$("#s40 .fill");
+        const ringN = $("#ring-n"), clkH = $("#clk-h");
+        const retArea = $("#ret-area"), retDot = $("#ret-dot"), retTip = $("#ret-tip");
+        const sla = $("#s6000 .sla");
+        const statObjs = $$(".stat .obj"), statNums = $$(".stat .num"), statCaps = $$(".stat .cap"), statIdx = $$(".stat .idx");
+        const stillCopy = $("#still-copy");
+        const cWorld = $("#c-world"), cCount = $("#c-count"), cLab = $("#c-lab");
+        const clWorld = $("#cl-world"), clLines = $$("#cl-copy .mask > span"), marq = $("#marq"), marqRun = $("#marq-run"), cta = $("#cta"), ctaHov = $("#cta .hov"), ctaGo = $("#cta .go");
+        const url = $("#url"), toastEl = $("#toast"), cursor = $("#cursor");
+        const liveDots = $$(".dotwrap b");
+
+        // slam helper: mask slide-up with a hard overshoot
+        const slam = (el, t, t0, d = 0.32) => { const u = seg(t, t0, d, "power4.out"); el.style.visibility = t < t0 ? "hidden" : ""; el.style.transform = `translateY(${(1 - u) * 105}%) skewY(${(1 - u) * 6}deg)`; };
+
+        // ── render(t): every frame is a pure function of time ──
+        function render(t) {
+          // live dot pulse everywhere (2.4 s period like the site)
+          liveDots.forEach((b) => { const ph = (t % 2.4) / 2.4; b.style.transform = `scale(${0.6 + 0.9 * ph})`; b.style.opacity = 0.7 * (1 - ph); });
+
+          // chrome colour: white over plum (dive end → name panel), ink elsewhere
+          const onPlum = (t >= 7.9 && t < 12.0 + 0.02) || false;
+          chrome.style.color = onPlum ? "#fff" : "var(--ink)";
+          const chromeHide = (t >= 7.55 && t < 8.15) ? 0 : 1; op(chrome, chromeHide);
+          // clock 14:39 → 14:40 at the cue (ones column 9→0 pushes the tens)
+          clock.set(39 + seg(t, C.clockRoll, 0.45, "power3.inOut"));
+
+          // ═══ scene 1: 0–8 ═══════════════════════════════════
+          if (t < 8.2) {
+            // camera: slow settle, then the dive into the plum "go" circle
+            let camS = lerp(1.1, 1, seg(t, 0, 3.6, "power2.out")), ox = 0, oy = 0;
+            const toastsDone = t >= C.merge;
+            // toasts
+            toasts.forEach((o, i) => {
+              const tin = C.toasts[i], u = seg(t, tin, 0.34, "back.out(1.7)"), a = seg(t, tin, 0.12, "power2.out");
+              const [sx, sy, sr] = SCATTER[i];
+              const slot = { x: 1130, y: 150 + i * 152 };
+              // slam shove at "Operations,"
+              const sh = t >= C.slamOps ? Math.exp(-(t - C.slamOps) * 9) * Math.sin((t - C.slamOps) * 60) * 14 : 0;
+              const push = seg(t, C.slamOps, 0.18) * (1 - seg(t, C.slamOps + 0.18, 0.6, "power2.inOut")) * 30;
+              const g = seg(t, C.drop1 + i * 0.06, 0.5, "back.out(1.2)");
+              let x = lerp(sx, slot.x, g) + sh + (sx < 900 ? -push : push), y = lerp(sy + 160 * (1 - u), slot.y, g), r = lerp(sr * (1 - 0.4 * u) + (1 - u) * 8, 0, g);
+              let s = lerp(1.32 - 0.17 * u, 1, g), rx = (1 - u) * 35 + (1 - g) * 6, ry = (1 - g) * -8;
+              // check bump
+              const cu = seg(t, C.checks[i], 0.28, "back.out(2.6)");
+              s *= 1 + 0.035 * Math.sin(Math.PI * clamp((t - C.checks[i]) / 0.28));
+              // merge into the pill
+              const m = seg(t, C.merge + (4 - i) * 0.035, 0.32, "power3.in");
+              y = lerp(y, 150 + 2 * 152, m); s *= lerp(1, 0.82, m);
+              tf(o.el, { x, y, r, s, rx, ry });
+              op(o.el, a * (1 - seg(t, C.merge + 0.22, 0.1, "power2.out")));
+              o.el.style.zIndex = 10 + i;
+              op(o.ok, clamp((t - C.checks[i]) / 0.08)); tf(o.ok, { s: lerp(0.4, 1, cu) });
+              draw(o.ck, seg(t, C.checks[i] + 0.04, 0.24, "power2.out"));
+              const dn = seg(t, C.checks[i] + 0.06, 0.25, "power3.out");
+              op(o.iss, 1 - dn); tf(o.iss, { y: -dn * 20 }); op(o.done, dn); tf(o.done, { y: (1 - dn) * 20 });
+            });
+            // copy column
+            slam(wOps, t, C.slamOps, 0.28);
+            const opsPunch = Math.sin(Math.PI * clamp((t - C.slamOps) / 0.25)) * 0.06;
+            wOps.parentNode.style.transform = `scale(${1 + opsPunch})`; wOps.parentNode.style.transformOrigin = "0 70%";
+            wDown.forEach((w, j) => slam(w, t, C.drop1 + j * 0.12, 0.3));
+            slam(wSome, t, C.repeatable, 0.3); slam(wRep, t, C.repeatable + 0.5, 0.3);
+            // pill appears out of the merged deck
+            const pu = seg(t, C.merge + 0.25, 0.3, "back.out(2.6)");
+            const pw = 700, ph = 132; // approx pill size
+            tf(pill, { x: 1130 + 90, y: 150 + 2 * 152 - 2, s: lerp(0.6, 1, pu) });
+            op(pill, clamp((t - C.merge - 0.25) / 0.06));
+            // dive: scale the world about the go-circle centre
+            const cx = 1130 + 90 + PILL_W - 18 - 49, cy = 150 + 2 * 152 - 2 + 66;
+            const dv = seg(t, C.dive, 0.5, "power3.in");
+            const ds = Math.pow(48, dv);
+            const S = camS * ds;
+            // keep the circle centre fixed on screen while it grows toward frame centre
+            const fx = lerp(cx, W / 2, dv * 0.6), fy = lerp(cy, H / 2, dv * 0.6);
+            opsWorld.style.transform = `translate(${fx - cx * S}px,${fy - cy * S}px) scale(${S})`;
+            if (dv <= 0) opsWorld.style.transform = `translate(${(1 - camS) * W / 2}px,${(1 - camS) * H / 2}px) scale(${camS})`;
+            pill.querySelector(".go svg").style.transform = `rotate(${-45 * seg(t, C.dive - 0.15, 0.3, "power2.inOut")}deg)`;
+          }
+
+          // ═══ track: 8–24 ════════════════════════════════════
+          if (t >= 7.9 && t < 24.1) {
+            // camera X: whip between panels; blur follows speed
+            const camX = (tt) => { let x = 0; C.whips.forEach((w) => (x += 1920 * ez("expo.inOut")(clamp((tt - (w - 0.24)) / 0.42)))); return x; };
+            const x = camX(t), v = (camX(t + 1 / 120) - camX(t - 1 / 120)) * 60;
+            const blur = Math.min(46, Math.abs(v) * 0.0055);
+            blurG.setAttribute("stdDeviation", `${blur.toFixed(2)} 0`);
+            track.style.filter = blur > 0.3 ? "url(#mblur)" : "none";
+            const pushIn = 1 + 0.03 * seg(t, 8, 4, "sine.inOut");
+            track.style.transform = `translate3d(${-x}px,0,0)`;
+
+            // name panel
+            const ln = (el, t0) => { const u = seg(t, t0, 0.55, "power4.out"); el.style.visibility = t < t0 ? "hidden" : ""; el.style.transform = `translateY(${(1 - u) * 108}%) rotate(${(1 - u) * 3}deg)`; };
+            ln(nFirst, C.nameIn + 0.05); ln(nLast, C.surname);
+            $("#p-name").style.transform = ""; nFirst.parentNode.style.transform = `scale(${pushIn})`; nFirst.parentNode.style.transformOrigin = "0 50%";
+            const su = seg(t, C.sticker, 0.45, "back.out(2.6)");
+            op(sticker, clamp((t - C.sticker) / 0.05));
+            tf(stkBox, { s: lerp(1.6, 1, su), r: lerp(-14, -3, su), y: (1 - su) * -40 });
+            draw(stk, seg(t, C.sticker + 0.2, 0.55, "power2.out"));
+            nRule.style.transform = `scaleX(${seg(t, 9.0, 0.7, "expo.out")})`;
+            [nRole, nOpen].forEach((el, j) => { const u = seg(t, 9.15 + j * 0.15, 0.5, "power3.out"); op(el, u); tf(el, { y: (1 - u) * 30 }); });
+
+            // stat panels: number, caption, object (with parallax during whips)
+            const R = C.rolls;
+            const statT = C.stat;
+            [o40, o10, o20, o6000].forEach((o, i) => o.set(Math.round(C.rollValue(Object.values(R)[i], t) * 1000) / 1000));
+            o10.sfx.style.opacity = seg(t, R.s10.t1 - 0.1, 0.2); tf(o10.sfx, { s: lerp(0.3, 1, seg(t, R.s10.t1 - 0.1, 0.35, "back.out(2.6)")) }); o10.sfx.style.display = "inline-block";
+            statObjs.forEach((ob, i) => {
+              const panelX = 1920 * (i + 1), rel = (x - panelX) / 1920; // −1 … 1 around this panel
+              const u = seg(t, statT[i] + 0.05, 0.55, "back.out(1.2)");
+              const float = Math.sin((t - statT[i]) * 2.2) * 6;
+              tf(ob, { x: -rel * 420, y: (1 - u) * 120 + float, rx: 6 + (1 - u) * 18, ry: -14 + rel * 24, s: lerp(0.9, 1, u) });
+              ob.style.transformOrigin = "50% 60%";
+              statNums[i].style.transform = `translate3d(${-rel * 160}px,0,0)`;
+              const cu = seg(t, statT[i] + 0.25, 0.45, "power3.out"); op(statCaps[i], cu); tf(statCaps[i], { x: -rel * 80, y: (1 - cu) * 40 });
+              op(statIdx[i], seg(t, statT[i], 0.3));
+            });
+            $$(".stat").forEach((p) => (p.style.perspective = "1800px"));
+            // 40%: toggle press + bar drop
+            const tp = clamp((t - C.toggle) / 0.12), tk = seg(t, C.toggle, 0.3, "back.out(1.7)");
+            tf(tog.knob, { x: 60 * tk, sx: 1 + 0.25 * Math.sin(Math.PI * tp) }); op(tog.on, tk);
+            tf(tog.row, { s: 1 - 0.03 * Math.sin(Math.PI * clamp((t - C.toggle + 0.05) / 0.2)) });
+            tf(fills[0], { sx: seg(t, 12.15, 0.5, "power3.out") });
+            const drop = seg(t, R.s40.t0, R.s40.t1 - R.s40.t0, "power3.out");
+            tf(fills[1], { sx: seg(t, 12.25, 0.4, "power3.out") * (1 - 0.4 * drop) });
+            // 10+: ring fills, clock hand spins
+            const rv = C.rollValue(R.s10, t); ringN.textContent = Math.floor(rv + 1e-6) + (rv >= 9.999 ? "+" : "");
+            ringF.style.strokeDashoffset = RL * (1 - rv / 10);
+            clkH.style.transformOrigin = "24px 24px"; clkH.style.transform = `rotate(${rv * 36}deg)`;
+            // 20%: line draws itself, tooltip pops
+            const lu = seg(t, 16.15, 1.15, "power2.inOut"); draw(retLine, lu);
+            retArea.style.clipPath = `inset(0 ${100 - lu * 100}% 0 0)`;
+            const tipU = seg(t, R.s20.t1 - 0.05, 0.4, "back.out(2.6)");
+            op(retTip, clamp((t - R.s20.t1 + 0.05) / 0.06)); tf(retTip, { x: 476, y: -30 + (1 - tipU) * 30, s: lerp(0.5, 1, tipU) });
+            const dp = seg(t, 16.15 + 1.1, 0.3, "back.out(2.6)"); retDot.style.transformOrigin = "656px 80px"; retDot.style.transform = `scale(${dp * (1 + 0.12 * Math.sin(t * 7))})`;
+            // 6,000+: dots fill with the counter
+            const uv = C.rollValue(R.s6000, t); const nOn = Math.round((uv / 6000) * 240);
+            dotOrder.forEach((d, i) => d.d.classList.toggle("on", i < nOn));
+            const sl = seg(t, R.s6000.t1, 0.4, "back.out(2.6)"); op(sla, clamp((t - R.s6000.t1) / 0.06)); tf(sla, { s: lerp(0.6, 1, sl), y: (1 - sl) * 30 }); draw(slaCk, seg(t, R.s6000.t1 + 0.12, 0.3, "power2.out"));
+            o6000.sfx.style.opacity = seg(t, R.s6000.t1 - 0.1, 0.2);
+
+            // approach panel: four slams, icons draw on
+            appRows.forEach((r, i) => {
+              const t0 = C.words[i];
+              const u = seg(t, t0, 0.34, "power4.out");
+              r.word.style.visibility = t < t0 ? "hidden" : ""; r.word.style.transform = `translateY(${(1 - u) * 105}%) skewY(${(1 - u) * 5}deg)`;
+              const iu = seg(t, t0 + 0.06, 0.4, "back.out(2.6)"); tf(r.icb, { s: lerp(0.3, 1, iu), r: (1 - iu) * -40 }); op(r.icb, clamp((t - t0) / 0.05));
+              draw(r.ic, seg(t, t0 + 0.12, 0.45, "power2.out"));
+              const du = seg(t, t0 + 0.2, 0.45, "power3.out"); op(r.ds, du); tf(r.ds, { y: (1 - du) * 24 });
+              // stack pressure: earlier rows nudge as each new word lands
+              let kick = 0; for (let j = i + 1; j < 4; j++) kick += Math.exp(-Math.max(0, t - C.words[j]) * 10) * (t >= C.words[j] ? 1 : 0) * 8;
+              r.line.style.transform = `translateY(${-kick}px)`;
+            });
+            // tape-stop: the whole frame sags as the music dies
+            const ts = seg(t, C.tapeStop, 0.25, "power2.in");
+            pa.style.transform = `translateY(${ts * 18}px) scale(${1 - ts * 0.015})`; pa.style.filter = ts > 0 ? `saturate(${1 - ts})` : "";
+          }
+
+          // ═══ stillness: 24–26 ═══════════════════════════════
+          if (t >= 24 && t < 26.1) {
+            const pre = seg(t, 25.2, 0.8, "power2.in");
+            stillCopy.style.transform = `scale(${1 + pre * 0.04})`; stillCopy.style.transformOrigin = "0 50%";
+          }
+
+          // ═══ cases: 26–32 ═══════════════════════════════════
+          if (t >= 25.9 && t < 32.2) {
+            const ci = C.cards.reduce((n, c, i) => (t >= c ? i : n), 0);
+            cOdo.set(1 + C.cards.reduce((acc, c, i) => acc + (i ? seg(t, c, 0.35, "power3.inOut") : 0), 0));
+            const cu = seg(t, 26, 0.4, "power3.out"); op(cCount, cu); tf(cCount, { y: (1 - cu) * 60 }); op(cLab, seg(t, 26.2, 0.4)); tf(cLab, { y: (1 - seg(t, 26.2, 0.4)) * 30 });
+            cards.forEach((c, i) => {
+              const t0 = C.cards[i];
+              const u = seg(t, t0, 0.42, "back.out(1.2)");
+              const a = clamp((t - t0) / 0.06);
+              // how many cards landed on top of this one
+              let depth = 0; for (let j = i + 1; j < 4; j++) depth += seg(t, C.cards[j], 0.4, "power3.out");
+              const z = -depth * 160, y = (1 - u) * 760 - depth * 46, x = (1 - u) * 260 - depth * 18;
+              tf(c.el, { x, y, z, rx: (1 - u) * -32 + 5, ry: -9 + (1 - u) * -16, r: (1 - u) * 6 + depth * -1.2 });
+              op(c.el, a); c.el.style.zIndex = 10 + i;
+              op(c.shade, clamp(depth * 0.55, 0, 0.75));
+              [...c.el.children].forEach((ch) => { if (ch !== c.shade) ch.style.visibility = depth > 0.98 ? "hidden" : ""; });
+              tf(c.go, { r: -45 * seg(t, t0 + 0.5, 0.3, "back.out(2.6)") });
+              // live objects
+              c.hits.forEach((h, k) => { const hu = seg(t, t0 + 0.25 + k * 0.13, 0.22, "back.out(2.6)"); op(h, hu); tf(h, { s: lerp(0.85, 1, hu) }); });
+              c.fleet.forEach((f, k) => f.classList.toggle("on", k < Math.round(C.rollValue(C.rolls.fleet, t))));
+              c.flowLinks.forEach((l, k) => draw([l], seg(t, t0 + 0.3 + k * 0.25, 0.25, "power2.out")));
+              c.nodes.forEach((n, k) => { const nu = seg(t, t0 + 0.2 + k * 0.25, 0.3, "back.out(2.6)"); tf(n, { s: lerp(0.7, 1, nu) }); op(n, clamp(nu * 3)); });
+              c.wl.forEach((l) => draw([l], seg(t, t0 + 0.2, 0.9, "power2.inOut")));
+              c.chips.forEach((ch, k) => { const hu = seg(t, t0 + 0.45 + k * 0.1, 0.3, "back.out(2.6)"); op(ch, clamp(hu * 3)); tf(ch, { y: (1 - hu) * 24 }); });
+            });
+            if (fleetN) fleetN.textContent = Math.round(C.rollValue(C.rolls.fleet, t));
+            // exit: the deck flies up and away, swish lands at 32
+            const ex = seg(t, C.closeIn - 0.3, 0.32, "power3.in");
+            cWorld.style.transform = `translateY(${-ex * 1250}px)`;
+            cWorld.style.filter = ex > 0.05 ? `blur(${ex * 8}px)` : "";
+          }
+
+          // ═══ close: 32–38 ═══════════════════════════════════
+          if (t >= 31.9) {
+            const en = seg(t, C.closeIn - 0.05, 0.5, "power3.out");
+            clWorld.style.transform = `translateY(${(1 - en) * 300}px)`;
+            clLines.forEach((l, i) => { const u = seg(t, C.closeIn + 0.05 + i * 0.25, 0.5, "power4.out"); l.style.visibility = t < C.closeIn + 0.05 + i * 0.25 ? "hidden" : ""; l.style.transform = `translateY(${(1 - u) * 105}%) skewY(${(1 - u) * 5}deg)`; });
+            const mu = seg(t, C.closeIn + 0.3, 0.6, "expo.out");
+            marq.style.transform = `translateX(${(1 - mu) * 2200}px) rotate(-2.5deg)`;
+            marqRun.style.transform = `translateX(${-(t - 32) * 140}px)`;
+            const cu = seg(t, 32.9, 0.45, "back.out(1.7)"); op(cta, clamp((t - 32.9) / 0.06)); tf(cta, { s: lerp(0.7, 1, cu) * (1 - 0.06 * Math.sin(Math.PI * clamp((t - C.press + 0.08) / 0.2))) });
+            op(ctaHov, seg(t, C.press - 0.05, 0.15)); tf(ctaGo, { r: -45 * seg(t, C.press, 0.3, "back.out(2.6)") });
+            const uu = seg(t, 33.2, 0.5, "power3.out"); op(url, uu); tf(url, { y: (1 - uu) * 30 });
+            // cursor glides in, presses on the cue, leaves
+            const ca = seg(t, 33.25, 0.7, "power3.out"), cl = seg(t, 35.2, 0.6, "power2.in");
+            const cx = lerp(1300, 820, ca) + cl * 300, cy = lerp(1120, 930, ca) + cl * 260;
+            tf(cursor, { x: cx, y: cy, s: 1 - 0.15 * Math.sin(Math.PI * clamp((t - C.press + 0.06) / 0.18)) }); op(cursor, clamp((t - 33.25) / 0.1) * (1 - cl));
+            const tu = seg(t, C.toast, 0.45, "back.out(1.7)"); op(toastEl, clamp((t - C.toast) / 0.06)); tf(toastEl, { y: (1 - tu) * -60, s: lerp(0.8, 1, tu) });
+          }
+        }
+
+        // one paused timeline; a single proxy tween drives render(t)
+        const tl = gsap.timeline({ paused: true });
+        const proxy = { t: 0 };
+        tl.to(proxy, { t: C.duration, duration: C.duration, ease: "none", onUpdate: () => render(proxy.t) }, 0);
+        render(0);
+        window.__timelines["main"] = tl;
+      })();
+    </script>
+  </body>
+</html>
