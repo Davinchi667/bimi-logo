@@ -11,4 +11,4 @@ ffmpeg -v error -y -i "$IN" -i audio/score_master.wav \
   -metadata comment="mojisola-oshinubi.vercel.app" \
   -movflags +faststart "$OUT"
 ffprobe -v error -show_entries format_tags:stream=codec_name,width,height,r_frame_rate,duration -of compact "$OUT"
-ffmpeg -hide_banner -nostats -i "$OUT" -af ebur128=peak=true -f null - 2>&1 | awk '/I:|Peak:/'
+ffmpeg -hide_banner -nostats -i "$OUT" -af ebur128=peak=true -f null - 2>&1 | sed -n "/Summary/,\$p" | grep -E "I:|Peak:"
