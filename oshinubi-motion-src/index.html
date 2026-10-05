@@ -1,0 +1,485 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="fonts.css">
+<style>
+:root{--cream:#FDFAEC;--ink:#1A1815;--peri:#A9C3F8;--lime:#D6FF3D;--butter:#F2D77E;--coral:#FF8A80;--paper:#FFFDF4}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;background:var(--ink);overflow:hidden}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:var(--cream);font-family:Figtree,sans-serif;color:var(--ink)}
+.scene{position:absolute;inset:0;overflow:hidden;display:none}
+.abs{position:absolute}
+.serif{font-family:Fraunces,serif;font-weight:900;letter-spacing:-0.01em;font-variation-settings:"opsz" 40}
+.m{display:inline-block;overflow:hidden;vertical-align:top;padding:0 .03em .06em;margin:0 -.03em -.06em}
+.w{display:inline-block;will-change:transform}
+.pill{display:inline-flex;align-items:center;height:64px;padding:0 30px;border-radius:999px;font-weight:600;font-size:28px;white-space:nowrap}
+.ticker{position:absolute;left:0;width:100%;height:72px;overflow:hidden;display:flex;align-items:center;font-weight:600;font-size:28px;white-space:nowrap}
+.ticker .tt{display:inline-block;will-change:transform}
+/* odometer */
+.odo{display:inline-flex;line-height:1.12;height:1.12em;align-items:flex-start}
+.odo .col{display:inline-block;height:1.12em;overflow:hidden}
+.odo .col .in{display:block}
+.odo .col .in span{display:block;height:1.12em;line-height:1.12em}
+.odo .st{display:inline-block;line-height:1.12em}
+
+/* A: inbox */
+#inbox{left:340px;top:130px;width:1240px;height:820px;background:var(--paper);border:3px solid var(--ink);box-shadow:16px 16px 0 var(--ink)}
+#inbox .hd{height:96px;border-bottom:3px solid var(--ink);display:flex;align-items:center;justify-content:space-between;padding:0 36px}
+#inbox .rows{position:absolute;top:96px;left:0;right:0;bottom:0;overflow:hidden}
+.row{position:absolute;left:0;right:0;height:104px;border-bottom:2px solid var(--ink);display:flex;align-items:center;padding:0 36px;gap:26px;font-size:28px;background:var(--paper)}
+.row .dot{width:16px;height:16px;border-radius:50%;background:var(--coral);flex:none}
+.row .from{width:290px;font-weight:700;flex:none}
+.row .subj{flex:1;white-space:nowrap;overflow:hidden}
+.row .tm{font-size:22px;font-weight:600;opacity:.55}
+.flash{position:absolute;inset:0;background:var(--lime);pointer-events:none}
+.row > *:not(.flash){position:relative}
+
+/* C grid */
+.cell{position:absolute;width:960px;height:504px;background:var(--lime);border-right:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:70px 80px}
+.cell .num{font-size:220px;margin-top:-20px}
+.cell .lab{font-size:40px;font-weight:500;margin-top:34px;max-width:780px;line-height:1.25}
+.cell .idx{position:absolute;right:50px;top:44px;font-size:26px;font-weight:700}
+
+/* E nodes */
+.node{position:absolute;top:460px;width:360px;height:330px;background:var(--cream);border:3px solid var(--ink);padding:34px 32px;box-shadow:10px 10px 0 var(--ink)}
+.node .k{font-size:22px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.node .t{font-size:46px;line-height:1.04;margin-top:26px}
+</style></head>
+<body><div id="stage">
+
+<!-- ========== A: the noise ========== -->
+<div class="scene" id="A">
+  <div class="abs" id="inbox">
+    <div class="hd"><div class="serif" style="font-size:54px">Inbox</div>
+      <div style="display:flex;align-items:center;gap:16px;font-weight:600;font-size:26px">Unread <span class="pill" id="unread" style="height:52px;background:var(--coral);font-size:26px;padding:0 22px">1,284</span></div></div>
+    <div class="rows" id="rows"></div>
+  </div>
+  <div class="abs" id="slab" style="inset:0;background:var(--ink)">
+    <div class="abs" style="right:-46px;top:0;bottom:0;width:46px;background:var(--coral)"></div>
+    <div class="abs serif" id="slabTxt" style="left:140px;top:300px;font-size:168px;line-height:1.02;color:var(--cream)"></div>
+  </div>
+</div>
+
+<!-- ========== B: hero ========== -->
+<div class="scene" id="B">
+  <div class="abs" id="Bpanel" style="inset:0;background:var(--peri)">
+    <div class="abs" style="left:0;right:0;top:-34px;height:34px;background:var(--lime)"></div>
+    <div class="abs serif" id="hero" style="left:120px;top:120px;font-size:124px;line-height:1.04;width:1100px"></div>
+    <div class="abs" id="heroCap" style="left:124px;top:665px;font-size:36px;font-weight:500;line-height:1.4;width:960px">David Oshinubi. Email and retention strategist for DTC ecommerce brands.</div>
+    <div class="abs" style="left:120px;top:800px;display:flex;gap:26px">
+      <span class="pill" id="bp1" style="background:var(--ink);color:var(--cream)">Klaviyo email + SMS</span>
+      <span class="pill" id="bp2" style="border:3px solid var(--ink)">Taking on direct clients</span>
+    </div>
+    <div class="abs" id="Bright" style="left:1240px;top:0;width:680px;height:1080px;background:var(--ink);border-left:3px solid var(--ink)">
+      <svg id="ast" class="abs" style="left:110px;top:310px" width="460" height="460" viewBox="-100 -100 200 200"></svg>
+    </div>
+  </div>
+</div>
+
+<!-- ========== C: stats ========== -->
+<div class="scene" id="C">
+  <div class="ticker" id="tickC" style="top:0;background:var(--ink);color:var(--cream);z-index:3"><span class="tt"></span></div>
+  <div class="cell" id="c0" style="left:0;top:72px"><div class="idx">(01)</div><div class="num serif odo"></div><div class="lab">brands</div></div>
+  <div class="cell" id="c1" style="left:960px;top:72px;border-right:0"><div class="idx">(02)</div><div class="num serif odo"></div><div class="lab">accounts at once</div></div>
+  <div class="cell" id="c2" style="left:0;top:576px;border-bottom:0"><div class="idx">(03)</div><div class="num serif odo"></div><div class="lab">in Klaviyo</div></div>
+  <div class="cell" id="c3" style="left:960px;top:576px;border:0"><div class="idx">(04)</div><div class="num serif odo"></div><div class="lab">of store revenue from email on my longest accounts</div></div>
+</div>
+
+<!-- ========== D: results ========== -->
+<div class="scene" id="D">
+ <div class="abs" id="Dwrap" style="inset:0">
+  <!-- D1 -->
+  <div class="abs" id="D1" style="background:var(--ink);color:var(--cream)">
+    <span class="pill abs" id="d1pill" style="left:120px;top:110px;background:var(--lime);color:var(--ink)">Luxury women's fashion</span>
+    <div class="abs" id="d1lab" style="left:124px;top:250px;font-size:30px;font-weight:600;opacity:.6;letter-spacing:.06em;text-transform:uppercase">Email revenue, per month</div>
+    <div class="abs serif" id="d1num" style="left:110px;top:290px;font-size:300px;line-height:1.1;color:var(--lime)">$129K</div>
+    <div class="abs" id="d1s1" style="left:124px;top:660px;font-size:42px;font-weight:600">Up from $129K. In three months.</div>
+    <div class="abs" id="d1s2" style="left:124px;top:730px;font-size:34px;font-weight:500;opacity:.65">A 62-email reactivation system across 9 segments.</div>
+    <div class="abs" id="d1base" style="left:1160px;top:900px;width:640px;height:4px;background:var(--cream);transform-origin:left"></div>
+    <div class="abs" id="bar1" style="left:1220px;width:220px;bottom:180px;border:4px solid var(--cream);border-bottom:0;background:repeating-linear-gradient(-45deg,transparent 0 14px,rgba(253,250,236,.25) 14px 18px)"></div>
+    <div class="abs" id="bar2" style="left:1520px;width:220px;bottom:180px;background:var(--lime)"></div>
+    <div class="abs serif" id="bar1v" style="left:1220px;width:220px;text-align:center;font-size:52px">$129K</div>
+    <div class="abs serif" id="bar2v" style="left:1520px;width:220px;text-align:center;font-size:52px;color:var(--lime)">$129K</div>
+    <div class="abs" id="barl" style="left:1220px;top:930px;width:520px;display:flex;justify-content:space-between;font-size:26px;font-weight:600"><span style="width:220px;text-align:center">Before</span><span style="width:220px;text-align:center">3 months later</span></div>
+  </div>
+  <!-- D2 -->
+  <div class="abs" id="D2" style="background:var(--butter)">
+    <svg class="abs" style="left:250px;top:230px" width="620" height="620" viewBox="0 0 620 620">
+      <circle cx="310" cy="310" r="250" fill="none" stroke="rgba(26,24,21,.13)" stroke-width="76"/>
+      <circle id="arcA" cx="310" cy="310" r="250" fill="none" stroke="#1A1815" stroke-width="76" transform="rotate(-90 310 310)"/>
+      <circle id="arcB" cx="310" cy="310" r="250" fill="none" stroke="#FF8A80" stroke-width="76" transform="rotate(-90 310 310)"/>
+    </svg>
+    <div class="abs serif" id="d2num" style="left:250px;top:460px;width:620px;text-align:center;font-size:132px;line-height:1">30.0%</div>
+    <span class="pill abs" id="d2pill" style="left:1000px;top:260px;background:var(--ink);color:var(--cream)">Wellness supplements</span>
+    <div class="abs serif" id="d2h" style="left:1000px;top:360px;font-size:92px;line-height:1.02;width:900px"></div>
+    <div class="abs" id="d2s" style="left:1004px;top:600px;font-size:36px;font-weight:500;line-height:1.4;width:780px">30% to 42.6% in five months. Engaged-only segments. Education-first content.</div>
+    <div class="abs" id="d2edge" style="top:0;bottom:0;width:26px;background:var(--ink)"></div>
+  </div>
+  <!-- D3 -->
+  <div class="abs" id="D3" style="background:var(--coral)">
+    <div style="position:absolute;left:0;right:0;top:200px;text-align:center"><span class="pill" id="d3pill" style="background:var(--ink);color:var(--cream)">Hair wellness</span></div>
+    <div class="abs" id="d3was" style="left:0;right:0;top:310px;text-align:center;font-size:40px;font-weight:700"><span style="text-decoration:line-through;text-decoration-thickness:4px">3.49%</span> &nbsp;→</div>
+    <div class="abs" style="left:0;right:0;top:360px;height:340px;overflow:hidden">
+      <div class="abs serif" id="d3a" style="left:0;right:0;text-align:center;font-size:310px;line-height:340px">3.49%</div>
+      <div class="abs serif" id="d3b" style="left:0;right:0;text-align:center;font-size:310px;line-height:340px">16.25%</div>
+    </div>
+    <div class="abs" id="d3s" style="left:0;right:0;top:740px;text-align:center;font-size:42px;font-weight:600">of revenue from email, two months after inheriting the account.</div>
+  </div>
+  <!-- D4 -->
+  <div class="abs" id="D4">
+    <div id="strips"></div>
+    <div style="position:absolute;left:0;right:0;top:120px;text-align:center"><span class="pill" id="d4pill" style="background:var(--ink);color:var(--cream)">Allocation winery</span></div>
+    <div class="abs" id="envs" style="left:0;right:0;top:240px;display:flex;justify-content:center;gap:34px"></div>
+    <div class="abs serif" id="d4num" style="left:0;right:0;top:390px;text-align:center;font-size:270px;line-height:1">$0</div>
+    <div class="abs serif" id="stamp" style="left:1340px;top:270px;padding:10px 34px;border:9px solid var(--coral);color:var(--coral);font-size:92px;border-radius:14px;background:rgba(253,250,236,.85);white-space:nowrap">SOLD OUT</div>
+    <div class="abs" id="d4s" style="left:0;right:0;top:730px;text-align:center;font-size:46px;font-weight:600">A five-email launch. No discount.</div>
+  </div>
+ </div>
+</div>
+
+<!-- ========== E: how I work ========== -->
+<div class="scene" id="E">
+  <div class="abs" style="inset:0;background:var(--peri)"></div>
+  <div class="abs serif" id="eTitle" style="left:120px;top:120px;font-size:120px;line-height:1.04"></div>
+  <div class="abs" id="eSub" style="left:124px;top:268px;font-size:34px;font-weight:500">Every account. Every send.</div>
+  <div class="abs" id="eLine" style="left:300px;top:897px;width:1320px;height:6px;background:var(--ink);transform-origin:left"></div><div class="abs stem" style="left:297px;top:793px;width:6px;height:104px;background:var(--ink);transform-origin:top"></div><div class="abs stem" style="left:737px;top:793px;width:6px;height:104px;background:var(--ink);transform-origin:top"></div><div class="abs stem" style="left:1177px;top:793px;width:6px;height:104px;background:var(--ink);transform-origin:top"></div><div class="abs stem" style="left:1617px;top:793px;width:6px;height:104px;background:var(--ink);transform-origin:top"></div>
+  <div class="node" id="n0" style="left:120px"><div class="k">01 · Copy</div><div class="t serif">Written in your customers' words.</div></div>
+  <div class="node" id="n1" style="left:560px"><div class="k">02 · Segments</div><div class="t serif">Segments before sends.</div></div>
+  <div class="node" id="n2" style="left:1000px"><div class="k">03 · Testing</div><div class="t serif">Test the offer, not just the subject line.</div></div>
+  <div class="node" id="n3" style="left:1440px"><div class="k">04 · QA</div><div class="t serif">Nothing ships half-checked.</div>
+    <svg id="check" class="abs" style="right:26px;bottom:24px" width="72" height="72" viewBox="0 0 72 72"><circle cx="36" cy="36" r="34" fill="#1A1815"/><path id="checkP" d="M20 37 L31 48 L53 25" fill="none" stroke="#D6FF3D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+  </div>
+  <div class="abs" id="eDot" style="width:62px;height:62px;border-radius:50%;background:var(--lime);border:4px solid var(--ink);display:flex;align-items:center;justify-content:center;z-index:5">
+    <svg width="30" height="22" viewBox="0 0 30 22"><rect x="2" y="2" width="26" height="18" rx="2" fill="none" stroke="#1A1815" stroke-width="3"/><path d="M3 3 L15 12 L27 3" fill="none" stroke="#1A1815" stroke-width="3" stroke-linejoin="round"/></svg>
+  </div>
+</div>
+
+<!-- ========== F: end card ========== -->
+<div class="scene" id="F">
+  <div class="abs" id="Fink" style="inset:0;background:var(--ink)"></div>
+  <div class="abs" id="Fpanel" style="inset:0;background:var(--cream)">
+    <div class="abs" style="left:0;right:0;top:-34px;height:34px;background:var(--lime)"></div>
+    <div class="ticker" id="tickF1" style="top:0;background:var(--lime);color:var(--ink);border-bottom:3px solid var(--ink)"><span class="tt"></span></div>
+    <div class="ticker" id="tickF2" style="bottom:0;background:var(--ink);color:var(--cream)"><span class="tt"></span></div>
+    <div class="abs" id="fKick" style="left:0;right:0;top:200px;text-align:center;font-size:30px;font-weight:700;letter-spacing:.14em;text-transform:uppercase">Email and retention · DTC ecommerce</div>
+    <div class="abs" style="left:0;right:0;top:250px;display:flex;justify-content:center">
+      <div class="serif" id="logo" style="font-size:300px;line-height:1.08;position:relative"></div>
+    </div>
+    <svg id="fAst" class="abs" width="120" height="120" viewBox="-100 -100 200 200" style="left:1590px;top:262px"></svg>
+    <div class="abs" id="fLine" style="left:0;right:0;top:640px;text-align:center;font-size:44px;font-weight:500">If your email isn't pulling its weight, send me a note.</div>
+    <div class="abs" style="left:0;right:0;top:750px;display:flex;justify-content:center;gap:22px">
+      <span class="pill" id="fb1" style="height:88px;padding:0 48px;font-size:34px;font-weight:700;background:var(--ink);color:var(--cream);position:relative;overflow:visible">Book a call</span>
+      <span class="pill" id="fb2" style="height:88px;padding:0 48px;font-size:34px;border:3px solid var(--ink)">david@oshinubi.com</span>
+    </div>
+    <div class="abs" id="ripple" style="width:40px;height:40px;border-radius:50%;border:6px solid var(--lime)"></div>
+    <svg id="cursor" class="abs" width="54" height="68" viewBox="0 0 27 34"><path d="M2 2 L2 27 L8.5 21 L13 31.5 L17.5 29.5 L13 19.5 L22 19.5 Z" fill="#1A1815" stroke="#FDFAEC" stroke-width="2" stroke-linejoin="round"/></svg>
+  </div>
+</div>
+
+<div class="abs" id="grain" style="inset:-200px;pointer-events:none;opacity:.09;mix-blend-mode:multiply;z-index:99"></div>
+</div>
+
+<script>
+// ---------- helpers ----------
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const lerp=(a,b,t)=>a+(b-a)*t;
+const E={
+  lin:x=>x,
+  oCub:x=>1-Math.pow(1-x,3), iCub:x=>x*x*x,
+  ioCub:x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2,
+  oExp:x=>x>=1?1:1-Math.pow(2,-10*x), iExp:x=>x<=0?0:Math.pow(2,10*x-10),
+  ioExp:x=>x<=0?0:x>=1?1:x<.5?Math.pow(2,20*x-10)/2:(2-Math.pow(2,-20*x+10))/2,
+  oBack:x=>{const c1=1.9,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2)},
+  oQuint:x=>1-Math.pow(1-x,5),
+};
+const P=(t,a,b,e=E.lin)=>e(clamp((t-a)/(b-a)));
+// damped spring 0->1 over seconds since start
+const spring=(s,f=2.2,d=7)=>s<=0?0:1-Math.exp(-d*s)*Math.cos(2*Math.PI*f*s);
+const $=id=>document.getElementById(id);
+const st=(el,o)=>{for(const k in o) el.style[k]=o[k]};
+const show=(el,t,a,b)=>{const v=t>=a&&t<b;el.style.display=v?'block':'none';return v};
+
+// split lines into masked words. lines: array of arrays of [word, extraClass]
+function words(el,lines){
+  el.innerHTML='';const out=[];
+  lines.forEach(line=>{const d=document.createElement('div');
+    line.forEach((w,i)=>{const [txt,cls]=Array.isArray(w)?w:[w,''];
+      const m=document.createElement('span');m.className='m';
+      const s=document.createElement('span');s.className='w '+cls;s.innerHTML=txt;
+      m.appendChild(s);d.appendChild(m);out.push(s);
+      if(i<line.length-1)d.appendChild(document.createTextNode(' '));});
+    el.appendChild(d);});
+  return out;
+}
+function revealWords(ws,t,t0,stag=.055,dur=.6){
+  ws.forEach((w,i)=>{const q=P(t,t0+i*stag,t0+i*stag+dur,E.oExp);
+    w.style.transform=`translateY(${(1-q)*112}%) rotate(${(1-q)*6}deg)`;});
+}
+function odo(el,str){
+  el.innerHTML='';const cols=[];
+  for(const ch of str){
+    if(/\d/.test(ch)){const c=document.createElement('span');c.className='col';
+      const inn=document.createElement('span');inn.className='in';
+      inn.innerHTML=Array.from({length:30},(_,i)=>`<span>${i%10}</span>`).join('');
+      c.appendChild(inn);el.appendChild(c);cols.push({inn,target:+ch});}
+    else{const s=document.createElement('span');s.className='st';s.innerHTML=ch===' '?'&nbsp;':ch;el.appendChild(s);}
+  }
+  return cols;
+}
+function odoSet(cols,t,t0,dur=1.1){
+  cols.forEach((c,i)=>{const q=P(t,t0+i*.09,t0+i*.09+dur,E.oQuint);
+    const pos=lerp(c.target,20+c.target,q);c.inn.style.transform=`translateY(${-pos*1.12}em)`;});
+}
+function asterisk(svg,fill,stroke){
+  let s='';for(let i=0;i<6;i++){s+=`<rect x="-15" y="-92" width="30" height="92" rx="15" fill="${fill}" ${stroke?`stroke="${stroke}" stroke-width="6"`:''} transform="rotate(${i*60})"/>`}
+  s+=`<circle r="15" fill="${fill}"/>`;svg.innerHTML=s;
+}
+const TICK='Email and retention strategist for DTC ecommerce&nbsp;&nbsp;*&nbsp;&nbsp;Klaviyo, three years, 32+ brands&nbsp;&nbsp;*&nbsp;&nbsp;Working US hours&nbsp;&nbsp;*&nbsp;&nbsp;Taking on direct clients&nbsp;&nbsp;*&nbsp;&nbsp;';
+document.querySelectorAll('.ticker .tt').forEach(e=>e.innerHTML=TICK.repeat(4));
+
+// ---------- build ----------
+const INBOX=[
+ ['Generic Store Co.','LAST CHANCE: 20% off everything'],
+ ['Another Brand','Did you forget something? 20% off'],
+ ['Promo HQ','FINAL HOURS!!! 20% off'],
+ ['Your Fav Shop','We miss you. Here\'s 20% off'],
+ ['Generic Store Co.','Sale extended (again)'],
+ ['Discount Depot','20% off. Just because.'],
+ ['Another Brand','OPEN NOW: 20% off sitewide'],
+ ['Promo HQ','Don\'t miss out!!!'],
+ ['Your Fav Shop','🚨 20% OFF 🚨'],
+ ['Generic Store Co.','Last chance. For real this time.'],
+];
+const ARR=[0.08,0.36,0.6,0.8,0.96,1.08,1.18,1.26,1.32,1.37];
+const rowsEl=$('rows');
+const rows=INBOX.map(([f,s])=>{const r=document.createElement('div');r.className='row';
+  r.innerHTML=`<div class="flash"></div><span class="dot"></span><span class="from">${f}</span><span class="subj">${s}</span><span class="tm">now</span>`;
+  rowsEl.appendChild(r);return r;});
+const slabW=words($('slabTxt'),[['Most','brands',['blast','coral']],['the','whole','list.']]);
+document.querySelectorAll('.coral').forEach(e=>e.style.color='var(--coral)');
+
+const heroW=words($('hero'),[['I','make','email','the'],['channel','brands'],['stop',['<span class="hlb" style="position:absolute;left:-.04em;right:-.04em;top:.18em;bottom:.02em;background:var(--lime);z-index:-1;transform-origin:left"></span>worrying','hl']],['about.']]);
+const hl=document.querySelector('.hl');hl.style.position='relative';hl.style.zIndex=0;const hlb=document.querySelector('.hlb');
+asterisk($('ast'),'#D6FF3D');
+
+const stats=['32+','14','3 years','40%+'];
+const odos=stats.map((s,i)=>odo(document.querySelector(`#c${i} .num`),s));
+
+const d2hW=words($('d2h'),[['of','store','revenue'],['from','email.']]);
+const envs=$('envs');
+for(let i=0;i<5;i++){const e=document.createElement('div');e.style.cssText='width:120px;height:86px;position:relative';
+  e.innerHTML=`<svg width="120" height="86" viewBox="0 0 120 86"><rect x="3" y="3" width="114" height="80" rx="6" fill="#FFFDF4" stroke="#1A1815" stroke-width="5"/><path d="M6 8 L60 48 L114 8" fill="${i==4?'#D6FF3D':'none'}" stroke="#1A1815" stroke-width="5" stroke-linejoin="round"/></svg><div style="position:absolute;right:-10px;top:-14px;width:36px;height:36px;border-radius:50%;background:#1A1815;color:#FDFAEC;font:700 20px Figtree;display:flex;align-items:center;justify-content:center">${i+1}</div>`;
+  envs.appendChild(e);}
+const strips=$('strips');for(let i=0;i<6;i++){const s=document.createElement('div');s.className='abs';s.style.cssText=`left:${i*320}px;top:0;width:321px;height:1080px;background:var(--cream);transform-origin:top`;strips.appendChild(s);}
+
+const eTitleW=words($('eTitle'),[['How','I','work.']]);
+const logoEl=$('logo');const logoL=[...'Oshinubi'].map(ch=>{const m=document.createElement('span');m.className='m';const s=document.createElement('span');s.className='w';s.textContent=ch;m.appendChild(s);logoEl.appendChild(m);return s;});
+asterisk($('fAst'),'#D6FF3D','#1A1815');
+
+// grain
+(()=>{const svg=`<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1.4 -.2'/></filter><rect width='300' height='300' filter='url(%23n)'/></svg>`;
+  $('grain').style.backgroundImage=`url("data:image/svg+xml,${svg.replace(/"/g,"'").replace(/#/g,'%23').replace(/</g,'%3C').replace(/>/g,'%3E')}")`;})();
+
+const fmtK=v=>'$'+Math.round(v)+'K';
+const fmt=v=>v.toLocaleString('en-US');
+
+// ---------- scenes ----------
+function sA(t){
+  if(!show($('A'),t,0,2.75))return;
+  // inbox push-in + shake
+  const amp=P(t,0.95,1.4)*9;
+  const sx=Math.sin(t*83)*amp, sy=Math.cos(t*67)*amp*.6;
+  const sc=lerp(0.94,1.05,P(t,0,1.45,E.ioCub));
+  const enter=P(t,0,0.45,E.oExp);
+  $('inbox').style.transform=`translate(${sx}px,${sy+(1-enter)*120}px) scale(${sc}) rotate(${lerp(-2,0,enter)+Math.sin(t*51)*amp*.06}deg)`;
+  $('inbox').style.opacity=enter;
+  let n=0;
+  rows.forEach((r,i)=>{
+    let y=0;for(let j=i+1;j<ARR.length;j++)y+=P(t,ARR[j],ARR[j]+.22,E.oExp)*104;
+    const own=P(t,ARR[i],ARR[i]+.22,E.oExp);
+    if(t>=ARR[i])n++;
+    r.style.transform=`translateY(${y-(1-own)*104}px)`;
+    r.style.display=t>=ARR[i]?'flex':'none';
+    r.querySelector('.flash').style.opacity=1-P(t,ARR[i]+.05,ARR[i]+.45);
+  });
+  const extra=Math.floor(Math.pow(P(t,1.0,1.5),2)*3400);
+  $('unread').textContent=fmt(1284+n+extra);
+  // slab
+  const q=P(t,1.38,1.72,E.ioExp);
+  $('slab').style.transform=`translateX(${(q-1)*104}%)`;
+  revealWords(slabW,t,1.55,.06,.55);
+  $('slabTxt').style.transform=`scale(${lerp(1,1.04,P(t,1.6,2.75))})`;
+}
+function sB(t){
+  if(!show($('B'),t,2.3,5.95))return;
+  const q=P(t,2.3,2.68,E.ioExp);
+  $('Bpanel').style.transform=`translateY(${(1-q)*(1080+40)}px)`;
+  const r=P(t,2.62,3.05,E.oExp);
+  $('Bright').style.transform=`translateX(${(1-r)*700}px)`;
+  const s=spring(t-2.85,1.4,6);
+  $('ast').style.transform=`scale(${s}) rotate(${(t-2.85)*55+ (1-P(t,2.85,3.6,E.oCub))*-120}deg)`;
+  revealWords(heroW,t,2.72,.07,.65);
+  hlb.style.transform=`scaleX(${P(t,3.62,3.92,E.ioExp)})`;
+  const c=P(t,3.95,4.45,E.oExp);
+  st($('heroCap'),{opacity:c,transform:`translateY(${(1-c)*30}px)`});
+  [['bp1',4.25],['bp2',4.35]].forEach(([id,a])=>{const k=P(t,a,a+.45,E.oBack);$(id).style.transform=`scale(${k})`;});
+  // drift
+  $('hero').style.transform=`translateY(${-P(t,2.7,5.9)*14}px)`;
+}
+function sC(t){
+  if(!show($('C'),t,5.2,9.0))return;
+  const tk=P(t,5.25,5.6,E.oExp);
+  $('tickC').style.transform=`translateY(${(tk-1)*72}px)`;
+  $('tickC').querySelector('.tt').style.transform=`translateX(${-(t*170)%TW}px)`;
+  for(let i=0;i<4;i++){
+    const a=5.25+i*.09, q=P(t,a,a+.5,E.ioExp);
+    const c=$('c'+i);c.style.clipPath=`inset(${(1-q)*100}% 0 0 0)`;
+    odoSet(odos[i],t,a+.2,1.15);
+    const l=P(t,a+.45,a+.9,E.oExp);
+    st(c.querySelector('.lab'),{opacity:l,transform:`translateY(${(1-l)*24}px)`});
+    // subtle push as next scene grows
+    const out=P(t,8.42,8.9,E.ioExp);
+    c.style.transform=i==3?'':`scale(${1-out*.06})`;
+    if(i==3){const x=P(t,8.28,8.5,E.iCub);[...c.children].forEach(ch=>{ch.style.transform=`translateY(${-x*60}px)`;ch.style.opacity=1-x;});}
+  }
+}
+function sD(t){
+  if(!show($('D'),t,8.5,14.7))return;
+  // push-out for E
+  const push=P(t,14.2,14.62,E.ioExp);
+  $('Dwrap').style.transform=`translateY(${-push*1080}px)`;
+  // D1 bg grows from cell 4
+  const g=P(t,8.5,8.95,E.ioExp);
+  st($('D1'),{left:lerp(960,0,g)+'px',top:lerp(576,0,g)+'px',width:lerp(960,1920,g)+'px',height:lerp(504,1080,g)+'px',display:t<11.2?'block':'none',overflow:'hidden'});
+  $('D1').style.background=`color-mix(in srgb, var(--lime) ${(1-P(t,8.58,8.88,E.ioCub))*100}%, var(--ink))`;
+  if(t<11.2){
+    const pk=clamp(spring(t-8.85,1.6,7),0,1.3);$('d1pill').style.transform=`scale(${pk})`;
+    const l=P(t,8.95,9.35,E.oExp);st($('d1lab'),{opacity:.6*l,transform:`translateX(${(1-l)*-40}px)`});
+    const cq=P(t,9.0,10.05,E.ioCub);
+    $('d1num').textContent=fmtK(lerp(129,358,cq));
+    const ni=P(t,8.9,9.3,E.oExp);st($('d1num'),{opacity:ni,transform:`translateY(${(1-ni)*60}px)`});
+    [['d1s1',9.35],['d1s2',9.5]].forEach(([id,a])=>{const k=P(t,a,a+.45,E.oExp);st($(id),{opacity:(id=='d1s2'?.65:1)*k,transform:`translateY(${(1-k)*26}px)`});});
+    $('d1base').style.transform=`scaleX(${P(t,8.85,9.25,E.ioExp)})`;
+    const h1=216*P(t,9.0,9.4,E.oExp), h2=lerp(0,216,P(t,9.0,9.4,E.oExp))+ (600-216)*cq;
+    $('bar1').style.height=h1+'px';$('bar2').style.height=h2+'px';
+    st($('bar1v'),{top:(900-h1-72)+'px',opacity:P(t,9.1,9.3)});
+    st($('bar2v'),{top:(900-h2-72)+'px',opacity:P(t,9.1,9.3)});
+    $('bar2v').textContent=fmtK(lerp(129,358,cq));
+    $('barl').style.opacity=P(t,9.1,9.4);
+    // slow push
+    $('D1').style.transform=`scale(${1+P(t,9,11)*.02})`;
+  }
+  // D2
+  const v2=show($('D2'),t,10.72,12.4);
+  if(v2){
+    st($('D2'),{inset:'0'});
+    const q=P(t,10.72,11.08,E.ioExp);
+    $('D2').style.clipPath=`inset(0 0 0 ${(1-q)*100}%)`;
+    $('d2edge').style.left=((1-q)*1920-2)+'px';$('d2edge').style.opacity=q<1?1:0;
+    const C=2*Math.PI*250;
+    const a=P(t,10.95,11.3,E.oCub)*.30, b=P(t,11.3,11.8,E.ioCub)*.126;
+    $('arcA').setAttribute('stroke-dasharray',`${C*a} ${C}`);
+    $('arcB').setAttribute('stroke-dasharray',`${C*b} ${C}`);
+    $('arcB').setAttribute('transform',`rotate(${-90+360*a} 310 310)`);
+    $('d2num').textContent=(lerp(0,30,P(t,10.95,11.3,E.oCub))+lerp(0,12.6,P(t,11.3,11.8,E.ioCub))).toFixed(1)+'%';
+    const pk=clamp(spring(t-11.0,1.6,7),0,1.3);$('d2pill').style.transform=`scale(${pk})`;
+    revealWords(d2hW,t,11.05,.05,.5);
+    const s=P(t,11.35,11.75,E.oExp);st($('d2s'),{opacity:s,transform:`translateY(${(1-s)*24}px)`});
+  }
+  // D3
+  if(show($('D3'),t,11.95,13.4)){
+    st($('D3'),{inset:'0'});
+    const q=P(t,11.95,12.32,E.ioExp);
+    $('D3').style.clipPath=`circle(${q*75}% at 50% 52%)`;
+    const pk=clamp(spring(t-12.15,1.6,7),0,1.3);$('d3pill').style.transform=`scale(${pk})`;
+    const sw=P(t,12.38,12.62,E.ioExp);
+    const ain=P(t,12.08,12.36,E.oExp);
+    $('d3a').style.transform=`translateY(${(1-ain)*100 - sw*100}%)`;
+    $('d3b').style.transform=`translateY(${(1-sw)*100}%) scale(${1+(1-P(t,12.5,12.9,E.oBack))*-.0})`;
+    const w=P(t,12.6,12.85,E.oExp);st($('d3was'),{opacity:w,transform:`translateY(${(1-w)*20}px)`});
+    const s=P(t,12.62,12.95,E.oExp);st($('d3s'),{opacity:s,transform:`translateY(${(1-s)*24}px)`});
+  }
+  // D4
+  if(show($('D4'),t,12.95,14.7)){
+    st($('D4'),{inset:'0'});
+    [...strips.children].forEach((s,i)=>{s.style.transform=`scaleY(${P(t,12.95+i*.035,13.27+i*.035,E.ioExp)})`;});
+    const pk=clamp(spring(t-13.12,1.6,7),0,1.3);$('d4pill').style.transform=`scale(${pk})`;
+    [...envs.children].forEach((e,i)=>{const a=13.18+i*.065;const k=spring(t-a,1.8,8);
+      e.style.transform=`translateY(${(1-clamp(k,0,1.2))*-60}px) scale(${clamp(k,0,1.3)}) rotate(${(1-clamp(k,0,1))*-25}deg)`;e.style.opacity=t>a?1:0;});
+    const nq=P(t,13.4,13.92,E.oCub);
+    $('d4num').textContent='$'+fmt(Math.round(61951*nq));
+    st($('d4num'),{opacity:P(t,13.38,13.5)});
+    const sk=P(t,13.9,14.04,E.iCub);
+    const stp=$('stamp');st(stp,{opacity:t>13.9?1:0,transform:`rotate(-10deg) scale(${lerp(2.6,1,sk)})`});
+    const sh=t>14.04?(1-P(t,14.04,14.25))*10:0;
+    $('D4').style.transform=`translate(${Math.sin(t*120)*sh}px,${Math.cos(t*97)*sh}px)`;
+    const s=P(t,14.0,14.3,E.oExp);st($('d4s'),{opacity:s,transform:`translateY(${(1-s)*24}px)`});
+  }
+}
+const NX=[300,740,1180,1620], NT=[14.82,15.32,15.82,16.32];
+function sE(t){
+  if(!show($('E'),t,14.2,17.4))return;
+  const push=P(t,14.2,14.62,E.ioExp);
+  $('E').style.transform=`translateY(${(1-push)*1080}px)`;
+  revealWords(eTitleW,t,14.45,.07,.6);
+  const s=P(t,14.7,15.1,E.oExp);st($('eSub'),{opacity:s,transform:`translateY(${(1-s)*20}px)`});
+  // dot position
+  let x;
+  if(t<NT[0]) x=lerp(120,NX[0],P(t,14.55,NT[0],E.oCub));
+  else{x=NX[3];for(let i=0;i<3;i++){if(t<NT[i+1]){x=lerp(NX[i],NX[i+1],P(t,NT[i]+.08,NT[i+1],E.ioCub));break;}}}
+  const dIn=P(t,14.5,14.7,E.oBack);
+  st($('eDot'),{left:(x-31)+'px',top:(900-31)+'px',transform:`scale(${dIn*(1+0.25*Math.max(0,...NT.map(a=>1-Math.abs(t-a)/0.12)))})`});
+  $('eLine').style.transform=`scaleX(${clamp((x-300)/1320)})`;
+  for(let i=0;i<4;i++){
+    const n=$('n'+i);const a=14.5+i*.07;const k=clamp(spring(t-a,1.5,7),0,1.2);
+    const act=P(t,NT[i]-.04,NT[i]+.12,E.oExp);
+    n.style.transform=`translate(${-act*8}px,${(1-k)*80-act*8}px) rotate(${(1-clamp(k,0,1))*4}deg)`;
+    n.style.opacity=clamp(k*1.5,0,1);
+    n.style.background=act>.5?'var(--lime)':'var(--cream)';
+    n.style.boxShadow=`${10+act*8}px ${10+act*8}px 0 var(--ink)`;
+  }
+  document.querySelectorAll('.stem').forEach((s,i)=>s.style.transform=`scaleY(${P(t,NT[i]-.1,NT[i]+.05,E.oExp)})`);
+  const ck=P(t,16.4,16.65,E.oCub);
+  $('check').style.transform=`scale(${clamp(spring(t-16.36,1.8,8),0,1.3)})`;
+  $('checkP').setAttribute('stroke-dasharray','60');$('checkP').setAttribute('stroke-dashoffset',60*(1-ck));
+}
+function sF(t){
+  if(!show($('F'),t,16.85,20.1))return;
+  const r=P(t,16.85,17.3,E.ioExp);
+  $('Fink').style.clipPath=`circle(${r*2300}px at 1734px 750px)`;
+  const q=P(t,17.22,17.58,E.ioExp);
+  $('Fpanel').style.transform=`translateY(${(1-q)*1120}px)`;
+  const tb=P(t,17.5,17.8,E.oExp);
+  $('tickF1').style.transform=`translateY(${(tb-1)*80}px)`;
+  $('tickF2').style.transform=`translateY(${(1-tb)*80}px)`;
+  $('tickF1').querySelector('.tt').style.transform=`translateX(${-(t*150)%TW}px)`;
+  $('tickF2').querySelector('.tt').style.transform=`translateX(${-TW+(t*150)%TW}px)`;
+  logoL.forEach((l,i)=>{const s=spring(t-(17.5+i*.045),1.5,6.5);l.style.transform=`translateY(${(1-s)*110}%)`;});
+  const ak=clamp(spring(t-17.95,1.3,6),0,1.3);
+  $('fAst').style.transform=`scale(${ak}) rotate(${(t-17.95)*90}deg)`;
+  const k=P(t,17.85,18.2,E.oExp);st($('fKick'),{opacity:k,transform:`translateY(${(1-k)*16}px)`,letterSpacing:lerp(.3,.14,k)+'em'});
+  const l=P(t,18.1,18.5,E.oExp);st($('fLine'),{opacity:l,transform:`translateY(${(1-l)*26}px)`});
+  const press=t>19.22&&t<19.5?1-Math.sin(P(t,19.22,19.5)*Math.PI)*.07:1;
+  [['fb1',18.42],['fb2',18.5]].forEach(([id,a])=>{const k=clamp(spring(t-a,1.6,7),0,1.3);$(id).style.transform=`scale(${k*(id=='fb1'?press:1)})`;});
+  const flash=P(t,19.24,19.3)*(1-P(t,19.55,19.9));
+  $('fb1').style.background=flash>0.01?`color-mix(in srgb, var(--lime) ${flash*100}%, var(--ink))`:'var(--ink)';
+  $('fb1').style.color=flash>.5?'var(--ink)':'var(--cream)';
+  // cursor: path from bottom-right to Book a call
+  const bx=820, by=794; // button center approx (computed at build)
+  const cq=P(t,18.65,19.2,E.ioCub);
+  const cx=lerp(1560,BC.x,cq)+Math.sin(cq*Math.PI)*-40, cy=lerp(1040,BC.y,cq)+Math.sin(cq*Math.PI)*-60;
+  const pr=t>19.22&&t<19.4?0.85:1;
+  st($('cursor'),{left:cx+'px',top:cy+'px',opacity:P(t,18.6,18.75),transform:`scale(${pr})`,transformOrigin:'0 0'});
+  const rp=P(t,19.24,19.85,E.oCub);
+  st($('ripple'),{left:(BC.x-20)+'px',top:(BC.y-20)+'px',transform:`scale(${rp*9})`,opacity:t>19.24?(1-rp):0,borderWidth:(6/(1+rp*6))+'px'});
+}
+let BC={x:820,y:794}, TW=1400;
+function measure(){const r=$('fb1').getBoundingClientRect();BC={x:r.left+r.width/2+20,y:r.top+r.height/2+8};}
+function seek(t){
+  sA(t);sB(t);sC(t);sD(t);sE(t);sF(t);
+  const f=Math.floor(t*60);
+  $('grain').style.backgroundPosition=`${(f*137)%300}px ${(f*71)%300}px`;
+}
+window.seek=seek;
+window.ready=Promise.all(['900 100px Fraunces','400 20px Figtree','500 20px Figtree','600 20px Figtree','700 20px Figtree'].map(f=>document.fonts.load(f))).then(()=>document.fonts.ready).then(()=>{ $('C').style.display='block'; odos.flat().forEach(c=>{const m=document.createElement('span');m.textContent=c.target;m.style.cssText='position:absolute;visibility:hidden';c.inn.parentNode.parentNode.appendChild(m);c.inn.parentNode.style.width=m.getBoundingClientRect().width+'px';m.remove();c.inn.style.textAlign='center';}); $('C').style.display='none'; $('F').style.display='block';$('fb1').style.transform='none';measure();TW=$('tickF1').querySelector('.tt').getBoundingClientRect().width/4;$('F').style.display='none';seek(0);return true;});
+</script>
+</body></html>
