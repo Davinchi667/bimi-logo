@@ -44,7 +44,7 @@
 
       /* ── odometer ──────────────────────────────────────────── */
       .odo { display: inline-flex; align-items: flex-start; white-space: nowrap; }
-      .odo .col { position: relative; display: block; height: 1em; overflow: hidden; width: .52em; }
+      .odo .col { position: relative; display: block; height: 1em; overflow: hidden; width: .52em; -webkit-mask-image: linear-gradient(transparent 0, #000 22%, #000 80%, transparent 100%); mask-image: linear-gradient(transparent 0, #000 22%, #000 80%, transparent 100%); }
       .odo .col span { position: absolute; left: 0; right: 0; top: 0; text-align: center; display: block; height: 1em; line-height: 1em; }
       .odo .sep { display: block; line-height: 1em; }
       .odo .sfx { display: block; line-height: 1em; }
@@ -135,10 +135,10 @@
       #p-approach .ds { position: absolute; left: 1250px; width: 580px; font: 500 38px/1.25 var(--sans); color: var(--muted); }
 
       /* ── stillness ─────────────────────────────────────────── */
-      #still-copy { position: absolute; left: 110px; top: 300px; }
+      #still-copy { position: absolute; left: 110px; top: 250px; }
       #still-copy .l { line-height: 1.1; }
-      #still-copy .l { font-size: 184px; }
-      #still-lab { position: absolute; left: 110px; top: 196px; display: flex; align-items: center; gap: 18px; }
+      #still-copy .l { font-size: 214px; }
+      #still-lab { position: absolute; left: 116px; top: 176px; display: flex; align-items: center; gap: 18px; }
 
       /* ── cases ─────────────────────────────────────────────── */
       #c-stage { position: absolute; inset: 0; perspective: 2200px; perspective-origin: 70% 40%; }
@@ -179,15 +179,15 @@
       #marq { position: absolute; left: -120px; width: 2160px; top: 676px; height: 104px; background: var(--band); color: #fff; overflow: hidden; transform-origin: 50% 50%; }
       #marq .run { position: absolute; left: 0; top: 0; height: 104px; display: flex; align-items: center; gap: 44px; white-space: nowrap; font: 400 54px/1 var(--serif); letter-spacing: -.015em; }
       #marq .run svg { width: 26px; height: 26px; fill: var(--pink); stroke: none; flex: none; }
-      #cta { position: absolute; left: 110px; top: 862px; height: 112px; display: flex; align-items: center; gap: 22px; padding: 0 22px 0 52px; border-radius: 999px; background: var(--ink); color: var(--paper); font: 500 42px/1 var(--sans); white-space: nowrap; }
-      #cta .go { width: 72px; height: 72px; border-radius: 50%; background: var(--paper); color: var(--ink); display: grid; place-items: center; }
+      #cta { position: absolute; left: 110px; top: 850px; height: 132px; display: flex; align-items: center; gap: 22px; padding: 0 24px 0 60px; border-radius: 999px; background: var(--ink); color: var(--paper); font: 500 50px/1 var(--sans); white-space: nowrap; }
+      #cta .go { width: 86px; height: 86px; border-radius: 50%; background: var(--paper); color: var(--ink); display: grid; place-items: center; }
       #cta .go svg { width: 30px; height: 30px; stroke-width: 2.4; }
       #cta .hov { position: absolute; inset: 0; border-radius: 999px; background: var(--accent-ink); }
       #cta .lab { position: relative; }
       #cta .go { position: relative; }
-      #url { position: absolute; right: 110px; top: 900px; text-align: right; }
-      #url .u { font: 600 40px/1 var(--sans); }
-      #url .e { margin-top: 14px; font: 500 28px/1 var(--sans); color: var(--muted); }
+      #url { position: absolute; right: 110px; top: 880px; text-align: right; }
+      #url .u { font: 600 46px/1 var(--sans); }
+      #url .e { margin-top: 16px; font: 500 32px/1 var(--sans); color: var(--muted); }
       #cursor { position: absolute; left: 0; top: 0; width: 64px; height: 64px; z-index: 5; }
       #cursor svg { width: 100%; height: 100%; fill: var(--ink); stroke: #fff; stroke-width: 2.4; stroke-linejoin: round; filter: drop-shadow(0 8px 10px rgba(0,0,0,.25)); }
       #toast { position: absolute; right: 110px; top: 200px; display: flex; align-items: center; gap: 18px; padding: 26px 34px; border-radius: 22px; background: var(--ink); color: var(--paper); font: 500 32px/1 var(--sans); box-shadow: var(--shadow); }
@@ -382,7 +382,7 @@
           let sfx = null; if (suffix) { sfx = document.createElement("span"); sfx.className = "sfx"; sfx.textContent = suffix; el.append(sfx); }
           return {
             sfx,
-            set(v) {
+            set(v, vel = 0) {
               for (const c of cols) {
                 if (c.sep) { const on = clamp((v - 900) / 100); c.sep.style.display = on > 0 ? "" : "none"; c.sep.style.opacity = on; continue; }
                 const p = Math.pow(10, c.k);
@@ -393,8 +393,9 @@
                 c.a.textContent = ((d % 10) + 10) % 10; c.b.textContent = (((d + 1) % 10) + 10) % 10;
                 const show = pad || c.k === 0 ? 1 : clamp((v - (p - 1)) / 1);
                 c.col.style.width = (0.52 * show) + "em"; c.col.style.opacity = show;
-                c.a.style.transform = `translateY(${-fr * 100}%)`; c.b.style.transform = `translateY(${(1 - fr) * 100}%)`;
-                c.b.style.visibility = fr > 0.001 ? "visible" : "hidden";
+                const st = 1 + Math.min(0.4, Math.abs(vel) / p * 0.03); // stretch with roll speed
+                c.a.style.transform = `translateY(${-fr * 100}%) scaleY(${st})`; c.b.style.transform = `translateY(${(1 - fr) * 100}%) scaleY(${st})`;
+                c.b.style.visibility = fr > 0.001 ? "" : "hidden";
               }
             },
           };
@@ -583,7 +584,7 @@
             // stat panels: number, caption, object (with parallax during whips)
             const R = C.rolls;
             const statT = C.stat;
-            [o40, o10, o20, o6000].forEach((o, i) => o.set(Math.round(C.rollValue(Object.values(R)[i], t) * 1000) / 1000));
+            [o40, o10, o20, o6000].forEach((o, i) => { const r = Object.values(R)[i]; o.set(C.rollValue(r, t), (C.rollValue(r, t + 1 / 120) - C.rollValue(r, t - 1 / 120)) * 60); });
             o10.sfx.style.opacity = seg(t, R.s10.t1 - 0.1, 0.2); tf(o10.sfx, { s: lerp(0.3, 1, seg(t, R.s10.t1 - 0.1, 0.35, "back.out(2.6)")) }); o10.sfx.style.display = "inline-block";
             statObjs.forEach((ob, i) => {
               const panelX = 1920 * (i + 1), rel = (x - panelX) / 1920; // −1 … 1 around this panel
