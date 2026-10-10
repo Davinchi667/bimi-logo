@@ -1,0 +1,45 @@
+01 Hero                                  y=0      text=7   words=31   img=3
+  Headline                                 y=0      text=2   words=7    img=0
+  Cake stand                               y=0      text=0   words=0    img=1
+  Hanging tag                              y=0      text=2   words=2    img=0
+  CTA SHOP DREAMWEAVER S1                  y=0      text=1   words=2    img=0
+  Doily edge                               y=0      text=0   words=0    img=0
+02 Recipe card                           y=640    text=16  words=126  img=2
+  Recipe card                              y=680    text=15  words=122  img=1
+    M1 Fizz band                             y=680    text=0   words=0    img=1
+    Margin notes                             y=680    text=4   words=33   img=0
+      Stars Dr W                               y=680    text=0   words=0    img=0
+      Stars Gypsy831                           y=680    text=0   words=0    img=0
+    Low stock corner tag                     y=674    text=1   words=7    img=0
+  CTA SHOP DREAMWEAVER · $12 S2            y=640    text=1   words=4    img=0
+03 Story                                 y=1426   text=5   words=65   img=1
+T Ticker                                 y=1800   text=3   words=13   img=0
+  M2 Ticker band                           y=1800   text=3   words=13   img=0
+04 Pastry case                           y=1840   text=15  words=83   img=5
+  Glass case                               y=1840   text=12  words=73   img=4
+    Shelf item Sweet Orange & Sun            y=1840   text=3   words=20   img=1
+      Price tent $28                           y=1840   text=1   words=1    img=0
+    Shelf item Eucalyptus & Mint             y=1840   text=3   words=16   img=1
+      Price tent $10                           y=1840   text=1   words=1    img=0
+    Shelf item Forever Young Ther            y=1840   text=3   words=21   img=1
+      Price tent $24                           y=1840   text=1   words=1    img=0
+    Shelf item Ghost Boxed Bath B            y=1840   text=3   words=16   img=1
+      Price tent $12                           y=1840   text=1   words=1    img=0
+  Chalk sign                               y=1870   text=1   words=3    img=0
+  CTA SHOP THE BATH S4                     y=1840   text=1   words=3    img=0
+05 Order spike                           y=2658   text=17  words=103  img=1
+  Spike                                    y=2658   text=0   words=0    img=0
+  Tickets                                  y=2658   text=16  words=98   img=0
+    Ticket No. 01                            y=2754   text=4   words=24   img=0
+      Stars No. 01                             y=2754   text=0   words=0    img=0
+    Ticket No. 02                            y=2940   text=4   words=21   img=0
+      Stars No. 02                             y=2940   text=0   words=0    img=0
+    Ticket No. 03                            y=3130   text=4   words=23   img=0
+      Stars No. 03                             y=3130   text=0   words=0    img=0
+    Ticket No. 04                            y=3320   text=4   words=30   img=0
+      Stars No. 04                             y=3320   text=0   words=0    img=0
+06 Close                                 y=3570   text=7   words=44   img=2
+  Free shipping meter                      y=3570   text=2   words=5    img=0
+  CTA SHOP DREAMWEAVER S6                  y=3570   text=1   words=2    img=0
+  Footer                                   y=3570   text=3   words=28   img=1
+44 groups, 70 text elements, 14 images

@@ -177,10 +177,10 @@ class FontRegistry:
         self.fonts[(family, weight, style)] = f
         return f
 
-    def substitute(self, brand_font: str, google_family: str, weights=(400, 700)) -> list[Font]:
+    def substitute(self, brand_font: str, google_family: str, weights=(400, 700), italics=False) -> list[Font]:
         """Record that `brand_font` is proprietary and we render with `google_family`."""
         self.substitutes[brand_font] = google_family
-        return self.google(google_family, weights)
+        return self.google(google_family, weights, italics=italics)
 
     # ---- lookup ---------------------------------------------------------
     def get(self, family: str, weight: int = 400, style: str = "normal") -> Font:

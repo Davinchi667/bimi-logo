@@ -1,0 +1,34 @@
+01 Hero                                  y=0      text=7   words=43   img=3
+  Headline                                 y=0      text=2   words=4    img=0
+  Stars hero                               y=0      text=0   words=0    img=0
+  CTA SHOP RETINOL REFORM S1               y=0      text=1   words=3    img=0
+02 Note from Shani                       y=620    text=2   words=39   img=2
+03 Home-care card                        y=926    text=26  words=125  img=2
+  Home-care card                           y=926    text=25  words=121  img=0
+    M1 Night grid band                       y=926    text=15  words=23   img=0
+    Margin note Libby K                      y=1516   text=2   words=18   img=0
+      Stars Libby                              y=1516   text=0   words=0    img=0
+    CTA START WITH THE TRAVEL SIZE, $30 S3   y=926    text=1   words=6    img=0
+  Clipped travel bottle                    y=960    text=0   words=0    img=1
+04 Study row                             y=1764   text=10  words=60   img=1
+  M2 Count-up band                         y=1764   text=8   words=15   img=0
+05 Clients                               y=2094   text=20  words=148  img=1
+  Favorite features rail                   y=2094   text=8   words=19   img=0
+  Torn notes                               y=2094   text=12  words=129  img=0
+    Note Natty                               y=2094   text=3   words=28   img=0
+      Stars Natty                              y=2094   text=0   words=0    img=0
+    Note alyssa f.                           y=2094   text=3   words=21   img=0
+      Stars alyssa f                           y=2094   text=0   words=0    img=0
+    Note Kelly B.                            y=2094   text=3   words=38   img=0
+      Stars Kelly B.                           y=2094   text=0   words=0    img=0
+    Note Kathy M.                            y=2094   text=3   words=42   img=0
+      Stars Kathy M.                           y=2094   text=0   words=0    img=0
+06 Routine                               y=2935   text=12  words=59   img=3
+  Shelf                                    y=2935   text=1   words=5    img=2
+  Size toggle                              y=2935   text=4   words=10   img=0
+  Perks                                    y=2935   text=3   words=21   img=0
+  CTA SHOP RETINOL REFORM S6               y=2935   text=1   words=3    img=0
+07 Close                                 y=3377   text=4   words=54   img=2
+  CTA SHOP RETINOL REFORM S7               y=3377   text=1   words=3    img=0
+  Footer                                   y=3377   text=2   words=24   img=1
+33 groups, 81 text elements, 14 images
