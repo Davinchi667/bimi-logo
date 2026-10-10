@@ -10,7 +10,7 @@ python3 tools/studio.py gif   brands/<brand>/build.py     # every module GIF + f
 python3 tools/studio.py all   brands/<brand>/build.py
 python3 tools/studio.py test                              # runs qa + gif on tools/examples/demo_build.py
 ```
-Outputs land in brands/<brand>/final/ (`<NAME>.svg`, `<NAME>_600.png`, `<NAME>_1200.png`, `gifs/`, `<NAME>_full.gif`, `review/slice_NN.png`, `review/contact_sheet.png`, `review/flat_heatmap.png`, `review/layers.txt`). NAME defaults to `<brand>_welcome-01`; set `BRAND` and `NAME` in build.py to override.
+Outputs land in brands/<brand>/final/ (`<NAME>.svg`, `<NAME>_600.png`, `<NAME>_1200.png`, `gifs/`, `<NAME>_full.gif`, `review/slice_NN.png`, `review/contact_sheet.png`, `review/flat_heatmap.png`, `review/layers.txt`). NAME defaults to `<brand>_welcome-01`; set `BRAND`, `NAME` and `OUT` (output folder under brands/<brand>/, default `final`) in build.py to override. A second frame such as a popup gets its own `OUT = "final/popup"` so review slices do not collide.
 
 ## a) scrape_brand.py (Playwright + requests)
 Given a URL, writes brands/<brand>/study/:

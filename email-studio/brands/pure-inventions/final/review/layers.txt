@@ -1,0 +1,43 @@
+01 Hero                                  y=0      text=43  words=73   img=3
+  Headline                                 y=0      text=2   words=7    img=0
+  CTA SHOP COCONUT WATER S1                y=0      text=1   words=3    img=0
+  Glass and bottle                         y=0      text=0   words=0    img=1
+  Carafe tag                               y=0      text=38  words=38   img=0
+    Tag rim top                              y=0      text=18  words=18   img=0
+    Tag rim bottom                           y=0      text=18  words=18   img=0
+02 Spa water card                        y=470    text=58  words=109  img=5
+  Tent card                                y=470    text=57  words=106  img=4
+    Menu Coconut Water                       y=470    text=3   words=13   img=1
+    Menu Electrolytes + Vitamin C Watermelon y=470    text=3   words=13   img=1
+    Menu Cranberry + Elderberry              y=470    text=3   words=13   img=1
+    Menu Mango Coconut Water                 y=470    text=3   words=8    img=1
+    Stamp                                    y=992    text=43  words=43   img=0
+      Stamp rim top                            y=992    text=24  words=24   img=0
+      Stamp rim bottom                         y=992    text=18  words=18   img=0
+  CTA SHOP ALL FLAVORS S2                  y=470    text=1   words=3    img=0
+03 Ounce counter                         y=1234   text=6   words=42   img=1
+  M2 Ounce counter band                    y=1234   text=2   words=4    img=0
+    Outlined bottle                          y=1234   text=0   words=0    img=0
+    Counter                                  y=1234   text=2   words=4    img=0
+04 Route                                 y=1704   text=14  words=168  img=2
+  Route path                               y=1704   text=0   words=0    img=0
+  Review tags                              y=1704   text=12  words=157  img=0
+    Tag Amy T.                               y=1704   text=3   words=38   img=0
+      Stars Amy T.                             y=1704   text=0   words=0    img=0
+    Tag Maria L.                             y=1704   text=3   words=45   img=0
+      Stars Maria L.                           y=1704   text=0   words=0    img=0
+    Tag Marie                                y=1704   text=3   words=39   img=0
+      Stars Marie                              y=1704   text=0   words=0    img=0
+    Tag Madison S.                           y=1704   text=3   words=35   img=0
+      Stars Madison S.                         y=1704   text=0   words=0    img=0
+  Route drops                              y=1704   text=0   words=0    img=0
+  CTA SHOP COCONUT WATER S4                y=1704   text=1   words=3    img=0
+05 First drop                            y=3064   text=7   words=33   img=2
+  M3 First drop band                       y=3064   text=4   words=5    img=1
+    Glass                                    y=3064   text=0   words=0    img=0
+    Flavour swatches                         y=3064   text=4   words=5    img=0
+  CTA SHOP COCONUT WATER S5                y=3064   text=1   words=3    img=0
+06 Founders                              y=3584   text=8   words=77   img=2
+  CTA SHOP COCONUT WATER S6                y=3584   text=1   words=3    img=0
+  Footer                                   y=3584   text=3   words=24   img=1
+42 groups, 136 text elements, 15 images

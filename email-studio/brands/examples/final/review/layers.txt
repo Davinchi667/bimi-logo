@@ -1,0 +1,13 @@
+01 Hero                                  y=0      text=4   words=15   img=1
+  CTA Shop the range                       y=0      text=1   words=3    img=0
+02 Ticker                                y=600    text=6   words=15   img=0
+  M1 Ticker band                           y=600    text=6   words=15   img=0
+03 Proof                                 y=656    text=2   words=32   img=0
+  Stars 4.5                                y=656    text=0   words=0    img=0
+04 Compare                               y=956    text=6   words=9    img=0
+  M2 Toggle band                           y=956    text=6   words=9    img=0
+05 Badge                                 y=1216   text=22  words=23   img=0
+  Curved badge text                        y=1216   text=20  words=20   img=0
+  CTA Start here                           y=1216   text=1   words=2    img=0
+06 Footer                                y=1516   text=3   words=17   img=0
+12 groups, 43 text elements, 1 images

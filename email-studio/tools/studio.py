@@ -9,8 +9,8 @@
   studio.py test                                             -> runs `all` on tools/examples/demo_build.py
 
 build.py must expose:  fonts (FontRegistry), build(state) -> Email, and
-optionally BRAND (slug) and NAME (file stem, default <brand>_welcome-01).
-Outputs go to brands/<BRAND>/final/.
+optionally BRAND (slug), NAME (file stem, default <brand>_welcome-01) and OUT
+(output folder under brands/<BRAND>/, default final; e.g. final/popup for a second frame).
 """
 from __future__ import annotations
 
@@ -29,13 +29,14 @@ def _load(build_py: str):
     mod = load_build(build_py)
     brand = getattr(mod, "BRAND", Path(build_py).resolve().parent.name)
     name = getattr(mod, "NAME", f"{brand}_welcome-01")
-    return mod, brand, name
+    sub = getattr(mod, "OUT", "final")
+    return mod, brand, name, sub
 
 
 def cmd_build(build_py: str):
-    mod, brand, name = _load(build_py)
+    mod, brand, name, sub = _load(build_py)
     em = mod.build({})
-    out = ROOT / "brands" / brand / "final"
+    out = ROOT / "brands" / brand / sub
     p = em.save(out / f"{name}.svg")
     print(f"built {p} ({em.height}px, {len(em.sections)} sections, {len(em.modules)} modules, {p.stat().st_size / 1e6:.2f} MB)")
     return p, out, name, mod
@@ -55,8 +56,8 @@ def cmd_qa(build_py: str) -> bool:
 
 
 def cmd_gif(build_py: str):
-    mod, brand, name = _load(build_py)
-    out = ROOT / "brands" / brand / "final"
+    mod, brand, name, sub = _load(build_py)
+    out = ROOT / "brands" / brand / sub
     subprocess.run([PY, str(HERE / "build_gif.py"), build_py, "--out", str(out), "--name", name], check=True)
 
 

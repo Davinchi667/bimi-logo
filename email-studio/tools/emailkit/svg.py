@@ -245,17 +245,20 @@ class Group:
         widths = [font.width(ch, size) + letter_spacing for ch in s]
         total = sum(widths)
         circumference = 2 * math.pi * r
-        ang = start_deg - (total / circumference * 360) / 2
+        if total > circumference * 0.98:
+            raise ValueError(f"curved text too long for radius {r}: {s!r} needs {total:.0f}px, circle has {circumference:.0f}px")
+        d = -1 if inside else 1          # inside text reads left to right along the bottom, so the angle walks backwards
+        ang = start_deg - d * (total / circumference * 360) / 2
         for ch, w in zip(s, widths):
-            ang += (w / 2 / circumference) * 360
+            ang += d * (w / 2 / circumference) * 360
             if ch.isspace():
-                ang += (w / 2 / circumference) * 360
+                ang += d * (w / 2 / circumference) * 360
                 continue
             rad = math.radians(ang)
             px, py = cx + r * math.cos(rad), cy + r * math.sin(rad)
             rot = ang + (270 if inside else 90)
             g.raw(f"<text{_attrs(x=px, y=py, font_family=family, font_size=size, font_weight=weight, fill=fill, text_anchor='middle', transform=f'rotate({rot:.2f} {px:.2f} {py:.2f})')}>{_esc(ch)}</text>")
-            ang += (w / 2 / circumference) * 360
+            ang += d * (w / 2 / circumference) * 360
         return g
 
     # ---- images --------------------------------------------------------------
