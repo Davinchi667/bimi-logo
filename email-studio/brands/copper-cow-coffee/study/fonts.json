@@ -1,0 +1,945 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "NaNJaune",
+      "family": "NaNJaune",
+      "weight": "800",
+      "sizes": [
+        "21.6px",
+        "44.55px",
+        "39.6px"
+      ],
+      "color": "#1C1D1D",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Snickerdoodle Spice & Everything Nice!",
+        "Real Flavor, Really",
+        "Explore our Greatest Sips"
+      ]
+    },
+    "h3": {
+      "family_stack": "NaNJaune",
+      "family": "NaNJaune",
+      "weight": "400",
+      "sizes": [
+        "17.28px"
+      ],
+      "color": "#1C1D1D",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Subscribe and Save 15%",
+        "Subscribe and Save 15%",
+        "Subscribe and Save 15%"
+      ]
+    },
+    "body": {
+      "family_stack": "Rebond-Grotesque",
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "43.2px",
+        "26.73px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "SHOP ALL",
+        "ABOUT US",
+        "Robusta’s been overlooked for too long. We give it the polish it deserves so it "
+      ]
+    },
+    "button": {
+      "family_stack": "Rebond-Grotesque",
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#1C1D1D",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": "0px",
+      "samples": [
+        "BESTSELLER\nBUILD YOUR BUNDLE",
+        "Subscribe and Save 15%",
+        "Subscribe and Save 15%"
+      ]
+    },
+    "nav": {
+      "family_stack": "Rebond-Grotesque",
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "sizes": [
+        "18px",
+        "16px"
+      ],
+      "color": "#13322B",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "uppercase",
+      "radius": null,
+      "samples": [
+        "SHOP ALL",
+        "ABOUT US",
+        "BESTSELLER\nBUILD YOUR BUNDLE"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n8.580200d05bca09e2e0c6f4c922047c227dfa8e8c.woff2",
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n8.f4450f472fdcbe9e829f3583ebd559988f5a3d25.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2",
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n4.214741a72ff2596839fc9760ee7a770386cf16ca.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n6.aa29d4918bc243723d56b59572e18228ed0786f6.woff2",
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n6.5f815d845fe073750885d5b7e619ee00e8111208.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i4.846ad1e22474f856bd6b81ba4585a60799a9f5d2.woff2",
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i4.56b43284e8b52fc64c1fd271f289a39e8477e9ec.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i6.bb8044d6203f492888d626dafda3c2999253e8e9.woff2",
+        "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i6.e233dec1a61b1e7dead9f920159eda42280a02c3.woff"
+      ]
+    },
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.woff",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/img/oke-widget-icons.bc0d6b0a.svg"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Bold-Italic.otf?v=44474693120090676751790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Bold.otf?v=101732533810228371121790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "800",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extrabold-Italic.otf?v=76195225121803049911790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "800",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extrabold.otf?v=79348005210666045191790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "200",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extralight-Italic.otf?v=111680074901745272361790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "200",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extralight.otf?v=149199801268126392221790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "100",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Hairline-Italic.otf?v=177659644481229655251790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "100",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Hairline.otf?v=67157015715738434071790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Italic.otf?v=534548187005396011790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "300",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Light-Italic.otf?v=1628621470765656621790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Light.otf?v=61576351056967188941790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "500",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Medium-Italic.otf?v=161839572989723955471790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Medium.otf?v=40169033171677302231790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "600",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Semibold-Italic.otf?v=134959523045602008721790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Semibold.otf?v=178109975509757626651790014931"
+      ]
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque.otf?v=112440988135790364631790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "900",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlack.ttf?v=109611824888751020651790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "900",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlackItalic.ttf?v=102658200548162618831790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "200",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlond.ttf?v=151954657638046072181790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "200",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlondItalic.ttf?v=97487102336183849971790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBold.ttf?v=43685412585271277891790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBoldItalic.ttf?v=144599621499264832031790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniItalic.ttf?v=16455696848103974741790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniLight.ttf?v=87328638283559409631790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "300",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniLightItalic.ttf?v=129332"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniMedium.ttf?v=110400720118942464001790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "500",
+      "style": "italic",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniMediumItalic.ttf?v=133698293968218785991790014931"
+      ]
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniRegular.ttf?v=5729019704510686151790014931"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Poppins",
+      "weight": "800",
+      "file": "fonts/poppins-800.woff2",
+      "url": "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n8.580200d05bca09e2e0c6f4c922047c227dfa8e8c.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "file": "fonts/poppins-400.woff2",
+      "url": "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "file": "fonts/poppins-600.woff2",
+      "url": "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_n6.aa29d4918bc243723d56b59572e18228ed0786f6.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "file": "fonts/poppins-400-italic.woff2",
+      "url": "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i4.846ad1e22474f856bd6b81ba4585a60799a9f5d2.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "file": "fonts/poppins-600-italic.woff2",
+      "url": "https://coppercowcoffee.com/cdn/fonts/poppins/poppins_i6.bb8044d6203f492888d626dafda3c2999253e8e9.woff2"
+    },
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "file": "fonts/oke-widget-icons-400.ttf",
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "700",
+      "file": "fonts/rebond-grotesque-700-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Bold-Italic.otf?v=44474693120090676751790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "700",
+      "file": "fonts/rebond-grotesque-700.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Bold.otf?v=101732533810228371121790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "800",
+      "file": "fonts/rebond-grotesque-800-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extrabold-Italic.otf?v=76195225121803049911790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "800",
+      "file": "fonts/rebond-grotesque-800.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extrabold.otf?v=79348005210666045191790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "200",
+      "file": "fonts/rebond-grotesque-200-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extralight-Italic.otf?v=111680074901745272361790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "200",
+      "file": "fonts/rebond-grotesque-200.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Extralight.otf?v=149199801268126392221790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "100",
+      "file": "fonts/rebond-grotesque-100-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Hairline-Italic.otf?v=177659644481229655251790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "100",
+      "file": "fonts/rebond-grotesque-100.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Hairline.otf?v=67157015715738434071790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "file": "fonts/rebond-grotesque-400-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Italic.otf?v=534548187005396011790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "300",
+      "file": "fonts/rebond-grotesque-300-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Light-Italic.otf?v=1628621470765656621790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "300",
+      "file": "fonts/rebond-grotesque-300.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Light.otf?v=61576351056967188941790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "500",
+      "file": "fonts/rebond-grotesque-500-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Medium-Italic.otf?v=161839572989723955471790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "500",
+      "file": "fonts/rebond-grotesque-500.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Medium.otf?v=40169033171677302231790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "600",
+      "file": "fonts/rebond-grotesque-600-italic.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Semibold-Italic.otf?v=134959523045602008721790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "600",
+      "file": "fonts/rebond-grotesque-600.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque-Semibold.otf?v=178109975509757626651790014931"
+    },
+    {
+      "family": "Rebond-Grotesque",
+      "weight": "400",
+      "file": "fonts/rebond-grotesque-400.otf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/Rebond-Grotesque.otf?v=112440988135790364631790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "900",
+      "file": "fonts/nanjaune-900.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlack.ttf?v=109611824888751020651790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "900",
+      "file": "fonts/nanjaune-900-italic.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlackItalic.ttf?v=102658200548162618831790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "200",
+      "file": "fonts/nanjaune-200.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlond.ttf?v=151954657638046072181790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "200",
+      "file": "fonts/nanjaune-200-italic.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBlondItalic.ttf?v=97487102336183849971790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "700",
+      "file": "fonts/nanjaune-700.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBold.ttf?v=43685412585271277891790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "700",
+      "file": "fonts/nanjaune-700-italic.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniBoldItalic.ttf?v=144599621499264832031790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "400",
+      "file": "fonts/nanjaune-400-italic.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniItalic.ttf?v=16455696848103974741790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "300",
+      "file": "fonts/nanjaune-300.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniLight.ttf?v=87328638283559409631790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "500",
+      "file": "fonts/nanjaune-500.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniMedium.ttf?v=110400720118942464001790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "500",
+      "file": "fonts/nanjaune-500-italic.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniMediumItalic.ttf?v=133698293968218785991790014931"
+    },
+    {
+      "family": "NaNJaune",
+      "weight": "400",
+      "file": "fonts/nanjaune-400.ttf",
+      "url": "https://coppercowcoffee.com/cdn/shop/t/403/assets/NaNJaune-MiniRegular.ttf?v=5729019704510686151790014931"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "44.55px",
+        "color": "rgb(8, 70, 59)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "57.915px",
+        "radius": "0px",
+        "border": "0px none rgb(8, 70, 59)",
+        "sample": "Snickerdoodle Spice & Everything Nice!"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "39.6px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "51.48px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "Real Flavor, Really"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "57.6px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "74.88px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Explore our Greatest Sips"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "21.6px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.08px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Cardamom Pretzel Pour Over - 8ct"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "21.6px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.08px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Classic Black Pour Over Coffee - 8ct"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "800",
+        "size": "21.6px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.08px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Classic Black Pour Over Coffee - 48ct"
+      }
+    ],
+    "h3": [
+      {
+        "family": "NaNJaune",
+        "weight": "400",
+        "size": "17.28px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "400",
+        "size": "17.28px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "400",
+        "size": "17.28px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      }
+    ],
+    "body": [
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.4px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "SHOP ALL"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.4px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "ABOUT US"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "43.2px",
+        "color": "rgb(249, 246, 231)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "60.48px",
+        "radius": "0px",
+        "border": "0px none rgb(249, 246, 231)",
+        "sample": "Robusta’s been overlooked for too long. We give it the polish it deserves so it "
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "43.2px",
+        "color": "rgb(249, 246, 231)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "60.48px",
+        "radius": "0px",
+        "border": "0px none rgb(249, 246, 231)",
+        "sample": "We source climate-resilient beans from Vietnam’s first organic-certified farms."
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "43.2px",
+        "color": "rgb(249, 246, 231)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "60.48px",
+        "radius": "0px",
+        "border": "0px none rgb(249, 246, 231)",
+        "sample": "We’re not your average flavored coffee. We blend ACTUAL herbs and spices for a s"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "43.2px",
+        "color": "rgb(249, 246, 231)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "60.48px",
+        "radius": "0px",
+        "border": "0px none rgb(249, 246, 231)",
+        "sample": "Founded and led by Debbie, a Vietnamese-Californian obsessed with traditional Vi"
+      }
+    ],
+    "button": [
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "800",
+        "size": "16px",
+        "color": "rgb(1, 191, 110)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "16px",
+        "radius": "24px",
+        "border": "2px solid rgb(234, 186, 198)",
+        "sample": "BESTSELLER\nBUILD YOUR BUNDLE"
+      },
+      {
+        "family": "NaNJaune, sans-serif",
+        "weight": "800",
+        "size": "23.04px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(3, 191, 111)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "32.7168px",
+        "radius": "40px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "sample": "TRY SNICKERDOODLE"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.4px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.4px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(28, 29, 29)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.4px",
+        "radius": "0px",
+        "border": "0px none rgb(28, 29, 29)",
+        "sample": "Subscribe and Save 15%"
+      },
+      {
+        "family": "NaNJaune",
+        "weight": "900",
+        "size": "24px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 191, 111)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "100px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Previous subscription product\n←"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "SHOP ALL"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "ABOUT US"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "800",
+        "size": "16px",
+        "color": "rgb(1, 191, 110)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "16px",
+        "radius": "24px",
+        "border": "2px solid rgb(234, 186, 198)",
+        "sample": "BESTSELLER\nBUILD YOUR BUNDLE"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "LOG IN"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "SEARCH"
+      },
+      {
+        "family": "Rebond-Grotesque",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(19, 50, 43)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(19, 50, 43)",
+        "sample": "CART"
+      }
+    ]
+  }
+}

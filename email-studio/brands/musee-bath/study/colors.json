@@ -1,0 +1,90 @@
+{
+  "body": {
+    "bg": "#FEF9EC",
+    "color": "#333333"
+  },
+  "header": {
+    "bg": null,
+    "color": "#333333"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#333333"
+  },
+  "link": {
+    "bg": null,
+    "color": "#333333"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": null,
+      "color": "#333333",
+      "radius": "0px",
+      "border": "0px none rgb(51, 51, 51)",
+      "sample": "United States (USD $)"
+    },
+    {
+      "bg": null,
+      "color": "#333333",
+      "radius": "0px",
+      "border": "0px none rgb(51, 51, 51)",
+      "sample": "Ghost Boxed Bath Balm\n$12.00"
+    },
+    {
+      "bg": "#FF7BA7",
+      "color": "#333333",
+      "radius": "20px",
+      "border": "0px none rgb(51, 51, 51)",
+      "sample": "SHOP NOW"
+    },
+    {
+      "bg": "#FF7BA7",
+      "color": "#333333",
+      "radius": "20px",
+      "border": "0px none rgb(51, 51, 51)",
+      "sample": "SIGN UP"
+    },
+    {
+      "bg": null,
+      "color": "#333333",
+      "radius": "0px",
+      "border": "1px solid rgb(51, 51, 51)",
+      "sample": "United States (USD $)"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FEF9EC",
+      "share": 0.408
+    },
+    {
+      "hex": "#D7D3CD",
+      "share": 0.268
+    },
+    {
+      "hex": "#C39687",
+      "share": 0.188
+    },
+    {
+      "hex": "#F2F3EF",
+      "share": 0.076
+    },
+    {
+      "hex": "#FFFBEE",
+      "share": 0.023
+    },
+    {
+      "hex": "#FFF9ED",
+      "share": 0.019
+    },
+    {
+      "hex": "#FFF9EB",
+      "share": 0.014
+    },
+    {
+      "hex": "#FDF9EE",
+      "share": 0.004
+    }
+  ]
+}

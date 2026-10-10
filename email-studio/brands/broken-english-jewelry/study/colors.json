@@ -1,0 +1,111 @@
+{
+  "body": {
+    "bg": "#FFFFFF",
+    "color": "#101820"
+  },
+  "header": {
+    "bg": "#FFFFFF",
+    "color": "#101820"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#101820"
+  },
+  "link": {
+    "bg": "#FFFFFF",
+    "color": "#FFFFFF"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "0px",
+      "border": "0px none rgb(16, 24, 32)",
+      "sample": "Press Option+1 for screen-reader mode, Option+0 to cancel\nAccessibility Screen-R"
+    },
+    {
+      "bg": null,
+      "color": "#101820",
+      "radius": "0px",
+      "border": "0px none rgb(16, 24, 32)",
+      "sample": "Search"
+    },
+    {
+      "bg": null,
+      "color": "#101820",
+      "radius": "0px",
+      "border": "0px none rgb(16, 24, 32)",
+      "sample": "Search"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "3px",
+      "border": "2px solid rgb(255, 255, 255)",
+      "sample": "Shop Collection"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "3px",
+      "border": "2px solid rgb(255, 255, 255)",
+      "sample": "Shop Collection"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "3px",
+      "border": "2px solid rgb(255, 255, 255)",
+      "sample": "Shop Now"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "3px",
+      "border": "2px solid rgb(255, 255, 255)",
+      "sample": "Shop Collection"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#101820",
+      "radius": "3px",
+      "border": "2px solid rgb(255, 255, 255)",
+      "sample": "Shop Collection"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FFFFFF",
+      "share": 0.279
+    },
+    {
+      "hex": "#8A8887",
+      "share": 0.17
+    },
+    {
+      "hex": "#C7BEB7",
+      "share": 0.145
+    },
+    {
+      "hex": "#E6E8EA",
+      "share": 0.119
+    },
+    {
+      "hex": "#A0A3A7",
+      "share": 0.114
+    },
+    {
+      "hex": "#514744",
+      "share": 0.088
+    },
+    {
+      "hex": "#FEFFFF",
+      "share": 0.083
+    },
+    {
+      "hex": "#FFFFFE",
+      "share": 0.002
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "body": {
+    "bg": "#FFFFFF",
+    "color": "#000000"
+  },
+  "header": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "link": {
+    "bg": "#000000",
+    "color": "#FFFFFF"
+  },
+  "sections": [
+    {
+      "bg": "#FFFFFF",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "rebuy-cart__flyout"
+    },
+    {
+      "bg": "#000000",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "rebuy-cart__background"
+    }
+  ],
+  "buttons": [
+    {
+      "bg": "#FFFFFF",
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "Skip to content\n\nChoose 3 Samples With All Orders\n\nCountry/region\nUSD $ | United"
+    },
+    {
+      "bg": "#61666B",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Skip to content"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "Choose 3 Samples With All Orders"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "USD $ | United States"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "English"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "English"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "See the clinical results"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(255, 255, 255)",
+      "sample": "See the clinical results"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FFFFFF",
+      "share": 0.376
+    },
+    {
+      "hex": "#E6E7E5",
+      "share": 0.162
+    },
+    {
+      "hex": "#9A948B",
+      "share": 0.122
+    },
+    {
+      "hex": "#6B5B54",
+      "share": 0.107
+    },
+    {
+      "hex": "#0F1317",
+      "share": 0.104
+    },
+    {
+      "hex": "#D0C1B4",
+      "share": 0.07
+    },
+    {
+      "hex": "#FFFDFC",
+      "share": 0.053
+    },
+    {
+      "hex": "#FFFFFE",
+      "share": 0.006
+    }
+  ]
+}

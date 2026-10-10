@@ -1,0 +1,20 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://www.shanidarden.com/cdn/shop/t/404/assets/shani-darden-logo.svg?v=3012195376967442201790106806",
+      "alt": "Shani Darden Skin Care",
+      "w": 195,
+      "h": 33,
+      "hint": "shani darden skin care header-logo__image //www.shanidarden.com/cdn/shop/t/404/assets/shani-darden-logo.svg?v=3012195376967442201790106806 header-logo",
+      "where": "body",
+      "tone": "dark",
+      "file": "logos/logo_01_body_dark-marks.svg"
+    }
+  ],
+  "favicons": [
+    "https://www.shanidarden.com/cdn/shop/files/SD-FAVEICON_180x180.png?v=1613694590",
+    "https://www.shanidarden.com/cdn/shop/files/SD-FAVEICON_32x32.png?v=1613694590",
+    "https://www.shanidarden.com/cdn/shop/files/SD-FAVEICON_16x16.png?v=1613694590"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "body": {
+    "bg": "#FFFFFF",
+    "color": "#000000"
+  },
+  "header": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "footer": {
+    "bg": "#4D4F8C",
+    "color": "#000000"
+  },
+  "link": {
+    "bg": null,
+    "color": "#8CD03D"
+  },
+  "sections": [
+    {
+      "bg": "#000000",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "slidecarthq-overlay"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "slidecarthq right light cartEmpty"
+    }
+  ],
+  "buttons": [
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "Submit"
+    },
+    {
+      "bg": "#5AA600",
+      "color": "#FFFFFF",
+      "radius": "8px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Sign In"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Shop By Flavor"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Shop By Benefits"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Collections"
+    },
+    {
+      "bg": "#5AA600",
+      "color": "#FFFFFF",
+      "radius": "8px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Shop Now!"
+    },
+    {
+      "bg": null,
+      "color": "#5AA600",
+      "radius": "8px",
+      "border": "1px solid rgb(90, 166, 0)",
+      "sample": "Learn More"
+    },
+    {
+      "bg": null,
+      "color": "#5AA600",
+      "radius": "8px",
+      "border": "1px solid rgb(90, 166, 0)",
+      "sample": "Learn More"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FFFFFF",
+      "share": 0.4
+    },
+    {
+      "hex": "#7FAED2",
+      "share": 0.141
+    },
+    {
+      "hex": "#65477B",
+      "share": 0.124
+    },
+    {
+      "hex": "#A07392",
+      "share": 0.115
+    },
+    {
+      "hex": "#D0C0BD",
+      "share": 0.099
+    },
+    {
+      "hex": "#F6F5F2",
+      "share": 0.085
+    },
+    {
+      "hex": "#FEFEFF",
+      "share": 0.035
+    },
+    {
+      "hex": "#FEFFFF",
+      "share": 0.001
+    }
+  ]
+}

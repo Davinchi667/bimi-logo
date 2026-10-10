@@ -1,0 +1,29 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Single_Line_with_Drip.png?v=1760383450&width=300",
+      "alt": "Big Shoulders Coffee",
+      "w": 221.578125,
+      "h": 27.3125,
+      "hint": "big shoulders coffee header__heading-logo motion-reduce //bigshoulderscoffee.com/cdn/shop/files/bsc_logotype_-_single_line_with_drip.png?v=1760383450&width=600 header__heading-link link link--text focus-inset",
+      "where": "div",
+      "tone": "dark",
+      "file": "logos/logo_01_div_dark-marks.png"
+    },
+    {
+      "kind": "img",
+      "src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Left_Justified_-_White.png?v=1760383450&width=1100",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "hint": "  //bigshoulderscoffee.com/cdn/shop/files/bsc_logotype_-_left_justified_-_white.png?v=1760383450&width=1100 ",
+      "where": "footer",
+      "tone": "light",
+      "file": "logos/logo_02_footer_light-marks.png"
+    }
+  ],
+  "favicons": [
+    "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulder_logo-2_BS_logo.png?crop=center&height=32&v=1699017449&width=32"
+  ]
+}

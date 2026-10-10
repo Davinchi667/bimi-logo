@@ -1,0 +1,4254 @@
+[
+  {
+    "title": "Sage & Tobacco Soy Candle",
+    "handle": "sage-tobacco-soy-candle",
+    "url": "https://www.museebath.com/products/sage-tobacco-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": false,
+        "sku": "MTC007R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_a18b1a9d-10f9-4929-bcde-5a029615c451.jpg?v=1759441595",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Cropped_Again_Candle.jpg?v=1715009666"
+    ],
+    "description": "Earthy tones of smoky sage, citrus honey and blonde tobacco.\nHoused in a beautiful glass vessel, this candle radiates a warm glow and fills your home with its rich aroma.\nQuote inside box: \"May it be a light to you in dark places when all other lights go out.\" -J.R.R. Tolkien",
+    "published_at": "2026-10-05T10:26:17-05:00"
+  },
+  {
+    "title": "Sea Salt & Grapefruit Soy Candle",
+    "handle": "sea-salt-grapefruit-soy-candle",
+    "url": "https://www.museebath.com/products/sea-salt-grapefruit-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 21.0,
+    "price_max": 21.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "21.00",
+        "compare_at_price": "30.00",
+        "available": true,
+        "sku": "MTC008R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_a18b1a9d-10f9-4929-bcde-5a029615c451.jpg?v=1759441595",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_a815bf07-5c11-48c1-9894-8949d811700b.gif?v=1738190570",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0494_1_96094e2c-473b-4315-a604-759157d819f0.png?v=1738190570"
+    ],
+    "description": "Salty and fresh with notes of citrus, ginger and sage. Nestled within a colorful glass vessel, let the radiant glow of this candle light up your home with its delicate and welcoming fragrance.\nQuote inside box: \"Beauty is not in the face; it is a light in the heart.\" -Kahil Gibran",
+    "published_at": "2026-10-05T10:25:50-05:00"
+  },
+  {
+    "title": "Camellia & Lotus Soy Candle",
+    "handle": "camellia-lotus-soy-candle",
+    "url": "https://www.museebath.com/products/camellia-lotus-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": false,
+        "sku": "MTC003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue.jpg?v=1762525845",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue.gif?v=1696964619",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-01-22at11.05.37AM.png?v=1738189140",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0494_1_a86658bd-cb05-42e1-bf00-38fc799f03db.png?v=1738189140"
+    ],
+    "description": "Delicate scents of camellia flowers, gardenia petals, and blooming lotus create a soft and refreshing fragrance.\nHoused in a colorful glass vessel, this candle radiates a warm glow and fills your home with its uplifting aroma.\nQuote inside box: \"Be the Light.\" - Matthew 5:14",
+    "published_at": "2026-10-05T10:25:03-05:00"
+  },
+  {
+    "title": "Blood Orange & Spice Soy Candle",
+    "handle": "blood-orange-spice-soy-candle",
+    "url": "https://www.museebath.com/products/blood-orange-spice-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": false,
+        "sku": "MTC002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_a330c6b3-8da8-40a1-8126-3d2423649e84.jpg?v=1782829465",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_8c456f74-b94f-442b-9bfc-2dee0a25d390.gif?v=1782829466",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Cropped_Again_Candle.jpg?v=1715009666"
+    ],
+    "description": "A sweet combination of citrus, warm spices, and cocoa bean. Nestled within a colorful glass vessel, let the radiant glow of this candle light up your home with its comforting and sophisticated fragrance.\nQuote inside box: \"How far that little candle throws his beams! So shines a good deed in a weary world.\"- William Shakespeare",
+    "published_at": "2026-10-05T10:23:36-05:00"
+  },
+  {
+    "title": "Black Currant & Geranium Soy Candle",
+    "handle": "black-currant-berries-soy-candle",
+    "url": "https://www.museebath.com/products/black-currant-berries-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Berry",
+      "Black",
+      "Candle",
+      "Currant",
+      "NEw",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": true,
+        "sku": "MTC013R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_39a0cbf6-6ee9-4d36-84ac-85ecde037d96.jpg?v=1782829344",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_8c456f74-b94f-442b-9bfc-2dee0a25d390.gif?v=1782829466",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Cropped_Again_Candle_c2e2d086-904d-422b-9bc8-9c90b454a8c7.jpg?v=1782829578"
+    ],
+    "description": "Rose and black currant paired with herbaceous geranium create a scent that is both invigorating and sophisticated, with hints of freshness and depth. Nestled within a colorful glass vessel, let the radiant glow of this candle light up your home with its fresh and inviting fragrance.\nQuote inside box: \"There is always light if we're brave enough to see it. If only we're brave enough to be it.\" - Amanda Gorman",
+    "published_at": "2026-10-05T10:23:10-05:00"
+  },
+  {
+    "title": "Amber & Vanilla Soy Candle",
+    "handle": "amber-vanilla-soy-candle",
+    "url": "https://www.museebath.com/products/amber-vanilla-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": true,
+        "sku": "MTC001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_24e82fc2-a768-425c-b2ac-0557741d77a3.jpg?v=1782829819",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_a69ea91e-3a2c-463f-b867-02c91af8ec1b.gif?v=1782829819",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Cropped_Again_Candle_9bc2921e-71bf-49c3-a2d6-d957fa97f834.jpg?v=1782829819"
+    ],
+    "description": "Soothing notes of warm vanilla, rich amber, mandarin peel, and spicy pepper blend harmoniously to create a comforting and inviting aroma. Nestled within a colorful glass vessel, let the radiant glow of this candle light up your home with its warm and welcoming fragrance.\nQuote inside box: \"Look at how a single candle can both define and defy the darkness.\" -Anne Frank",
+    "published_at": "2026-10-05T10:22:30-05:00"
+  },
+  {
+    "title": "Sea Salt & Grapefruit Scalloped Candle",
+    "handle": "sea-salt-grapefruit-scalloped-candle",
+    "url": "https://www.museebath.com/products/sea-salt-grapefruit-scalloped-candle",
+    "type": "Candle",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 42.0,
+    "price_max": 42.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "42.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTC023R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/seasalt-candle.png?v=1762877101",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0500.jpg?v=1762877254"
+    ],
+    "description": "Salty and fresh, with notes of citrus, ginger, and sage.\n12 oz, 80 hour burn time. Hand-poured in Mississippi. Beautiful white vessel with gold-foiled interior nestled in a beautiful gift box.",
+    "published_at": "2026-10-05T10:21:37-05:00"
+  },
+  {
+    "title": "Champagne & Rose Scalloped Candle",
+    "handle": "champagne-rose-scalloped-candle",
+    "url": "https://www.museebath.com/products/champagne-rose-scalloped-candle",
+    "type": "Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 42.0,
+    "price_max": 42.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "42.00",
+        "compare_at_price": "42.00",
+        "available": true,
+        "sku": "MTC020R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/champagneandrose-candle.jpg?v=1762877254",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0500.jpg?v=1762877254"
+    ],
+    "description": "Fresh bouquet of roses and freesia, combined with celebratory notes of champagne.\n12 oz, 80 hour burn time. Hand-poured in Mississippi. Beautiful white vessel with gold-foiled interior nestled in a beautiful gift box.",
+    "published_at": "2026-10-05T10:20:32-05:00"
+  },
+  {
+    "title": "Bamboo & Lotus Scalloped Candle",
+    "handle": "bamboo-lotus-scalloped-candle",
+    "url": "https://www.museebath.com/products/bamboo-lotus-scalloped-candle",
+    "type": "Candle",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 42.0,
+    "price_max": 42.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "42.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTC019R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bamboolotus-candle.jpg?v=1762876940",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0500.jpg?v=1762877254",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-04-01_at_9.14.24_AM.png?v=1762876940"
+    ],
+    "description": "Lively notes of earthy bamboo and flowering aquatic lotus.\n12 oz, 80 hour burn time. Hand-poured in Mississippi. Beautiful white vessel with gold-foiled interior nestled in a beautiful gift box.",
+    "published_at": "2026-10-05T10:20:09-05:00"
+  },
+  {
+    "title": "Best Seller Candles + Matches Bundle",
+    "handle": "best-seller-candles-matches-bundle",
+    "url": "https://www.museebath.com/products/best-seller-candles-matches-bundle",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 100.0,
+    "price_max": 100.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "100.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot2026-02-23at1.14.44PM.png?v=1771874097",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/seasalt-candle.png?v=1762877101",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bamboolotus-candle.jpg?v=1762876940",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/champagneandrose-candle.jpg?v=1762877254",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/museematch.jpg?v=1725977754"
+    ],
+    "description": "Three full-sized candles. One beautiful moment waiting to happen.\nThis curated trio brings together our most-loved fragrances — designed to fill the room, set the mood, and linger long after the flame is out. Paired with a chic set of pink matches, it’s everything you need to spark something special.\nSea Salt + Grapefruit\n – Bright citrus layered with airy sea salt creates a clean, sunlit freshness that instantly lifts the space.\nChampagne + Rose\n – Effervescent bubbles meet soft, romantic florals for a scent that feels celebratory and feminine.\nBamboo + Lotus\n – Crisp bamboo and delicate lotus blend into a calming, spa-like escape that soothes and refreshes.\nLight one to match your mood — or rotate them throughout the week to create your own fragrance story at home.\nPerfect for gifting. Even better for keeping.\n✨ Includes three full-size candles + a coordinating set of pink matches.",
+    "published_at": "2026-10-05T10:10:06-05:00"
+  },
+  {
+    "title": "You Are The Best Thing Therapy Bath Soak",
+    "handle": "new-you-are-the-best-thing-bath-salt-soak",
+    "url": "https://www.museebath.com/products/new-you-are-the-best-thing-bath-salt-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MTBS020R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/besthing-salt.jpg?v=1712681341",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage4_youarethebestthing.jpg?v=1737664759",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/salts-white.jpg?v=1738618264"
+    ],
+    "description": "Delight in yourself as you take a moment to recharge with this renewing bath filled with sweet orange essential oil.",
+    "published_at": "2026-09-27T21:04:14-05:00"
+  },
+  {
+    "title": "Mystical Magical Bath Balm",
+    "handle": "mystical-magical-bath-balm",
+    "url": "https://www.museebath.com/products/mystical-magical-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB164R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/410e0a38-3222-49a8-812b-612082ca5a8b.png?v=1790262427",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/72f65621-e7a8-4d35-9b4b-b906c14a7f95.png?v=1790262427",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pomelli_photoshoot_image_9_16_0923.png?v=1790262427"
+    ],
+    "description": "Add a little magic to the tub with our Mystical Magical Bath Balm. Featuring a sweet cotton candy and vanilla fragrance with lavender essential oil, this bright blue-and-green bath balm makes bath time extra fun. As it fizzes away, discover a surprise tattoo inside for one more magical touch.",
+    "published_at": "2026-09-24T10:09:35-05:00"
+  },
+  {
+    "title": "Choosin' Texas Bath Balm",
+    "handle": "choosin-texas-bath-balm",
+    "url": "https://www.museebath.com/products/choosin-texas-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB163R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/963ea1e3-e6d8-465f-84d5-7153f0b9bb3f.png?v=1790262298",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Sep_23_2026_at_11_16_16_AM.png?v=1790262312",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Sep_23_2026_at_10_59_09_AM.png?v=1790262312"
+    ],
+    "description": "Bring a little Texas charm to bath time with our Choosin’ Texas Bath Balm. Scented with prickly pear and warm amber and made with sandalwood essential oil, this pink-and-orange bath balm creates a colorful, relaxing soak. As it dissolves, discover a surprise bracelet inside—a little keepsake made for anyone who has Texas on their heart.",
+    "published_at": "2026-09-24T10:03:50-05:00"
+  },
+  {
+    "title": "Happy Birthday Gift Set",
+    "handle": "happy-birthday-gift-set",
+    "url": "https://www.museebath.com/products/happy-birthday-gift-set",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 78.0,
+    "price_max": 78.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "78.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MBGS008R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Sep_21_2026_at_03_43_11_PM.png?v=1790023659"
+    ],
+    "description": "Gifting is made easy with this Beautiful Birthday Set! Pamper that special person in your life with a sweet treat. Featuring our best selling Happy Birthday Show Steamers, a pink hair wrap, a birthday caked boxed bath balm, and a bar soap. This set comes wrapped in a beautiful, gold foil stamped box with satin pink ribbon.",
+    "published_at": "2026-09-21T15:48:30-05:00"
+  },
+  {
+    "title": "Bourbon & Sandalwood Bar Soap",
+    "handle": "bourbon-sandalwood-bar-soap",
+    "url": "https://www.museebath.com/products/bourbon-sandalwood-bar-soap",
+    "type": "Bar Soaps",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBS025R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bourbon-soap-cream.jpg?v=1730748642",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.08.30_PM.png?v=1738269930",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.09.05_PM.png?v=1738269823"
+    ],
+    "description": "Indulge in the warm, rich scent of Bourbon & Sandalwood. This hydrating soap delivers a luxurious lather that nourishes your skin to ensure an ultimate moisturizing experience",
+    "published_at": "2026-09-09T16:38:17-05:00"
+  },
+  {
+    "title": "Eucalyptus & Mint Scalloped Soy Candle",
+    "handle": "eucalyptus-mint-scalloped-soy-candle",
+    "url": "https://www.museebath.com/products/eucalyptus-mint-scalloped-soy-candle",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 42.0,
+    "price_max": 42.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "42.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTC024R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Oct_5_2026_at_10_15_02_AM.png?v=1791213309"
+    ],
+    "description": "Elevate your everyday with our Eucalyptus & Mint Scalloped Soy Candle from Musee. This Mississippi-made gem fills your home with the invigorating blend of eucalyptus and soothing mint. The scalloped design adds a touch of elegance to your decor while the thoughtful ingredients ensure a clean burn. This candle not only looks good but also infuses a sense of tranquility, making your home a haven of rest and wonder. Enjoy the magic of Musee, Bathe the World in Love.",
+    "published_at": "2026-08-31T08:34:00-05:00"
+  },
+  {
+    "title": "Lavender & Lime Scalloped Soy Candle",
+    "handle": "lavender-lime-scalloped-soy-candle",
+    "url": "https://www.museebath.com/products/lavender-lime-scalloped-soy-candle",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 42.0,
+    "price_max": 42.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "42.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTC022R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Lavender_Chamomile_Candle_Set.png?v=1791213442"
+    ],
+    "description": "Lavender & Lime Scalloped Soy Candle by Musee is a delightful addition to your home decor. Infused with the calming aroma of lavender and the zesty scent of lime, this soy candle provides a soothing and invigorating atmosphere. Each candle is meticulously crafted to ensure a long-lasting fragrance. Whether for everyday use or special occasions, Musee's candle is more than just a product, it's an experience that brings a touch of magic to your routine.",
+    "published_at": "2026-08-31T08:34:00-05:00"
+  },
+  {
+    "title": "Mama Said Bath Balm",
+    "handle": "mama-said-bath-balm",
+    "url": "https://www.museebath.com/products/mama-said-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB029R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/mamasaid_d4007932-9b78-41d8-85db-19886e886842.jpg?v=1759441611",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/mamasaid.jpg?v=1603981085"
+    ],
+    "description": "Reflect on the essence of pure indulgence with Mama Said Bath Balm from Musee Bath. Dive into a world of opulence as you pamper your senses and revitalize your skin with the enriching power of Milk Bath. Let the aromatic blend of Grapefruit Essential Oils and other natural ingredients transport you to a state of blissful serenity. Treat yourself to a luxurious bathing ritual that leaves you feeling enchanted, radiant, and ready to conquer the day.\nFeatured Ingredient - Milk Bath\nMilk bath is the key ingredient in this bath balm. Milk bath can make your skin feel softer and smoother because of the natural exfoliants like lactic acid. Fats in the milk cling to the skin, creating a silky, but not oily, feeling.\nSurprise\n - Rose Soap inside.",
+    "published_at": "2026-08-26T10:29:30-05:00"
+  },
+  {
+    "title": "Ghost Boxed Bath Balm",
+    "handle": "ghost-boxed-bath-balm",
+    "url": "https://www.museebath.com/products/ghost-boxed-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB160R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPTImageAug20_2026at09_32_15AM_a97c9327-154c-488c-b1f4-4eb0d7071309.png?v=1787236464",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPTImageAug17_2026at01_26_38PM.png?v=1787236359",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPTImageAug17_2026at01_18_02PM.png?v=1787236359"
+    ],
+    "description": "Marshmallow & Whipped Cream | Surprise Inside\nA little ghost, a lot of glow. This playful Halloween bath balm fizzes into a swirl of soft color while filling the tub with the cozy scent of fluffy marshmallow and whipped cream. Hidden inside is a fun surprise, making every bath feel a little more magical. Perfect for spooky season, this sweet treat is more cute than creepy and makes a boo-tiful gift for kids and Halloween lovers alike.",
+    "published_at": "2026-08-20T09:37:56-05:00"
+  },
+  {
+    "title": "Skeleton Boxed Bath Balm",
+    "handle": "skeleton-boxed-bath-balm",
+    "url": "https://www.museebath.com/products/skeleton-boxed-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB159R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPTImageAug20_2026at09_30_29AM.png?v=1787236609",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPTImageAug17_2026at01_18_02PM.png?v=1787236359",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Aug_17_2026_at_01_30_02_PM.png?v=1787236627"
+    ],
+    "description": "Candy Corn & Caramel | Surprise Inside\nNo tricks, just treats! Our Skeleton Bath Balm transforms bath time into a festive Halloween escape with the nostalgic scent of creamy candy corn and buttery caramel. As it fizzes away, a surprise hidden inside is revealed, adding an extra dose of fun. Sweet, playful, and full of Halloween magic, it's the perfect bath-time treat for little ghouls and grown-up Halloween fans alike.",
+    "published_at": "2026-08-20T09:37:37-05:00"
+  },
+  {
+    "title": "Ruth Bader Ginsburg Women of Change Bath Balm",
+    "handle": "ruth-bader-ginsburg-bath-balm",
+    "url": "https://www.museebath.com/products/ruth-bader-ginsburg-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB069R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rbg.jpg?v=1762526181",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9549-_1.jpg?v=1738256538",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9547-1.jpg?v=1741289170",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Unleash your inner goddess with our Ruth Bader Ginsburg Bath Balm, inspired by the iconic Supreme Court Justice.\nRuth Bader Ginsburg was the second woman to serve as a justice on the United States Supreme Court. She spent her career advocating for women's rights and fighting tirelessly to end gender discrimination. She is one of the most celebrated leaders in American history and considered a feminist icon. Once when asked to give her advice to young women, she answered, \"Fight for the things that you care about. But do it in a way that will lead others to join you.\" RBG was also quite the fashionista, as she was known for adorning her black judicial robes with dazzling neckwear.\nSurprise\n -\nMagnet inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-08-18T09:24:43-05:00"
+  },
+  {
+    "title": "Over The Rainbow Bath Balm",
+    "handle": "over-the-rainbow",
+    "url": "https://www.museebath.com/products/over-the-rainbow",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Over The Rainbow",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MBB157R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Aug_4_2026_at_01_46_17_PM.png?v=1785871410",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Aug_4_2026_at_02_29_19_PM.png?v=1785871773"
+    ],
+    "description": "Make bath time feel extra magical with our Over the Rainbow Surprise Bath Balm. Wrapped in bright coral tissue and finished with a whimsical rainbow tag, this colorful bath balm fizzes and foams as it releases skin-loving coconut milk and nourishing oils into the water. A hidden rainbow charm inside adds an extra surprise once the balm dissolves.\nScented with a cheerful\nhelichrysum fragrance\n, it creates a playful, feel-good bathing experience kids will love.\n8 oz. | Includes one rainbow charm | Paraben-free, sulfate-free and cruelty-free",
+    "published_at": "2026-08-05T09:57:42-05:00"
+  },
+  {
+    "title": "French Pear & Gardenia Mini Bath Salt Soak",
+    "handle": "french-pear-gardenia-mini-bath-salt-soak",
+    "url": "https://www.museebath.com/products/french-pear-gardenia-mini-bath-salt-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTBS025R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/frenchpeartan-bathsalt.jpg?v=1730403490",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A2261-1_1.jpg?v=1730404899",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-10-03_at_10.40.01_AM.png?v=1730404857"
+    ],
+    "description": "Experience the renewal of this Pacific sea salt and Epsom salt bath. Rest in fragrant waters of french pear and gardenia while shea nut oil hydrates your skin.",
+    "published_at": "2026-08-03T12:16:43-05:00"
+  },
+  {
+    "title": "Amazing Grace Bath Balm",
+    "handle": "amazing-grace",
+    "url": "https://www.museebath.com/products/amazing-grace",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 7.5,
+    "price_max": 7.5,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "7.50",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MBB004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/am.jpg?v=1762525826",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/amazinggracebalm.jpg?v=1738088219",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A2054.jpg?v=1738088219",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "How sweet the sound of soaking in a tranquil and relaxing bath at the end of a long day. This pure and fragrant bath balm will soothe your soul as the bath balm dissolves from white to red, leaving a gracious reminder in the tub.\nSurprise\n- Cross inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-07-23T14:30:45-05:00"
+  },
+  {
+    "title": "Sweet Pea Bath Balm",
+    "handle": "sweet-pea-bath-balm",
+    "url": "https://www.museebath.com/products/sweet-pea-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB154R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sweetpea.webp?v=1769632388"
+    ],
+    "description": "Fragrance - Sweet Pea\nSurprise - Hair Tie inside.\nGreat for:\nGifting\nMoisturizing\nSustainable Gifts\nNatural Gifts\nCleansing\nGentle on skin\nAll Ages\nSpiritual Products\nWe call our Bath Bombs \"Bath Balms\" because they are hydrating and nourishing and prefer to use a word not associated with destruction.",
+    "published_at": "2026-07-23T07:59:03-05:00"
+  },
+  {
+    "title": "Women Of Change Bath Balm Bundle",
+    "handle": "women-of-change-bath-balm-bundle",
+    "url": "https://www.museebath.com/products/women-of-change-bath-balm-bundle",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "amelia",
+      "Bath Balm",
+      "bundle",
+      "change",
+      "frida",
+      "Gift Sets",
+      "Maisonette",
+      "maya",
+      "RBG",
+      "Rosa",
+      "Rosa Parks",
+      "Ruth",
+      "Set",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "women",
+      "women of change"
+    ],
+    "price_min": 45.0,
+    "price_max": 45.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "45.00",
+        "compare_at_price": "45.00",
+        "available": false,
+        "sku": "MGS023R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/WOC-bundle.jpg?v=1759441666",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A9547_371e3f24-9ce3-442c-b97a-d2326d3c882a.png?v=1736886798",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0196.jpg?v=1736886798"
+    ],
+    "description": "Transform your bath time routine with the Women of Change Bath Balm Bundle by Musee Bath! Each bath bomb is handcrafted with love and empowerment, creating a truly luxurious experience for your self-care rituals. Elevate your mood and support women around the world with every soothing soak.\nSurprise\n - Magnet\ninside each bath balm. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-07-20T13:53:46-05:00"
+  },
+  {
+    "title": "Sweet Orange & Sunflower Shower Steamers",
+    "handle": "sweet-orange-sunflower-shower-steamer",
+    "url": "https://www.museebath.com/products/sweet-orange-sunflower-shower-steamer",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "Shower Steamers",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MTSS002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sweetorangeandsunflowersteamer.jpg?v=1762526128",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0615.jpg?v=1738187901",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2020-11-23at11.18.46AM_587a4513-a9fa-40c3-bce2-8867de18f0c8.png?v=1738187918",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as sweet orange essential oil fills the air and invigorates your senses.",
+    "published_at": "2026-07-14T19:57:56-05:00"
+  },
+  {
+    "title": "Sweet Dreams Bath Balm",
+    "handle": "sweet-dreams-bath-balm",
+    "url": "https://www.museebath.com/products/sweet-dreams-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Maisonette",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": true,
+        "sku": "MBB135R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sweetdreams.jpg?v=1741720637",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sweetdreamsbalm.jpg?v=1741720637",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-03-11_at_2.13.13_PM.png?v=1741720424"
+    ],
+    "description": "Drift into peaceful relaxation with our Sweet Dreams Bath Balm. Watch as calming blue hues swirl in your bath, while the soothing scent of lavender essential oil works its magic to relax your mind and body.\nSurprise\n-\n Keychain inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-07-14T11:58:25-05:00"
+  },
+  {
+    "title": "Breathe Bath Tablets",
+    "handle": "breathe-bath-tabs",
+    "url": "https://www.museebath.com/products/breathe-bath-tabs",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 32.0,
+    "price_max": 32.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "32.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBT001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Apr_22_2026_11_08_08_PM.png?v=1776917325",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-22_at_12.23.17_PM.png?v=1776878657",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-22_at_12.23.33_PM.png?v=1776878652"
+    ],
+    "description": "Meet your new daily ritual.\nThis clean eucalyptus and peppermint bath tablet melts into cooling steam that helps you breathe easier, unwind your body, and clear your mind. Drop it in, take a slow inhale, and let the stress melt away. A few deep breaths later, you’ll step out calmer, clearer, and ready to soak in life. Includes 7 Bath Tablets.",
+    "published_at": "2026-07-09T09:51:51-05:00"
+  },
+  {
+    "title": "Pocketful of Sunshine Bath Balm",
+    "handle": "pocketful-of-sunshine-bath-balm",
+    "url": "https://www.museebath.com/products/pocketful-of-sunshine-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Pocket Full of Sunshine",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB158R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pocketfulofsunshine-cream.jpg?v=1783522669",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pocketfulofsusnhine-creamm.jpg?v=1783522669"
+    ],
+    "description": "Pocketful of Sunshine Bath Balm transforms bath time into a bright, feel-good escape with uplifting notes of juicy tangerine and fresh lemongrass. Drop it into warm water to reveal vibrant fizz, then discover a fun surprise—a flash tattoo hidden inside for an extra dose of sunshine. Perfect for gifting or adding a little joy to your day.",
+    "published_at": "2026-07-08T10:06:08-05:00"
+  },
+  {
+    "title": "Lucy in the Sky with Diamonds Bubbly Bath Soak",
+    "handle": "lucy-in-the-sky-with-diamonds-bubbly-bath-soak",
+    "url": "https://www.museebath.com/products/lucy-in-the-sky-with-diamonds-bubbly-bath-soak",
+    "type": "Bubbly Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Bubbly Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MBBS004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6267-_1.jpg?v=1762525782",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/Lucy_soak_secondary.jpg?v=1738104568",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0524.png?v=1738104593"
+    ],
+    "description": "Dream big and have fun in your bath with our Lucy in the Sky with Diamonds Bubbly Bath Soak! This soak makes 3-4 colorful bubble baths!\nSurprise\n - Galexie Glister™ Body Glitter Capsule inside.",
+    "published_at": "2026-07-06T13:41:45-05:00"
+  },
+  {
+    "title": "Birthday Shower Steamers",
+    "handle": "birthday-shower-steamers",
+    "url": "https://www.museebath.com/products/birthday-shower-steamers",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "Shower Steamers",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTSS010R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/happybirthdaysteamer.jpg?v=1762527287",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2022-12-27at3.14.35PM.webp?v=1738099187",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Showering you with birthday wishes! Treat yourself to a refreshing shower, as festive buttercream and vanilla fragrances fill the air and add a touch of birthday magic to your day.",
+    "published_at": "2026-07-02T14:57:49-05:00"
+  },
+  {
+    "title": "Happy Birthday Bubbly Bath Soak",
+    "handle": "happy-birthday-bubbly-bath-soak",
+    "url": "https://www.museebath.com/products/happy-birthday-bubbly-bath-soak",
+    "type": "Bubbly Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Bubbly Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MBBS001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6266-_1.jpg?v=1762525784",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0527.png?v=1738103350"
+    ],
+    "description": "Make every day feel like your birthday with our Happy Birthday Bubbly Bath Soak! Enjoy a confetti-filled bath as you soak in the sweet scent of cotton candy. Perfect for 3-4 fun, bubbly baths!\nSurprise\n- Ice Cream Popper inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-07-02T14:57:07-05:00"
+  },
+  {
+    "title": "Lavender & Lime Shower Steamers",
+    "handle": "lavender-lime-shower-steamer",
+    "url": "https://www.museebath.com/products/lavender-lime-shower-steamer",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Lavendar",
+      "Lavender",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": false,
+        "sku": "MTSS001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/lavenderandlimesteamer_521a9755-ba23-48dc-8c46-9ce1f72dd38f.png?v=1768584934",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.36_AM.png?v=1776364785",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.54_AM.png?v=1774969784",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09.png?v=1774969784"
+    ],
+    "description": "Relax in a refreshing shower, as lavender essential oil fills the air and calms your senses.",
+    "published_at": "2026-07-02T14:56:18-05:00"
+  },
+  {
+    "title": "Water Lily & Linen Shower Steamers",
+    "handle": "water-lily-linen-shower-steamer",
+    "url": "https://www.museebath.com/products/water-lily-linen-shower-steamer",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "Shower Steamers",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MTSS004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/waterlilynew-steamer_45f4859b-7c4c-4ef1-bb99-31778e4502b5.jpg?v=1776364785",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.36_AM.png?v=1776364785",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as water lily & linen fragrances fill the air and invigorate your senses.",
+    "published_at": "2026-07-02T14:55:53-05:00"
+  },
+  {
+    "title": "Champagne & Rose Shower Steamers",
+    "handle": "champagne-rose-shower-steamers",
+    "url": "https://www.museebath.com/products/champagne-rose-shower-steamers",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Maisonette",
+      "Set",
+      "Shower Steamers",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": false,
+        "sku": "MTSS005R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Champagne_rosesteamer_56bd9c5b-9f8d-41f5-b5c0-dcf2f36ef9e6.jpg?v=1768583356",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.36_AM.png?v=1776364785",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.54_AM.png?v=1774969784",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as champagne and rose essential oil fills the air and invigorates your senses.",
+    "published_at": "2026-07-02T14:55:26-05:00"
+  },
+  {
+    "title": "Eucalyptus & Mint Shower Steamers",
+    "handle": "eucalyptus-mint-shower-steamers",
+    "url": "https://www.museebath.com/products/eucalyptus-mint-shower-steamers",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "Shower Steamers",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": false,
+        "sku": "MTSS003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/eucalyptus-new-teamer-cream.jpg?v=1774968863",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.36_AM.png?v=1776364785",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-03-31_at_9.53.54_AM.png?v=1774969784",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as eucalyptus essential oil fills the air and calms your senses.",
+    "published_at": "2026-07-02T14:54:58-05:00"
+  },
+  {
+    "title": "American Honey Bath Balm",
+    "handle": "american-honey",
+    "url": "https://www.museebath.com/products/american-honey",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB155R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rd_1512x_4435cf5a-390f-4cf3-975d-c3e239026e96.png?v=1781797218",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sfbalm_1512x_1512x_d766c7b5-da3c-4361-8b40-a49823dc4799.png?v=1781797223"
+    ],
+    "description": "American Honey Bath Balm: Sweet, warm, and comforting, our American Honey Bath Balm fizzes into a moisturizing bath experience infused with apricot oil and honey-inspired fragrance. Hidden inside is a nourishing honey lip balm, making this bath balm a thoughtful treat for gifting or self-care.\nSurprise Inside:\n Honey Lip Balm",
+    "published_at": "2026-06-18T10:40:36-05:00"
+  },
+  {
+    "title": "Don't Worry Be Happy Bubbly Bath Soak",
+    "handle": "dont-worry-be-happy-bubbly-bath-soak",
+    "url": "https://www.museebath.com/products/dont-worry-be-happy-bubbly-bath-soak",
+    "type": "Bubbly Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Bubbly Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MBBS003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6268-_1.jpg?v=1762525784",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/dontworry_soak_secondary.jpg?v=1738102411",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0520.png?v=1738102424"
+    ],
+    "description": "Don't worry, be happy with this confetti-filled, mango-scented bubbly bath soak! This soak makes 3-4 colorful bubble baths.\nSurprise\n-\nSmiley Face Squishy inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-06-03T16:40:53-05:00"
+  },
+  {
+    "title": "Eucalyptus & Mint Mini Bath Salt Soak",
+    "handle": "eucalyptus-mint-mini-salt-soak",
+    "url": "https://www.museebath.com/products/eucalyptus-mint-mini-salt-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTBS022R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Eucalyptussoak_1512x_6bd4e225-d1ba-4c82-a121-b623f5556756.png?v=1772829409"
+    ],
+    "description": "Experience the renewal of this Pacific sea salt and Epsom salt bath. Rest in fragrant waters of eucalyptus and mint while shea nut oil hydrates your skin.",
+    "published_at": "2026-06-01T13:51:55-05:00"
+  },
+  {
+    "title": "Champagne & Rose Mini Bath Salt Soak",
+    "handle": "champagne-rose-mini-bath-salt-soak",
+    "url": "https://www.museebath.com/products/champagne-rose-mini-bath-salt-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Maisonette",
+      "Salt Bath",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTBS015R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/champagnecream-bathsalt.jpg?v=1768582796"
+    ],
+    "description": "Experience the renewal of this Pacific sea salt and Epsom salt bath. Rest in fragrant waters of champagne and rose while rosehip oil hydrates your skin.",
+    "published_at": "2026-06-01T13:51:51-05:00"
+  },
+  {
+    "title": "Bamboo & Lotus Mini Bath Soaks",
+    "handle": "bamboo-lotus-mini-bath-soaks",
+    "url": "https://www.museebath.com/products/bamboo-lotus-mini-bath-soaks",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTBS028R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bamboo-bathsalt.jpg?v=1776364321",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-16_at_1.32.57_PM.png?v=1776364392"
+    ],
+    "description": "Introduce a touch of tranquility into your bathing routine with Musee's Bamboo & Lotus Mini Bath Soaks. Infused with the calming scents of bamboo and lotus, these bath salts are designed to create a soothing spa-like experience right in your own home. Each soak is thoughtfully crafted in Mississippi, blending quality ingredients and uplifting fragrances to spark joy and invite rest. Enjoy the beautifully playful packaging, a hallmark of Musee's commitment to creating products that feel good and look good. Turn your everyday bath into a magical moment with Musee.",
+    "published_at": "2026-06-01T13:50:28-05:00"
+  },
+  {
+    "title": "Tiny Dancer Bath Balm",
+    "handle": "tiny-dancer-bath-balm",
+    "url": "https://www.museebath.com/products/tiny-dancer-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": true,
+        "sku": "MBB019R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/TD.jpg?v=1762525803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/tinydancerbalm.jpg?v=1738088085",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/TInyDancerDissolving_4dab3ba5-b25d-4929-ba9f-c6323b2864ed.jpg?v=1738617475",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/TinyDancer_1c88808e-c459-4b05-9f24-47fb3d778bcf.jpg?v=1738617475",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/TinyDancerTreasure.jpg?v=1738617475",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/tinydancer-opened.jpg?v=1738617475",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Savor the sweet aroma of our best-selling \"Tiny Dancer\" Bath Balm as you dance your heart out in your next bath! Made with natural sweet almond oil and orange essential oil, this balm creates beautiful swirls of orange and pink while the gentle scent lingers on your skin long after you're out of the bath.\nSurprise\n -\n Ballerina Toy inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-05-07T12:06:58-05:00"
+  },
+  {
+    "title": "Farmers Market Gift Set",
+    "handle": "farmers-market-gift-set",
+    "url": "https://www.museebath.com/products/farmers-market-gift-set",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 36.0,
+    "price_max": 36.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "36.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MGS113R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0089.jpg?v=1778003162",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0083.jpg?v=1778003161",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/71A0086.jpg?v=1778003166"
+    ],
+    "description": "Bring home the charm of a sun-soaked Saturday morning. Inspired by fresh-picked fruits and simple joys, our\nFarmer’s Market Gift Set\n is a playful collection designed to turn everyday routines into sweet, feel-good moments.\nThis cheerful set includes two nourishing bath balms, a hydrating lip mask, and the cutest gingham scrunchie and strawberry hair clip—perfect for gifting or adding a little whimsy to your self-care ritual.\nFrom bath time to getting ready, it’s a full experience of softness, sweetness, and simple delight.\nWhat’s Inside:\nPeach Bath Balm\nHoneysuckle Bath Balm\nWatermelon Lip Mask\nGingham Scrunchie\nStrawberry Hair Clip",
+    "published_at": "2026-05-05T12:49:59-05:00"
+  },
+  {
+    "title": "Sleep Bath Tablets",
+    "handle": "sleep-bath-tabs",
+    "url": "https://www.museebath.com/products/sleep-bath-tabs",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 32.0,
+    "price_max": 32.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "32.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBT003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_Apr_22_2026_10_54_31_PM.png?v=1776916714",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-22_at_12.23.17_PM.png?v=1776878657",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-22_at_12.23.33_PM.png?v=1776878652"
+    ],
+    "description": "Meet your nighttime wind-down.\nThis calming lavender bath tablet melts into dreamy steam that eases tension, quiets the mind, and gets your body ready for rest. Make it a nightly ritual—drop it in, breathe deep, and let the day drift away. A few peaceful minutes later, you’ll step out softer, sleepier, and ready to soak in the silence. Includes 7 Bath Tablets.",
+    "published_at": "2026-04-22T12:45:55-05:00"
+  },
+  {
+    "title": "Bamboo & Lotus Shower Steamers",
+    "handle": "bamboo-lotus-shower-steamers",
+    "url": "https://www.museebath.com/products/bamboo-lotus-shower-steamers",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTSS026R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bamboosteamer.jpg?v=1776364132",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-16_at_1.29.11_PM.png?v=1776364169"
+    ],
+    "description": "Experience the magic of everyday self-care with Musee's Bamboo & Lotus Shower Steamers. Our shower steamers are designed to spark joy, invite rest, and add a touch of wonder to your daily routine. The soothing scent of bamboo and lotus uplifts your senses, turning an ordinary shower into a spa-like experience. Crafted in Mississippi, these shower steamers are more than just bath products; they are a promise of consistent quality, thoughtful ingredients, and beautifully playful packaging. With Musee, you're not just taking a bath, you're creating an experience.",
+    "published_at": "2026-04-16T13:31:24-05:00"
+  },
+  {
+    "title": "Linen & Honeysuckle Shower Steamers",
+    "handle": "linen-honeysuckle-shower-steamers",
+    "url": "https://www.museebath.com/products/linen-honeysuckle-shower-steamers",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTSS025R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/linen-honeysuckle-steamer.jpg?v=1776363900",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-16_at_1.17.44_PM.png?v=1776363908"
+    ],
+    "description": "Elevate your daily routine with Musee's Linen & Honeysuckle Shower Steamers. Designed to bring a touch of wonder to the everyday, these shower steamers release a soothing blend of linen and honeysuckle fragrances, transforming your shower into a relaxing retreat. Crafted with thoughtful ingredients and beautifully packaged, our steamers are more than just bath products—they're an experience that invites rest and sparks joy. Dive into the Musee magic today.",
+    "published_at": "2026-04-16T13:25:41-05:00"
+  },
+  {
+    "title": "Linen & Honeysuckle Mini Bath Soak",
+    "handle": "linen-honeysuckle-mini-bath-soak",
+    "url": "https://www.museebath.com/products/linen-honeysuckle-mini-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTBS027R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/linenwhite-bathsalt.jpg?v=1776363788"
+    ],
+    "description": "Experience the renewal of this Pacific sea salt and Epsom salt bath. Rest in fragrant waters of linen and honeysuckle while shea nut oil hydrates your skin.\nIngredients: Epsom Salt, Pacific Sea Salt, Shea Nut Oil, Lemon Essential Oil, Fragrance Oil.",
+    "published_at": "2026-04-16T13:23:22-05:00"
+  },
+  {
+    "title": "Gingham Three Bath Balm Set",
+    "handle": "gingham-three-balm-set",
+    "url": "https://www.museebath.com/products/gingham-three-balm-set",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 32.0,
+    "price_max": 32.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "32.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MGS114R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0658-gingham.jpg?v=1776093972",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-13_at_9.34.07_AM.png?v=1776093972",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-13_at_9.34.19_AM.png?v=1776093972"
+    ],
+    "description": "Indulge in the magic of Musee's Gingham Three Balm Set. Crafted in Mississippi, this trio of bath balms transforms your everyday bath routine into a whimsical experience. Each balm is thoughtfully designed to spark joy, invite rest, and add a touch of wonder. The uplifting fragrances and playful packaging are sure to delight, while the quality ingredients ensure a soothing soak. This set is more than a bath product, it's a moment of joy, making it an effortless gift that keeps your customers coming back. With Musee, you're always bathing the world in love.",
+    "published_at": "2026-04-13T10:26:04-05:00"
+  },
+  {
+    "title": "Let The Good Times Roll Bath Balm",
+    "handle": "let-the-good-times-roll-bath-balm",
+    "url": "https://www.museebath.com/products/let-the-good-times-roll-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": true,
+        "sku": "MBB129R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ltgtr.jpg?v=1738088168",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/letthegoodtimesroll.gif?v=1738104037",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/letthegoodtimesroll-unwrapped.jpg?v=1738104038",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Settle in for a good soak and let the good times roll with this vibrant bath balm! Swirling aromas of magnolia and bergamot fill the air, boosting your mood and leaving you ready to skate through the day. As the bath balm dissolves, discover a fun roller skate keychain inside for an extra touch of joy!\nSurprise\n- Roller Skate Keychain Inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-04-10T07:26:08-05:00"
+  },
+  {
+    "title": "Silly Goose Boxed Balm",
+    "handle": "silly-goose-boxed-balm",
+    "url": "https://www.museebath.com/products/silly-goose-boxed-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB153R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sillygoose_cream.jpg?v=1774626432"
+    ],
+    "description": "Elevate your everyday bath routine with our Silly Goose Boxed Balm from Musee. This Mississippi-made beauty staple transforms your bath into a soothing, fizz-filled oasis. Immerse in the magical explosion of effervescence and let the uplifting fragrances awaken your senses. This balm doesn't just look good, it's also crafted with thoughtful ingredients designed to make your skin feel good. Bathe the world in love with our Silly Goose Boxed Balm and turn a mundane bath into a moment of joy.",
+    "published_at": "2026-03-27T11:35:30-05:00"
+  },
+  {
+    "title": "Champagne & Rose Soy Candle",
+    "handle": "champagne-rose-soy-candle",
+    "url": "https://www.museebath.com/products/champagne-rose-soy-candle",
+    "type": "Soy Candle",
+    "vendor": "Musee Bath",
+    "tags": [
+      "candle",
+      "Soy Candle",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": "30.00",
+        "available": true,
+        "sku": "MTC004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_6ad1e2c1-6e36-42a0-a06d-021a876aa5c6.jpg?v=1782829664",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/candle-blue_199a900c-974d-457a-8c2e-614d4f0ba143.gif?v=1782829664",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Cropped_Again_Candle_096d6d99-4aa8-41cc-833a-67027696f182.jpg?v=1782829664"
+    ],
+    "description": "Fresh roses and freesia paired with celebratory notes of champagne. Housed in a colorful glass vessel, this candle brings a radiant glow and a cheerful ambiance to your home.\nQuote inside box: \"Let a light shine out of darkness.\" -II Corinthians 4:6",
+    "published_at": "2026-03-25T20:17:26-05:00"
+  },
+  {
+    "title": "Just Breathe Therapy Bath Balm",
+    "handle": "just-breathe-bath-balm",
+    "url": "https://www.museebath.com/products/just-breathe-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Eucalyptus",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bath Balms"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTB004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ChatGPT_Image_May_7_2026_12_27_32_PM.png?v=1778174873"
+    ],
+    "description": "Soothe yourself in a vitamin-filled bath and find comfort as eucalyptus waters restore your fatigued body.",
+    "published_at": "2026-03-13T11:22:43-05:00"
+  },
+  {
+    "title": "Just Breathe Therapy Bath Soak",
+    "handle": "just-breath-bath-soak",
+    "url": "https://www.museebath.com/products/just-breath-bath-soak",
+    "type": "Therapy Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bath Soak"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MTBS009R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/justbreathe-salt.jpg?v=1762525752",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6335.jpg?v=1737565937",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.25.43_PM.png?v=1738617991",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.25.42_PM.png?v=1738617991",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/salts.jpg?v=1738618099"
+    ],
+    "description": "Soothe yourself in a vitamin-filled bath and find comfort as eucalyptus waters restore your fatigued body.",
+    "published_at": "2026-03-13T11:22:43-05:00"
+  },
+  {
+    "title": "Dreamweaver Therapy Bath Balm",
+    "handle": "dreamweaver-bath-balm",
+    "url": "https://www.museebath.com/products/dreamweaver-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Lavender",
+      "Therapy Bath Balms"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MTB002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/dreamweaverbalm.jpg?v=1762525734",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage6.jpg?v=1737663128",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-01-23_at_2.04.50_PM.png?v=1737663128",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6511.jpg?v=1737663128"
+    ],
+    "description": "Lull yourself to sleep with the soothing waters of calming chamomile and lavender oil- a wonderful way to end the day.",
+    "published_at": "2026-03-13T11:22:43-05:00"
+  },
+  {
+    "title": "Forever Young Therapy Bath Balm",
+    "handle": "forever-young-bath-balm",
+    "url": "https://www.museebath.com/products/forever-young-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Therapy Bath Balms"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": false,
+        "sku": "MTB003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/foreveryoung.jpg?v=1762525734"
+    ],
+    "description": "Experience the renewal of a jasmine and lemongrass bath as rosehip and jojoba oils bring youthful clarity to tired, dull skin.",
+    "published_at": "2026-03-13T11:22:43-05:00"
+  },
+  {
+    "title": "Princess Poppy Boxed Balm",
+    "handle": "poppy-princess-boxed-balm",
+    "url": "https://www.museebath.com/products/poppy-princess-boxed-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "bath balm",
+      "boxed",
+      "Boxed Bath Balm",
+      "new",
+      "pink",
+      "poppy",
+      "princess",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB073R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MUSEE-BATH-FALL21-poppy-Indigo-Princess-Bath-Balm_1.jpg?v=1762526225",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-07-27at12.41.41PM.png?v=1738263715",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Create the most enchanting bath time with Princess Poppy! As you soak in the swirls of pink waters, pretend you are a princess too! Discover a magical ring when the bath balm dissolves. Try all of our Musee Princess Bath Balms to collect all of the special treasures inside.\nSurprise\n -\nPrincess Ring inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-03-13T11:12:06-05:00"
+  },
+  {
+    "title": "Princess Lily Boxed Balm",
+    "handle": "princess-lily-boxed-balm",
+    "url": "https://www.museebath.com/products/princess-lily-boxed-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "balm",
+      "bath balm",
+      "boxed",
+      "Boxed Bath Balm",
+      "new",
+      "princess",
+      "Purple",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB072R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MUSEE-BATH-FALL21-lily-Indigo-Princess-Bath-Balm_1.jpg?v=1762526230",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-07-27at12.41.41PM_22465a08-7898-467c-946d-17e89cfb3cfd.png?v=1738263640",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Create the most enchanting bath time with Princess Lily! As you soak in the swirls of lavender waters, pretend you are a princess too! Discover a magical ring when the bath balm dissolves. Try all of our Musee Princess Bath Balms to collect all of the special treasures inside.\nSurprise\n -\nPrincess Ring inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-03-13T09:11:58-05:00"
+  },
+  {
+    "title": "Princess Evie Boxed Balm",
+    "handle": "princess-evie-boxed-balm",
+    "url": "https://www.museebath.com/products/princess-evie-boxed-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "balm",
+      "Bath balm",
+      "Boxed",
+      "Boxed Bath Balm",
+      "Evie",
+      "Green",
+      "Princess",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB074R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MUSEE-BATH-FALL21-evie-Indigo-Princess-Bath-Balm_1.jpg?v=1762526228",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-07-27at12.41.41PM_19a286f9-bbeb-4080-90dd-6a258d5b5e42.png?v=1738263501",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Create the most enchanting bath time with Princess Evie! As you soak in the swirls of emerald waters, pretend you are a princess too! Discover a magical ring when the bath balm dissolves. Try all of our Musee Princess Bath Balms to collect all of the special treasures inside.\nSurprise\n -\nPrincess Ring inside\n.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-03-13T09:10:40-05:00"
+  },
+  {
+    "title": "Slow it Down Therapy Bath Soak",
+    "handle": "slow-it-down-therapy-bath-soak",
+    "url": "https://www.museebath.com/products/slow-it-down-therapy-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTBS030R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/slowitdown-cream.jpg?v=1772214965",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-02-27_at_11.46.24_AM.png?v=1772214396"
+    ],
+    "description": "A soothing bath salt soak with mineral salts, jojoba and argan oils, and calming chamomile —\nfinished with a soft water lily and linen fragrance to help you unwind.\nIngredients: Epsom Salt, Pacific Sea Salt, Jojoba Oil, Argan Oil, Vitamin Soak, Chamomile Essential Oil, Fragrance Oil.",
+    "published_at": "2026-02-27T11:59:29-06:00"
+  },
+  {
+    "title": "Take it Easy Bath Soak",
+    "handle": "take-it-easy-bath-soak",
+    "url": "https://www.museebath.com/products/take-it-easy-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MTBS029R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/takeiteasy-cream.jpg?v=1772214374",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-02-27_at_11.46.24_AM.png?v=1772214396"
+    ],
+    "description": "A calming and restoring soak with mineral salts, French green clay, and tea tree essential oil to refresh the body and help you take it easy.\nIngredients: Epsom Salt, Pacific Sea Salt, Jojoba Oil, Tea Tree Essential Oil, French Green Clay, Fragrance Oil.",
+    "published_at": "2026-02-27T11:51:36-06:00"
+  },
+  {
+    "title": "Bunny Box Trio",
+    "handle": "bunny-box-trio-1",
+    "url": "https://www.museebath.com/products/bunny-box-trio-1",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bunnytrio-cream_1.jpg?v=1741300278",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9783_1_4fad9ee8-76ba-481d-870d-af2ab9f88bcc.jpg?v=1741300278",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9786_1_9b4a59d0-2579-4a3f-9124-ab9f89cdcf87.jpg?v=1741300278"
+    ],
+    "description": "Get all three of our best selling Easter Bunny Bath Balms! These are packed with grapefruit essential oil and smell deliciously sweet. Each 8 oz. bath balm comes with a special surprise inside!",
+    "published_at": "2026-02-20T10:04:00-06:00"
+  },
+  {
+    "title": "Green  Bunny Boxed Bath Balm",
+    "handle": "green-bunny-boxed-balm",
+    "url": "https://www.museebath.com/products/green-bunny-boxed-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 6.0,
+    "price_max": 6.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "6.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB105R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bunny-green-cream.jpg?v=1762527400",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A3320.png?v=1741300099",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bunny-green-cream_4905ce08-7a26-4635-b7f4-fa3054996bef.jpg?v=1742481343"
+    ],
+    "description": "Hippity hop into beautiful pastel waters of a grapefruit essential oil filled bath. Find joy and inspiration with the newness of spring as you relax in a bath that will leave you feeling cheerful.\nSurprise\n - Easter Treasure inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-02-20T10:03:41-06:00"
+  },
+  {
+    "title": "Pink Bunny Boxed Bath Balm",
+    "handle": "pink-bunny-boxed-bath-balm",
+    "url": "https://www.museebath.com/products/pink-bunny-boxed-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB028R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pink-ginghambunnt_756044e9-a1b7-454b-b069-f868259da362.jpg?v=1762526151",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0567.jpg?v=1743711817",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9783_1.jpg?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9786_1.jpg?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Hippity hop into beautiful pastel waters of a grapefruit essential oil filled bath. Find joy and inspiration with the newness of spring as you relax in a bath that will leave you feeling cheerful.\nSurprise\n - Easter Treasure inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2026-02-20T10:03:22-06:00"
+  },
+  {
+    "title": "Golden Egg Mini Bath Balm Set",
+    "handle": "golden-egg-three-bath-balm-set",
+    "url": "https://www.museebath.com/products/golden-egg-three-bath-balm-set",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MGS094R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MGS0946.jpg?v=1741378677",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7747.jpg?v=1743709978",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/museephotospring2025-14.jpg?v=1743709978",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7643.jpg?v=1743709978",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A5088.jpg?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Celebrate springtime with these fun Easter bath balms! Enjoy pastel colored waters and delightful fragrances that evoke the joy of Easter.\nSurprise\n-\nEaster Erasers inside.\n *Treasures are subject to change based on availability*",
+    "published_at": "2026-02-12T14:14:53-06:00"
+  },
+  {
+    "title": "You're Out Of This World Bath Balm",
+    "handle": "you-are-out-of-this-world-bath-balm",
+    "url": "https://www.museebath.com/products/you-are-out-of-this-world-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB044R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/Astro.jpg?v=1762525787",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A4609__90088.1580495013.jpg?v=1603981294",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2020-06-08at4.35.13PM.png?v=1603981294"
+    ],
+    "description": "Elevate your bath time routine with our You're Out Of This World Bath Balm from Musee Bath. Transform your tub into a celestial oasis with bursts of vibrant hues and soothing scents. Let your inner astronaut explore the cosmos while indulging in a luxurious spa experience like no other.\nSurprise\n-\nTattoo inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2026-02-12T14:11:32-06:00"
+  },
+  {
+    "title": "Black Amber & Bergamot Shower Steamers",
+    "handle": "black-amber-bergamot-shower-steamers",
+    "url": "https://www.museebath.com/products/black-amber-bergamot-shower-steamers",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTSS023R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/BLACKAMBER_1.jpg?v=1767634531"
+    ],
+    "description": "Shower Steamers – 4 Count\nTurn an everyday shower into a grounding ritual. Black Amber & Bergamot Shower Steamers are designed to release a rich, invigorating aroma as steam rises—no bath required. Made with sodium bicarbonate and citric acid for a slow, steady fizz, each steamer fills the shower with warm notes of black amber balanced by bright, citrusy bergamot essential oil.\nEarthy, clean, and quietly bold, this scent is crafted for moments of focus, reset, and calm—whether starting the day or unwinding at night.\nIngredients:\nSodium Bicarbonate, Citric Acid, Fragrance Oil, Bergamot Essential Oil.\nDetails:\nWarm black amber fragrance with bright bergamot\nDesigned for use in the shower\nHandmade in the USA\nParaben, sulfate & cruelty free\nNot tested on animals\n4 shower steamers per box\nHow to use:\nLet your shower fill with steam. Place one steamer on the shower floor just outside the direct stream of water. As it fizzes, breathe deeply and enjoy the aroma.",
+    "published_at": "2026-02-03T09:55:41-06:00"
+  },
+  {
+    "title": "Baby Shark Bath Balm",
+    "handle": "baby-shark-bath-balm",
+    "url": "https://www.museebath.com/products/baby-shark-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB022R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/babysharkbalm.jpg?v=1762525792",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/babayshark.png?v=1738017585",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Dive into an ocean of fun with our Baby Shark Bath Balm! Sing along to the catchy tune of your child's favorite song as the tub transforms into a sea of colorful swirls. Enriched with gentle ingredients like coconut oil and aloe vera, this bath balm creates a magical bath time experience for kids of all ages!\nSurprise\n-\nToy Shark inside.\n *Treasures are subject to change, based on availability*",
+    "published_at": "2026-02-03T09:38:28-06:00"
+  },
+  {
+    "title": "Palo Santo & Sage Shower Steamer",
+    "handle": "palo-santo-sage-shower-steamer",
+    "url": "https://www.museebath.com/products/palo-santo-sage-shower-steamer",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MTSS017R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/palosanto-steamers-crea.jpg?v=1730749028",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.13.11_PM.png?v=1730749034",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.09.02_PM.png?v=1738269904",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as palo santo essential oil fills the air and invigorates your senses.",
+    "published_at": "2026-01-15T11:47:05-06:00"
+  },
+  {
+    "title": "Sweet Thing Bath Balm",
+    "handle": "sweet-thing-bath-balm",
+    "url": "https://www.museebath.com/products/sweet-thing-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB150R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sweething-wrapped.jpg?v=1768582906",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot2025-12-16at1.48.05PM.png?v=1768582906"
+    ],
+    "description": "Surprise Bath Balm – Sweet Pea Fragrance\nBright, happy, and full of charm.\nSweet Thing is a soft pink surprise bath balm with a cheerful sweet pea fragrance and uplifting bergamot essential oil. As it dissolves, a sweet keychain surprise is revealed—adding a little extra delight to every soak.\nMade with skin-loving ingredients and designed to bring a smile, Sweet Thing is perfect for gifting, celebrations, or everyday moments that deserve a touch of joy.\nWhy you’ll love it:\nKeychain surprise inside\nSunflower fragrance\nBergamot essential oil\nHandmade in the USA\nParaben, sulfate & cruelty free\nHow to use:\nFill the tub, drop in the balm, and soak in life.\nSodium Bicarbonate, Citric Acid, Apricot Oil, Fragrance Oil, Bergamot Essential Oil, Coloreze.",
+    "published_at": "2026-01-14T16:32:41-06:00"
+  },
+  {
+    "title": "Candy Heart Shower Steamer",
+    "handle": "candy-heart-shower-steamer",
+    "url": "https://www.museebath.com/products/candy-heart-shower-steamer",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 6.3,
+    "price_max": 6.3,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "6.30",
+        "compare_at_price": "9.00",
+        "available": true,
+        "sku": "MTSS024R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/singlesteamer-web.jpg?v=1768582753"
+    ],
+    "description": "Turn your everyday shower into a feel-good ritual. This Sweet Pea Shower Steamer is crafted with sodium bicarbonate and citric acid to gently fizz as steam rises, releasing a bright, cheerful blend of sweet pea fragrance and uplifting tangerine essential oil.\nDesigned for those moments when you need a little pick-me-up, the aromatic steam fills the shower and refreshes your senses—no bath required.\nPerfect for gifting, self-care days, or a simple reminder to slow down and breathe.\nIngredients:\nSodium Bicarbonate, Citric Acid, Fragrance Oil, Tangerine Essential Oil.\nDetails:\nSweet pea fragrance\nInfused with tangerine essential oil\nHandmade in the USA\nParaben, sulfate & cruelty free\nNot tested on animals\n4 oz\nHow to use:\nLet your shower fill with steam. Place the steamer on the shower floor just outside of the direct water stream. As it fizzes, breathe deeply and enjoy the aroma.",
+    "published_at": "2026-01-14T16:31:39-06:00"
+  },
+  {
+    "title": "Wild Poppy & Peony Luxe Bath Balm",
+    "handle": "wild-poppy-peony-luxe-bath-balm",
+    "url": "https://www.museebath.com/products/wild-poppy-peony-luxe-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB152R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/wildpoppyluxebalm-cream.jpg?v=1768584663"
+    ],
+    "description": "Bath Balm with Body Melt\nRelax into a beautifully indulgent bath with Wild Poppy & Peony. This floral bath balm is made with sodium bicarbonate and citric acid for a gentle fizz, blended with olive oil to help soften and condition skin. Fragrance and geranium essential oil create a fresh, romantic scent inspired by blooming poppies and peonies.\nInside, a luxurious body melt made with cocoa butter and shea butter slowly dissolves in the bath—or can be applied directly to skin for extra hydration—leaving skin feeling nourished, smooth, and deeply moisturized.\nThoughtfully crafted for moments when your body needs a little extra care.\nBath Balm Ingredients:\nSodium Bicarbonate, Citric Acid, Olive Oil, Fragrance, Geranium Essential Oil.\nBody Melt Ingredients:\nCocoa Butter, Shea Butter, Sodium Bicarbonate, Citric Acid, Guar Gum, Jojoba Oil.\nDetails:\nFloral poppy & peony fragrance\nIncludes hydrating body melt\nHandmade in the USA\nSulfate, paraben & cruelty free\nNo artificial dyes\n8 oz\nHow to use:\nDrop bath balm into warm water and allow it to fizz. Let the body melt dissolve in the bath or apply directly to skin for added hydration. Soak in life.",
+    "published_at": "2026-01-14T16:31:09-06:00"
+  },
+  {
+    "title": "Water Lily & Linen Mini Bath Soak",
+    "handle": "water-lily-linen-mini-bath-soak",
+    "url": "https://www.museebath.com/products/water-lily-linen-mini-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MTBS026R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/waterlilywhite-bathsalt_e9083751-bd59-4f75-a028-75af0ab620f9.jpg?v=1776364807",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2026-04-16_at_1.32.57_PM.png?v=1776364392"
+    ],
+    "description": "Slip into a quiet moment of calm. Our Water Lily & Linen Bath Salt Soak blends mineral-rich Pacific sea salt and Epsom salt to help ease tension and soften skin, while delicate notes of fresh water lily and clean linen create a light, airy escape. Enriched with nourishing oils, this soak transforms your bath into a restorative ritual—perfect for unwinding, resetting, and soaking in life’s simple pleasures.\nWhy you’ll love it\nHelps relax tired muscles and refresh the body\nLeaves skin feeling soft, hydrated, and renewed\nA clean, spa-like scent that feels fresh and timeless\nHow to use\nPour desired amount into warm running bath water. Soak, breathe deeply, and enjoy the moment.\nGentle, beautiful, and made for everyday rituals of care.",
+    "published_at": "2026-01-14T16:04:46-06:00"
+  },
+  {
+    "title": "Cedarwood & Leather Shower Steamer",
+    "handle": "cedarwood-leather-shower-steamer",
+    "url": "https://www.museebath.com/products/cedarwood-leather-shower-steamer",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MTSS016R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/cedarwood-steamers-cream.jpg?v=1730748830",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.09.09_PM.png?v=1738269871",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.08.40_PM.png?v=1738269839",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as cedarwood essential oil fills the air and invigorates your senses.",
+    "published_at": "2026-01-07T09:59:05-06:00"
+  },
+  {
+    "title": "Bourbon & Sandalwood Shower Steamer",
+    "handle": "bourbon-sandalwood-shower-steamer",
+    "url": "https://www.museebath.com/products/bourbon-sandalwood-shower-steamer",
+    "type": "Shower Steamer",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": false,
+        "sku": "MTSS018R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bourbon-steamer-cream.jpg?v=1730748705",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.09.05_PM.png?v=1738269823",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-11-04_at_1.08.40_PM.png?v=1738269839",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template-lavendersteamer-09_9fde25ff-2abc-47cd-adee-89d83a6bfd52.png?v=1776364785"
+    ],
+    "description": "Relax in a refreshing shower, as sandalwood essential oil fills the air and invigorates your senses.",
+    "published_at": "2026-01-07T09:54:23-06:00"
+  },
+  {
+    "title": "Dreamer Bath Balm Bundle",
+    "handle": "dreamer-bath-balm-bundle",
+    "url": "https://www.museebath.com/products/dreamer-bath-balm-bundle",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 30.0,
+    "price_max": 30.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MGS048R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A9201_1.png?v=1762526178",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-04-26at8.24.49AM_d53c21aa-fb1c-464e-bb3d-050747ff19f4.png?v=1619444333",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/moondance-gray_df8a1d66-7b80-4d24-bac0-9af6b85e135e.jpg?v=1619444348",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/daydreamer-gray_190568e5-1a88-425e-8070-443da8c08c20.jpg?v=1619444350",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/magicmoment-gray_159d3de2-43ab-4970-8e44-53ad3d13805d.jpg?v=1619444352"
+    ],
+    "description": "Immerse yourself in relaxation with our curated collection designed to inspire dreams and serenity during your bath time rituals.\nIngredients:\n Sodium Bicarbonate, Citric Acid, Avocado Oil, Tangerine Essential Oil; Cucumber Botanical Extract; Fragrance Oil; Coloreze.",
+    "published_at": "2025-12-11T15:31:11-06:00"
+  },
+  {
+    "title": "Happy Birthday Bath Balm",
+    "handle": "happy-birthday-bath-balm",
+    "url": "https://www.museebath.com/products/happy-birthday-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": false,
+        "sku": "MBB010R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/HBD.jpg?v=1762525817",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/happybirthdayblue.jpg?v=1738103324",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/happybirthday.gif?v=1738103324",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A2093.jpg?v=1738103324",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Make every day feel like it's your birthday with a confetti-filled bath! Relax in the sweet aroma of cotton candy as our Happy Birthday Bath Balm turns your tub into a festive self-care celebration.\nSurprise\n- Birthday\nCandle inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-12-08T14:21:32-06:00"
+  },
+  {
+    "title": "On The Farm Bath Balm Set",
+    "handle": "on-the-farm-bath-balm-set",
+    "url": "https://www.museebath.com/products/on-the-farm-bath-balm-set",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 34.0,
+    "price_max": 34.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "34.00",
+        "compare_at_price": "34.00",
+        "available": false,
+        "sku": "MGS082R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/onthefarm.jpg?v=1709231039",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/onthefarm-opened.jpg?v=1709231039",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/onthefarm.gif?v=1709231030"
+    ],
+    "description": "Our On The Farm Bath Balm Set transports children to the heart of the countryside with every fizz and color! Each bath balm in this charming set is crafted with care, featuring a blend of apricot oil and tea tree essential oil, leaving little ones' skin feeling soft and gently cleansed.\nSurprise\n - Farm Animals\n inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2025-11-07T16:25:46-06:00"
+  },
+  {
+    "title": "Peppermint & Rosemary Mini Bath Salt Soak",
+    "handle": "peppermint-rosemary-mini-bath-salt-soak",
+    "url": "https://www.museebath.com/products/peppermint-rosemary-mini-bath-salt-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette"
+    ],
+    "price_min": 10.0,
+    "price_max": 10.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "10.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTBS021R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/peppermintsoakbathsalt.jpg?v=1730403327",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A1671.jpg?v=1730404861",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-10-03_at_10.40.01_AM.png?v=1730404857",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/lifestyle-holidayseries16_3_997d008f-2d06-42f7-9282-b7a2a3d96823.jpg?v=1730404861"
+    ],
+    "description": "Experience the renewal of this Pacific sea salt and Epsom salt bath. Rest in fragrant waters of peppermint and rosemary while peppermint essential oil calms your body.",
+    "published_at": "2025-10-08T09:08:00-05:00"
+  },
+  {
+    "title": "Strawberry Fields Forever Bath Balm",
+    "handle": "strawberry-fields-forever-bath-balm",
+    "url": "https://www.museebath.com/products/strawberry-fields-forever-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Maisonette",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": true,
+        "sku": "MBB136R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/strawberryfields.jpg?v=1741720415",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/sfbalm.jpg?v=1741720415",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-03-11_at_2.13.13_PM.png?v=1741720424"
+    ],
+    "description": "Indulge in the sweet, fruity aroma of our Strawberry Fields Forever Bath Balm. Juniper berry essential oil blends with fresh strawberry fragrance to refresh your senses, while soft pink hues swirl around you.\nSurprise\n-\n Lip Scrub inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-07-16T12:13:44-05:00"
+  },
+  {
+    "title": "Doll House Bath Balm Set",
+    "handle": "doll-house-bath-balm-set",
+    "url": "https://www.museebath.com/products/doll-house-bath-balm-set",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 44.0,
+    "price_max": 44.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "44.00",
+        "compare_at_price": "44.00",
+        "available": false,
+        "sku": "MGS057R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/dollhouse.jpg?v=1696990885",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/dollhouseopened.jpg?v=1696990885",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/dollhouse-interior.jpg?v=1738102264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/museespringshoot153.jpg?v=1738102277",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/dollhouse-interior2.jpg?v=1738102290",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/museespringshoot83.jpg?v=1738102302",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Use your imagination with this adorable abode! Fill the rooms with Musee peg doll friends that you’ll find nestled in each of the 4 bath balms! This doll house box features four colorful bath balms tucked away into a kitchen, living room, bedroom and bathroom!\nSurprise\n-\nFamily of Peg Dolls inside.\n *Treasures are subject to change based on availability*",
+    "published_at": "2025-04-08T08:43:48-05:00"
+  },
+  {
+    "title": "Fresh Bamboo Luxe Bath Balm",
+    "handle": "fresh-bamboo-luxe-bath-balm",
+    "url": "https://www.museebath.com/products/fresh-bamboo-luxe-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": false,
+        "sku": "MBB143R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/FreshBamboo-Cream.jpg?v=1738782053",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-03-24_at_3.50.56_PM.jpg?v=1742920043",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0368.jpg?v=1743709852",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7408.jpg?v=1743709839",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0398.jpg?v=1743709839"
+    ],
+    "description": "Relax with this bamboo and lotus bath balm infused with a luxurious bath melt.\nSurprise\n - Bath Melt inside. *Compacted oils for the most moisturizing bath experience.\nBath melt will dissolve in water or can be applied to skin for ultimate hydration*",
+    "published_at": "2025-03-25T08:00:10-05:00"
+  },
+  {
+    "title": "Blooming Lily Luxe Bath Balm",
+    "handle": "blooming-lily-luxe-bath-balm",
+    "url": "https://www.museebath.com/products/blooming-lily-luxe-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MBB142R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/BloomingLily-Cream.jpg?v=1738781697",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-03-24_at_3.50.56_PM.jpg?v=1742920043",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7408.jpg?v=1743709839",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0398.jpg?v=1743709839"
+    ],
+    "description": "Relax with this lily and lavender bath balm infused with a luxurious bath melt.\nSurprise\n - Bath Melt inside. *Compacted oils for the most moisturizing bath experience.\nBath melt will dissolve in water or can be applied to skin for ultimate hydration*",
+    "published_at": "2025-03-25T08:00:10-05:00"
+  },
+  {
+    "title": "Sweet Paloma Luxe Bath Balm",
+    "handle": "sweet-paloma-luxe-bath-balm",
+    "url": "https://www.museebath.com/products/sweet-paloma-luxe-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MBB144R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MBB144r.jpg?v=1742920043",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-03-24_at_3.50.56_PM.jpg?v=1742920043",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7408.jpg?v=1743709839",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_0398.jpg?v=1743709839"
+    ],
+    "description": "Relax with this grapefruit and lime bath balm infused with a luxurious bath melt.\nSurprise\n - Bath Melt inside. *Compacted oils for the most moisturizing bath experience.\nBath melt will dissolve in water or can be applied to skin for ultimate hydration*",
+    "published_at": "2025-03-25T08:00:09-05:00"
+  },
+  {
+    "title": "Groovy Van Bath Balm",
+    "handle": "groovy-van-bath-balm",
+    "url": "https://www.museebath.com/products/groovy-van-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB140R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/groovyvan-cream.jpg?v=1738781184",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7612.jpg?v=1743708973",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7605.jpg?v=1743708983",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-01-03_at_12.20.48_PM.png?v=1743709705",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Get ready to groove with our Groovy Bath Balm! Packed with a blend of soothing natural and essential oils, this balm transforms your bath into a blissful retreat.\nSurprise\n - Body Glitter inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-03-17T09:00:01-05:00"
+  },
+  {
+    "title": "Daisy Bath Balm",
+    "handle": "daisy-bath-balm",
+    "url": "https://www.museebath.com/products/daisy-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB139R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/daisy-cream.jpg?v=1738780945",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7600.jpg?v=1743709623",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7691.jpg?v=1743709633",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-01-03_at_12.20.48_PM.png?v=1743709705",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Perfect for a self-care moment or a thoughtful gift, this springtime bath balm adds a splash of whimsy and joy to your bath! Relax in restoring waters as natural and essential oils nourish your skin.\nSurprise\n - Honey Lip Balm inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-03-17T09:00:01-05:00"
+  },
+  {
+    "title": "Cowgirl Bath Balm",
+    "handle": "cowgirl-bath-balm",
+    "url": "https://www.museebath.com/products/cowgirl-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB137R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MBB137R-_cream.jpg?v=1736299906",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7756.jpg?v=1743709722",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A7775.jpg?v=1743709732",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-01-03_at_12.20.48_PM.png?v=1743709705",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Kick off your boots and pamper yourself with our Cowgirl Bath Balm. Infused with nourishing shea nut oil and sweet citrus scent, this bath balm hydrates and softens your skin, leaving you feeling refreshed and ready to take on the day.\nSurprise\n - Boot Keychain inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-03-17T09:00:01-05:00"
+  },
+  {
+    "title": "Cowboy Bath Balm",
+    "handle": "cowboy-bath-balm",
+    "url": "https://www.museebath.com/products/cowboy-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB138R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/MBB138R-_cream.jpg?v=1736299708",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-01-03_at_12.20.48_PM.png?v=1743709705",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Saddle up for a soothing experience with our Cowboy Bath Balm. Infused with natural oils and a rich, woodsy scent of cedarwood and leather, this balm will leave your skin feeling fresh and moisturized.\nSurprise\n - Boot Keychain inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2025-03-17T09:00:01-05:00"
+  },
+  {
+    "title": "Ice Cream Truck",
+    "handle": "ice-cream-truck",
+    "url": "https://www.museebath.com/products/ice-cream-truck",
+    "type": "Gift Set",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 34.0,
+    "price_max": 34.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "34.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MGS081R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/icecream-1.jpg?v=1709231289",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/icecream-opened.jpg?v=1709231349",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/icecream-front.jpg?v=1709231349",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/icecream-truck.gif?v=1709231290",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A0445.jpg?v=1740065138",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A0404_1.jpg?v=1740065174",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921"
+    ],
+    "description": "I scream, you scream, we all scream for ice cream! This set features two sugar and vanilla cream scented bath balms, lip gloss, hair clips, and a fun hair tie!\nTreasure Inside\n -\nLip Gloss, Hair Tie, and Ice Cream Hair Clips inside.\n*Treasures may change based on availability*",
+    "published_at": "2025-02-19T10:20:47-06:00"
+  },
+  {
+    "title": "Take Me Out to the Ballgame Bath Balm",
+    "handle": "take-me-out-to-the-ballgame-bath-balm",
+    "url": "https://www.museebath.com/products/take-me-out-to-the-ballgame-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Baseball",
+      "Bath Balm",
+      "Originals Bath Balms",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Summer"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "MBB089R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/takemeouttotheballgame.jpg?v=1762526372",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/takemeouttotheballgame.gif?v=1696964917",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/takemeouttotheballgamebalm.jpg?v=1696964917",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A9094.jpg?v=1696619608",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2022-06-08at8.51.36AM_5ac8ecf5-e0c3-4c39-ab83-66340ec6fc8a.png?v=1696619608",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "Take us out to the ballpark with this sporty bath balm! The uplifting scent of eucalyptus awakens your senses, leaving you feeling refreshed and revitalized as you soak in vibrant swirls of blue. Don't forget to keep an eye out for the surprise hidden inside – it's sure to be a hit with fans of all ages!\nSurprise\n -\nBaseball Bouncy Ball inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2025-02-11T16:16:05-06:00"
+  },
+  {
+    "title": "Blue Towel Hair Wrap",
+    "handle": "blue-hair-wrap",
+    "url": "https://www.museebath.com/products/blue-hair-wrap",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 20.0,
+    "price_max": 20.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "20.00",
+        "compare_at_price": "20.00",
+        "available": true,
+        "sku": "HAIRWRAP002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/blue-hairwrap.jpg?v=1735941151",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/hairwrap-blue.jpg?v=1735941151",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/hairwraps_1.jpg?v=1738183111",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/HairWrap.heic?v=1738621433"
+    ],
+    "description": "Use this microfiber and terry cloth hair wrap to gently pull moisture from your hair and significantly reduce drying time, while leaving your lovely locks feeling soft and smooth. Packaged in an adorable reusable Musee cosmetic bag.",
+    "published_at": "2025-01-03T15:53:05-06:00"
+  },
+  {
+    "title": "Rainbow Connection Bubbly Bath Soak",
+    "handle": "rainbow-connection-bubbly-bath-soak-copy",
+    "url": "https://www.museebath.com/products/rainbow-connection-bubbly-bath-soak-copy",
+    "type": "Bubbly Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Bubbly Bath Soak",
+      "Connection",
+      "Maisonette",
+      "Rainbow",
+      "Rainbow Connection",
+      "Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MBBS005R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A0088.jpg?v=1738188583",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0082.png?v=1738188595",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0114.png?v=1738188616"
+    ],
+    "description": "Enjoy bubbly waters as you let your mind drift off to dream with our Rainbow Connection Bubbly Bath Soak. Discover the magic of a rainbow as colorful confetti floats through this refreshing soak! This soak makes 3-4 colorful bubble baths.\nSurprise\n -\nSquishy Rainbow Sticker inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2024-10-31T16:03:00-05:00"
+  },
+  {
+    "title": "Luxe Subscription Box",
+    "handle": "luxe-subscription-box",
+    "url": "https://www.museebath.com/products/luxe-subscription-box",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-default"
+    ],
+    "price_min": 50.0,
+    "price_max": 50.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "50.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "SUBLUXOCT26R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pinksubscriptionbox-1.jpg?v=1728069273",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/luxebox.jpg?v=1728069273",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-10-04_at_2.14.49_PM.png?v=1738104624",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-10-09_at_1.01.21_PM.png?v=1738099008"
+    ],
+    "description": "Each month, enjoy a different and exciting selection from our Therapy Collection. With a surprise mix of candles, shower steamers, therapy bath balms, lotions, and more! Every box offers a unique self-care experience.\n*Please Note: Products inside vary each month!*",
+    "published_at": "2024-10-08T11:08:57-05:00"
+  },
+  {
+    "title": "Bath Balm Subscription Box",
+    "handle": "luxe-subscription-box-copy",
+    "url": "https://www.museebath.com/products/luxe-subscription-box-copy",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-default"
+    ],
+    "price_min": 35.0,
+    "price_max": 35.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "35.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "SUBOCT26R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/pinksubscriptionbox-1.jpg?v=1728069273",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/balmbox.jpg?v=1728315342",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A3838.jpg?v=1738098988",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2024-10-09_at_1.01.21_PM.png?v=1738099008"
+    ],
+    "description": "This box includes six of our Musee Original Bath Balms with different scents, colors, and treasures each month. Every box is a new surprise, perfect for children or Musee lovers of all ages!\n*Please Note: Products inside vary each month!*",
+    "published_at": "2024-10-08T11:08:21-05:00"
+  },
+  {
+    "title": "Musee Matches",
+    "handle": "musee-matches",
+    "url": "https://www.museebath.com/products/musee-matches",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MATCH012R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/museematch.jpg?v=1725977754",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/museematch2.jpg?v=1725977773",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/museematch-pink.jpg?v=1725977843"
+    ],
+    "description": "Add a spark of joy with Musee Matches!\nThese oversized matches come in a colorful, cheerful box that’ll brighten up any space.\nThe perfect addition for lighting Musee's luxurious soy candles!\nCrafted with extra-long sticks for effortless candle lighting.\n65 Count | Box size 5.25” x 3.25”",
+    "published_at": "2024-09-10T09:17:45-05:00"
+  },
+  {
+    "title": "Glow From Within Bar Soap",
+    "handle": "glow-from-within-bar-of-soap",
+    "url": "https://www.museebath.com/products/glow-from-within-bar-of-soap",
+    "type": "Therapy Bath Soap",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bar Soaps",
+      "Bath Soap",
+      "Soaps",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bar Soaps",
+      "Therapy Bath Soap"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "8.00",
+        "available": false,
+        "sku": "MTS003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/glow.jpg?v=1762525741",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0308.png?v=1738103251"
+    ],
+    "description": "Your inner beauty will glow as you release your worries and enjoy a moisturizing lather!\nEach bar is hand-stamped with an uplifting word that matches its beautifully designed box, serving as a encouraging daily reminder.",
+    "published_at": "2024-06-03T10:57:28-05:00"
+  },
+  {
+    "title": "Flourish In Love Bar Soap",
+    "handle": "flourish-in-love-bar-of-soap",
+    "url": "https://www.museebath.com/products/flourish-in-love-bar-of-soap",
+    "type": "Therapy Bath Soap",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bar Soaps",
+      "Bath Soap",
+      "Soap",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bar Soaps",
+      "Therapy Bath Soap"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "8.00",
+        "available": true,
+        "sku": "MTS002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/flourish.jpg?v=1762525744",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0309.png?v=1738103101"
+    ],
+    "description": "Enjoy a refreshing lather to wash away the cares from the day and let your feelings of self love flourish!\nEach bar is hand-stamped with an uplifting word that matches its beautifully designed box, serving as a encouraging daily reminder.",
+    "published_at": "2024-06-03T10:57:06-05:00"
+  },
+  {
+    "title": "Dream Endlessly Bar Soap",
+    "handle": "dream-endlessly-bar-of-soap",
+    "url": "https://www.museebath.com/products/dream-endlessly-bar-of-soap",
+    "type": "Therapy Bath Soap",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bar Soaps",
+      "Bath Soap",
+      "Soaps",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bar Soaps",
+      "Therapy Bath Soap"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "8.00",
+        "available": true,
+        "sku": "MTS005R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Dream_soap.jpg?v=1762525746",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_4829.png?v=1738102762"
+    ],
+    "description": "Daydream of the endless possibilities that lie ahead in your journey of life! Indulge in a luxurious lather that nourishes your skin, leaving it soft, moisturized, and refreshed with every use.\nEach bar is hand-stamped with an uplifting word that matches its beautifully designed box, serving as a encouraging daily reminder.",
+    "published_at": "2024-06-03T10:56:27-05:00"
+  },
+  {
+    "title": "Calm Your Heart Bar Soap",
+    "handle": "calm-your-heart-bar-soap",
+    "url": "https://www.museebath.com/products/calm-your-heart-bar-soap",
+    "type": "Therapy Bar Soaps",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bar Soaps",
+      "Bath Soap",
+      "Soaps",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bath Soap"
+    ],
+    "price_min": 8.0,
+    "price_max": 8.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "8.00",
+        "compare_at_price": "8.00",
+        "available": true,
+        "sku": "MTS006R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Calm.jpg?v=1762525744",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0305.png?v=1738101553"
+    ],
+    "description": "Quiet and calm your spirit as you indulge in a luxurious lather that deeply nourishes your skin.\nEach bar is hand-stamped with an uplifting word that matches its beautifully designed box, serving as a encouraging daily reminder.",
+    "published_at": "2024-06-03T10:54:49-05:00"
+  },
+  {
+    "title": "Perfect Match Set of Matches",
+    "handle": "perfect-match",
+    "url": "https://www.museebath.com/products/perfect-match",
+    "type": "Matches",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Matches",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MATCH004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/perfectmatch.jpg?v=1705070440",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/perfectmatch2.jpg?v=1705070440",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/VDAYMatches.jpg?v=1738618360",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/matches.jpg?v=1738618360"
+    ],
+    "description": "Add a spark of joy with our Valentine's Day themed matches!\nThese oversized matches come in a colorful, cheerful box that’ll brighten up any space.\nThe perfect addition for lighting Musee's luxurious soy candles!\nCrafted with extra-long sticks for effortless candle lighting.\n100 Count | Box size 5.25” x 3.25”",
+    "published_at": "2024-06-03T10:53:37-05:00"
+  },
+  {
+    "title": "Match Made In Heaven Set of Matches",
+    "handle": "match-made-in-heaven",
+    "url": "https://www.museebath.com/products/match-made-in-heaven",
+    "type": "Matches",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Matches",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MATCH005R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/matchmadeinheaven.jpg?v=1705070466",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/matchmadeinheaven-2.jpg?v=1705070466",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/VDAYMatches.jpg?v=1738618360",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/matches.jpg?v=1738618360"
+    ],
+    "description": "Add a spark of joy with our Valentine's Day themed matches!\nThese oversized matches come in a colorful, cheerful box that’ll brighten up any space.\nThe perfect addition for lighting Musee's luxurious soy candles!\nCrafted with extra-long sticks for effortless candle lighting.\n100 Count | Box size 5.25” x 3.25”",
+    "published_at": "2024-06-03T10:53:22-05:00"
+  },
+  {
+    "title": "Love Struck Set of Matches",
+    "handle": "love-struck",
+    "url": "https://www.museebath.com/products/love-struck",
+    "type": "Matches",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Matches",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "14.00",
+        "compare_at_price": "14.00",
+        "available": true,
+        "sku": "MATCH003R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/lovestruck-matches.jpg?v=1705070432",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/lovestruck02.jpg?v=1705070432",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/VDAYMatches.jpg?v=1738618360",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/matches.jpg?v=1738618360"
+    ],
+    "description": "Add a spark of joy with our Valentine's Day themed matches!\nThese oversized matches come in a colorful, cheerful box that’ll brighten up any space.\nThe perfect addition for lighting Musee's luxurious soy candles!\nCrafted with extra-long sticks for effortless candle lighting.\n100 Count | Box size 5.25” x 3.25”",
+    "published_at": "2024-06-03T10:53:10-05:00"
+  },
+  {
+    "title": "You Are The Best Thing Therapy Bath Balm",
+    "handle": "you-are-the-best-thing-bath-balm",
+    "url": "https://www.museebath.com/products/you-are-the-best-thing-bath-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "10.00",
+        "available": true,
+        "sku": "MTB017R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/bestthing-cream.jpg?v=1762525840"
+    ],
+    "description": "Delight in yourself as you rest in waters filled with fresh scents of sweet orange and sunflower.",
+    "published_at": "2024-04-15T10:28:28-05:00"
+  },
+  {
+    "title": "Wildflowers Therapy Bath Soak",
+    "handle": "wildflowers-therapy-bath-soak",
+    "url": "https://www.museebath.com/products/wildflowers-therapy-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MTBS019R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/wildflowers-salt.jpg?v=1712681167",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/salts-white.jpg?v=1738618264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage8_wildflowers.jpg?v=1738180885"
+    ],
+    "description": "Soak in beautifully fragrant waters of jasmine and rosehip oils as natural salts soften and relax your body.",
+    "published_at": "2024-04-15T10:28:07-05:00"
+  },
+  {
+    "title": "Wildflowers Therapy Bath Balm",
+    "handle": "wild-flower-therapy-balm",
+    "url": "https://www.museebath.com/products/wild-flower-therapy-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MTB024R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/wildflowers-cream.jpg?v=1713282753"
+    ],
+    "description": "Soak in beautifully fragrant waters of jasmine and rosehip oils as natural salts soften and relax your body.",
+    "published_at": "2024-04-15T10:27:51-05:00"
+  },
+  {
+    "title": "Free Bird Therapy Bath Soak",
+    "handle": "free-bird-therapy-bath-soak",
+    "url": "https://www.museebath.com/products/free-bird-therapy-bath-soak",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MTBS018R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/freebird-salt.jpg?v=1712681430",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage5_freebird.jpg?v=1737664778",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/whitesalt-blue.jpg?v=1738180815"
+    ],
+    "description": "Find freedom and peace in the solitude of this healing bath, as coconut waters drench your skin for ultimate hydration.",
+    "published_at": "2024-04-15T10:25:36-05:00"
+  },
+  {
+    "title": "Free Bird Therapy Bath Balm",
+    "handle": "free-bird-therapy-balm",
+    "url": "https://www.museebath.com/products/free-bird-therapy-balm",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MTB023R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/freebird.jpg?v=1758558815"
+    ],
+    "description": "Find freedom and peace in the solitude of this healing bath, as coconut waters drench your skin for ultimate hydration.",
+    "published_at": "2024-04-15T10:25:22-05:00"
+  },
+  {
+    "title": "Daydreamer Therapy Bath Soak",
+    "handle": "daydreamer-therapy-bath-soak",
+    "url": "https://www.museebath.com/products/daydreamer-therapy-bath-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MTBS017R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/daydreamer-salt.jpg?v=1712681465",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6295.jpg?v=1737565828",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.30.17_PM.png?v=1738618264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.30.15_PM.png?v=1738618264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/salts-white.jpg?v=1738618264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage3_daydreamer.jpg?v=1738618264"
+    ],
+    "description": "Transport yourself to serenity as you day dream in this blissful bath of grapefruit essential oil and Pacific sea salts.",
+    "published_at": "2024-04-15T10:24:10-05:00"
+  },
+  {
+    "title": "Butterfly Kisses Bubbly Bath Soak",
+    "handle": "butterfly-kisses-bath-soak",
+    "url": "https://www.museebath.com/products/butterfly-kisses-bath-soak",
+    "type": "Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MBBS006R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/butterfly-kisses.jpg?v=1709653686",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/butterflykisses-baloon.jpg?v=1738101533"
+    ],
+    "description": "Add a little magic to your bath with this confetti-filled bubble bath soak! Enjoy whimsical colors of pink and orange as you nourish your skin with scents of sweet honey!\nSurprise\n-\nButterfly Treasure Inside.",
+    "published_at": "2024-03-05T09:50:42-06:00"
+  },
+  {
+    "title": "Whimsy Three Bath Balm Set",
+    "handle": "spring-whimsy-three-balm-set",
+    "url": "https://www.museebath.com/products/spring-whimsy-three-balm-set",
+    "type": "",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 34.0,
+    "price_max": 34.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "34.00",
+        "compare_at_price": "34.00",
+        "available": true,
+        "sku": "MGS083R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/whimsy-springbox.jpg?v=1709231168",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/whimsy-springbox-opened.jpg?v=1709231168",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/IMG_1569.jpg?v=1743710146"
+    ],
+    "description": "Relax in a refreshing bath with scents of fresh lily, gardenia, and jasmine as healing waters of natural oils restore your body.\nSurprise\n -\nLip Scrub, Hair Tie, and Bracelet inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2024-03-04T09:48:31-06:00"
+  },
+  {
+    "title": "Daydreamer Therapy Bath Balm",
+    "handle": "day-dreamer-bath-balm",
+    "url": "https://www.museebath.com/products/day-dreamer-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Gift Sets",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MTB020R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/daydreamer-cream.jpg?v=1762526173",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2021-04-26at8.24.49AM.png?v=1738102080"
+    ],
+    "description": "Spark creativity as you treat yourself with this tangerine essential oil and cucumber extract bath. Dream abundantly while you soak in the scents of sea salt and grapefruit.",
+    "published_at": "2024-01-16T10:56:56-06:00"
+  },
+  {
+    "title": "Joy Of My Life Bath Balm",
+    "handle": "joy-of-my-life-bath-balm",
+    "url": "https://www.museebath.com/products/joy-of-my-life-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Maisonette",
+      "Originals Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 9.0,
+    "price_max": 9.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.00",
+        "compare_at_price": "9.00",
+        "available": false,
+        "sku": "MBB121R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/joml.jpg?v=1738088629",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/joyofmylife_eeda31dd-3937-4c08-87ff-a92479769420.gif?v=1738088629",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/joyofmylife-opened.jpg?v=1738088629",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_3c74ce39-8a7c-460f-a2f3-5298968449d3.png?v=1743711803",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_2b00e7cf-5a74-448e-a0e7-07772f1cf942.png?v=1743711803"
+    ],
+    "description": "You are the joy of my life! This bath balm fills your tub with scents of jasmine and vanilla to help you relax and unwind. Watch as it dissolves into turquoise blue waters, revealing a special surprise inside! Infused with lemon and sweet orange essential oils, this balm will leave your skin feeling nourished and refreshed.\nSurprise\n-\n Bracelet inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2023-09-18T09:49:31-05:00"
+  },
+  {
+    "title": "Cheers Wine Glass & Salt Box",
+    "handle": "cheers-wine-glass-salt-box",
+    "url": "https://www.museebath.com/products/cheers-wine-glass-salt-box",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 32.0,
+    "price_max": 32.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "32.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MGS068R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/cheersbox.jpg?v=1696617588",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/cheersopened.jpg?v=1696617588",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/cheersset.jpg?v=1696617588"
+    ],
+    "description": "The perfect set to celebrate any of life's occasions! This set features an acrylic wine glass and three bath salt packets set in a luxurious, gold foiled box.",
+    "published_at": "2023-09-18T09:48:05-05:00"
+  },
+  {
+    "title": "The Magic Is In You Mini Bath Balm Set",
+    "handle": "magic-is-in-you-st-judes",
+    "url": "https://www.museebath.com/products/magic-is-in-you-st-judes",
+    "type": "Gift Sets",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Maisonette",
+      "Set",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 26.0,
+    "price_max": 26.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "26.00",
+        "compare_at_price": "26.00",
+        "available": true,
+        "sku": "MGS067R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/themagicisinyou.jpg?v=1696620411",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/stjude-balms.jpg?v=1738104665",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/stjude-lifestyle.jpg?v=1738104665"
+    ],
+    "description": "This set includes four mini bath balms, infused with soothing White Tea & Aloe, leaving your skin feeling soft, nourished, and refreshed.\nA portion of the profits from this\nset\n will go towards supporting St. Jude's groundbreaking research and treatment of childhood cancer and other life-treating diseases.",
+    "published_at": "2023-09-18T09:47:17-05:00"
+  },
+  {
+    "title": "Butterfly Boxed Bath Balm",
+    "handle": "butterfly-boxed-bath-balm",
+    "url": "https://www.museebath.com/products/butterfly-boxed-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": false,
+        "sku": "MBB106R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/butterflybalm.jpg?v=1762527400",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A5755_1.jpg?v=1738690950",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Spread your wings and fly into a whimsical world of bathtime magic! Our Butterfly Boxed Bath Balm creates swirls of pink and blue while filling the air with fresh scents of grapefruit. Don’t forget to keep an eye out for a sweet surprise hidden inside!\nSurprise\n-\nButterfly Toy inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2023-03-06T16:59:07-06:00"
+  },
+  {
+    "title": "Tractor Bath Balm",
+    "handle": "tractor-bath-balm",
+    "url": "https://www.museebath.com/products/tractor-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB110R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/tractorbalm.jpg?v=1696618707",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ScreenShot2023-07-28at8.42.47AM_1.png?v=1738254395",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "S\nSurprise\n - Tractor Sticker inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2023-03-06T14:46:38-06:00"
+  },
+  {
+    "title": "Fire Truck Bath Balm",
+    "handle": "firetruck-bath-balm",
+    "url": "https://www.museebath.com/products/firetruck-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB109R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/firetruckbalm.jpg?v=1762533523",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ScreenShot2023-07-28at8.42.47AM_1.png?v=1738254395",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "To the Rescue! Enjoy bath time fun with this fire truck themed bath balm. Keep your eyes open for a special surprise inside!\nSurprise\n- Fire Truck\n Sticker inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2023-03-06T14:46:34-06:00"
+  },
+  {
+    "title": "Excavator Bath Balm",
+    "handle": "excavator-bath-balm",
+    "url": "https://www.museebath.com/products/excavator-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB108R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/excavator1balm.jpg?v=1762533523",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ScreenShot2023-07-28at8.42.47AM_1.png?v=1738254395",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Turn the work zone into the comfort zone with this refreshing excavator themed bath balm. Keep your eyes open for a special surprise inside!\nSurprise\n-\n Excavator Sticker inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2023-03-06T14:46:31-06:00"
+  },
+  {
+    "title": "Geranium & Rose Body Lotion",
+    "handle": "geranium-rose-body-lotion",
+    "url": "https://www.museebath.com/products/geranium-rose-body-lotion",
+    "type": "Body Lotion",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Body",
+      "Body Lotion",
+      "Coconut",
+      "Fig",
+      "Gift",
+      "Hand Cream",
+      "hydrate",
+      "Lotion",
+      "rejuvenate",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 28.0,
+    "price_max": 28.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.00",
+        "compare_at_price": "28.00",
+        "available": true,
+        "sku": "MTBL001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/geraniumlotion.jpg?v=1762526337",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/geraniumandroselotion.gif?v=1696964961",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/lotion-pink.jpg?v=1738103216",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A2849.jpg?v=1738101998"
+    ],
+    "description": "Silky smooth body lotion featuring elegant, fresh scents of geranium & rose. This luxuriously rich cream is packed with shea butter and coconut oil to hydrate and renew dry skin from head to toe.",
+    "published_at": "2022-04-13T10:38:11-05:00"
+  },
+  {
+    "title": "Robot Boxed Bath Balm",
+    "handle": "robot-boxed-bath-balm",
+    "url": "https://www.museebath.com/products/robot-boxed-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Boxed Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "MBB087R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Robotbalm.jpg?v=1762526314",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Let your imagination run wild with our robot bath balm! Watch as this yellow and blue bath balm dissolves into green waters and reveals a special robot surprise.\nSurprise\n -\nRobot treasure inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2022-03-16T22:06:54-05:00"
+  },
+  {
+    "title": "Rainbow Bath Balm Set",
+    "handle": "rainbow-bath-balm-set",
+    "url": "https://www.museebath.com/products/rainbow-bath-balm-set",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Gift Sets",
+      "Set",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 32.0,
+    "price_max": 32.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "32.00",
+        "compare_at_price": "32.00",
+        "available": true,
+        "sku": "MGS052R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rainbowset.jpg?v=1762526312",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rainbowset-opened.jpg?v=1738265878",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rainbowset.gif?v=1738265878",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/ScreenShot2022-03-14at9.42.27AM.png?v=1738265878"
+    ],
+    "description": "Spring into beautiful pastel waters of a sweet orange essential oil filled bath. Find joy and inspiration as you relax in a bath that will leave you feeling cheerful. This set of bath balms will allow your imagination to soar over the rainbow!\nSurprise\n - Flash Tattoo, Rainbow Hair Band, and Bath Confetti inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2022-03-16T22:06:12-05:00"
+  },
+  {
+    "title": "Rosa Parks Women of Change Bath Balm",
+    "handle": "rosa-parks-bath-balm",
+    "url": "https://www.museebath.com/products/rosa-parks-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Maisonette",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB048R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/rosa.jpg?v=1762526178",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9549-_1.jpg?v=1738256538",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9547-1.jpg?v=1741289170",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Honor the legacy of courage with our Women of Change Bath Balm, celebrating the fearless spirit of Rosa Parks.\nRosa Parks was nationally recognized as the \"mother of the modern day civil rights movement\" in America. Her refusal to surrender her seat to a white male passenger on a Montgomery, Alabama bus triggered waves of protests on December 5, 1955 that echoed throughout the United States. Her quiet, courageous act changed America, its view of black people and redirected the course in history.\nSurprise\n -\nMagnet inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2021-04-30T08:13:27-05:00"
+  },
+  {
+    "title": "Musee Thank You E-Gift Card",
+    "handle": "musee-thank-you-e-gift-card",
+    "url": "https://www.museebath.com/products/musee-thank-you-e-gift-card",
+    "type": "Gift Card",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 25.0,
+    "price_max": 100.0,
+    "variants": [
+      {
+        "title": "$25.00",
+        "price": "25.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD014R"
+      },
+      {
+        "title": "$50.00",
+        "price": "50.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD015R"
+      },
+      {
+        "title": "$75.00",
+        "price": "75.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD016R"
+      },
+      {
+        "title": "$100.00",
+        "price": "100.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD017R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/giftcards-05_138c7350-cb91-4deb-ad76-c75faf9fe729.png?v=1762526134"
+    ],
+    "description": "Seeking an instant gift solution? The Musee Thank You E-Gift Card is the ultimate choice! Elevate the mood with a heartfelt gesture and bring a smile to your loved one's face with just a click! Order now from Musee Bath for a hassle-free gifting experience!",
+    "published_at": "2021-04-29T12:12:54-05:00"
+  },
+  {
+    "title": "Musee Birthday E-Gift Card",
+    "handle": "musee-birthday-e-gift-card",
+    "url": "https://www.museebath.com/products/musee-birthday-e-gift-card",
+    "type": "Gift Card",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 25.0,
+    "price_max": 100.0,
+    "variants": [
+      {
+        "title": "$25.00",
+        "price": "25.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD001R"
+      },
+      {
+        "title": "$50.00",
+        "price": "50.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD002R"
+      },
+      {
+        "title": "$75.00",
+        "price": "75.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD003R"
+      },
+      {
+        "title": "$100.00",
+        "price": "100.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD004R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/giftcards-04_be7a26dd-c40f-4b48-83a4-c56c3517e0f0.png?v=1762526131"
+    ],
+    "description": "Celebrate with the Musee Birthday E-Gift Card! Don't stress about last-minute gifts or missed special occasions - send a happy surprise straight to their inbox. Choose the perfect amount and let Musee Bath take care of the rest.",
+    "published_at": "2021-04-29T12:12:40-05:00"
+  },
+  {
+    "title": "Musee Congrats! E-Gift Card",
+    "handle": "musee-congrats-e-gift-card",
+    "url": "https://www.museebath.com/products/musee-congrats-e-gift-card",
+    "type": "Gift Card",
+    "vendor": "Musee Bath",
+    "tags": [
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 25.0,
+    "price_max": 100.0,
+    "variants": [
+      {
+        "title": "$25.00",
+        "price": "25.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD005R"
+      },
+      {
+        "title": "$50.00",
+        "price": "50.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD006R"
+      },
+      {
+        "title": "$75.00",
+        "price": "75.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD007R"
+      },
+      {
+        "title": "$100.00",
+        "price": "100.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "EGIFTCARD008R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/giftcards-03_9f805dd2-316a-47d9-8570-6932eb5b25b6.png?v=1762526134"
+    ],
+    "description": "Surprise your loved ones with the Musee Congrats! E-Gift Card for a thoughtful gift in an instant. Need a quick and easy present solution? Send a happy with just a few clicks through Musee Bath. Let your best babe know you're thinking of them with a personalized gift delivered straight to their inbox.",
+    "published_at": "2021-04-29T12:12:23-05:00"
+  },
+  {
+    "title": "Forever Young Therapy Bath Soak",
+    "handle": "forever-young-bath-soak",
+    "url": "https://www.museebath.com/products/forever-young-bath-soak",
+    "type": "Therapy Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bath Soak"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": true,
+        "sku": "MTBS002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/foreveryoung-salt.jpg?v=1762525754",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6331.jpg?v=1737566181",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.23.37_PM.png?v=1738617922",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.23.40_PM.png?v=1738617922",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/fy_salt.jpg?v=1738617922",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage1_foreveryoung.jpg?v=1738617922"
+    ],
+    "description": "Experience the renewal of a jasmine and rosehip bath as rose clay brings a youthful glow to tired skin.",
+    "published_at": "2021-03-18T13:32:14-05:00"
+  },
+  {
+    "title": "Maya Angelou Women of Change Bath Balm",
+    "handle": "maya-angelou-women-of-change-bath-balm",
+    "url": "https://www.museebath.com/products/maya-angelou-women-of-change-bath-balm",
+    "type": "Specialty Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB051R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/maya.jpg?v=1762525831",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A8287.png?v=1738256049",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9547-1.jpg?v=1741289170",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Appreciate the beauty of the written word with our Women of Change Bath Balm honoring Maya Angelou.\nMaya Angelou was a civil rights activist, world-renowned poet and award-winning author known for her acclaimed 1969 memoir, “I Know Why the Caged Bird Sings”, and her numerous poetry and essay collections. At age eight, Maya experienced a traumatic event and she stopped speaking for five years. During her silence, Maya rediscovered her voice through reading books, and went on to become one of the world’s most influential writers and speakers of all time.\nSurprise\n-\nMagnet inside.\n*Treasures are subject to change, based on availability*",
+    "published_at": "2020-06-02T15:16:39-05:00"
+  },
+  {
+    "title": "Amelia Earhart Women of Change Bath Balm",
+    "handle": "amelia-earhart-women-of-change-bath-balm",
+    "url": "https://www.museebath.com/products/amelia-earhart-women-of-change-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Maisonette",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB047R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/amelia.jpg?v=1762525831",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A8315-1.png?v=1738255646",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9547-1.jpg?v=1741289170",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Dare to dream with our Women of Change Bath Balm, inspired by the fearless spirit of Amelia Earhart.\nAmelia Earhart was the first woman pilot to fly solo across the Atlantic Ocean. She is remembered for her courage, vision, and groundbreaking achievements, both in aviation and for women. In a letter to her husband written in case a dangerous flight proved to be her last, her brave spirit was clear. “Please know I am quite aware of the hazards,” she said. “I want to do it because I want to do it. Women must try to do things as men have tried. When they fail, their failure must be but a challenge to others.”\nSurprise\n-\nMagnet inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2020-06-02T15:13:39-05:00"
+  },
+  {
+    "title": "Frida Kahlo Women of Change Bath Balm",
+    "handle": "frida-kahlo-women-of-change-bath-balm",
+    "url": "https://www.museebath.com/products/frida-kahlo-women-of-change-bath-balm",
+    "type": "Bath Balm",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Balm",
+      "Specialty Bath Balms",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 12.0,
+    "price_max": 12.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "12.00",
+        "compare_at_price": "12.00",
+        "available": true,
+        "sku": "MBB046R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/frida.jpg?v=1762525828",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A8354.png?v=1738178432",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A9547-1.jpg?v=1741289170",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-01_6a0543b1-d3f1-43f7-850b-cb87b4ee75f0.png?v=1743709921",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/musee-product-template_rainbowconnection-04_dce7b983-9230-4ae0-a86e-bb6246f2a2ab.png?v=1743709921"
+    ],
+    "description": "Express your appreciation for the beauty created through art with our Women of Change Bath Balm honoring Frida Kahlo.\nFrida Kahlo is one of the most influential Mexican painters of all time. She showed great perseverance for achieving her dreams despite all the adversities she faced. Frida was able to redefine her life through her art. Her iconic existence, unique expression and extraordinary artwork have provided humanity with continuing optimism, strength and courage for the future. She left behind a legacy that will forever impact and influence the world regardless of age, gender, nationality, and ethnicity.\nSurprise\n -\nMagnet inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2020-06-02T15:09:28-05:00"
+  },
+  {
+    "title": "Rubber Duckie Bubbly Bath Soak",
+    "handle": "rubber-duckie-bubbly-bath-soak",
+    "url": "https://www.museebath.com/products/rubber-duckie-bubbly-bath-soak",
+    "type": "Bubbly Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "Bubbly Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MBBS002R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6269-_1_-_1.jpg?v=1762525782",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/Rubberduckie_soak_secondary.jpg?v=1738188655",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/products/F71A0531.png?v=1738188670"
+    ],
+    "description": "Splish splash into a bubbly, confetti-filled bath with our Rubber Duckie Bubbly Bath Soak. Keep an eye out for a fun rubber duckie surprise hidden inside! Perfect for 3-4 playful baths!\nSurprise\n -\nRubber Duck Inside. *Treasures are subject to change, based on availability*",
+    "published_at": "2020-05-29T11:47:45-05:00"
+  },
+  {
+    "title": "Dreamweaver Therapy Bath Soak",
+    "handle": "dreamweaver-bath-soak",
+    "url": "https://www.museebath.com/products/dreamweaver-bath-soak",
+    "type": "Therapy Bath Soak",
+    "vendor": "Musee Bath",
+    "tags": [
+      "Bath Soak",
+      "spo-cs-disabled",
+      "spo-default",
+      "spo-disabled",
+      "spo-notify-me-disabled",
+      "Therapy Bath Soak"
+    ],
+    "price_min": 24.0,
+    "price_max": 24.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "24.00",
+        "compare_at_price": "24.00",
+        "available": false,
+        "sku": "MTBS001R"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Dreamweaver.jpg?v=1762525757",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/F71A6337.jpg?v=1737565376",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.28.54_PM.png?v=1738618184",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/Screenshot_2025-02-03_at_3.28.53_PM.png?v=1738618184",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/salts-white.jpg?v=1738618264",
+      "https://cdn.shopify.com/s/files/1/0282/1295/3160/files/ingredientimage6_dreamweaver.jpg?v=1738618184"
+    ],
+    "description": "Lull yourself to sleep with the healing waters of Epsom salt and lavender oil— a wonderful way to end the day.",
+    "published_at": "2020-05-29T11:45:16-05:00"
+  }
+]

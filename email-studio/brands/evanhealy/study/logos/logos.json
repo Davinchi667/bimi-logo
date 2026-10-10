@@ -1,0 +1,18 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/evanhealy-logo-black.svg?v=1651514121",
+      "alt": "evanhealy",
+      "w": 197.5625,
+      "h": 45.28125,
+      "hint": "evanhealy header__heading-logo https://cdn.shopify.com/s/files/1/0285/8103/6125/files/evanhealy-logo-black.svg?v=1651514121 header__heading-link link link--text focus-inset",
+      "where": "div",
+      "tone": "dark",
+      "file": "logos/logo_01_div_dark-marks.svg"
+    }
+  ],
+  "favicons": [
+    "https://www.evanhealy.com/cdn/shop/files/evanhealy-favicon_d755da96-e12b-43d3-959d-60663d472971_32x32.jpg?v=1661281633"
+  ]
+}

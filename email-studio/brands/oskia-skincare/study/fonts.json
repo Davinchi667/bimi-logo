@@ -1,0 +1,717 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Suranna, serif",
+      "family": "Suranna",
+      "weight": "400",
+      "sizes": [
+        "45px",
+        "24px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Country/region",
+        "Language",
+        "Language"
+      ]
+    },
+    "h3": {
+      "family_stack": "Montserrat, sans-serif",
+      "family": "Montserrat",
+      "weight": "400",
+      "sizes": [
+        "21px",
+        "18px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Midnight Elixir",
+        "Nutri-Bronze Sheer Tinted Serum",
+        "Renaissance Cleansing Gel"
+      ]
+    },
+    "body": {
+      "family_stack": "Montserrat, sans-serif",
+      "family": "Montserrat",
+      "weight": "400",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "SHOP",
+        "ROUTINE FINDER",
+        "LOYALTY"
+      ]
+    },
+    "button": {
+      "family_stack": "Montserrat",
+      "family": "Montserrat",
+      "weight": "400",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "1px",
+      "transform": "none",
+      "radius": "0px",
+      "samples": [
+        "Skip to content",
+        "See the clinical results",
+        "Choose options"
+      ]
+    },
+    "nav": {
+      "family_stack": "Montserrat",
+      "family": "Montserrat",
+      "weight": "400",
+      "sizes": [
+        "14px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "4px",
+      "transform": "uppercase",
+      "radius": null,
+      "samples": [
+        "ROUTINE FINDER",
+        "LOYALTY",
+        "SKIN NUTRITION"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_400.woff2"
+      ]
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_700.woff2"
+      ]
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_400.woff2"
+      ]
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_700.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+      ]
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "style": "normal",
+      "files": [
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2",
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.ttf",
+        "https://cdn.shopify.com/extensions/01a1219a-52ea-7aa9-b07f-09eabf4bba5b/swym-relay-848/assets/swym_fonts.svg#icomoon"
+      ]
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/sourcesanspro/v24/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lujVj9_mf.woff2"
+      ]
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhdu3cOWxy40.woff2"
+      ]
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.svg#fontawesome"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/kanit-klaviyo-hosted-400-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_400.woff2"
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/kanit-klaviyo-hosted-700-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_italic_700.woff2"
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/kanit-klaviyo-hosted-400.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_400.woff2"
+    },
+    {
+      "family": "Kanit-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/kanit-klaviyo-hosted-700.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Kanit/latin/kanit_latin_regular_700.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "file": "fonts/gtstandard-m-450.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "file": "fonts/gtstandard-m-500.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "file": "fonts/gtstandard-m-600.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "file": "fonts/swym-font-normal.woff2",
+      "url": "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2"
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "400",
+      "file": "fonts/source-sans-pro-400.woff2",
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lujVj9_mf.woff2"
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "600",
+      "file": "fonts/source-sans-pro-600.woff2",
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhdu3cOWxy40.woff2"
+    },
+    {
+      "family": "Source Sans Pro",
+      "weight": "700",
+      "file": "fonts/source-sans-pro-700.woff2",
+      "url": "https://fonts.gstatic.com/s/sourcesanspro/v24/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhdu3cOWxy40.woff2"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "file": "fonts/font-awesome-5-pro-300.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "file": "fonts/font-awesome-5-pro-400.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "file": "fonts/font-awesome-5-pro-900.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Country/region"
+      },
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Language"
+      },
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Language"
+      },
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "NEW: Midnight Eye-Q"
+      },
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Best Sellers"
+      },
+      {
+        "family": "Suranna, serif",
+        "weight": "400",
+        "size": "45px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "45px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Nutritional Support For Optimal Skin Health & Longevity."
+      }
+    ],
+    "h3": [
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Midnight Elixir"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Nutri-Bronze Sheer Tinted Serum"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Renaissance Cleansing Gel"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Midnight Eye-Q"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Super C Beauty Capsules"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "21px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "40px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Bedtime Beauty Boost"
+      }
+    ],
+    "body": [
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Choose 3 Samples With All Orders"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "SHOP"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "ROUTINE FINDER"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "LOYALTY"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "SKIN NUTRITION"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "THE OSKIA EDIT"
+      }
+    ],
+    "button": [
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Skip to content\n\nChoose 3 Samples With All Orders\n\nCountry/region\nUSD $ | United"
+      },
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(97, 102, 107)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Skip to content"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Choose 3 Samples With All Orders"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "13px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "USD $ | United States"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "13px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "English"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "English"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(0, 0, 0, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "4px",
+        "transform": "uppercase",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(0, 0, 0, 0.75)",
+        "sample": "ROUTINE FINDER"
+      },
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(0, 0, 0, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "4px",
+        "transform": "uppercase",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(0, 0, 0, 0.75)",
+        "sample": "LOYALTY"
+      },
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(0, 0, 0, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "4px",
+        "transform": "uppercase",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(0, 0, 0, 0.75)",
+        "sample": "SKIN NUTRITION"
+      },
+      {
+        "family": "Montserrat",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(0, 0, 0, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "4px",
+        "transform": "uppercase",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(0, 0, 0, 0.75)",
+        "sample": "THE OSKIA EDIT"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Log in"
+      },
+      {
+        "family": "Montserrat, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "20px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Cart"
+      }
+    ]
+  }
+}

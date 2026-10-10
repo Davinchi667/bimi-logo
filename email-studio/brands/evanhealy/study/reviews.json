@@ -1,0 +1,277 @@
+{
+  "aggregate": [
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "name": "Harvest Ritual",
+      "rating": "4.8",
+      "count": "557"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "name": "product_autumn-skin-ritual",
+      "rating": "4.8",
+      "count": "557",
+      "how": "printed text"
+    }
+  ],
+  "quotes": [
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"My favorite cleanser. I’ve tried other tea tree cleansers, they always seem to strip too much of my natural oils. Not ths one. This cleanser leaves my skin feeling balanced and clean.\"\n\nTea Tree Gel Cleanser\n\n$12.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Tea Tree Gel Cleanser",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"I get asked often, what’s your skin-care routine? Mainly from people who are easily half my age. I’ve used this oil for about 13 years and I‘m certain it has maintained my skin moisture, firmed, and helped with my wrinkles.\"\n\nPomegranate Vitality Serum\n\n$48.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Pomegranate Vitality Serum",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"My favorite evenhealy product. I love this serum. It is my favorite product in your line because it’s not heavy. I can add it to a moisturizer and it really plumps up my skin beautifully.\"\n\nSea Algae Serum\n\n$48.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Sea Algae Serum",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"Holy wow! I don't know what they put in this but it's been helping with my blemishes and keeping my skin bouncy. The scent is wonderful and if you love the rose geranium hydrosol, you'll love this!\"\n\nRose Vetiver Moisturizer\n\n$12.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Rose Vetiver Moisturizer",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"I Love This. I no longer wear any other concealers or foundation. The coverage is so natural and I get so many compliments when wearing this product! Shake well if it's been sitting a while!\"\n\nTinted Oil Serum Foundation Sample\n\n$2.50\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Tinted Oil Serum Foundation Sample",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"Although it’s labeled as an eye balm, I’ve found it works beautifully on my entire face and body! A little goes a long way, and compact enough to travel with. Hydrating without feeling greasy.\"\n\nWild Carrot Immortelle Eye Balm\n\n$28.50\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Wild Carrot Immortelle Eye Balm",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"My holy grail! From being the best every day moisturizer to healing my son's winter chapped skin, there's nothing this moisturize can't do.\"\n\nWhipped Shea Butter with Olive Leaf\n\n$39.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Whipped Shea Butter with Olive Leaf",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"Will never be without this! My holy grail product. I will never be without it and if I could bathe in it I would :) I use it with the oil serums and refresh with it throughout the day.\"\n\nFrankincense HydroSoul\n\n$10.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Frankincense HydroSoul",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"Absolute best mask. Does what it’s supposed to do without stripping or drying out skin, just cleanses it naturally. I’ve tried other more expensive masks and always come back to this one.\"\n\nGreen Tea Clay Mask\n\n$8.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Green Tea Clay Mask",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "\"Best cleanser I’ve ever used honestly. I’ve only been using this for 2 weeks and it has reduced my redness and sensitivity. My face looks all over smoother and more even. Soft and refreshing without drying out my skin.\"\n\nRose Cleansing Milk\n\n$12.99\n\nShop Now",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": "[class*='review-card'], [class*='review_card'], [class*='reviewCard']",
+      "text": "Rose Cleansing Milk",
+      "name": null,
+      "rating_raw": null,
+      "source": "https://evanhealy.com"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "A Wonderful First Experience!\n\n⭐⭐⭐⭐⭐\n\nI received my package in just two days. The delivery was incredibly fast, and the product was beautifully and carefully packaged, with great attention to protecting it.\n\nI absolutely loved this oil from the very first use! The texture is wonderful, neither too greasy nor too thick. It feels comfortable on my skin and provides a lovely sensation of freshness and well-being.\n\nI took my time gently massaging my face with upward movements, and it felt absolutely amazing! After the massage, my face felt relaxed, refreshed, and rested.\n\nIt’s still too early to j",
+      "name": "Marie",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "product": "Harvest Ritual"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "I have been usually regularly for about 6 months and I see that my laugh lines ad forehead are disappearing. My skin is hydrated. Works well mixed with moisturizer and/or hydrosoul.",
+      "name": "Charlie S.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "product": "Harvest Ritual"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Love love love⚜️",
+      "name": "Lola S.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "product": "Harvest Ritual"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Really enjoy this product. It is moisturizing and when my skin feels irritated and/or congested, this always helps me to wake up with skin feeling calmer and refreshed. Highly recommend!",
+      "name": "Angelica",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "product": "Harvest Ritual"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Very soothing, mild, and easy to apply!",
+      "name": "Marisa S. H.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "product": "Harvest Ritual"
+    }
+  ],
+  "count_mentions": [
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "557 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "557 reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "557 reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "292 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "102 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "125 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "125 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "147 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "147 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "219 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "219 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "130 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/autumn-skin-ritual",
+      "text": "130 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "391 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "174 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "746 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "134 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "171 Reviews"
+    },
+    {
+      "source": "https://www.evanhealy.com/products/garden-hydrosoul-sample-10-pack-5-ml",
+      "text": "557 Reviews"
+    }
+  ]
+}

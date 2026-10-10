@@ -1,0 +1,1095 @@
+[
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/newlogo-1black_100x@2x.png?v=1717603570",
+    "alt": "Copper Cow Coffee",
+    "w": 100,
+    "h": 111,
+    "natural": [
+      100,
+      111
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/newlogo-1black.png?v=1717603570",
+    "index": 2,
+    "file": "002_newlogo-1black.png",
+    "size": "400x445"
+  },
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/newlogo-1_100x@2x.png?v=1717080335",
+    "alt": "Copper Cow Coffee",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      100,
+      111
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/newlogo-1.png?v=1717080335",
+    "index": 3,
+    "file": "003_newlogo-1.png",
+    "size": "212x236"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/accountCustomSquareDark.png?height=60&v=1717599261",
+    "alt": "",
+    "w": 28,
+    "h": 28,
+    "natural": [
+      60,
+      60
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/accountCustomSquareDark.png?&v=1717599261",
+    "index": 4,
+    "file": "004_accountcustomsquaredark.png",
+    "size": "143x143"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/searchCustomSquareDark.png?height=60&v=1717599261",
+    "alt": "",
+    "w": 28,
+    "h": 28,
+    "natural": [
+      60,
+      60
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/searchCustomSquareDark.png?&v=1717599261",
+    "index": 5,
+    "file": "005_searchcustomsquaredark.png",
+    "size": "144x144"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/cartCustomSquareDark.png?height=60&v=1717599261",
+    "alt": "",
+    "w": 28,
+    "h": 28,
+    "natural": [
+      60,
+      60
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/cartCustomSquareDark.png?&v=1717599261",
+    "index": 6,
+    "file": "006_cartcustomsquaredark.png",
+    "size": "144x144"
+  },
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/Slice_370.png?v=1791410721&width=2400",
+    "alt": "Snickerdoodle Spice & Everything Nice!",
+    "w": 1440,
+    "h": 550,
+    "natural": [
+      1440,
+      651
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/Slice_370.png?v=1791410721",
+    "index": 7,
+    "file": "007_slice-370.png",
+    "size": "2300x1040"
+  },
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/CCC-Web-Banner-ValueProp2.jpg?v=1723488528&width=2400",
+    "alt": "Real Flavor, Really",
+    "w": 1440,
+    "h": 550,
+    "natural": [
+      1200,
+      637
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Web-Banner-ValueProp2.jpg?v=1723488528",
+    "index": 8,
+    "file": "008_ccc-web-banner-valueprop2.jpg",
+    "size": "1600x850"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/CardamomPretzel_Coffee_Tea_Hero_copy_4.jpg?crop=center&height=720&v=1786404589&width=600",
+    "alt": "Cardamom Pretzel Pour Over - 8ct",
+    "w": 350,
+    "h": 420,
+    "natural": [
+      600,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CardamomPretzel_Coffee_Tea_Hero_copy_4.jpg?crop=center&&v=1786404589",
+    "index": 9,
+    "file": "009_cardamompretzel-coffee-tea-hero-copy-4.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/Copper_Cow_Website_Graphics_ClassicHero_1.jpg?crop=center&height=720&v=1763164406&width=600",
+    "alt": "Classic Black Pour Over Coffee - 8ct",
+    "w": 350,
+    "h": 420,
+    "natural": [
+      600,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/Copper_Cow_Website_Graphics_ClassicHero_1.jpg?crop=center&&v=1763164406",
+    "index": 10,
+    "file": "010_copper-cow-website-graphics-classichero-.jpg",
+    "size": "1667x1667"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/Untitled_design_44.png?crop=center&height=720&v=1763594523&width=600",
+    "alt": "Classic Black Pour Over Coffee - 48ct",
+    "w": 350,
+    "h": 420,
+    "natural": [
+      600,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/Untitled_design_44.png?crop=center&&v=1763594523",
+    "index": 11,
+    "file": "011_untitled-design-44.png",
+    "size": "800x800"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/VanillaCreamer_Vanilla_Creamer_24.jpg?crop=center&height=720&v=1774636769&width=600",
+    "alt": "Vanilla Creamer - 24ct",
+    "w": 350,
+    "h": 420,
+    "natural": [
+      600,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/VanillaCreamer_Vanilla_Creamer_24.jpg?crop=center&&v=1774636769",
+    "index": 12,
+    "file": "012_vanillacreamer-vanilla-creamer-24.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Today-Logo.png?v=1726849039&width=500",
+    "alt": "Press logo",
+    "w": 53,
+    "h": 40,
+    "natural": [
+      500,
+      375
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Today-Logo.png?v=1726849039",
+    "index": 15,
+    "file": "015_ccc-today-logo.png",
+    "size": "1000x750"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Buzzfeed-Logo_6bb21589-00c9-4aec-bec9-4b9f2a30bebc.png?v=1726849070&width=500",
+    "alt": "Press logo",
+    "w": 227,
+    "h": 40,
+    "natural": [
+      500,
+      88
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Buzzfeed-Logo_6bb21589-00c9-4aec-bec9-4b9f2a30bebc.png?v=1726849070",
+    "index": 16,
+    "file": "016_ccc-buzzfeed-logo-6bb21589-00c9-4aec-bec.png",
+    "size": "1706x300"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/CCC-TheKitchn-Logo.png?v=1726867329&width=500",
+    "alt": "Press logo",
+    "w": 213,
+    "h": 40,
+    "natural": [
+      500,
+      94
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-TheKitchn-Logo.png?v=1726867329",
+    "index": 17,
+    "file": "017_ccc-thekitchn-logo.png",
+    "size": "1376x260"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/curvyPinkTopTight.png?v=1721405627",
+    "alt": "Full width image",
+    "w": 1440,
+    "h": 93,
+    "natural": [
+      1974,
+      128
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/curvyPinkTopTight.png?v=1721405627",
+    "index": 18,
+    "file": "018_curvypinktoptight.png",
+    "size": "1974x128"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/mobileLogo.png?v=1717610729&width=400",
+    "alt": "Copper Cow Coffee Logo",
+    "w": 200,
+    "h": 77,
+    "natural": [
+      400,
+      153
+    ],
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/mobileLogo.png?v=1717610729",
+    "index": 19,
+    "file": "019_mobilelogo.png",
+    "size": "500x191"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/t/403/assets/button-arrow.png",
+    "alt": "(background)",
+    "w": 0,
+    "h": 0,
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/t/403/assets/button-arrow.png",
+    "index": 20,
+    "file": "020_button-arrow.png",
+    "size": "29x46"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/greenWaveBackground.png?v=1717604514",
+    "alt": "(background)",
+    "w": 1440,
+    "h": 1307,
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/greenWaveBackground.png?v=1717604514",
+    "index": 21,
+    "file": "021_greenwavebackground.png",
+    "size": "2300x703"
+  },
+  {
+    "src": "https://coppercowcoffee.com/cdn/shop/files/lightGreenWave.png?v=1718048171&width=1500",
+    "alt": "(background)",
+    "w": 1440,
+    "h": 590,
+    "page": "homepage",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/lightGreenWave.png?v=1718048171",
+    "index": 23,
+    "file": "023_lightgreenwave.png",
+    "size": "1600x684"
+  },
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/CCC-Q1-2021-GeneralShoot-6C-3000x2000-111bcae.jpg?v=1676335392&width=2400",
+    "alt": "",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "about",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Q1-2021-GeneralShoot-6C-3000x2000-111bcae.jpg?v=1676335392",
+    "index": 24,
+    "file": "024_ccc-q1-2021-generalshoot-6c-3000x2000-11.jpg",
+    "size": "3000x2000"
+  },
+  {
+    "src": "//coppercowcoffee.com/cdn/shop/files/CCC-Q1-2021-GeneralShoot-6C-1869x1246-96a1376.jpg?height=1200&v=1676335542",
+    "alt": "",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "about",
+    "full_src": "https://coppercowcoffee.com/cdn/shop/files/CCC-Q1-2021-GeneralShoot-6C-1869x1246-96a1376.jpg?&v=1676335542",
+    "index": 25,
+    "file": "025_ccc-q1-2021-generalshoot-6c-1869x1246-96.jpg",
+    "size": "1869x1246"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_1fa8d083-a350-4b28-815d-35450f815bb7.png?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_1fa8d083-a350-4b28-815d-35450f815bb7.png?v=1774387612",
+    "index": 42,
+    "file": "042_2-1fa8d083-a350-4b28-815d-35450f815bb7.png",
+    "size": "2500x2500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_VietnameseReimaginedClassic_1.jpg?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_VietnameseReimaginedClassic_1.jpg?v=1774387612",
+    "index": 43,
+    "file": "043_amazoncontentjuly-coffee-vietnamesereima.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Classic_Roast_Level_2.jpg?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Classic_Roast_Level_2.jpg?v=1774387612",
+    "index": 44,
+    "file": "044_amazoncontentjuly-coffee-classic-roast-l.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Grind_Size_4.jpg?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Grind_Size_4.jpg?v=1774387612",
+    "index": 45,
+    "file": "045_amazoncontentjuly-coffee-grind-size-4.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Back_1.png?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Back_1.png?v=1774387612",
+    "index": 46,
+    "file": "046_ccc-pdp-gc-classic-newviz-back-1.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-General-CloseUp-BlackCoffee-Pour-A_1_6dbd2bec-2e8c-4c37-bc6a-8db7c0ff4125.jpg?v=1774387612",
+    "alt": "Classic Black Ground Coffee - 10oz",
+    "product": "classic-black-vietnamese-ground-coffee-10oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-General-CloseUp-BlackCoffee-Pour-A_1_6dbd2bec-2e8c-4c37-bc6a-8db7c0ff4125.jpg?v=1774387612",
+    "index": 47,
+    "file": "047_ccc-general-closeup-blackcoffee-pour-a-1.jpg",
+    "size": "2226x2225"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Untitled_design_55.png?v=1771951919",
+    "alt": "Mystery Latte Bundle - 10ct",
+    "product": "bundle-mystery-latte-1",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Untitled_design_55.png?v=1771951919",
+    "index": 48,
+    "file": "048_untitled-design-55.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_f86c4821-b108-42eb-ae1a-fc661137a96c.jpg?v=1775600629",
+    "alt": "Mystery Latte Bundle - 10ct",
+    "product": "bundle-mystery-latte-1",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_f86c4821-b108-42eb-ae1a-fc661137a96c.jpg?v=1775600629",
+    "index": 49,
+    "file": "049_copper-cow-website-graphics-sourcing-cop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_5eb347da-0bb2-4a75-b131-7c587ed1ed26.jpg?v=1775600629",
+    "alt": "Mystery Latte Bundle - 10ct",
+    "product": "bundle-mystery-latte-1",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_5eb347da-0bb2-4a75-b131-7c587ed1ed26.jpg?v=1775600629",
+    "index": 50,
+    "file": "050_copper-cow-website-graphics-howto-copy-1.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Perfect_Pour_Hero_1.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Perfect_Pour_Hero_1.jpg?v=1763165034",
+    "index": 51,
+    "file": "051_copper-cow-website-graphics-perfect-pour.jpg",
+    "size": "1667x1667"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/RumDiary00001_Large_e66fc97f-28da-454c-b21a-cd11145475be.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/RumDiary00001_Large_e66fc97f-28da-454c-b21a-cd11145475be.jpg?v=1763165034",
+    "index": 52,
+    "file": "052_rumdiary00001-large-e66fc97f-28da-454c-b.jpg",
+    "size": "801x801"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Contents_a7325d4c-92d5-4e24-8362-bc66c0784331.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Contents_a7325d4c-92d5-4e24-8362-bc66c0784331.jpg?v=1763165034",
+    "index": 53,
+    "file": "053_coppercowwebsitegraphics-contents-a7325d.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Sourcingcopy2_e8095566-2e0b-45c5-be9b-f0c41c4e11fc.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Sourcingcopy2_e8095566-2e0b-45c5-be9b-f0c41c4e11fc.jpg?v=1763165034",
+    "index": 54,
+    "file": "054_coppercowwebsitegraphics-sourcingcopy2-e.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Classic_70f315ef-1e52-4a53-bd63-b03d6c1b85db.jpg?v=1765234910",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_Classic_70f315ef-1e52-4a53-bd63-b03d6c1b85db.jpg?v=1765234910",
+    "index": 55,
+    "file": "055_coppercowwebsitegraphics-classic-70f315e.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_ChurroUpdate_15296ce5-dcf6-4075-a0ff-a865efdd54a5.jpg?v=1765234910",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_ChurroUpdate_15296ce5-dcf6-4075-a0ff-a865efdd54a5.jpg?v=1765234910",
+    "index": 56,
+    "file": "056_coppercowwebsitegraphics-churroupdate-15.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_VanillaUpdate_a7b2998c-ed05-4b95-a12d-8cbe3223d580.jpg?v=1765234910",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_VanillaUpdate_a7b2998c-ed05-4b95-a12d-8cbe3223d580.jpg?v=1765234910",
+    "index": 57,
+    "file": "057_coppercowwebsitegraphics-vanillaupdate-a.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_CaramelUpdate_b6484edc-b559-4e05-8d45-9129442caffc.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_CaramelUpdate_b6484edc-b559-4e05-8d45-9129442caffc.jpg?v=1763165034",
+    "index": 58,
+    "file": "058_coppercowwebsitegraphics-caramelupdate-b.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_HowTocopy_10cba4af-6a53-434b-baad-93d04a7fb933.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_HowTocopy_10cba4af-6a53-434b-baad-93d04a7fb933.jpg?v=1763165034",
+    "index": 59,
+    "file": "059_coppercowwebsitegraphics-howtocopy-10cba.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_RealFlavor_df876f7c-11ae-499a-a936-9bdc6ea06735.jpg?v=1763165034",
+    "alt": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)",
+    "product": "the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_RealFlavor_df876f7c-11ae-499a-a936-9bdc6ea06735.jpg?v=1763165034",
+    "index": 60,
+    "file": "060_coppercowwebsitegraphics-realflavor-df87.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerDoodleMain.jpg?v=1791315206",
+    "alt": "Snickerdoodle Pour Over Coffee - 8ct",
+    "product": "snickerdoodle-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerDoodleMain.jpg?v=1791315206",
+    "index": 61,
+    "file": "061_websitegraphics-snickerdoodle-snickerdoo.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleMug.jpg?v=1791315206",
+    "alt": "Snickerdoodle Pour Over Coffee - 8ct",
+    "product": "snickerdoodle-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleMug.jpg?v=1791315206",
+    "index": 62,
+    "file": "062_websitegraphics-snickerdoodle-snickerdoo.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_6975003a-9844-425c-8988-e876073584c7.jpg?v=1790008851",
+    "alt": "Snickerdoodle Pour Over Coffee - 8ct",
+    "product": "snickerdoodle-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_6975003a-9844-425c-8988-e876073584c7.jpg?v=1790008851",
+    "index": 63,
+    "file": "063_copper-cow-website-graphics-sourcing-cop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_7a2358ab-5af4-4fc6-9494-8711519acf39.jpg?v=1790008851",
+    "alt": "Snickerdoodle Pour Over Coffee - 8ct",
+    "product": "snickerdoodle-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_7a2358ab-5af4-4fc6-9494-8711519acf39.jpg?v=1790008851",
+    "index": 64,
+    "file": "064_copper-cow-website-graphics-howto-copy-1.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/8pk-Snickerdoodle-Render-Back.jpg?v=1791324939",
+    "alt": "Snickerdoodle Pour Over Coffee - 8ct",
+    "product": "snickerdoodle-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/8pk-Snickerdoodle-Render-Back.jpg?v=1791324939",
+    "index": 65,
+    "file": "065_8pk-snickerdoodle-render-back.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleCreamer.jpg?v=1791322337",
+    "alt": "Snickerdoodle Latte Bundle - 8ct",
+    "product": "latte-bundle-snickerdoodle-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleCreamer.jpg?v=1791322337",
+    "index": 66,
+    "file": "066_websitegraphics-snickerdoodle-snickerdoo.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleMug_9c1928bf-5f83-4b88-92db-79013afdeb93.jpg?v=1791322340",
+    "alt": "Snickerdoodle Latte Bundle - 8ct",
+    "product": "latte-bundle-snickerdoodle-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/WebsiteGraphics_Snickerdoodle_SnickerdoodleMug_9c1928bf-5f83-4b88-92db-79013afdeb93.jpg?v=1791322340",
+    "index": 67,
+    "file": "067_websitegraphics-snickerdoodle-snickerdoo.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Spill-OnWhite_c0d058e4-5b28-4a45-a036-d48250c39c32.jpg?v=1786387329",
+    "alt": "Snickerdoodle Latte Bundle - 8ct",
+    "product": "latte-bundle-snickerdoodle-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Spill-OnWhite_c0d058e4-5b28-4a45-a036-d48250c39c32.jpg?v=1786387329",
+    "index": 68,
+    "file": "068_ccc-pdp-lattecreamer-single-spill-onwhit.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Back-OnWhite_1.jpg?v=1786387329",
+    "alt": "Snickerdoodle Latte Bundle - 8ct",
+    "product": "latte-bundle-snickerdoodle-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Back-OnWhite_1.jpg?v=1786387329",
+    "index": 69,
+    "file": "069_ccc-pdp-lattecreamer-single-back-onwhite.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/1_c8d90499-daa3-4578-918e-486458ce3819.png?v=1770051461",
+    "alt": "Thai Tea Latte - 5 ct",
+    "product": "thai-tea-latte-5-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/1_c8d90499-daa3-4578-918e-486458ce3819.png?v=1770051461",
+    "index": 70,
+    "file": "070_1-c8d90499-daa3-4578-918e-486458ce3819.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copy_of_Bulk_Creamer_2.png?v=1770052695",
+    "alt": "Thai Tea Latte - 5 ct",
+    "product": "thai-tea-latte-5-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copy_of_Bulk_Creamer_2.png?v=1770052695",
+    "index": 71,
+    "file": "071_copy-of-bulk-creamer-2.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_f6818c25-822d-46d8-bf47-eb5aa93b1948.png?v=1770052695",
+    "alt": "Thai Tea Latte - 5 ct",
+    "product": "thai-tea-latte-5-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_f6818c25-822d-46d8-bf47-eb5aa93b1948.png?v=1770052695",
+    "index": 72,
+    "file": "072_2-f6818c25-822d-46d8-bf47-eb5aa93b1948.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/3_154f27ee-65e6-47ae-95e5-3e99a7995844.png?v=1770052695",
+    "alt": "Thai Tea Latte - 5 ct",
+    "product": "thai-tea-latte-5-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/3_154f27ee-65e6-47ae-95e5-3e99a7995844.png?v=1770052695",
+    "index": 73,
+    "file": "073_3-154f27ee-65e6-47ae-95e5-3e99a7995844.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/4_927a43ec-1473-4d18-a1b0-14dd4cc609e2.png?v=1770052695",
+    "alt": "Thai Tea Latte - 5 ct",
+    "product": "thai-tea-latte-5-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/4_927a43ec-1473-4d18-a1b0-14dd4cc609e2.png?v=1770052695",
+    "index": 74,
+    "file": "074_4-927a43ec-1473-4d18-a1b0-14dd4cc609e2.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/5_86c0870c-1f7e-40af-a01e-170284390952.png?v=1764884881",
+    "alt": "Organic Classic Ground Coffee - 12oz",
+    "product": "organic-classic-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/5_86c0870c-1f7e-40af-a01e-170284390952.png?v=1764884881",
+    "index": 75,
+    "file": "075_5-86c0870c-1f7e-40af-a01e-170284390952.png",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Lifestyle.jpg?v=1764884881",
+    "alt": "Organic Classic Ground Coffee - 12oz",
+    "product": "organic-classic-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Lifestyle.jpg?v=1764884881",
+    "index": 76,
+    "file": "076_ccc-pdp-classicorganic-ground-lifestyle.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Front3-4.png?v=1764884881",
+    "alt": "Organic Classic Ground Coffee - 12oz",
+    "product": "organic-classic-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Front3-4.png?v=1764884881",
+    "index": 77,
+    "file": "077_ccc-pdp-classicorganic-ground-front3-4.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Back.png?v=1764884881",
+    "alt": "Organic Classic Ground Coffee - 12oz",
+    "product": "organic-classic-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-ClassicOrganic-Ground-Back.png?v=1764884881",
+    "index": 78,
+    "file": "078_ccc-pdp-classicorganic-ground-back.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogV2_LondonFogHero_2.jpg?v=1788990120",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogV2_LondonFogHero_2.jpg?v=1788990120",
+    "index": 79,
+    "file": "079_londonfogv2-londonfoghero-2.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogV2_LondonFog_1.jpg?v=1788990120",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogV2_LondonFog_1.jpg?v=1788990120",
+    "index": 80,
+    "file": "080_londonfogv2-londonfog-1.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy.jpg?v=1764887359",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy.jpg?v=1764887359",
+    "index": 81,
+    "file": "081_copper-cow-website-graphics-howto-copy.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5.jpg?v=1764887359",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5.jpg?v=1764887359",
+    "index": 82,
+    "file": "082_copper-cow-website-graphics-sourcing-cop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonNog1_Edit_Large_c96a484e-8b42-4968-acac-c126d5a17623.jpg?v=1761949537",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonNog1_Edit_Large_c96a484e-8b42-4968-acac-c126d5a17623.jpg?v=1761949537",
+    "index": 83,
+    "file": "083_londonnog1-edit-large-c96a484e-8b42-4968.jpg",
+    "size": "854x854"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/3_4f8594a4-4aee-4131-8e5e-4901d4faa037.png?v=1758667115",
+    "alt": "London Nog Pour Over Coffee - 8ct",
+    "product": "london-nog-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/3_4f8594a4-4aee-4131-8e5e-4901d4faa037.png?v=1758667115",
+    "index": 84,
+    "file": "084_3-4f8594a4-4aee-4131-8e5e-4901d4faa037.png",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogLatte_1.jpg?v=1788990120",
+    "alt": "London Nog Latte Bundle - 8ct",
+    "product": "latte-bundle-london-nog-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/LondonFogLatte_1.jpg?v=1788990120",
+    "index": 85,
+    "file": "085_londonfoglatte-1.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_8425dd4d-ed86-446a-858f-daeae9300976.jpg?v=1781295412",
+    "alt": "London Nog Latte Bundle - 8ct",
+    "product": "latte-bundle-london-nog-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_HowTo_copy_1_8425dd4d-ed86-446a-858f-daeae9300976.jpg?v=1781295412",
+    "index": 86,
+    "file": "086_copper-cow-website-graphics-howto-copy-1.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_6a77e0f1-894e-4f28-870d-8d41a77a9d9f.jpg?v=1781295412",
+    "alt": "London Nog Latte Bundle - 8ct",
+    "product": "latte-bundle-london-nog-pour-over-vietnamese-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Sourcing_copy_5_1_6a77e0f1-894e-4f28-870d-8d41a77a9d9f.jpg?v=1781295412",
+    "index": 87,
+    "file": "087_copper-cow-website-graphics-sourcing-cop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/VanillaCreamer_Vanilla_Creamer_24.jpg?v=1774636769",
+    "alt": "Vanilla Creamer - 24ct",
+    "product": "vanilla-vietnamese-coffee-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/VanillaCreamer_Vanilla_Creamer_24.jpg?v=1774636769",
+    "index": 88,
+    "file": "088_vanillacreamer-vanilla-creamer-24.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/VanillaCreamer_Vanilla_Creamer_Flavor.jpg?v=1775600629",
+    "alt": "Vanilla Creamer - 24ct",
+    "product": "vanilla-vietnamese-coffee-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/VanillaCreamer_Vanilla_Creamer_Flavor.jpg?v=1775600629",
+    "index": 89,
+    "file": "089_vanillacreamer-vanilla-creamer-flavor.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerNutrition_Vanilla.jpg?v=1775600629",
+    "alt": "Vanilla Creamer - 24ct",
+    "product": "vanilla-vietnamese-coffee-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerNutrition_Vanilla.jpg?v=1775600629",
+    "index": 90,
+    "file": "090_creamernutrition-vanilla.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerFront_Vanilla.jpg?v=1774636769",
+    "alt": "Vanilla Creamer - 24ct",
+    "product": "vanilla-vietnamese-coffee-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerFront_Vanilla.jpg?v=1774636769",
+    "index": 91,
+    "file": "091_creamerfront-vanilla.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerBack_Vanilla.jpg?v=1774636769",
+    "alt": "Vanilla Creamer - 24ct",
+    "product": "vanilla-vietnamese-coffee-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CreamerBack_Vanilla.jpg?v=1774636769",
+    "index": 92,
+    "file": "092_creamerback-vanilla.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_1.jpg?v=1764202687",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_1.jpg?v=1764202687",
+    "index": 93,
+    "file": "093_amazoncontentjuly-coffee-1.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLatte_1.jpg?v=1764202687",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLatte_1.jpg?v=1764202687",
+    "index": 94,
+    "file": "094_coppercowwebsitegraphics-newlooklatte-1.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Creamer25_NitritionFacts.jpg?v=1772754362",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Creamer25_NitritionFacts.jpg?v=1772754362",
+    "index": 95,
+    "file": "095_creamer25-nitritionfacts.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/1_bc512ccc-6c42-43bb-8731-4a530b614c7f.png?v=1772754362",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/1_bc512ccc-6c42-43bb-8731-4a530b614c7f.png?v=1772754362",
+    "index": 96,
+    "file": "096_1-bc512ccc-6c42-43bb-8731-4a530b614c7f.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Front-OnWhite.jpg?v=1772754362",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Front-OnWhite.jpg?v=1772754362",
+    "index": 97,
+    "file": "097_ccc-pdp-lattecreamer-single-front-onwhit.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Back-OnWhite.jpg?v=1772754362",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Back-OnWhite.jpg?v=1772754362",
+    "index": 98,
+    "file": "098_ccc-pdp-lattecreamer-single-back-onwhite.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Spill-OnWhite_68025f13-7d66-4be7-8faa-58e0c19c5f69.jpg?v=1772754362",
+    "alt": "Classic Creamer - 25ct",
+    "product": "classic-vietnamese-coffee-creamer-25-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-LatteCreamer-Single-Spill-OnWhite_68025f13-7d66-4be7-8faa-58e0c19c5f69.jpg?v=1772754362",
+    "index": 99,
+    "file": "099_ccc-pdp-lattecreamer-single-spill-onwhit.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_LatteCreamer8_2.jpg?v=1764202708",
+    "alt": "Classic Creamer - 8ct",
+    "product": "classic-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_LatteCreamer8_2.jpg?v=1764202708",
+    "index": 100,
+    "file": "100_coppercowwebsitegraphics-lattecreamer8-2.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLattecopy_1.jpg?v=1764202708",
+    "alt": "Classic Creamer - 8ct",
+    "product": "classic-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLattecopy_1.jpg?v=1764202708",
+    "index": 101,
+    "file": "101_coppercowwebsitegraphics-newlooklattecop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_35b14ca8-a84d-4b79-84d8-2650fc001832.png?v=1772752335",
+    "alt": "Classic Creamer - 8ct",
+    "product": "classic-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/2_35b14ca8-a84d-4b79-84d8-2650fc001832.png?v=1772752335",
+    "index": 102,
+    "file": "102_2-35b14ca8-a84d-4b79-84d8-2650fc001832.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_MochaCreamer8_2_8f764e1b-2b80-4f15-af98-1d749fdf928a.jpg?v=1764202765",
+    "alt": "Mocha Creamer - 8ct",
+    "product": "mocha-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_MochaCreamer8_2_8f764e1b-2b80-4f15-af98-1d749fdf928a.jpg?v=1764202765",
+    "index": 103,
+    "file": "103_coppercowwebsitegraphics-mochacreamer8-2.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLattecopy3_1.jpg?v=1764202765",
+    "alt": "Mocha Creamer - 8ct",
+    "product": "mocha-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CopperCowWebsiteGraphics_NewLookLattecopy3_1.jpg?v=1764202765",
+    "index": 104,
+    "file": "104_coppercowwebsitegraphics-newlooklattecop.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/8_1.png?v=1772753299",
+    "alt": "Mocha Creamer - 8ct",
+    "product": "mocha-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/8_1.png?v=1772753299",
+    "index": 105,
+    "file": "105_8-1.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-MochaCreamer-Single-Front-OnWhite_1.jpg?v=1772753502",
+    "alt": "Mocha Creamer - 8ct",
+    "product": "mocha-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-MochaCreamer-Single-Front-OnWhite_1.jpg?v=1772753502",
+    "index": 106,
+    "file": "106_ccc-pdp-mochacreamer-single-front-onwhit.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-MochaCreamer-Single-Back-OnWhite.jpg?v=1772753502",
+    "alt": "Mocha Creamer - 8ct",
+    "product": "mocha-vietnamese-coffee-creamer",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-MochaCreamer-Single-Back-OnWhite.jpg?v=1772753502",
+    "index": 107,
+    "file": "107_ccc-pdp-mochacreamer-single-back-onwhite.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Mocha_Creamer_25_copy_3.jpg?v=1776900782",
+    "alt": "Mocha Creamer - 24ct",
+    "product": "mocha-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_Mocha_Creamer_25_copy_3.jpg?v=1776900782",
+    "index": 108,
+    "file": "108_copper-cow-website-graphics-mocha-creame.jpg",
+    "size": "1667x1667"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_New_Look_Latte_copy_2_2.jpg?v=1776900782",
+    "alt": "Mocha Creamer - 24ct",
+    "product": "mocha-creamer-24-pack",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/Copper_Cow_Website_Graphics_New_Look_Latte_copy_2_2.jpg?v=1776900782",
+    "index": 109,
+    "file": "109_copper-cow-website-graphics-new-look-lat.jpg",
+    "size": "1667x1667"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/7.png?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/7.png?v=1764884989",
+    "index": 110,
+    "file": "110_7.png",
+    "size": "800x800"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/B0BV95BYHCImage6.jpg?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/B0BV95BYHCImage6.jpg?v=1764884989",
+    "index": 111,
+    "file": "111_b0bv95byhcimage6.jpg",
+    "size": "2160x2160"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Front3-4.png?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Front3-4.png?v=1764884989",
+    "index": 112,
+    "file": "112_ccc-pdp-gc-classic-newviz-front3-4.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-Lifestyle-Classic.jpg?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-Lifestyle-Classic.jpg?v=1764884989",
+    "index": 113,
+    "file": "113_ccc-pdp-lifestyle-classic.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-General-CloseUp-BlackCoffee-Pour-A_1_ff1f628e-f368-4c0d-8019-8fd080960ea3.jpg?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-General-CloseUp-BlackCoffee-Pour-A_1_ff1f628e-f368-4c0d-8019-8fd080960ea3.jpg?v=1764884989",
+    "index": 114,
+    "file": "114_ccc-general-closeup-blackcoffee-pour-a-1.jpg",
+    "size": "2226x2225"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Back.png?v=1764884989",
+    "alt": "Classic Black Ground Coffee - 12oz",
+    "product": "classic-black-vietnamese-ground-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CCC-PDP-GC-Classic-NewViz-Back.png?v=1764884989",
+    "index": 115,
+    "file": "115_ccc-pdp-gc-classic-newviz-back.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Coffee_Tea_Hero_copy_5.jpg?v=1786404589",
+    "alt": "Cardamom Pretzel Latte Bundle - 8ct",
+    "product": "bundle-cardamom-pretzel-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Coffee_Tea_Hero_copy_5.jpg?v=1786404589",
+    "index": 116,
+    "file": "116_cardamompretzel-coffee-tea-hero-copy-5.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Vanilla_Update_copy_3.jpg?v=1786404807",
+    "alt": "Cardamom Pretzel Latte Bundle - 8ct",
+    "product": "bundle-cardamom-pretzel-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Vanilla_Update_copy_3.jpg?v=1786404807",
+    "index": 117,
+    "file": "117_cardamompretzel-vanilla-update-copy-3.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Coffee_Tea_Hero_copy_4.jpg?v=1786404589",
+    "alt": "Cardamom Pretzel Pour Over - 8ct",
+    "product": "cardamom-pretzel-vietnamese-pour-over-coffee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/CardamomPretzel_Coffee_Tea_Hero_copy_4.jpg?v=1786404589",
+    "index": 118,
+    "file": "118_cardamompretzel-coffee-tea-hero-copy-4.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/48_pourovers-60.jpg?v=1763594538",
+    "alt": "Vanilla Pour Over Coffee - 48ct",
+    "product": "vanilla-pour-over-coffee-48-count",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/48_pourovers-60.jpg?v=1763594538",
+    "index": 119,
+    "file": "119_48-pourovers-60.jpg",
+    "size": "3333x3333"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Artboard_1_copy_14.jpg?v=1763594538",
+    "alt": "Vanilla Pour Over Coffee - 48ct",
+    "product": "vanilla-pour-over-coffee-48-count",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0004/7769/1968/files/AmazonContentJuly_Coffee_Artboard_1_copy_14.jpg?v=1763594538",
+    "index": 120,
+    "file": "120_amazoncontentjuly-coffee-artboard-1-copy.jpg",
+    "size": "3333x3333"
+  }
+]

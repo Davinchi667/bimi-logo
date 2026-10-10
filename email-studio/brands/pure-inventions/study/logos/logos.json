@@ -1,0 +1,29 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://pureinventions.com/cdn/shop/files/PureInventions_Logo_RGB_Color_157x.png?v=1662739006",
+      "alt": "Pure Inventions",
+      "w": 157,
+      "h": 92,
+      "hint": "pure inventions js lazyautosizes lazyloaded //pureinventions.com/cdn/shop/files/pureinventions_logo_rgb_color_300x300.png?v=1662739006 ",
+      "where": "header",
+      "tone": "dark",
+      "file": "logos/logo_01_header_dark-marks.png"
+    },
+    {
+      "kind": "img",
+      "src": "https://pureinventions.com/cdn/shop/files/logo-footer_154x.png?v=1618435399",
+      "alt": "Pure Inventions",
+      "w": 154,
+      "h": 48,
+      "hint": "pure inventions js lazyautosizes lazyloaded //pureinventions.com/cdn/shop/files/logo-footer_small.png?v=1618435399 ",
+      "where": "footer",
+      "tone": "light",
+      "file": "logos/logo_02_footer_light-marks.png"
+    }
+  ],
+  "favicons": [
+    "https://pureinventions.com/cdn/shop/files/pureinventions-favicon_32x32.png?v=1618346008"
+  ]
+}

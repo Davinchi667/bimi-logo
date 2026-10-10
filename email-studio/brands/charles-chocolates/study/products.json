@@ -1,0 +1,2404 @@
+[
+  {
+    "title": "Filled Skulls Trio: Garnet, Dark and Milk Chocolate",
+    "handle": "filled-skulls-trio",
+    "url": "https://charleschocolates.com/products/filled-skulls-trio",
+    "type": "Halloween",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Halloween",
+      "JKC",
+      "John Kelly Chocolates",
+      "limited-drop"
+    ],
+    "price_min": 55.0,
+    "price_max": 55.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "55.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Trio_1_Three_Boxes.jpg?v=1791044640",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_1_Single_Box_59acd201-35b0-4273-8a49-d06e08080bb5.jpg?v=1791044640",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Dark_1_Single_Box_253e855d-46c1-41a3-91c2-b36dfdd2fc19.jpg?v=1791044640",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Milk_1_Single_Box_abee484e-9849-4bdf-9cd4-706ce7f74cf7.jpg?v=1791044640"
+    ],
+    "description": "Sample each of our limited edition filled skulls: Dark chocolate with spiced chocolate caramel, milk chocolate with s'mores, and Ruby (the 4th type of chocolate) with candied apple caramel\nDark chocolate:\n 65% bittersweet shell, spiced chocolate caramel made with coconut cream, chili and cinnamon\nMilk chocolate:\n graham cracker ganache and vanilla marshmallow\nGarnet:\n milk and white chocolate shell, candied apple caramel made with real apple puree\nThe set comes tied with our black signature ribbon. A wicked gift for yourself or a fun gift for a loved one.\n3 boxes of 5 skulls, 3 oz (85g) each. Best enjoyed within three months.\nAllergens: Garnet contains milk. Milk chocolate contains milk, wheat and eggs. Please see each box's label.",
+    "published_at": "2026-10-03T12:41:06-07:00"
+  },
+  {
+    "title": "5-Piece Milk Chocolate Skulls with S'mores Filling",
+    "handle": "5-piece-milk-chocolate-skulls-smores",
+    "url": "https://charleschocolates.com/products/5-piece-milk-chocolate-skulls-smores",
+    "type": "Halloween",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Halloween",
+      "JKC",
+      "John Kelly Chocolates",
+      "limited-drop"
+    ],
+    "price_min": 20.0,
+    "price_max": 20.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "20.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-HAL-56MCS-F"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Milk_1_Single_Box.jpg?v=1791044620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Milk_2_Box_TopDown.jpg?v=1791044621",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Milk_3_Box_3Loose.jpg?v=1791044621"
+    ],
+    "description": "The filling is a graham cracker ganache with vanilla marshmallow. The graham cracker is the real thing, made with graham flour, brown sugar and honey. It tastes like a s'more, which is the idea.\nFive skulls, each in its own cup, packed in a clear container and hand-tied with a black John Kelly signature ribbon.\n3 oz. Best within three months. Contains milk, wheat and eggs.",
+    "published_at": "2026-10-03T12:41:06-07:00"
+  },
+  {
+    "title": "5-Piece Dark Chocolate Skulls with Spiced Chocolate Caramel Filling",
+    "handle": "5-piece-dark-chocolate-skulls-spiced-chocolate-caramel",
+    "url": "https://charleschocolates.com/products/5-piece-dark-chocolate-skulls-spiced-chocolate-caramel",
+    "type": "Halloween",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Halloween",
+      "JKC",
+      "John Kelly Chocolates",
+      "limited-drop"
+    ],
+    "price_min": 20.0,
+    "price_max": 20.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "20.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-HAL-56DCS-F"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Dark_1_Single_Box.jpg?v=1791044620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Dark_2_Box_TopDown.jpg?v=1791044620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Dark_3_Box_3Loose.jpg?v=1791044620"
+    ],
+    "description": "The caramel inside is made with coconut cream, chili powder and cinnamon. The heat takes a second to show up and it doesn't hang around long. The shell is 65% bittersweet.\nFive skulls, each in its own cup, packed in a clear container and hand-tied with a black John Kelly signature ribbon.\n3 oz. Best within three months.",
+    "published_at": "2026-10-03T12:41:05-07:00"
+  },
+  {
+    "title": "5-Piece Garnet Skulls with Candied Apple Caramel Filling",
+    "handle": "5-piece-garnet-skulls-candied-apple-caramel",
+    "url": "https://charleschocolates.com/products/5-piece-garnet-skulls-candied-apple-caramel",
+    "type": "Halloween",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Halloween",
+      "JKC",
+      "John Kelly Chocolates",
+      "limited-drop"
+    ],
+    "price_min": 20.0,
+    "price_max": 20.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "20.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-HAL-56RCS-F"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_1_Single_Box.jpg?v=1791044620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_2_Box_TopDown.jpg?v=1791044620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_3_Box_3Loose.jpg?v=1791044620"
+    ],
+    "description": "Each skull is filled with a green apple caramel. There's real apple puree in it, so the tartness comes first and the caramel catches up after, which is more or less what a candy apple does. The shells are milk and white chocolate, colored with cocoa butter.\nFive skulls, each in its own cup, packed in a clear container and hand-tied with a black John Kelly signature ribbon.\n3 oz. Best within three months. Contains milk.",
+    "published_at": "2026-10-03T12:41:05-07:00"
+  },
+  {
+    "title": "Praline Crunch Collection (4 bars)",
+    "handle": "french-praline-crunch-collection",
+    "url": "https://charleschocolates.com/products/french-praline-crunch-collection",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "limited-drop"
+    ],
+    "price_min": 89.0,
+    "price_max": 89.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "89.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/french-praline-crunch-collection-lineup.jpg?v=1787778885",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-peanut.jpg?v=1790717098",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-hazelnut.jpg?v=1790717098",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-pecan.jpg?v=1790717098",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-almond.jpg?v=1790717098"
+    ],
+    "description": "Fresh nuts are carefully roasted with sugar in a copper pot, a French technique that perfectly roasts and coats each nut in caramel. Once cooled, the nuts are ground into a smooth paste, and chocolate is folded in. What comes out is not sweet the way a candied nut is sweet. The caramel goes dark and toasty, the roast comes forward instead of hiding behind sugar, and the chocolate holds the whole thing together.\nAll four have a 65% bittersweet chocolate shell, with a little organic crisped brown rice folded in for texture (that is the crunch in the name). 6.4 oz each, made by hand in San Francisco.\nPeanut.\nThe least fancy nut in the box and usually the one that surprises people the most. Deep roasted, and the praliné turns them into something that tastes very little like the peanut butter cup you are imagining.\nHazelnut.\n Everyone has eaten hazelnut and chocolate out of a jar. This is our elevated approach to that spread, and it is the bar I hand people when they tell me they have no idea what praliné is.\nPecan.\n The perfect flavor profile for Fall. Applying the French praline technique to pecans creates something warm and inviting.\nAlmond.\n Interestingly, this is the only one of the four with bittersweet chocolate mixed into the praline itself, rather than dark milk chocolate. Against the warm flavor of the almonds it makes a real difference, and the result is something special.\nAll four have a 65% bittersweet chocolate shell, with a little organic crisped brown rice folded in for texture (that is the crunch in the name). 6.4 oz each, made by hand here in San Francisco.\nSet of Four Bars Total Net Weight: 25.6 oz. (720 g)\nPeanut Praline Crunch Bar\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), peanuts, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Milk and peanuts.\nNet Weight: 6.4 oz (180 g)\nHazelnut Praline Crunch Bar\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), hazelnuts, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Milk and tree nuts (hazelnuts).\nNet Weight: 6.4 oz (180 g)\nPecan Praline Crunch Bar\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pecans, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown ric",
+    "published_at": "2026-09-01T07:50:47-07:00"
+  },
+  {
+    "title": "Almond Praline Crunch Bar (3 bars)",
+    "handle": "almond-french-praline-crunch-bar",
+    "url": "https://charleschocolates.com/products/almond-french-praline-crunch-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "limited-drop"
+    ],
+    "price_min": 69.0,
+    "price_max": 69.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "69.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/almond-french-praline-crunch-bar-in-pack.jpg?v=1787778859",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/almond-french-praline-crunch-bar-unwrapped.jpg?v=1787778859",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/almond-french-praline-crunch-bar-stack.jpg?v=1787778859"
+    ],
+    "description": "Almonds roasted with sugar in a copper pot, in a French technique that perfectly roasts and coats each nut in dark, toasty caramel. Once cooled, the nuts are ground into a smooth paste, bittersweet chocolate and crisped brown rice is folded in for texture. All in a thin, 65% bittersweet chocolate shell.\nBittersweet chocolate against the warm flavor of toasted almonds results is something special we're excited for you to try.\nMade by hand here in San Francisco.\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), almonds, cane sugar, organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Tree nuts (almonds).\nNet Weight: 6.4 oz (180 g)\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, soy, wheat and sesame.",
+    "published_at": "2026-09-01T07:50:31-07:00"
+  },
+  {
+    "title": "Hazelnut Praline Crunch Bar (3 bars)",
+    "handle": "hazelnut-french-praline-crunch-bar",
+    "url": "https://charleschocolates.com/products/hazelnut-french-praline-crunch-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "limited-drop"
+    ],
+    "price_min": 69.0,
+    "price_max": 69.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "69.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/hazelnut-french-praline-crunch-bar-in-pack.jpg?v=1787778864",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/hazelnut-french-praline-crunch-bar-unwrapped.jpg?v=1787778865",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/hazelnut-french-praline-crunch-bar-stack.jpg?v=1787778864"
+    ],
+    "description": "At Charles Chocolates, we roast our nuts in-house so we can get it just right. For this bar, hazelnut is carefully roasted with sugar in a copper pot, in a French technique that perfectly roasts and coats each nut in dark, toasty caramel. Once cooled, the nuts are ground into a smooth paste, chocolate and crisped brown rice is folded in for texture. All in a thin, 65% bittersweet chocolate shell.\nSet of Three Bars Total Net Weight: 19.2 oz. (540 g)\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), hazelnuts, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Milk and tree nuts (hazelnuts).\nNet Weight: 6.4 oz (180 g)\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, soy, wheat and sesame.",
+    "published_at": "2026-09-01T07:50:19-07:00"
+  },
+  {
+    "title": "Peanut Praline Crunch Bar (3 bars)",
+    "handle": "peanut-french-praline-crunch-bar",
+    "url": "https://charleschocolates.com/products/peanut-french-praline-crunch-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "limited-drop"
+    ],
+    "price_min": 69.0,
+    "price_max": 69.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "69.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/peanut-french-praline-crunch-bar-in-pack.jpg?v=1787778869",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/peanut-french-praline-crunch-bar-unwrapped.jpg?v=1787778869",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/peanut-french-praline-crunch-bar-stack.jpg?v=1787778869"
+    ],
+    "description": "Deep roasted peanuts and rich caramel ground into a smooth paste, combined with chocolate and organic crisped brown rice in a thin, 65% bittersweet chocolate shell. It's the best version of the peanut butter cup you are likely imagining.\nA 65% bittersweet chocolate shell, with a little organic crisped brown rice folded in for texture (that is the crunch in the name). 6.4 oz per bar, made by hand here in San Francisco.\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), peanuts, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Milk and peanuts.\nNet Weight: 6.4 oz (180 g)\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, soy, wheat and sesame.",
+    "published_at": "2026-09-01T07:50:06-07:00"
+  },
+  {
+    "title": "Pecan Praline Crunch Bar (3 bars)",
+    "handle": "pecan-french-praline-crunch-bar",
+    "url": "https://charleschocolates.com/products/pecan-french-praline-crunch-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "limited-drop"
+    ],
+    "price_min": 69.0,
+    "price_max": 69.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "69.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/pecan-french-praline-crunch-bar-in-pack.jpg?v=1787778874",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/pecan-french-praline-crunch-bar-unwrapped.jpg?v=1787778874",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/pecan-french-praline-crunch-bar-stack.jpg?v=1787778874"
+    ],
+    "description": "Fresh pecans carefully roasted with sugar in a copper pot, in a French technique that perfectly roasts and coats each nut in dark, toasty caramel. Once cooled, the nuts are ground into a smooth paste, chocolate and crisped brown rice is folded in for texture. All in a thin, 65% bittersweet chocolate shell.\n6.4 oz per bar, made by hand here in San Francisco.\nIngredients: Bittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pecans, cane sugar, milk chocolate 41% cacao (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cocoa butter, salt, vanilla beans, cocoa butter and natural colorants.\nContains: Milk and tree nuts (pecans).\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, soy, wheat and sesame.",
+    "published_at": "2026-09-01T07:49:54-07:00"
+  },
+  {
+    "title": "Chocolate Covered Lemon Peel (Three Pack)",
+    "handle": "chocolate-covered-lemon-peel-three-pack",
+    "url": "https://charleschocolates.com/products/chocolate-covered-lemon-peel-three-pack",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 36.0,
+    "price_max": 36.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "36.00",
+        "compare_at_price": "37.80",
+        "available": true,
+        "sku": "R36-07"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_LEMON_PEEL_BUNDLE_R36-07.jpg?v=1790268629",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_LEMON_PEEL_WRAPPED_R36-07.jpg?v=1790182322",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_LEMON_PEEL_STICKS_R36-07.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Untitleddesign_14.png?v=1783684743"
+    ],
+    "description": "Lemon peel tends to be much harder to do well—the inherent bitterness of the peel and pith are significantly harder to tame. Our Chocolate Covered Lemon Peel keeps just a touch of that bitterness balanced with the lemony flavor that we all love. The bittersweet chocolate coating just seals the deal.\nNet Weight:\n2.8 oz. each pack\nIngredients:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), candied lemon peel (lemon peel, glucose-fructose syrup and sugar)\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, wheat and soy.",
+    "published_at": "2026-07-10T04:39:46-07:00"
+  },
+  {
+    "title": "Chocolate Covered Orange Peel (Three-Pack)",
+    "handle": "chocolate-covered-orange-peel-three-pack",
+    "url": "https://charleschocolates.com/products/chocolate-covered-orange-peel-three-pack",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 36.0,
+    "price_max": 36.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "36.00",
+        "compare_at_price": "37.80",
+        "available": true,
+        "sku": "R36-06"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_ORANGE_PEEL_BUNDLE_R36-06.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_ORANGE_PEEL_WRAPPED_R36-06.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_ORANGE_PEEL_STICKS_R36-06.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Untitleddesign_15.png?v=1783684642"
+    ],
+    "description": "Valencia oranges make the most distinctive and (we think) best candied peel. After a multi-day process that brings out the best of the orange, without the strong bitter taste that some candied peel can have, we dry and then coat each piece in bittersweet chocolate.\nNet Weight:\n 2.8 oz each pack\nINGREDIENTS:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), candied orange peel (orange peel, glucose-fructose syrup, sugar).\nManufactured in a facility that also processes products containing tree nuts, peanuts, milk, eggs, wheat and soy",
+    "published_at": "2026-07-10T04:38:36-07:00"
+  },
+  {
+    "title": "Grand Gift Tower",
+    "handle": "grand-gift-tower",
+    "url": "https://charleschocolates.com/products/grand-gift-tower",
+    "type": "Gift Tower",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "Gift Towers",
+      "JKC",
+      "John Kelly Chocolates"
+    ],
+    "price_min": 300.0,
+    "price_max": 300.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "300.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-T-GT"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_x8_Variety_Wrapped_R-T-GT.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_Grand_AllOpen_R-T-GT.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Grand-Tower-1.jpg?v=1782141694",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Grand-Tower-with-Large-JKC-Ribbon.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2284_crop2_R4.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2307_crop_lid6.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2728_R.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/9pieceButtFly1.jpg?v=1782141694",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2498_R10.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/COCO_box_Closed_a5a50c84-3e9f-4bdd-b44a-7fa1bfcba7ed.jpg?v=1782141694",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2627_R6.jpg?v=1782141695",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_6.jpg?v=1782141694"
+    ],
+    "description": "The ultimate tower, grand in height, selection, and impact. Eight boxes hand tied together with a beautiful satin ribbon, our most generous gift of all. When only the most impressive will do.\nIncludes (8 boxes)\n24 piece Signature Gift Box\n8 piece Signature Gift Box\n8 piece Salted Chocolate Combo Box\n9 piece Butterfly Gift Box\n4 piece Dark Chocolate with French Grey Sea Salt Box\n2 piece Coconut Box\n2 piece Semi-Sweet Chocolate and Caramel with Hawaiian Alaea Sea Salt\n2 piece Signature Gift Box\nA showstopping gift for the holidays, milestones, and the people who matter most.",
+    "published_at": "2026-06-22T08:27:32-07:00"
+  },
+  {
+    "title": "4 Piece Signature Handcrafted Chocolate Collection",
+    "handle": "4-piece-signature-handcrafted-chocolate-collection",
+    "url": "https://charleschocolates.com/products/4-piece-signature-handcrafted-chocolate-collection",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 22.25,
+    "price_max": 22.25,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "22.25",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-42C5"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/081126_Olio_JohnKelly-364_R-42C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle-Caramel_4pkVariety_Unwrapped_R-42C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle-Caramel_4pkVariety_Wrapped_R-42C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/4-Piece_Signature.jpg?v=1782141685",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_3868_R_37b687ca-1c54-4d7f-b644-201933a2df34.jpg?v=1782141684",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2366_crop_R_d79a46dd-ba5a-4908-b583-ee8be1f121cc.jpg?v=1782141685"
+    ],
+    "description": "Four of our most loved truffle fudge flavors in our exclusive signature gift box. Just enough variety to please a range of tastes, and the perfect host or hostess gift.\nWhat's inside (4 pieces)\nDark Chocolate with Walnuts\nSemi-Sweet Chocolate and Caramel with Hawaiian Alaea Sea Salt\nDark Chocolate with French Grey Sea Salt\nSemi-Sweet Chocolate\nSmall, beautiful, and always appreciated.",
+    "published_at": "2026-06-22T08:27:32-07:00"
+  },
+  {
+    "title": "4 Piece Dark Chocolate with French Grey Sea Salt",
+    "handle": "4-piece-dark-chocolate-with-french-grey-sea-salt",
+    "url": "https://charleschocolates.com/products/4-piece-dark-chocolate-with-french-grey-sea-salt",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 20.5,
+    "price_max": 20.5,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "20.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-41C2"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/081126_Olio_JohnKelly-126_R-41C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/TruffleFudgeBites_DarkFrenchSalt_Unwrapped_R-41C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_FudgeBites_DarkFrenchSalt_4pk_Wrapped_R-41C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_Dark_FrenchGraySeasalt_Stack_R-21C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2498_R12_4eaf0c44-bf59-43ef-8688-65caf251706a.jpg?v=1782141677",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2591_R.jpg?v=1782141677",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_3716_R.jpg?v=1782141677",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2577_R.jpg?v=1782141677"
+    ],
+    "description": "Our most popular salted chocolate box. National award winning dark chocolate finished with French Grey sea salt, four pieces that strike the perfect balance of rich and savory. Each one is calling your name.\nA lovely little gift, and an even better treat to keep for yourself.",
+    "published_at": "2026-06-22T08:27:31-07:00"
+  },
+  {
+    "title": "Premier Gift Tower",
+    "handle": "premier-gift-tower",
+    "url": "https://charleschocolates.com/products/premier-gift-tower",
+    "type": "Gift Tower",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "Gift Towers",
+      "JKC",
+      "John Kelly Chocolates"
+    ],
+    "price_min": 208.0,
+    "price_max": 208.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "208.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-T-PT"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_x5_Variety_Wrapped_R-T-PT.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_Premier_AllOpen_R-T-PT.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_1-e1709396580364.jpg?v=1782141661",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2284_crop2_R2.jpg?v=1782141661",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/2-oz-Bar-with-gold-lid-open_99d3a80a-19e8-4541-b298-1dfcb5aa009e.jpg?v=1782141661",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2498_R8.jpg?v=1782141661",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/COCO_box_Closed.jpg?v=1782141661",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2627_R4.jpg?v=1782141661"
+    ],
+    "description": "When you want to go a little further, the Premier Gift Tower delivers. Five boxes hand tied together with a beautiful satin ribbon, full of our richest flavors. A truly memorable gesture.\nIncludes\n24 piece Signature Gift Box\n2 Truffle Fudge Bars, Signature Gift Box\n4 piece Dark Chocolate with French Grey Sea Salt Box\n2 piece Coconut Box\n2 piece Chocolate and Caramel with Red Hawaiian Alaea Sea Salt Box\nAn unforgettable gift for the people who deserve the best.",
+    "published_at": "2026-06-22T08:27:30-07:00"
+  },
+  {
+    "title": "6 Piece Signature Handcrafted Chocolate Collection",
+    "handle": "6-piece-signature-handcrafted-chocolate-collection",
+    "url": "https://charleschocolates.com/products/6-piece-signature-handcrafted-chocolate-collection",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 30.75,
+    "price_max": 30.75,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "30.75",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-62-C1"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/081126_Olio_JohnKelly-345_R-62-C1.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_6pkBox_Unwrapped_R-62-C1.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_6pkBox_Wrapped_R-62-C1.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_10.jpg?v=1782141653",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_11.jpg?v=1782141653",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/4PieceChoc3.jpg?v=1782141653"
+    ],
+    "description": "Just the right size for the moments that call for something sweet. Six of our most loved flavors in one elegant box, perfect for gifting, hosting, or treating yourself.\nWhat's inside (6 pieces)\nDark Chocolate with Walnuts\nWhite Chocolate Vanilla with Walnuts\nSemi-Sweet Chocolate and Caramel with Hawaiian Alaea Sea Salt\nDark Chocolate with French Grey Sea Salt\nWalnut Caramel Cluster with Mediterranean Sea Salt\nSemi-Sweet Chocolate Raspberry\nA simple, beautiful gift for clients, friends, and family.",
+    "published_at": "2026-06-22T08:27:29-07:00"
+  },
+  {
+    "title": "24 Piece Signature Handcrafted Chocolate Collection with Satin Ribbon",
+    "handle": "24-piece-signature-handcrafted-chocolate-collection-with-satin-ribbon",
+    "url": "https://charleschocolates.com/products/24-piece-signature-handcrafted-chocolate-collection-with-satin-ribbon",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 118.0,
+    "price_max": 118.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "118.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-242C2-MOCHA"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffles_Box_Unwrapped_R-242C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/2W0A7228_WebR.jpg?v=1782141646",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/2W0A7264_WebR.jpg?v=1782141646",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2294_crop_R_2620b977-0da5-4a59-92c0-b3daf4c2d23b.jpg?v=1782141647",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2247_crop_R_b0fcdef8-3508-4b8d-bc97-260160241077.jpg?v=1782141646"
+    ],
+    "description": "Double the box, double the joy. Twenty four pieces with two of each of our twelve most loved flavors, hand tied with a mocha satin ribbon. A luxurious gift that feels as good to give as it does to receive.\nWhat's inside (24 pieces, 2 of each)\nDark Chocolate Espresso\nSemi-Sweet Chocolate with Walnuts\nSemi-Sweet Chocolate\nSemi-Sweet Chocolate and Peanut Butter\nDark Chocolate with Walnuts\nDark Chocolate\nSemi-Sweet Chocolate Raspberry\nWhite Chocolate Vanilla with Walnuts\nSemi-Sweet Chocolate and Caramel with Hawaiian Alaea Sea Salt\nDark Chocolate with French Grey Sea Salt\nPeanut Butter with Himalayan Pink Salt\nWalnut Caramel Cluster with Mediterranean Sea Salt\nIdeal for the holidays, big thank yous, and gifts that need to wow.",
+    "published_at": "2026-06-22T08:27:29-07:00"
+  },
+  {
+    "title": "8 Piece Signature Handcrafted Dark Chocolate Collection",
+    "handle": "8-piece-signature-handcrafted-dark-chocolate-collection",
+    "url": "https://charleschocolates.com/products/8-piece-signature-handcrafted-dark-chocolate-collection",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 41.2,
+    "price_max": 41.2,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "41.20",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-82C5"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/081126_Olio_JohnKelly-342_R-82C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Box_8pk_Uwrapped_R-82C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Box_8pk_Wrapped_R-82C5.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Closed.jpg?v=1782141637",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/NO_Lid_844677a4-7c93-4de7-9db0-77bdcb81339d.jpg?v=1782141637",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/8_Piece-Assortment.jpg?v=1782141637",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Close-up.jpg?v=1782141637"
+    ],
+    "description": "Made for the dark chocolate lover. This collection brings together our most popular dark chocolate truffle fudge and award winning flavors in one beautiful box. Exclusively dark, entirely divine.\nWhat's inside (8 pieces)\nDark Chocolate with Walnuts (2 pieces)\nDark Chocolate with French Grey Sea Salt (2 pieces)\nDark Chocolate (2 pieces)\nDark Chocolate Espresso (2 pieces)\nDeep, rich, and unforgettable.",
+    "published_at": "2026-06-22T08:27:28-07:00"
+  },
+  {
+    "title": "Medium Assorted Gift Tower",
+    "handle": "medium-assorted-gift-tower",
+    "url": "https://charleschocolates.com/products/medium-assorted-gift-tower",
+    "type": "Gift Tower",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "Gift Towers",
+      "JKC",
+      "John Kelly Chocolates"
+    ],
+    "price_min": 76.0,
+    "price_max": 76.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "76.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-T-1M"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_3X_Variety_Wrapped_R-T-1M.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_Medium_AllOpen_R-T-1M.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_16.jpg?v=1782141619",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2268_crop2_R.jpg?v=1782141619",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2307_crop_lid2.jpg?v=1782141624",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2498_R4.jpg?v=1782141619",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2627_R2.jpg?v=1782141619"
+    ],
+    "description": "Perfectly sized for almost any occasion, with enough variety for everyone to enjoy. Three boxes of salted and unsalted favorites, tied together with our signature John Kelly satin ribbon, fourteen pieces in all.\nIncludes (14 pieces total)\n8 piece Signature Gift Box\n4 piece Dark Chocolate with French Grey Sea Salt Box\n2 piece Chocolate and Caramel with Red Hawaiian Alaea Sea Salt Box\nA thoughtful gift that feels generous without going overboard.",
+    "published_at": "2026-06-22T08:27:27-07:00"
+  },
+  {
+    "title": "Large Assorted Gift Tower",
+    "handle": "large-assorted-gift-tower",
+    "url": "https://charleschocolates.com/products/large-assorted-gift-tower",
+    "type": "Gift Tower",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "Gift Towers",
+      "JKC",
+      "John Kelly Chocolates"
+    ],
+    "price_min": 136.0,
+    "price_max": 136.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "136.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-T-1L"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_x4_Variety-2_Wrapped_R-T-1L.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Tower_Large_AllOpen_R-T-1L.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_403.Image_2.jpg?v=1782141615",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2256_crop2_R.jpg?v=1782141616",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2498_R2.jpg?v=1782141615",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2627_R.jpg?v=1782141615",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2936_R2.jpg?v=1782141615",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2242_R2.jpg?v=1782141615"
+    ],
+    "description": "An impressive tower that always makes an impression. Four boxes stacked and hand tied with our signature John Kelly satin ribbon, twenty pieces in all. Generous, beautiful, and made to share.\nIncludes (20 pieces total)\n12 piece Signature Gift Box\n2 Truffle Fudge Bars, Signature Gift Box\n4 piece Dark Chocolate with French Grey Sea Salt Box\n2 piece Chocolate and Caramel with Red Hawaiian Alaea Sea Salt Box\nA standout gift for the holidays, big celebrations, and the people you want to spoil.",
+    "published_at": "2026-06-22T08:27:27-07:00"
+  },
+  {
+    "title": "12 Piece Signature Handcrafted Chocolate Collection with Satin Ribbon",
+    "handle": "12-piece-signature-handcrafted-chocolate-collection-with-satin-ribbon",
+    "url": "https://charleschocolates.com/products/12-piece-signature-handcrafted-chocolate-collection-with-satin-ribbon",
+    "type": "Gift Box",
+    "vendor": "John Kelly Chocolates",
+    "tags": [
+      "Best Sellers",
+      "JKC",
+      "John Kelly Chocolates",
+      "Signature Boxes"
+    ],
+    "price_min": 60.0,
+    "price_max": 60.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "60.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R-122C2-MOCHA"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_12pkBox_Unwrapped_R-122C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/Truffle_12pkBox_Wrapped_R-122C2.jpg?v=1790378978",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/2W0A7226_WebR.jpg?v=1782141612",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/2W0A7246_WebR.jpg?v=1782141612",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2272_crop2_R_4e46ea47-b605-4a85-8d45-08b2eec21d72.jpg?v=1782141612",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/IMG_2246_crop2_R1_da71a7f9-331d-41e9-a0f3-1bbc71cb553d.jpg?v=1782141613"
+    ],
+    "description": "Twelve pieces of pure indulgence, hand finished and tied with a mocha satin ribbon. Rich truffle fudge and chocolate clusters in our most loved flavors, beautifully boxed and ready to give. The kind of gift people remember.\nWhat's inside (12 pieces)\nDark Chocolate Espresso\nSemi-Sweet Chocolate with Walnuts\nSemi-Sweet Chocolate\nSemi-Sweet Chocolate and Peanut Butter\nDark Chocolate with Walnuts\nDark Chocolate\nSemi-Sweet Chocolate Raspberry\nWhite Chocolate Vanilla with Walnuts\nSemi-Sweet Chocolate and Caramel with Hawaiian Alaea Sea Salt\nDark Chocolate with French Grey Sea Salt\nPeanut Butter with Himalayan Pink Salt\nWalnut Caramel Cluster with Mediterranean Sea Salt\nEach piece is one of a kind. Perfect for birthdays, thank yous, and just because.",
+    "published_at": "2026-06-22T08:27:26-07:00"
+  },
+  {
+    "title": "The Classic & Chocolate-Covered Gift Set",
+    "handle": "the-classic-chocolate-covered-gift-set",
+    "url": "https://charleschocolates.com/products/the-classic-chocolate-covered-gift-set",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 116.0,
+    "price_max": 116.0,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "116.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Combo_2_the-classic-chocolate-covered-gift-set.jpg?v=1790267583",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/bundlecc_8f694ae5-c4a4-4a06-b4fa-e3d663207d14.png?v=1763075467"
+    ],
+    "description": "A handcrafted pairing of our best-selling\nClassic Collection (20-piece)\n and the\nUltimate Chocolate Covered Nut Collection\n. A generous gift set made for anyone who loves rich flavors, small-batch craftsmanship, and unforgettable chocolate.\nThis exclusive bundle includes:\nClassic Collection – Large (20 Pieces)\nA showcase of our finest handmade confections.\nEach piece is crafted in small batches with premium ingredients, balancing bold flavors, silky textures, and bright fruit notes. From Fleur de Sel caramels to peanut butterflies and citrusy hearts, it’s a tasting experience that’s both timeless and surprising.\nUltimate Chocolate Covered Nut Collection\nA satisfying mix of deep-roasted nuts coated in layers of our premium chocolates.\nIncludes:\nTriple Chocolate Almonds\nTriple Chocolate Hazelnuts\nMint Chocolate Almonds\nToffee Chocolate Macadamias\nThis is the perfect combination of smooth, crunchy, creamy, and bright — a duo that offers something for every chocolate lover.\nWhether you’re gifting, hosting, or treating yourself, this bundle delivers the richness, balance, and handcrafted quality Charles Chocolates is known for.",
+    "published_at": "2025-11-13T15:08:56-08:00"
+  },
+  {
+    "title": "Dubai Done Better Collection (4 Bars)",
+    "handle": "dubai-done-better-limited-edition-raspberry-collection",
+    "url": "https://charleschocolates.com/products/dubai-done-better-limited-edition-raspberry-collection",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 91.9,
+    "price_max": 91.9,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "91.90",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_FAMILYX4_dubai-done-better-limited-edition-raspberry-collection.jpg?v=1790182008",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-raspberry.jpg?v=1790724198",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-pistachio.jpg?v=1790724140",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-caramel.jpg?v=1790724179",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/cc-xs-ganache.jpg?v=1790724162"
+    ],
+    "description": "Four unforgettable bars. One wickedly delicious experience.\nWho has not seen the now viral Dubai Bar on social media? This our award-winning take on that really cool idea. Instead of sweet milk chocolate, we use a rich, bittersweet chocolate blend that truly compliments the pistachio and crisp shredded kataifi filling.\nNet Weight for each bar\n:\n 6.4 oz (180 g)\nOriginal Pistachio Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cocoa butter, salt, colored cocoa butter.\nContains: Milk, tree nuts (pistachios) and wheat.\nPistachio Bittersweet Chocolate Ganache Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cocoa butter,\nbutter, glucose syrup,\nsalt, colored cocoa butter.\nContains: Milk, tree nuts (pistachios) and wheat.\nPistachio Milk Chocolate Caramel Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cane sugar,\nmilk\n chocolate (sugar, cocoa butter, whole milk powder, unsweetened chocolate, skim\nmilk\n powder,\nsoy\n, sunflower, canola lecithin), cream, cocoa butter, glucose syrup, salt, colored cocoa butter.\nContains:\nMilk, tree nuts (pistachios), wheat and soy.\nRaspberry Ganache Bar\nBittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pistachios, raspberry purée, cream, butter, powdered sugar, kataifi (wheat flour), cocoa butter, salt, and natural fruit color.\nContains: Milk, tree nuts (pistachios), and wheat.",
+    "published_at": "2025-11-10T11:50:41-08:00"
+  },
+  {
+    "title": "Dubai Done Better - Raspberry Ganache Bar",
+    "handle": "dubai-done-better-raspberry-ganache-bar",
+    "url": "https://charleschocolates.com/products/dubai-done-better-raspberry-ganache-bar",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 24.95,
+    "price_max": 68.95,
+    "variants": [
+      {
+        "title": "Single Bar",
+        "price": "24.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      },
+      {
+        "title": "Three Bars",
+        "price": "68.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_WRAPPED_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319620",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319909",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_RASPBERRY_STACK_dubai-done-better-raspberry-ganache-bar.jpg?v=1790182008"
+    ],
+    "description": "Introducing the\nRaspberry Dubai Done Better Bar\n, a striking new edition that’s\nas bold as it is beautiful.\n Layers of hand-poured bittersweet chocolate, filled with our house-made\npistachio cream\n and a\nsilky raspberry ganache\n that’s bright, tangy, and perfectly smooth.\nUnlike the mass-produced versions flooding the internet, our bar is made\nentirely from scratch\n in San Francisco, using the finest ingredients and our signature small-batch craftsmanship. The result? A perfect balance of deep cocoa, fruit-forward brightness, and melt-in-your-mouth magic.\nA bar this gorgeous doesn’t just taste good, it feels\nwicked good\n.\nIngredients\nBittersweet chocolate 65% cacao (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pistachios, raspberry purée, cream, butter, powdered sugar, kataifi (wheat flour), cocoa butter, salt, and natural fruit color.\nContains:\n Milk, tree nuts (pistachios), and wheat.\nNet Weight:\n 6.4 oz (180 g)\nNutrition Facts",
+    "published_at": "2025-11-10T11:36:11-08:00"
+  },
+  {
+    "title": "Charles Chocolates + John Kelly Combo – Classic Collection (20pc) & Signature Collection (12pc)",
+    "handle": "charles-chocolates-john-kelly-combo-classic-collection-20pc-signature-collection-12pc",
+    "url": "https://charleschocolates.com/products/charles-chocolates-john-kelly-combo-classic-collection-20pc-signature-collection-12pc",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 109.48,
+    "price_max": 109.48,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "109.48",
+        "compare_at_price": "128.80",
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC-JKC_Combo_OpenClosed.jpg?v=1790378756",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC-JKC_Combo_Open.jpg?v=1790378756",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC-JKC_Combo_Closed.jpg?v=1790378756",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/comboCCJKC.png?v=1758822119"
+    ],
+    "description": "Two legendary chocolate makers. One unforgettable gift.\nFor the first time, Charles Chocolates and John Kelly Chocolates – two brands from the same family – are coming together in one exclusive combo. Taste the classics you already love and discover something entirely new, all in a single gift-worthy set.\n✨\nWhat’s inside:\n🍫\nCharles Chocolates – Classic Collection (20 pieces)\nHandmade confections crafted with passion and precision. From fruit-infused hearts to creamy caramels, each piece is a work of edible art.\nHighlights: Raspberry Heart, Passion Fruit Heart, Mojito Heart, Meyer Lemon Yankee, Espresso Caramel & more.\nWeight: 6.4 oz (180g)\n🍫\nJohn Kelly – Signature Collection (12 pieces)\nA gift box hand-tied with a luxurious mocha satin ribbon, filled with John Kelly’s famous truffle fudge and clusters. Smooth, rich, and unlike anything else.\nWeight: 9 oz (approx.)\n💝\nExclusive Offer:\n Get both collections together with\n15% OFF\n.\nPerfect for gifting… or for treating yourself to the ultimate chocolate experience.\nNote: Packaging may vary slightly due to supply chain availability. |\nIncludes fresh cream truffles – best enjoyed within 1 month.",
+    "published_at": "2025-09-25T10:43:05-07:00"
+  },
+  {
+    "title": "Dubai Done Better (3 Bars)",
+    "handle": "dubai-done-better-3-bar-bundle",
+    "url": "https://charleschocolates.com/products/dubai-done-better-3-bar-bundle",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 68.95,
+    "price_max": 68.95,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "68.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_FAMILYX3_dubai-done-better-3-bar-bundle.jpg?v=1790182008"
+    ],
+    "description": "Who has not seen the now viral Dubai Bar on social media – it has taken the chocolate world by storm. When I finally got one to try, I was both really impressed by the originality of the bar and disappointed by how super sugary sweet it was.\nIn that great Charles Chocolates tradition, we set out to make what we think is the ultimate expression of that really cool idea.\nInstead of sweet milk chocolate, we use a rich, bittersweet chocolate blend that truly compliments the pistachio and crisp shredded kataifi filling. And while we are talking about the filling, every version of the Dubai Bar that I have tried uses a pre-made, very sweet pistachio cream. Given that we were both trying to reduce the sweetness and also stick to our “we make everything from scratch” ethos, our pistachio cream is made fresh here in our kitchens from premium fresh pistachio nuts.\nFinally, and because we love to play in the kitchen, we have created two additional flavors that are every bit as good as the original. Try all three – you won’t be disappointed!\nOriginal Pistachio Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cocoa butter, salt, colored cocoa butter.\nContains: Milk, tree nuts (pistachios) and wheat.\nNet Weight 6.4 oz. (180 g)\nPistachio Bittersweet Chocolate Ganache Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cocoa butter,\nbutter, glucose syrup,\nsalt, colored cocoa butter.\nContains: Milk, tree nuts (pistachios) and wheat.\nNet Weight 6.4 oz. (180 g)\nPistachio Milk Chocolate Caramel Bar\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cane sugar,\nmilk\n chocolate (sugar, cocoa butter, whole milk powder, unsweetened chocolate, skim\nmilk\n powder,\nsoy\n, sunflower, canola lecithin), cream, cocoa butter, glucose syrup, salt, colored cocoa butter.\nContains:\nMilk, tree nuts (pistachios), wheat and soy.\nNet Weight 6.4 oz. (180 g)",
+    "published_at": "2024-11-18T07:37:18-08:00"
+  },
+  {
+    "title": "Dubai Done Better - Pistachio Milk Chocolate Caramel Bar",
+    "handle": "dubai-done-better-pistachio-milk-chocolate-caramel-bar",
+    "url": "https://charleschocolates.com/products/dubai-done-better-pistachio-milk-chocolate-caramel-bar",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 24.95,
+    "price_max": 68.95,
+    "variants": [
+      {
+        "title": "Single Bar",
+        "price": "24.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "Three Bars",
+        "price": "68.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_WRAPPED_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319487",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319541",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_CARAMEL_STACK_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1790182008"
+    ],
+    "description": "Who has not seen the now viral Dubai Bar on social media – it has taken the chocolate world by storm. When I finally got one to try, I was both really impressed by the originality of the bar and disappointed by how super sugary sweet it was.\nIn that great Charles Chocolates tradition, we set out to make what we think is the ultimate expression of that really cool idea.\nInstead of sweet milk chocolate, we use a rich, bittersweet chocolate blend that truly compliments the pistachio and crisp shredded kataifi filling. And while we are talking about the filling, every version of the Dubai Bar that I have tried uses a pre-made, very sweet pistachio cream. Given that we were both trying to reduce the sweetness and also stick to our “we make everything from scratch” ethos, our pistachio cream is made fresh here in our kitchens from premium fresh pistachio nuts.\nFinally, and because we love to play in the kitchen, we have created two additional flavors that are every bit as good as the original. Try all three – you won’t be disappointed!\nIngredients:\n Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans),\npistachios\n, powdered sugar,\nkataifi\n (\nwheat\nflour), white chocolate (cocoa butter, cane sugar, full cream\nmilk\n, lactose, sunflower lecithin, vanilla beans), cane sugar,\nmilk\n chocolate (sugar, cocoa butter, whole milk powder, unsweetened chocolate, skim\nmilk\n powder,\nsoy\n, sunflower, canola lecithin), cream, cocoa butter, glucose syrup, salt, colored cocoa butter.\nContains:\nMilk, tree nuts (pistachios), wheat and soy.\nNet Weight 6.4 oz. (180 g)\nNutrition Facts",
+    "published_at": "2024-11-18T07:37:16-08:00"
+  },
+  {
+    "title": "Dubai Done Better - Pistachio Bittersweet Chocolate Ganache Bar",
+    "handle": "dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar",
+    "url": "https://charleschocolates.com/products/dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 24.95,
+    "price_max": 68.95,
+    "variants": [
+      {
+        "title": "Single Bar",
+        "price": "24.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "Three Bars",
+        "price": "68.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_WRAPPED_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319313",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319369",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_GANACHE_STACK_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1790182008"
+    ],
+    "description": "We make the pistachio cream for this bar in-house, from fresh whole pistachios. It's smooth, and the pistachio flavor is bold. The rich 65% bittersweet chocolate shell is thin, allowing the pistachio cream and kataifi to take center stage in every bite. Its filling has a bold pistachio flavor, topped with a layer of ganache.\nIngredients: Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pistachios, powdered sugar, kataifi (wheat flour), white chocolate (cocoa butter, cane sugar, full cream milk, lactose, sunflower lecithin, vanilla beans), cocoa butter, butter, glucose syrup, salt, colored cocoa butter.\nContains: Milk, tree nuts (pistachios) and wheat.\nNet Weight 6.4 oz. (180 g)",
+    "published_at": "2024-11-18T07:37:15-08:00"
+  },
+  {
+    "title": "Dubai Done Better - Original Pistachio Bar",
+    "handle": "dubai-done-better-original-pistachio-bar",
+    "url": "https://charleschocolates.com/products/dubai-done-better-original-pistachio-bar",
+    "type": "Dubai Done Better Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 24.95,
+    "price_max": 68.95,
+    "variants": [
+      {
+        "title": "Single bar",
+        "price": "24.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      },
+      {
+        "title": "Three bars",
+        "price": "68.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_WRAPPED_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238150",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238336",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DUBAI_BAR_PISTACHIO_STACK_dubai-done-better-original-pistachio-bar.jpg?v=1790182008"
+    ],
+    "description": "Named the Best Dubai Bar by Tasting Table.\nWe make the pistachio cream for this bar in-house, from fresh whole pistachios. It's smooth, and the pistachio flavor is bold. The rich 65% bittersweet chocolate shell is thin, allowing the pistachio cream and kataifi to take center stage in every bite. Its filling has a bold pistachio flavor, which is perfectly complemented by a pleasantly surprising salty kick\nIngredients: Bittersweet chocolate 65% cacao (Cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), pistachios, powdered sugar,\nkataifi (wheat flour), white chocolate (cocoa butter, cane sugar, full cream milk, lactose, sunflower lecithin, vanilla beans), cocoa butter, salt, colored cocoa\nbutter.\nContains: Milk, tree nuts (pistachios) and wheat.\nNet Weight 6.4 oz. (180 g)",
+    "published_at": "2024-11-18T07:37:14-08:00"
+  },
+  {
+    "title": "S'mores Collection: 65% Bittersweet Chocolate",
+    "handle": "s-mores-collection",
+    "url": "https://charleschocolates.com/products/s-mores-collection",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 28.0,
+    "price_max": 52.0,
+    "variants": [
+      {
+        "title": "Box of 4",
+        "price": "28.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "Box of 8",
+        "price": "52.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREAT_SMORES_s-mores-collection.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREAT_SMORES_OPEN_s-mores-collection.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREAT_SMORES_CLOSED_s-mores-collection.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/d26079bb-2543-4504-b8c8-4f16f5f9a112.jpg?v=1720018997",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/charles-chocolates_photo.jpg?v=1720155273"
+    ],
+    "description": "The dessert for the kid in everyone. The Charles Chocolates S’more is your childhood revisited. Our fresh organic graham cracker is topped with a square of our house 65% bittersweet chocolate and our soft vanilla marshmallow.\nEach S’more measures 4 inches square and weighs in at 1/4 pound.\n5 minutes under the broiler, or a gentle torch, is all it takes to create a house full of happy campers.\nAvailable in either a box of 4 or 8 individually wrapped S’mores.\nItem weight:\n16 oz. (453g)\nIngredients:\nGraham cracker (graham flour, brown sugar, butter, flour, honey, eggs, salt, vanilla extract, baking soda), 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), vanilla marshmallow (corn syrup, pure cane sugar, honey, gelatin, vanilla, cornstarch).",
+    "published_at": "2024-07-03T08:07:05-07:00"
+  },
+  {
+    "title": "1 Premium Chocolate Bar (Surprise Flavor)",
+    "handle": "premium-chocolate-bar-surprise-flavor",
+    "url": "https://charleschocolates.com/products/premium-chocolate-bar-surprise-flavor",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/12762BB0-A3B7-43BA-B55D-2E6DAB735510.jpg?v=1717407682"
+    ],
+    "description": "",
+    "published_at": "2024-04-29T07:06:16-07:00"
+  },
+  {
+    "title": "Charles Chocolates Starter Pack",
+    "handle": "charles-chocolates-starter-pack",
+    "url": "https://charleschocolates.com/products/charles-chocolates-starter-pack",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 33.93,
+    "price_max": 33.93,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "33.93",
+        "compare_at_price": "39.62",
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Combo_1_charles-chocolates-starter-pack.jpg?v=1790179442",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/StarterPack.jpg?v=1712233112"
+    ],
+    "description": "A curated selection of some of our finest chocolates, combining innovative flavors with traditional techniques to delight your palate.\nThis special bundle includes 4 of our most beloved products, designed to\nintroduce you to the broad range of quality and creativity that Charles Chocolates offers\n.\nRuby Chocolate Raspberry & Pistachio Bar\nNet Weight:\n 3.5 oz. (100 g)\nTasting Experience:\n A symphony of sweet and tart, this bar features the unique Ruby chocolate, known for its berry and fruit flavors. Paired with freeze-dried raspberries and deeply roasted pistachios, it's a taste sensation that dances on the palate.\nIngredients:\n Ruby chocolate (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), pistachios, and freeze-dried raspberries.\nChocolate Covered Orange Peel\nNet Weight:\n 2.8 oz. (79 g)\nTasting Experience:\n Enjoy our best candied peel, perfected through a meticulous multi-day process to highlight the essence of orange without the bitterness. Each piece is coated in rich bittersweet chocolate for a classic yet bold flavor.\nIngredients:\n Bittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), candied orange peel (orange peel, glucose-fructose syrup, sugar).\nDon't Make Me Snicker Bar\nItem Weight:\n 1.3 oz. (36 g)\nTasting Experience:\n A nostalgic treat reimagined, this bar combines deep roasted peanuts, fleur de sel caramel, and bittersweet chocolate ganache, all enrobed in 65% bittersweet chocolate for a decadent and sophisticated twist on a childhood classic.\nIngredients:\n Bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, sunflower lecithin, vanilla beans), peanuts, pure cane sugar, butter, cream, glucose, salt, pure vanilla extract.\nTriple Chocolate Almonds\nItem Weight:\n 6.5 oz. (184 g)\nTasting Experience:\n Our premium California almonds are first roasted to deepen their flavor, then coated in a luxurious blend of bittersweet and milk chocolates, and finally dusted with cocoa powder for an irresistible finish.\nIngredients:\n 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), 41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), almonds, cocoa powder.",
+    "published_at": "2024-04-04T20:24:40-07:00"
+  },
+  {
+    "title": "10 Bar Chocolate Collection",
+    "handle": "complete-chocolate-bar-collection",
+    "url": "https://charleschocolates.com/products/complete-chocolate-bar-collection",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "chocolate bar",
+      "discount",
+      "fruit",
+      "nuts",
+      "ruby",
+      "salty-sweet"
+    ],
+    "price_min": 96.0,
+    "price_max": 96.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "96.00",
+        "compare_at_price": "108.68",
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_BUNDLEX10_v2_complete-chocolate-bar-collection.jpg?v=1790265790",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-Cocoa_Nib_Brittle.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_WRAPPED.jpg?v=1791486110",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_STRAWBERRY_WRAPPED_R32-07.jpg?v=1791486195",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweetcashew.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-trescojones.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-toffeecoffe.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweetpecancherry.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-peanutprailine.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweethazelnut.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-caramelized_cocoa_nib.jpg?v=1791484564"
+    ],
+    "description": "This collection contains a beautiful, chef-curated assortment of our Premium, Salty-Sweet, Nuts and Ruby Chocolate Bars.\nEach of the 10 bars you'll receive represents our finest efforts and we hope you enjoy the bars as much as we enjoy making them for you.\nItem weight:\n39 oz. (1,120g)",
+    "published_at": "2024-03-27T12:22:52-07:00"
+  },
+  {
+    "title": "Ruby Garnet Chocolate Bar Collection",
+    "handle": "ruby-chocolate-bar-collection",
+    "url": "https://charleschocolates.com/products/ruby-chocolate-bar-collection",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "chocolate bar",
+      "discount",
+      "fruit",
+      "nuts",
+      "ruby",
+      "salty-sweet",
+      "zest"
+    ],
+    "price_min": 28.18,
+    "price_max": 28.18,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "28.18",
+        "compare_at_price": "29.33",
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RUBY_BUNDLEX3_ruby-chocolate-bar-collection.jpg?v=1790267542",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_BAR_R32-09.jpg?v=1791486009",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_BAR_R32-08.jpg?v=1791486139",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_STRAWBERRY_BAR_R32-07.jpg?v=1791486214",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1422_R32-09.jpg?v=1790182218",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1409_R32-07.jpg?v=1790182218",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1406_R32-08.jpg?v=1790182218"
+    ],
+    "description": "Discover the exquisite allure of Ruby Chocolate, heralded as the 4th type of chocolate, through our premium collection. This trio of bars showcases the vibrant, berry-flavored elegance of Ruby Chocolate, each paired with select ingredients that elevate its natural fruitiness and unique taste profile.\nTotal Net Weight: 10.5 oz. (300 g)\nRuby Chocolate Strawberry Bar\nFeaturing perfectly freeze-dried California strawberries. The sweet and tart nuances of the berries accentuate the inherent berry and fruit notes of Ruby chocolate, crafting a delightful taste experience.\nNet Weight: 3.5 oz (100g)\nIngredients: Ruby (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), freeze-dried strawberries.\nRuby Chocolate Raspberry & Pistachio Bar\nA symphony of flavors with freeze-dried raspberries and deeply roasted pistachios. The tartness of the berries and the nutty depth of the pistachios complement the Ruby chocolate's fruity character perfectly.\nNet Weight: 3.5 oz. (100 g)\nIngredients: Ruby (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), pistachios, freeze-dried raspberries.\nRuby Chocolate Cocoa Nib Brittle Bar\nThis unique bar combines Ruby, the innovative 4th chocolate, with our crunchy cocoa nib brittle. The bar's distinctive berry flavor is enhanced by the sweet and textural contrast of the brittle, offering a memorable indulgence.\nNet Weight: 3.5 oz. (100 g)\nIngredients: Ruby (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), cane sugar, cacao nibs.",
+    "published_at": "2024-03-21T07:18:45-07:00"
+  },
+  {
+    "title": "Nostalgia Bar Collection",
+    "handle": "nostalgia-bar-collection",
+    "url": "https://charleschocolates.com/products/nostalgia-bar-collection",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount"
+    ],
+    "price_min": 12.6,
+    "price_max": 12.6,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "12.60",
+        "compare_at_price": "14.40",
+        "available": true,
+        "sku": null
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_BUNDLEX3_nostalgia-bar-collection.jpg?v=1790268440",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_BUNDLEX3_STACK_nostalgia-bar-collection.jpg?v=1790268440",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/NewProject_1.jpg?v=1710951968"
+    ],
+    "description": "We've taken your favorite snacks and made them even better. Our collection includes the Don't Make Me Snicker, Ode To Joy, and Mac Daddy bars, each packed with nuts, sweet caramel, and creamy chocolate. Made with our very own 65% dark chocolate, these treats are perfect for anyone looking to enjoy something deliciously different.\nTotal Net Weight: 3.9 oz. (108g)\nDon't Make Me Snicker Bar\nThis bar has deep roasted peanuts, fleur de sel caramel, and a bittersweet chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nNet weight: 1.3 oz. (36g)\nIngredients: Bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, sunflower lecithin, vanilla beans), peanuts, pure cane sugar, butter, cream, glucose, salt, pure vanilla extract.\nOde To Joy Bar\nThis bar has deep roasted almonds, fleur de sel caramel, and a milk chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nNet Weight: 1.3 oz (36 g)\nIngredients: Bittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), almonds, cane sugar, butter, milk chocolate (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), cream, glucose syrup*, salt, vanilla beans.\nMac Daddy Bar\nThis bar features deep roasted macadamia nuts, fleur de sel caramel, and a bittersweet chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nNet Weight: 1.3 oz (36 g)\nIngredients: Bittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), macadamia nuts, cane sugar, butter, cream, glucose syrup*, coffee extract, salt, vanilla beans.\n*Contains wheat that has been processed to meet the Food and Drug Administration (FDA) requirements for gluten-free foods.",
+    "published_at": "2024-03-21T07:18:40-07:00"
+  },
+  {
+    "title": "Chocolate Covered Lemon and Orange Peels Variety Pack",
+    "handle": "chocolate-covered-lemon-and-orange-peels-variety-pack",
+    "url": "https://charleschocolates.com/products/chocolate-covered-lemon-and-orange-peels-variety-pack",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 48.88,
+    "price_max": 48.88,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "48.88",
+        "compare_at_price": "62.10",
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_ORANGE-LEMON_PEEL_BUNDLE_chocolate-covered-lemon-and-orange-peels-variety-pack.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/orange_lemonpeel4-pack.jpg?v=1710262727"
+    ],
+    "description": "Our best selling Chocolate Covered Orange and Lemon Peels now come in a variety pack so you don't have to pick just one peel. Two each of our orange and lemon peels are the perfect way to share our delicious handcrafted treats...or just keep an emergency backup stash for yourself!\nValencia oranges make the most distinctive and (we think) best candied peel. After a multi-day process that brings out the best of the orange, without the strong bitter taste that some candied peel can have, we dry and then coat each piece in bittersweet chocolate.\nLemon peel tends to be much harder to do well—the inherent bitterness of the peel and pith are significantly harder to tame. Our Chocolate Covered Lemon Peel keeps just a touch of that bitterness balanced with the lemony flavor that we all love. The bittersweet chocolate coating just seals the deal.",
+    "published_at": "2024-03-12T09:58:45-07:00"
+  },
+  {
+    "title": "Salty-Sweet Pecan Cherry Bar",
+    "handle": "salty-sweet-pecan-cherry-bar",
+    "url": "https://charleschocolates.com/products/salty-sweet-pecan-cherry-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "bittersweet chocolate",
+      "cherry",
+      "chocolate bar",
+      "discount",
+      "pecan",
+      "salty-sweet",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R31-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweetpecancherry.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_unwrapped-saltysweetpecancherry.jpg?v=1791484562",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1492_R31-03.jpg?v=1790182218"
+    ],
+    "description": "Huge pecan halves are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with dried Michigan cherries and our rich bittersweet chocolate.\nItem weight:\n 3.7 oz. (105g)\nIngredients:\n 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), pecans, dried cherries, pure cane sugar, egg whites, fleur de sel, vanilla beans.",
+    "published_at": "2023-09-26T11:20:20-07:00"
+  },
+  {
+    "title": "Mint Chocolate Almonds",
+    "handle": "mint-chocolate-almonds",
+    "url": "https://charleschocolates.com/products/mint-chocolate-almonds",
+    "type": "Nuts",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "14.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R40-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINT_ALMONDS_WRAPPED_R40-03.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINT_ALMONDS_NUTS_R40-03.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINT_ALMOND_STACK_R40-03.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MCA_web_1024x1024_7be9ce13-06fb-4766-9972-0db44eaabdc6.jpg?v=1441089123",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MCA2_web_1024x1024_b9558162-5554-43ff-93e3-7cf1cb4d22fd.jpg?v=1441089164"
+    ],
+    "description": "Our premium California almonds are roasted darker, then coated in bittersweet and mint infused white chocolates and dusted in powdered sugar.\nItem weight:\n 6.5 oz. (184g)\nIngredients:\n 72% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), almonds, white chocolate (sugar, cacao butter, dry whole and skim milk, soy lecithin, natural vanilla), powdered sugar, peppermint oil.\nClick here for nutritional information.",
+    "published_at": "2023-09-15T09:30:32-07:00"
+  },
+  {
+    "title": "Caramelized Cocoa Nib Bar",
+    "handle": "caramelized-cocoa-nib-bar",
+    "url": "https://charleschocolates.com/products/caramelized-cocoa-nib-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "bittersweet chocolate",
+      "chocolate bar",
+      "cocoa nib",
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-caramelized_cocoa_nib.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_unwrapped-caramelized_cocoa_nib.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1475_R32-03.jpg?v=1790263904"
+    ],
+    "description": "Cocoa nibs are caramelized by hand in small batches and combined with our intense 72% bittersweet chocolate.\nItem weight:\n3.5 oz. (100g)\nIngredients:\n72% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), cocoa nibs, pure cane sugar.",
+    "published_at": "2023-08-21T09:55:58-07:00"
+  },
+  {
+    "title": "Pavés",
+    "handle": "paves",
+    "url": "https://charleschocolates.com/products/paves",
+    "type": "Signature Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 20.0,
+    "price_max": 38.5,
+    "variants": [
+      {
+        "title": "16 pc.",
+        "price": "20.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "36 pc.",
+        "price": "38.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_PAVES_SMALL_paves.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_PAVES_LARGE_paves.jpg?v=1790182322",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/PavesProductListing.jpg?v=1688577809"
+    ],
+    "description": "Our signature truffle. A silky, smooth combination of bittersweet chocolate and real cream, covered in a light dusting of Valrhona cocoa powder.\nFresh product. Keep refrigerated and enjoy within one week.\n*Packaging may be different than pictured due to supply chain issues\nItem Weight:\nSmall Box: 2.3oz (65g) | Large Box: 5.0 oz. (142g)\nIngredients:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), milk chocolate (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), cream, butter, glucose syrup, invert sugar, sorbitol, cocoa powder.",
+    "published_at": "2023-07-05T10:30:20-07:00"
+  },
+  {
+    "title": "Artisan Chocolate Set - Large",
+    "handle": "chocolate-snack-box-large",
+    "url": "https://charleschocolates.com/products/chocolate-snack-box-large",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 86.19,
+    "price_max": 86.19,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "86.19",
+        "compare_at_price": "93.15",
+        "available": true,
+        "sku": "SB-01L"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Combo_4_SB-01L.jpg?v=1790264171",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/Artisan-Chocolate-Set-Large-web.png?v=1585241883"
+    ],
+    "description": "Let us deliver some chocolate joy directly to you! Our new Artisan Chocolate Sets are curated to perfectly satisfy your chocolate cravings. All you have to do is pick a size, set your delivery frequency, and eat chocolate!\nLarge box includes ($81 value):\nClassic Collection Signature Box (small), Fleur de Sel Caramels Signature Box (small), Triple Chocolate Almonds, Chocolate Covered Orange Peel, Salty-Sweet Hazelnut Bar\nPlease note that we reserve the right to substitute product assortment included in the collection with no prior notice.",
+    "published_at": "2022-12-27T12:15:52-08:00"
+  },
+  {
+    "title": "Artisan Chocolate Set - Medium",
+    "handle": "chocolate-snack-box-medium",
+    "url": "https://charleschocolates.com/products/chocolate-snack-box-medium",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 57.44,
+    "price_max": 57.44,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "57.44",
+        "compare_at_price": "59.80",
+        "available": true,
+        "sku": "SB-01M"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Combo_3_SB-01M.jpg?v=1790268909",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_ALMOND_WRAPPED_R40-01.jpg?v=1791237764",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_CARAMEL_ALMOND_WRAPPED_R41-03.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_WRAPPED_R32-08.jpg?v=1791237595"
+    ],
+    "description": "Let us deliver some chocolate joy directly to you! Our new Artisan Chocolate Sets are curated to perfectly satisfy your chocolate cravings. All you have to do is pick a size, set your delivery frequency, and eat chocolate!\nMedium box includes ($52 value):\nCaramel Almond Sticks, Triple Chocolate Almonds, Salty-Sweet Cashew Bar, Salty-Sweet Hazelnut Bar, Ruby Cacao Raspberry & Pistachio Bar",
+    "published_at": "2022-12-27T12:15:51-08:00"
+  },
+  {
+    "title": "Artisan Chocolate Gift Set – Small",
+    "handle": "chocolate-snack-box-small",
+    "url": "https://charleschocolates.com/products/chocolate-snack-box-small",
+    "type": "",
+    "vendor": "Charles Chocolates",
+    "tags": [],
+    "price_min": 28.69,
+    "price_max": 28.69,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "28.69",
+        "compare_at_price": "32.20",
+        "available": true,
+        "sku": "SB-01S"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Combo_3_SB-01S.jpg?v=1790264938",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/Artisan-Chocolate-Set-Small-web.png?v=1585241836"
+    ],
+    "description": "This small artisan chocolate gift set features a curated selection of signature bars and snacks for a satisfying treat. Each box includes Triple Chocolate Almonds, a Salty-Sweet Cashew Bar, and a Caramelized Cocoa Nib Bar, with both dark and milk chocolate and nut inclusions for variety.",
+    "published_at": "2022-12-27T12:15:51-08:00"
+  },
+  {
+    "title": "Caramelized Crisped Rice Bar, Milk Chocolate",
+    "handle": "caramelized-crisped-rice-bar-milk",
+    "url": "https://charleschocolates.com/products/caramelized-crisped-rice-bar-milk",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "chocolate bar",
+      "crisped rice",
+      "csp_visible",
+      "discount",
+      "milk chocolate",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R30-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-milk_crisped_rice.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_Unwrapped-milk_crisped_rice.jpg?v=1791484564"
+    ],
+    "description": "Crisped brown rice is caramelized in pure cane sugar and blended with our rich milk chocolate.\nItem weight:\n 3.4 oz. (95g)\nIngredients:\n 41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), crisped brown rice, pure cane sugar.",
+    "published_at": "2021-11-10T11:55:15-08:00"
+  },
+  {
+    "title": "Ode To Joy Bar",
+    "handle": "ode-to-joy-bar",
+    "url": "https://charleschocolates.com/products/ode-to-joy-bar",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 4.8,
+    "price_max": 4.8,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "4.80",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R36-04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_ODE_TO_JOY_WRAPPED_R36-04.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_ODE_TO_JOY_BAR_R36-04.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_ODE_TO_JOY_STACK_R36-04.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/image_2.png?v=1575570721"
+    ],
+    "description": "This bar has deep roasted almonds, fleur de sel caramel and a milk chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nNet Weight: 1.3 oz (36 g)\nIngredients:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), almonds, cane sugar, butter, milk chocolate (cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), cream, glucose syrup*, salt, vanilla beans.\n*Contains wheat that has been processed to meet the Food and Drug Administration (FDA) requirements for gluten free foods.",
+    "published_at": "2019-12-05T10:18:33-08:00"
+  },
+  {
+    "title": "Mac Daddy Bar",
+    "handle": "mac-daddy-bar",
+    "url": "https://charleschocolates.com/products/mac-daddy-bar",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 4.8,
+    "price_max": 4.8,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "4.80",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R36-05"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_MAC_DADDY_WRAPPED_R36-05.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_MAC_DADDY_BAR_R36-05.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MAC_DADDY_STACK_R36-05.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/Mac_Daddy_-_web_8x8_d9a9bc29-d028-4875-b63f-376b34bd3592.jpg?v=1575570473"
+    ],
+    "description": "This bar has deep roasted macadamia nuts, fleur de sel caramel and a bittersweet chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nNet Weight: 1.3 oz (36 g)\nIngredients:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), macadamia nuts, cane sugar, butter, cream, glucose syrup*, coffee extract, salt, vanilla beans.\n*Contains wheat that has been processed to meet the Food and Drug Administration (FDA) requirements for gluten free foods.",
+    "published_at": "2019-12-05T10:18:33-08:00"
+  },
+  {
+    "title": "Ruby Garnet Chocolate Cocoa Nib Brittle Bar",
+    "handle": "ruby-chocolate-cocoa-nib-brittle-bar",
+    "url": "https://charleschocolates.com/products/ruby-chocolate-cocoa-nib-brittle-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-09"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_WRAPPED_R32-09.jpg?v=1791485979",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_BAR_R32-09.jpg?v=1791486009",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1422_R32-09.jpg?v=1790182218"
+    ],
+    "description": "Combining Ruby, the new 4\nth\n chocolate with a distinctive berry flavor and our favorite cocoa nib brittle makes for a unique wonderful bar.\nNet Weight: 3.5 oz. (100 g)\nIngredients: Ruby (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), cane sugar, cacao nibs.",
+    "published_at": "2019-12-04T13:47:42-08:00"
+  },
+  {
+    "title": "Ruby Garnet Chocolate Raspberry & Pistachio Bar",
+    "handle": "ruby-chocolate-raspberry-pistachio-bar",
+    "url": "https://charleschocolates.com/products/ruby-chocolate-raspberry-pistachio-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-08"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_WRAPPED.jpg?v=1791486110",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_BAR_R32-08.jpg?v=1791486139",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1406_R32-08.jpg?v=1790182218"
+    ],
+    "description": "Ruby, called the 4\nth\n chocolate, pairs beautifully with our freeze dried raspberries and roasted pistachios. The sweet and tart berries bring out the berry and fruit flavors that are naturally present in Ruby chocolate.\nNet Weight: 3.5 oz. (100 g)\nIngredients: Ruby (sugar, cocoa butter, whole milk powder, unsweetened chocolate, citric acid, soy lecithin), pistachios and freeze dried raspberries.",
+    "published_at": "2019-12-04T13:47:42-08:00"
+  },
+  {
+    "title": "Ruby Garnet Chocolate Strawberry Bar",
+    "handle": "ruby-chocolate-strawberry-bar",
+    "url": "https://charleschocolates.com/products/ruby-chocolate-strawberry-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default Title",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-07"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_STRAWBERRY_WRAPPED_R32-07.jpg?v=1791486195",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_STRAWBERRY_BAR_R32-07.jpg?v=1791486214",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1409_R32-07.jpg?v=1790182218"
+    ],
+    "description": "Tart California strawberries, freeze-dried so they stay crisp, in a ruby chocolate with a berry tartness all its own. Yes, it's chocolate! The pink comes from the bean rather than from any artificial coloring.\nSweet and tart, snap against crackle, all perfectly balanced.\nNet Weight: 3.5 oz (100g)",
+    "published_at": "2019-12-04T13:47:42-08:00"
+  },
+  {
+    "title": "Classic Collection",
+    "handle": "classic-collection",
+    "url": "https://charleschocolates.com/products/classic-collection",
+    "type": "Signature Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 31.0,
+    "price_max": 58.0,
+    "variants": [
+      {
+        "title": "10 piece",
+        "price": "31.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R10-01"
+      },
+      {
+        "title": "20 piece",
+        "price": "58.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R20-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_CLASSIC_COLLECTION_SMALL_R10-01.jpg?v=1790182322",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_CLASSIC_COLLECTION_LARGE_R20-01.jpg?v=1790182321"
+    ],
+    "description": "This handmade chocolate collection brings together classic and gourmet flavors in one gift-ready box. Each assortment features milk and dark chocolate confections with fillings like fleur de sel caramel, raspberry, passion fruit, citrus pairings, espresso, and mint, made with premium cacao and fresh cream. Choose from small or large box sizes and enjoy these fresh cream truffles within one month of receipt for the best taste.",
+    "published_at": "2016-12-14T09:12:00-08:00"
+  },
+  {
+    "title": "Caramelized Crisped Rice Bar, Bittersweet Chocolate",
+    "handle": "caramelized-crisped-rice-bar-bittersweet",
+    "url": "https://charleschocolates.com/products/caramelized-crisped-rice-bar-bittersweet",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "bittersweet chocolate",
+      "chocolate bar",
+      "crisped rice",
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R30-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-dk_crisped_rice.jpg?v=1791403033",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_Unwrapped-dk_crisped_rice.jpg?v=1791403055",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1479_R30-01.jpg?v=1790182218"
+    ],
+    "description": "Crisped brown rice is caramelized in pure cane sugar and blended with our rich bittersweet chocolate.\nItem weight:\n 3.4 oz. (95g)\nIngredients:\n 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), crisped brown rice, pure cane sugar.",
+    "published_at": "2016-01-08T07:01:00-08:00"
+  },
+  {
+    "title": "Mini Caramelized Crisped Rice Bar - Milk",
+    "handle": "mini-caramelized-crisped-rice-bar-milk",
+    "url": "https://charleschocolates.com/products/mini-caramelized-crisped-rice-bar-milk",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 3.6,
+    "price_max": 3.6,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "3.60",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R35-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_CARAMELIZED_RICE_MILK_WRAPPED_R35-02.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_CARAMELIZED_RICE_MILK_BAR_R35-02.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_RICE_MILK_STACK_R35-02.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MiniMRK_web_1024x1024_0aa47646-540b-418d-83a3-d37281a11bc7.jpg?v=1444335648"
+    ],
+    "description": "These bars may be mini, but they pack all of the amazing flavor combinations and experience of their full size counterparts.\nCrisped brown rice is caramelized in pure cane sugar and blended with our rich milk chocolate.\nItem weight:\n1.4 oz. (40g)\nIngredients:\n41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, sunflower lecithin, vanilla beans), crisped brown rice, pure cane sugar.",
+    "published_at": "2015-10-08T13:00:00-07:00"
+  },
+  {
+    "title": "Mini Toffee Coffee Bars",
+    "handle": "mini-chocolate-bars",
+    "url": "https://charleschocolates.com/products/mini-chocolate-bars",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 3.6,
+    "price_max": 3.6,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "3.60",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R35-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_TOFFEE_COFFEE_WRAPPED_R35-03.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_TOFFEE_COFFEE_BAR_R35-03.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_TOFFEE_COFFEE_STACK_R35-03.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MiniTC_web_1024x1024_9219ec03-a023-4e11-a514-63e60a8f3341.jpg?v=1444335422"
+    ],
+    "description": "These bars may be mini, but they pack all of the amazing flavor combinations and experience of their full size counterparts.\nOur fresh almond toffee is cooked in copper kettles, cooled and broken into large chunks and combined with locally-roasted coffee beans and our dark milk chocolate.\nItem weight:\n1.4 oz. (40g)\nIngredients:\n55% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, sunflower lecithin, vanilla beans), pure cane sugar, butter, almonds, coffee beans, fleur de sel.",
+    "published_at": "2015-10-08T13:00:00-07:00"
+  },
+  {
+    "title": "Mini Caramelized Crisped Rice Bar - Bittersweet",
+    "handle": "mini-caramelized-crisped-rice-bar-bittersweet",
+    "url": "https://charleschocolates.com/products/mini-caramelized-crisped-rice-bar-bittersweet",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 3.6,
+    "price_max": 3.6,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "3.60",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R35-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_CARAMELIZED_RICE_DARK_WRAPPED_R35-01.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_CARAMELIZED_RICE_DARK_BAR_R35-01.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_MINIBAR_RICE_DARK_STACK_R35-01.jpg?v=1790182008",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MiniDRK_web_1024x1024_0287faa1-36e0-4c47-b760-b87a58f99f4d.jpg?v=1444335390"
+    ],
+    "description": "These bars may be mini, but they pack all of the amazing flavor combinations and experience of their full size counterparts.\nCrisped brown rice is caramelized in pure cane sugar and blended with our rich bittersweet chocolate.\nItem weight:\n1.4 oz. (40g)\nIngredients:\nBittersweet chocolate (cacao beans, cane sugar, cocoa butter, sunflower lecithin, vanilla beans), organic crispy brown rice cereal (organic brown rice, organic brown rice syrup, salt), cane sugar.\nManufactured in a facility that also processes products containing peanuts, tree nuts, wheat, eggs, milk and soy.",
+    "published_at": "2015-10-08T12:59:00-07:00"
+  },
+  {
+    "title": "Don't Make Me Snicker Bar",
+    "handle": "dont-make-me-snicker-bar",
+    "url": "https://charleschocolates.com/products/dont-make-me-snicker-bar",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 4.8,
+    "price_max": 4.8,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "4.80",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R36-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_DMMS_WRAPPED_R36-01.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NOSTALGIA_DMMS_BAR_R36-01.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_DMMS_STACK_R36-01.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/Don_t_Make_Me_Snicker_-_web_8x8_af86f0e9-b446-458a-ab05-c8dda946b3cf.jpg?v=1575570756"
+    ],
+    "description": "We took a childhood favorite chocolate bar and made it better. This bar has deep roasted peanuts, fleur de sel caramel and a bittersweet chocolate ganache, all enrobed in our 65% bittersweet chocolate.\nItem weight:\n1.3 oz. (36g)\nIngredients:\nBittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, sunflower lecithin, vanilla beans), peanuts, pure cane sugar, butter, cream, glucose, salt, pure vanilla extract.",
+    "published_at": "2015-10-08T12:58:00-07:00"
+  },
+  {
+    "title": "Peanut Butterflies",
+    "handle": "peanut-butterflies",
+    "url": "https://charleschocolates.com/products/peanut-butterflies",
+    "type": "Signature Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 31.0,
+    "price_max": 57.5,
+    "variants": [
+      {
+        "title": "Small",
+        "price": "31.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R10-03"
+      },
+      {
+        "title": "Large",
+        "price": "57.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R20-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Confections_Butterflies_Small_R10-03.jpg?v=1790179352",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_Confections_Butterflies_Large_R20-03.jpg?v=1790178808",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/PB_web_1024x1024_3af705ed-f938-45e3-a556-bc357f9f882b.jpg?v=1441089498"
+    ],
+    "description": "Peanuts and chocolate have always been a classic combination and we put our twist on the classic by filling our milk and bittersweet chocolate butterflies with our smooth, creamy homemade peanut praliné (a combination of caramelized peanuts and chocolate).\n*Packaging may be different than pictured due to supply chain issues\nConfections:\nBittersweet Peanut Butterfly, Milk Chocolate Peanut Butterfly\nItem Weight:\nSmall Box: 2.9 oz. (82g)     |     Large Box: 5.8 oz. (164g)\nIngredients:\nMilk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), peanuts, bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), pure cane sugar, vanilla beans.",
+    "published_at": "2014-10-28T11:42:00-07:00"
+  },
+  {
+    "title": "Chocolate Covered Nut Collection",
+    "handle": "ultimate-chocolate-covered-nut-collection",
+    "url": "https://charleschocolates.com/products/ultimate-chocolate-covered-nut-collection",
+    "type": "Nuts",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount"
+    ],
+    "price_min": 60.84,
+    "price_max": 60.84,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "60.84",
+        "compare_at_price": "68.14",
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_NUTS_BUNDLEX4_ultimate-chocolate-covered-nut-collection.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/Nuts_web_1024x1024_bb49e354-4652-4d6b-a6e7-286c03512683.jpg?v=1584467035",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/TCA_web_1024x1024_ceb1b264-155e-46c1-8416-4db73369a514.jpg?v=1584467035",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/TCH2_web_1024x1024_c6176973-2776-40cb-9dcb-a840f388a595.jpg?v=1450902040",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/TCM_web_1024x1024_fe5d3a43-0aae-477a-851c-75d3a37c1acf.jpg?v=1450902040",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/MCA_web_1024x1024_c893a2e4-5962-4d98-a0fd-f5b67840b20b.jpg?v=1450902040"
+    ],
+    "description": "Our chocolate covered nuts are made in small batches by hand using premium chocolates and deep roasted nuts. This collection contains one package each of our\nTriple Chocolate Almonds\n,\nTriple Chocolate Hazelnuts\n,\nMint Chocolate Almonds\n, and\nToffee Chocolate Macadamias\n.\nItem weight:\n25.6 oz. (726g)\nIngredients:\nBittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), almonds, hazelnuts, macadamia nuts, white chocolate (sugar, cacao butter, dry whole and skim milk, soy lecithin, natural vanilla), pure cane sugar, cocoa powder, powdered sugar, butter, peppermint oil, salt.",
+    "published_at": "2014-10-26T09:21:00-07:00"
+  },
+  {
+    "title": "Nuts, Pralines & Caramels Collection",
+    "handle": "nuts-pralines-caramels-collection",
+    "url": "https://charleschocolates.com/products/nuts-pralines-caramels-collection",
+    "type": "Signature Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 31.0,
+    "price_max": 57.5,
+    "variants": [
+      {
+        "title": "Small",
+        "price": "31.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R10-04"
+      },
+      {
+        "title": "Large",
+        "price": "57.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R20-04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_SMALL_R10-04.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_LARGE_R20-04.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/NPC_web_1024x1024_159aa22d-a24d-4258-bc5b-52c6b826822c.jpg?v=1441089378"
+    ],
+    "description": "Premium Chocolate Gift Box\nThis handcrafted chocolate gift box brings together some of Charles Chocolates' finest confections — made in small batches using premium ingredients. Inside, you'll find an indulgent assortment of caramels, nut clusters, and chocolate-covered treats, including:\nClassic & Bittersweet Fleur de Sel Caramels\nBittersweet & Milk Chocolate Peanut Butterflies\nMilk Chocolate Caramel & Poire William Caramel\nCaramelized Almond Cluster & Pistachio Almond Cluster\nEspresso Caramel\n(large box only)\n*Packaging may be different than pictured due to supply chain issues\nItem Weight:\nSmall Box: 3.2 oz. (91g)     |     Large Box: 6.4 oz. (181g)\nIngredients:\nSugar, 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), 41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), cream, peanuts, pistachios, butter, 35% milk chocolate (sugar, cocoa butter, whole milk powder, cocoa mass, soya lecithin, salt, natural vanilla), glucose, evaporated milk, invert sugar, candied lemon zest, pear brandy, eggs, fleur de sel, vanilla beans.",
+    "published_at": "2014-10-22T08:43:00-07:00"
+  },
+  {
+    "title": "Fleur de Sel Caramels",
+    "handle": "fleur-de-sel-caramels",
+    "url": "https://charleschocolates.com/products/fleur-de-sel-caramels",
+    "type": "Signature Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 31.0,
+    "price_max": 57.5,
+    "variants": [
+      {
+        "title": "Small",
+        "price": "31.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R10-02"
+      },
+      {
+        "title": "Large",
+        "price": "57.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R20-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_CARAMEL_SMALL_R10-02.jpg?v=1790182322",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BOX_CARAMELS_LARGE_R20-02.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/FDS_web_1024x1024_efe713b7-012e-4d36-ab5b-f5e95eea1e8b.jpg?v=1441088409"
+    ],
+    "description": "Adding Fleur de Sel it to our dark, rich caramel further accentuates the delicious caramel flavor. Each box contains a selection of our Classic Fleur de Sel Caramels and Bittersweet Fleur de Sel Caramels, all enrobed in our rich 65% bittersweet chocolate.\n*Packaging may be different than pictured due to supply chain issues\nConfections:\nClassic Fleur de Sel Caramels, Bittersweet Fleur de Sel Caramels\nItem Weight:\nSmall Box: 3.9 oz. (110g)     |     Large Box: 7.8 oz. (221g)\nIngredients:\nSugar, bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), cream, butter, evaporated milk, glucose, fleur de sel, vanilla beans.",
+    "published_at": "2014-10-22T08:21:00-07:00"
+  },
+  {
+    "title": "Gift Card",
+    "handle": "gift-card",
+    "url": "https://charleschocolates.com/products/gift-card",
+    "type": "Gift Card",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible"
+    ],
+    "price_min": 10.0,
+    "price_max": 250.0,
+    "variants": [
+      {
+        "title": "$10.00",
+        "price": "10.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "$25.00",
+        "price": "25.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "$50.00",
+        "price": "50.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "$100.00",
+        "price": "100.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      },
+      {
+        "title": "$250.00",
+        "price": "250.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": ""
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/giftcard_web_1024x1024_6f8bdf79-aaae-45b6-894a-22d4ace1b6f4.png?v=1441088575"
+    ],
+    "description": "Shopping for someone else but not sure what to give them? Give them the gift of choice with a Charles Chocolates Gift Card.\nGift cards are delivered by email and\ncan be used online only\n. Our gift cards have no additional processing fees and never expire.",
+    "published_at": "2014-10-01T14:12:00-07:00"
+  },
+  {
+    "title": "Fleur de Sel Caramel Edible Chocolate Box",
+    "handle": "fleur-de-sel-caramel-edible-box",
+    "url": "https://charleschocolates.com/products/fleur-de-sel-caramel-edible-box",
+    "type": "Edible Box",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 90.0,
+    "price_max": 90.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "90.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R50-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/FDSEd_web_1024x1024_e2af1ecb-5eac-4bff-986e-9f10f9ee2616.jpg?v=1441088360"
+    ],
+    "description": "Yes, this box is really made of chocolate and yes, we want you to eat it!\nOur Fleur de Sel Caramels are handmade in small batches and coated in rich 65% bittersweet chocolate and we pack 18 of our caramels in this beautiful, handmade chocolate box.\nConfections:\nClassic Fleur de Sel Caramels (9), Bittersweet Fleur de Sel Caramels (9)\nItem weight:\n17 oz. (482g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), pure cane sugar, heavy cream, butter, white chocolate (sugar, cocoa butter, dry whole and skim milk, soy lecithin, natural vanilla), evaporated milk, glucose, vanilla beans, fleur de sel, cocoa butter, FD&C food colorings (red, pink, yellow, orange, lavender).",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Caramel Almond Sticks",
+    "handle": "caramel-almond-sticks",
+    "url": "https://charleschocolates.com/products/caramel-almond-sticks",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 18.5,
+    "price_max": 18.5,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "18.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R41-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_CARAMEL_ALMOND_WRAPPED_R41-03.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREATS_CARAMEL_ALMOND_STICKS_R41-03.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/CAS_web_1024x1024_9e4cff71-2a90-4792-ae79-1ec2115ef28e.jpg?v=1441087533",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/CAS2_web_1024x1024_50551d3d-2c1d-4b20-87a0-61fae382a4e3.jpg?v=1441087569"
+    ],
+    "description": "Our rich and buttery Fleur de Sel Caramel is cut into long strips before being coated in rich bittersweet chocolate and dark roasted California almond pieces.\nItem weight:\n 5.3 oz. (152g)\nIngredients:\n Almonds, pure cane sugar, heavy cream, butter, 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), evaporated milk, glucose, vanilla beans, fleur de sel.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Gianduja Blocks",
+    "handle": "gianduja-blocks",
+    "url": "https://charleschocolates.com/products/gianduja-blocks",
+    "type": "Treats",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 18.5,
+    "price_max": 18.5,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "18.50",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R41-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREAT_GIANDUJA_WRAPPED_R41-01.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TREAT_GIANDUJA_SQUARES_R41-01.jpg?v=1790182321",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1586_R41-01.jpg?v=1790263904",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/GB_web_1024x1024_687dfe67-a524-4c74-853a-50644dc5d157.jpg?v=1441088473",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/GB2_web_1024x1024_c7b18777-5611-4e2e-a064-504b4b94693b.jpg?v=1441088529"
+    ],
+    "description": "Our Gianduja Blocks are a rich hazelnut praline blended with crunchy Feuilletine (crispy, sweet crepe flakes) and our dark milk chocolate and are coated in rich bittersweet chocolate.\nItem weight:\n 6.6 oz. (186g)\nIngredients:\nHazelnuts, 41% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, soya lecithin, vanilla beans), pure cane sugar, 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), feuilletine (flour, sugar, clarified butter, milk, salt, barley malt flour, baking soda), cocoa butter, vanilla beans, salt.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Toffee Chocolate Macadamias",
+    "handle": "toffee-chocolate-macadamias",
+    "url": "https://charleschocolates.com/products/toffee-chocolate-macadamias",
+    "type": "Nuts",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 17.25,
+    "price_max": 17.25,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "17.25",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R40-04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TOFFEE_MACADAMIA_WRAPPED_R40-04.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TOFFEE_MACADAMIA_NUTS_R40-04.jpg?v=1790182113",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TOFFEE_MACADAMIA_STACK_R40-04.jpg?v=1790182114",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/TCM_web_1024x1024_181a901c-e420-4cea-a297-3f1eab07947c.jpg?v=1441089737",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/TCM2_web_1024x1024_59e82f9f-12dc-4c21-b89d-ad1fe9422172.jpg?v=1441089777"
+    ],
+    "description": "Our premium macadamia nuts are roasted darker, then coated in butter toffee and rich milk chocolate and dusted with cocoa powder.\nItem weight:\n6.3 oz. (180g)\nIngredients:\n41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), macadamia nuts, pure cane sugar, cocoa powder, butter, salt.\nClick here for nutritional information.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Triple Chocolate Hazelnuts",
+    "handle": "triple-chocolate-hazelnuts",
+    "url": "https://charleschocolates.com/products/triple-chocolate-hazelnuts",
+    "type": "Nuts",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "14.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R40-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_HAZELNUT_WRAPPED_R40-02.jpg?v=1791568102",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_HAZELNUT_NUTS_R40-02.jpg?v=1791568159",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_HAZELNUT_STACK_R40-02.jpg?v=1790182114"
+    ],
+    "description": "Our premium Oregon hazelnuts are roasted darker, then coated in our exceptional blend of bittersweet and milk chocolates and dusted with cocoa powder.\nItem weight:\n6.3 oz. (180g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), 41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), hazelnuts, cocoa powder.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Triple Chocolate Almonds",
+    "handle": "triple-chocolate-almonds",
+    "url": "https://charleschocolates.com/products/triple-chocolate-almonds",
+    "type": "Nuts",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "discount",
+      "zest"
+    ],
+    "price_min": 14.0,
+    "price_max": 14.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "14.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R40-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_ALMOND_WRAPPED_R40-01.jpg?v=1791237764",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_ALMOND_NUTS_R40-01.jpg?v=1791567975",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_TRIPLE_ALMOND_STACK_R40-01.jpg?v=1790182114"
+    ],
+    "description": "Our premium California almonds are roasted darker, then coated in our exceptional blend of bittersweet and milk chocolates and dusted with cocoa powder.\nItem weight:\n6.5 oz. (184g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), 41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), almonds, cocoa powder.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Candied Lemon & Hazelnut Bar, Bittersweet Chocolate",
+    "handle": "candied-lemon-hazelnut-bar-bittersweet",
+    "url": "https://charleschocolates.com/products/candied-lemon-hazelnut-bar-bittersweet",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 5.95,
+    "price_max": 5.95,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "5.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R33-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/LHB_web_1024x1024_9506afe6-dc55-457f-9d7a-dcbcef25f61d.jpg?v=1441087395"
+    ],
+    "description": "We deep roast Oregon hazelnuts, pistachios and pine nuts and combine them with candied lemon peel, sultanas and our rich bittersweet chocolate.\nItem weight:\n1.41 oz. (40g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), hazelnuts, candied lemon peel (lemons, sugar), pistachios, sultanas, pine nuts.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Candied Lemon & Hazelnut Bar, Milk Chocolate",
+    "handle": "candied-lemon-hazelnut-bar-milk",
+    "url": "https://charleschocolates.com/products/candied-lemon-hazelnut-bar-milk",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 5.95,
+    "price_max": 5.95,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "5.95",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R33-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/LHM_web_1024x1024_8e40840d-5c07-46ab-9f24-ec93d122e0ee.jpg?v=1441087429"
+    ],
+    "description": "We deep roast Oregon hazelnuts, pistachios and pine nuts and combine them with candied lemon peel, sultanas and our rich milk chocolate.\nItem weight:\n1.41 oz. (40g)\nIngredients:\n41% mik chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), hazelnuts, candied lemon peel (lemons, sugar), pistachios, sultanas, pine nuts.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Candied Valencia & Almond Bar, Bittersweet Chocolate",
+    "handle": "candied-valencia-almond-bar-bittersweet",
+    "url": "https://charleschocolates.com/products/candied-valencia-almond-bar-bittersweet",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 5.95,
+    "price_max": 5.95,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "5.95",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "R33-03"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/VAB_web_1024x1024_f7514c20-acda-4752-82ba-f7a7ff7bc236.jpg?v=1441087464"
+    ],
+    "description": "We deep roast California almonds, pistachios and pine nuts and combine them with candied Valencia orange peel, sultanas and our rich bittersweet chocolate.\nItem weight:\n1.34 oz. (40g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans)\n, almonds, candied Valencia orange peel (Valencia oranges, sugar), pistachios, sultanas, pine nuts.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Candied Valencia & Almond Bar, Milk Chocolate",
+    "handle": "candied-valencia-almond-bar-milk",
+    "url": "https://charleschocolates.com/products/candied-valencia-almond-bar-milk",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "csp_visible",
+      "discount",
+      "zest"
+    ],
+    "price_min": 5.95,
+    "price_max": 5.95,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "5.95",
+        "compare_at_price": null,
+        "available": false,
+        "sku": "R33-04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/VAB_web_1024x1024_4995392c-8f79-4f26-8123-dc545dbd56ac.jpg?v=1441087499"
+    ],
+    "description": "We deep roast California almonds, pistachios and pine nuts and combine them with candied Valencia orange peel, sultanas and our rich milk chocolate.\nItem weight:\n1.34 oz. (40g)\nIngredients:\n41% mik chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), almonds, candied Valencia orange peel (Valencia oranges, sugar), pistachios, sultanas, pine nuts.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Ultimate Chocolate Bar Collection",
+    "handle": "ultimate-bar-collection",
+    "url": "https://charleschocolates.com/products/ultimate-bar-collection",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "bittersweet chocolate",
+      "chocolate bar",
+      "discount",
+      "fruit",
+      "milk chocolate",
+      "nuts",
+      "salty-sweet"
+    ],
+    "price_min": 65.0,
+    "price_max": 65.0,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "65.00",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R39-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/CC_SIG_BAR_BUNDLEX7_R39-01.jpg?v=1790182218",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1462_R32-02.jpg?v=1790182218",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1475_R32-03.jpg?v=1790263904",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1432_R31-02.jpg?v=1790182218"
+    ],
+    "description": "This collection contains a beautiful, chef-curated assortment of our Premium and Salty-Sweet Chocolate Bars. Each of the seven bars you'll receive represents our finest efforts and we hope you enjoy the bars as much as we enjoy making them for you.\nCaramelized Cocoa Nib Bar\nCocoa nibs are caramelized by hand in small batches and combined with our intense 72% bittersweet chocolate.\nIngredients:\n72% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), cocoa nibs, pure cane sugar.\nPeanut Praline Bar\nOur premium Virginia peanuts are deep roasted with a thin layer of praline, broken into large bites and combined with our dark milk chocolate.\nIngredients:\n55% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, soya lecithin, vanilla beans), peanuts, pure cane sugar, vanilla beans.\nSalty-Sweet Hazelnut Bar\nWhole Oregon hazelnuts are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with our rich bittersweet chocolate.\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), hazelnuts, pure cane sugar, egg whites, fleur de sel, vanilla beans.\nSalty-Sweet Cashew Bar:\nWhole cashew nuts are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with our remarkably rich milk chocolate.\nIngredients:\n41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), cashews, pure cane sugar, egg whites, fleur de sel, vanilla beans.\nSalty-Sweet Pecan Cherry Bar\nHuge pecan halves are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with dried Michigan cherries and our rich bittersweet chocolate.\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), pecans, dried cherries, pure cane sugar, egg whites, fleur de sel, vanilla beans.\nToffee Coffee Bar\nOur fresh almond toffee is cooked in copper kettles, cooled and broken into large chunks and combined with locally-roasted coffee beans and our dark milk chocolate.\nIngredients:\n55% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, soya lecithin, vanilla beans), almonds, pure cane sugar, butter, coffee beans, fleur de sel, vanilla beans.\nTres Cojones (Triple Nut) Bar:\nPremium California almonds, Oregon hazelnuts and pine nuts are deep roasted and combined with our rich bittersweet chocolate.\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), almonds, hazelnuts, pine nuts.\nTotal weight:\n25.1 oz. (712g)",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Tres Cojones (Triple Nut) Bar",
+    "handle": "tres-cojones-bar",
+    "url": "https://charleschocolates.com/products/tres-cojones-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "almond",
+      "bittersweet chocolate",
+      "chocolate bar",
+      "discount",
+      "hazelnut",
+      "pine nut",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-trescojones.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_unwrapped-trescojones.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1462_R32-02.jpg?v=1790182218"
+    ],
+    "description": "Premium California almonds, Oregon hazelnuts and pine nuts are deep roasted and combined with our rich bittersweet chocolate.\nItem weight:\n3.5 oz. (100g)\nIngredients:\n65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), almonds, hazelnuts, pine nuts.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Peanut Praline Bar",
+    "handle": "peanut-praline-bar",
+    "url": "https://charleschocolates.com/products/peanut-praline-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "chocolate bar",
+      "discount",
+      "milk chocolate",
+      "peanut",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-peanutprailine.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_unwrapped-peanutprailine.jpg?v=1791484562",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1459_R32-01.jpg?v=1790263904"
+    ],
+    "description": "Our premium Virginia peanuts are deep roasted with a thin layer of praline, broken into large bites and combined with our dark milk chocolate.\nItem weight:\n 3.5 oz. (100g)\nIngredients:\n 55% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, soya lecithin, vanilla beans), peanuts, pure cane sugar, vanilla beans.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Toffee Coffee Bar",
+    "handle": "toffee-coffee-bar",
+    "url": "https://charleschocolates.com/products/toffee-coffee-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "chocolate bar",
+      "coffee",
+      "discount",
+      "milk chocolate",
+      "toffee",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R32-04"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-toffeecoffe.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_unwrapped-toffeecoffe.jpg?v=1791484563",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1441_R32-04.jpg?v=1790263904"
+    ],
+    "description": "Gourmet chocolate gift bar\nOur fresh almond toffee is cooked in copper kettles, cooled and broken into large chunks and combined with locally-roasted coffee beans and our dark milk chocolate.\nItem weight:\n3.5 oz. (100g)\nIngredients:\n55% milk chocolate (pure cane sugar, cocoa butter, full cream milk, cacao beans, soya lecithin, vanilla beans), almonds, pure cane sugar, butter, coffee beans, fleur de sel, vanilla beans.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Salty-Sweet Hazelnut Bar",
+    "handle": "salty-sweet-hazelnut-bar",
+    "url": "https://charleschocolates.com/products/salty-sweet-hazelnut-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "bittersweet chocolate",
+      "chocolate bar",
+      "discount",
+      "hazelnut",
+      "salty-sweet",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R31-02"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweethazelnut.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_Unwrapped-saltysweethazelnut.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/072726_Olio_CharlesChocolate-1432_R31-02.jpg?v=1790182218"
+    ],
+    "description": "Whole Oregon hazelnuts are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with our rich bittersweet chocolate.\nItem weight:\n 3.7 oz. (105g)\nIngredients:\n 65% bittersweet chocolate (cacao beans, pure cane sugar, cocoa butter, soya lecithin, vanilla beans), hazelnuts, pure cane sugar, egg whites, fleur de sel, vanilla beans.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  },
+  {
+    "title": "Salty-Sweet Cashew Bar",
+    "handle": "salty-sweet-cashew-bar",
+    "url": "https://charleschocolates.com/products/salty-sweet-cashew-bar",
+    "type": "Bars",
+    "vendor": "Charles Chocolates",
+    "tags": [
+      "cashew",
+      "chocolate bar",
+      "discount",
+      "milk chocolate",
+      "salty-sweet",
+      "zest"
+    ],
+    "price_min": 9.45,
+    "price_max": 9.45,
+    "variants": [
+      {
+        "title": "Default",
+        "price": "9.45",
+        "compare_at_price": null,
+        "available": true,
+        "sku": "R31-01"
+      }
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_wrapped-saltysweetcashew.jpg?v=1791484564",
+      "https://cdn.shopify.com/s/files/1/0652/4045/files/BAR_Unwrapped-saltysweetcashew.jpg?v=1791484563",
+      "https://cdn.shopify.com/s/files/1/0652/4045/products/SSC2_web_1024x1024_577526a4-5ba6-4692-b5fd-c221307077f2.jpg?v=1441089618"
+    ],
+    "description": "Unique chocolate gift bar!\nWhole cashew nuts are covered in a meringue of fleur de sel and pure cane sugar, roasted to golden brown perfection and combined with our remarkably rich milk chocolate.\nItem weight:\n3.7 oz. (105g)\nIngredients:\n41% milk chocolate (pure cane sugar, full cream milk, cacao beans, cocoa butter, soya lecithin, vanilla beans), cashews, pure cane sugar, egg whites, fleur de sel, vanilla beans.",
+    "published_at": "2014-10-01T13:19:00-07:00"
+  }
+]

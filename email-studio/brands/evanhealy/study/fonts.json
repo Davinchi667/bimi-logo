@@ -1,0 +1,906 @@
+{
+  "roles": {
+    "h1": {
+      "family_stack": "Cochin, sans-serif",
+      "family": "Cochin",
+      "weight": "400",
+      "sizes": [
+        "56px",
+        "42px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Take our Skin Quiz",
+        "Start with oil & water.",
+        "Welcome to The Garden"
+      ]
+    },
+    "h2": {
+      "family_stack": "Cochin, sans-serif",
+      "family": "Cochin",
+      "weight": "400",
+      "sizes": [
+        "80px",
+        "44px",
+        "48px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "How does your skin feel?",
+        "Love Letters",
+        "Join Our Regenerative Journey"
+      ]
+    },
+    "h3": {
+      "family_stack": "Cochin, sans-serif",
+      "family": "Cochin",
+      "weight": "400",
+      "sizes": [
+        "32px",
+        "24px",
+        "20px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Revitalizing Starter",
+        "Revitalizing Duo",
+        "Revitalizing Trio"
+      ]
+    },
+    "body": {
+      "family_stack": "proxima-nova, sans-serif",
+      "family": "proxima-nova",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "20px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Best Sellers",
+        "Shop All",
+        "Face"
+      ]
+    },
+    "button": {
+      "family_stack": "proxima-nova, sans-serif",
+      "family": "proxima-nova",
+      "weight": "700",
+      "sizes": [
+        "12px",
+        "16px"
+      ],
+      "color": "#FFFFFF",
+      "bg": "#121212",
+      "letter_spacing": "2px",
+      "transform": "uppercase",
+      "radius": "0px",
+      "samples": [
+        "SKIP TO CONTENT\nQuestions?\nRewards\nFree Skin Consultation\n\nShop HydroSoul refill",
+        "SKIP TO CONTENT",
+        "SHOP NOW"
+      ]
+    },
+    "nav": {
+      "family_stack": "Cochin, serif",
+      "family": "Cochin",
+      "weight": "300",
+      "sizes": [
+        "18px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Best Sellers",
+        "Find Your Match",
+        "Book A Facial"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Cochin",
+      "weight": "normal",
+      "style": "normal",
+      "files": [
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman.woff2?v=49296251838700089381791309237",
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman.woff?v=133885220731227507251791309237"
+      ]
+    },
+    {
+      "family": "Cochin-bold",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-bold.woff2?v=95804606682704015411791309236",
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-bold.woff?v=40502731667000181701791309236"
+      ]
+    },
+    {
+      "family": "Cochin-italic",
+      "weight": "normal",
+      "style": "italic",
+      "files": [
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman-italic.woff2?v=39992556795764284311791309237",
+        "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman-italic.woff?v=109519617696578219591791309236"
+      ]
+    },
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn-static.okendo.io/reviews-widget-plus/fonts/oke-widget-icons.ttf",
+        "https://cdn-static.okendo.io/reviews-widget-plus/fonts/oke-widget-icons.woff",
+        "https://cdn-static.okendo.io/reviews-widget-plus/img/oke-widget-icons.bc0d6b0a.svg"
+      ]
+    },
+    {
+      "family": "Cochin",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-bold.woff"
+      ]
+    },
+    {
+      "family": "Cochin",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-roman-italic.woff"
+      ]
+    },
+    {
+      "family": "Cochin",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-roman.woff"
+      ]
+    },
+    {
+      "family": "Proxima",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/proxima-nova-extra-condensed.woff?v=1626377163"
+      ]
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "style": "normal",
+      "files": [
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2",
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.ttf",
+        "https://cdn.shopify.com/extensions/01a1219a-52ea-7aa9-b07f-09eabf4bba5b/swym-relay-848/assets/swym_fonts.svg#icomoon"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+        "https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+        "https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3",
+        "https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3",
+        "https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "100",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/c47696/00000000000000003b9b305e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3",
+        "https://use.typekit.net/af/c47696/00000000000000003b9b305e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3",
+        "https://use.typekit.net/af/c47696/00000000000000003b9b305e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "100",
+      "style": "italic",
+      "files": [
+        "https://use.typekit.net/af/c31dbb/00000000000000003b9b305f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3",
+        "https://use.typekit.net/af/c31dbb/00000000000000003b9b305f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3",
+        "https://use.typekit.net/af/c31dbb/00000000000000003b9b305f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3",
+        "https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3",
+        "https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "600",
+      "style": "italic",
+      "files": [
+        "https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3",
+        "https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3",
+        "https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+        "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+        "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3",
+        "https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3",
+        "https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/cebe0e/00000000000000003b9b3060/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3",
+        "https://use.typekit.net/af/cebe0e/00000000000000003b9b3060/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3",
+        "https://use.typekit.net/af/cebe0e/00000000000000003b9b3060/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "300",
+      "style": "italic",
+      "files": [
+        "https://use.typekit.net/af/40ff7f/00000000000000003b9b3061/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3",
+        "https://use.typekit.net/af/40ff7f/00000000000000003b9b3061/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3",
+        "https://use.typekit.net/af/40ff7f/00000000000000003b9b3061/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3"
+      ]
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://use.typekit.net/af/6e816b/00000000000000003b9b3064/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3",
+        "https://use.typekit.net/af/6e816b/00000000000000003b9b3064/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3",
+        "https://use.typekit.net/af/6e816b/00000000000000003b9b3064/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.svg#fontawesome"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Cochin",
+      "weight": "normal",
+      "file": "fonts/cochin-normal.woff2",
+      "url": "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman.woff2?v=49296251838700089381791309237"
+    },
+    {
+      "family": "Cochin-bold",
+      "weight": "500",
+      "file": "fonts/cochin-bold-500.woff2",
+      "url": "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-bold.woff2?v=95804606682704015411791309236"
+    },
+    {
+      "family": "Cochin-italic",
+      "weight": "normal",
+      "file": "fonts/cochin-italic-normal-italic.woff2",
+      "url": "https://www.evanhealy.com/cdn/shop/t/527/assets/cochin-roman-italic.woff2?v=39992556795764284311791309237"
+    },
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "file": "fonts/oke-widget-icons-400.ttf",
+      "url": "https://cdn-static.okendo.io/reviews-widget-plus/fonts/oke-widget-icons.ttf"
+    },
+    {
+      "family": "Cochin",
+      "weight": "700",
+      "file": "fonts/cochin-700.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-bold.woff"
+    },
+    {
+      "family": "Cochin",
+      "weight": "400",
+      "file": "fonts/cochin-400-italic.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-roman-italic.woff"
+    },
+    {
+      "family": "Cochin",
+      "weight": "400",
+      "file": "fonts/cochin-400.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/cochin-roman.woff"
+    },
+    {
+      "family": "Proxima",
+      "weight": "300",
+      "file": "fonts/proxima-300.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0285/8103/6125/files/proxima-nova-extra-condensed.woff?v=1626377163"
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "file": "fonts/swym-font-normal.woff2",
+      "url": "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "700",
+      "file": "fonts/proxima-nova-700.bin",
+      "url": "https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "700",
+      "file": "fonts/proxima-nova-700-italic.bin",
+      "url": "https://use.typekit.net/af/4c4052/00000000000000003b9b3069/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "100",
+      "file": "fonts/proxima-nova-100.bin",
+      "url": "https://use.typekit.net/af/c47696/00000000000000003b9b305e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "100",
+      "file": "fonts/proxima-nova-100-italic.bin",
+      "url": "https://use.typekit.net/af/c31dbb/00000000000000003b9b305f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i1&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "600",
+      "file": "fonts/proxima-nova-600.bin",
+      "url": "https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "600",
+      "file": "fonts/proxima-nova-600-italic.bin",
+      "url": "https://use.typekit.net/af/f7d492/00000000000000003b9b3067/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "400",
+      "file": "fonts/proxima-nova-400.bin",
+      "url": "https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "400",
+      "file": "fonts/proxima-nova-400-italic.bin",
+      "url": "https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "300",
+      "file": "fonts/proxima-nova-300.bin",
+      "url": "https://use.typekit.net/af/cebe0e/00000000000000003b9b3060/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "300",
+      "file": "fonts/proxima-nova-300-italic.bin",
+      "url": "https://use.typekit.net/af/40ff7f/00000000000000003b9b3061/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3"
+    },
+    {
+      "family": "proxima-nova",
+      "weight": "500",
+      "file": "fonts/proxima-nova-500.bin",
+      "url": "https://use.typekit.net/af/6e816b/00000000000000003b9b3064/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "file": "fonts/font-awesome-5-pro-300.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "file": "fonts/font-awesome-5-pro-400.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "file": "fonts/font-awesome-5-pro-900.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot"
+    }
+  ],
+  "raw_samples": {
+    "h1": [
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "56px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "67.2px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Take our Skin Quiz"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "56px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "67.2px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Start with oil & water."
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "42px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "54.6px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Welcome to The Garden"
+      }
+    ],
+    "h2": [
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "44px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "57.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "How does your skin feel?"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "44px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "57.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Love Letters"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "48px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "57.6px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Join Our Regenerative Journey"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "80px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "104px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "16"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "80px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "104px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "3"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "80px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "104px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "24"
+      }
+    ],
+    "h3": [
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "24px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "31.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Revitalizing Starter"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "24px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "31.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Revitalizing Duo"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "24px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "31.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Revitalizing Trio"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "24px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "31.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Complete Revitalizing Ritual"
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "32px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "41.6px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Reflections on our farm gathering."
+      },
+      {
+        "family": "Cochin, sans-serif",
+        "weight": "400",
+        "size": "32px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "41.6px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "The visible and the invisible. (An SHI Learning..."
+      }
+    ],
+    "body": [
+      {
+        "family": "proxima-nova",
+        "weight": "400",
+        "size": "12px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.26px",
+        "transform": "none",
+        "lineHeight": "15px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Rewards"
+      },
+      {
+        "family": "proxima-nova",
+        "weight": "400",
+        "size": "12px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.26px",
+        "transform": "none",
+        "lineHeight": "15px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Free Skin Consultation"
+      },
+      {
+        "family": "proxima-nova",
+        "weight": "400",
+        "size": "12px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.26px",
+        "transform": "none",
+        "lineHeight": "15px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop HydroSoul refills ›"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Best Sellers"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Shop All"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Face"
+      }
+    ],
+    "button": [
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(245, 242, 237)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "SKIP TO CONTENT\nQuestions?\nRewards\nFree Skin Consultation\n\nShop HydroSoul refill"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "700",
+        "size": "12px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(18, 18, 18)",
+        "letterSpacing": "2px",
+        "transform": "uppercase",
+        "lineHeight": "20.04px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "SKIP TO CONTENT"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "700",
+        "size": "12px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "2px",
+        "transform": "uppercase",
+        "lineHeight": "38px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "SHOP NOW"
+      },
+      {
+        "family": "Arial",
+        "weight": "400",
+        "size": "13.3333px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "normal",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "DRY"
+      },
+      {
+        "family": "\"Proxima Nova\", sans-serif",
+        "weight": "400",
+        "size": "20px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "2px",
+        "transform": "uppercase",
+        "lineHeight": "normal",
+        "radius": "0px",
+        "border": "",
+        "sample": "DRY"
+      },
+      {
+        "family": "Arial",
+        "weight": "400",
+        "size": "13.3333px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "normal",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "COMBINATION"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Cochin, serif",
+        "weight": "300",
+        "size": "18px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "23.4px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Best Sellers"
+      },
+      {
+        "family": "Cochin, serif",
+        "weight": "300",
+        "size": "18px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "23.4px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Find Your Match"
+      },
+      {
+        "family": "Cochin, serif",
+        "weight": "300",
+        "size": "18px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "23.4px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Book A Facial"
+      },
+      {
+        "family": "proxima-nova, sans-serif",
+        "weight": "300",
+        "size": "14px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Log in"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1792 @@
+[
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/logo.png?v=1614292792&width=460",
+    "alt": "Charles Chocolates",
+    "w": 230,
+    "h": 60,
+    "natural": [
+      230,
+      60
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/logo.png?v=1614292792",
+    "index": 1,
+    "file": "001_logo.png",
+    "size": "378x98"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/jkc-halloween-skulls-hero-wide.jpg?v=1791058077&width=3840",
+    "alt": "John Kelly Chocolates filled Halloween chocolate skulls in Garnet, Dark and Milk chocolate lined up in front of their boxes",
+    "w": 1440,
+    "h": 560,
+    "natural": [
+      1440,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/jkc-halloween-skulls-hero-wide.jpg?v=1791058077",
+    "index": 2,
+    "file": "002_jkc-halloween-skulls-hero-wide.jpg",
+    "size": "2400x1200"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-sequel-hero-praline.jpg?v=1791058077&width=1536",
+    "alt": "The sequel to the #1 Dubai bar in the US. The four Praline Crunch bars, Peanut, Hazelnut, Pecan and Almond, with a cut Almond Praline bar showing the crunch inside",
+    "w": 535,
+    "h": 357,
+    "natural": [
+      640,
+      426
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-sequel-hero-praline.jpg?v=1791058077",
+    "index": 3,
+    "file": "003_cc-sequel-hero-praline.jpg",
+    "size": "1536x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-hazelnut.jpg?v=1790717098&width=400",
+    "alt": "Hazelnut Praline Crunch bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-hazelnut.jpg?v=1790717098",
+    "index": 4,
+    "file": "004_cc-xs-hazelnut.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-peanut.jpg?v=1790717098&width=400",
+    "alt": "Peanut Praline Crunch bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-peanut.jpg?v=1790717098",
+    "index": 5,
+    "file": "005_cc-xs-peanut.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-pecan.jpg?v=1790717098&width=400",
+    "alt": "Pecan Praline Crunch bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-pecan.jpg?v=1790717098",
+    "index": 6,
+    "file": "006_cc-xs-pecan.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-almond.jpg?v=1790717098&width=400",
+    "alt": "Almond Praline Crunch bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-almond.jpg?v=1790717098",
+    "index": 7,
+    "file": "007_cc-xs-almond.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-pistachio.jpg?v=1790724140&width=400",
+    "alt": "Original Pistachio Dubai Done Better bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-pistachio.jpg?v=1790724140",
+    "index": 8,
+    "file": "008_cc-xs-pistachio.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-ganache.jpg?v=1790724162&width=400",
+    "alt": "Pistachio Ganache Dubai Done Better bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-ganache.jpg?v=1790724162",
+    "index": 9,
+    "file": "009_cc-xs-ganache.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-caramel.jpg?v=1790724179&width=400",
+    "alt": "Pistachio Caramel Dubai Done Better bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-caramel.jpg?v=1790724179",
+    "index": 10,
+    "file": "010_cc-xs-caramel.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/cc-xs-raspberry.jpg?v=1790724198&width=400",
+    "alt": "Raspberry Ganache Dubai Done Better bar cut open",
+    "w": 120,
+    "h": 120,
+    "natural": [
+      139,
+      139
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/cc-xs-raspberry.jpg?v=1790724198",
+    "index": 11,
+    "file": "011_cc-xs-raspberry.jpg",
+    "size": "800x800"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/french-praline-crunch-collection-lineup.jpg?v=1787778885",
+    "alt": "All four Praline Crunch Bars lined up: almond, hazelnut, peanut and pecan by Charles Chocolates",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/french-praline-crunch-collection-lineup.jpg?v=1787778885",
+    "index": 12,
+    "file": "012_french-praline-crunch-collection-lineup.jpg",
+    "size": "3600x3600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_FAMILYX4_dubai-done-better-limited-edition-raspberry-collection.jpg?v=1790182008",
+    "alt": "CC DUBAI FAMILYX4 dubai-done-better-limited-edition-raspberry-collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_FAMILYX4_dubai-done-better-limited-edition-raspberry-collection.jpg?v=1790182008",
+    "index": 13,
+    "file": "013_cc-dubai-familyx4-dubai-done-better-limi.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238150",
+    "alt": "CC DUBAI WRAPPED PISTACHIO dubai-done-better-original-pistachio-bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238150",
+    "index": 14,
+    "file": "014_cc-dubai-wrapped-pistachio-dubai-done-be.jpg",
+    "size": "3250x3250"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238336",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_PISTACHIO_dubai-done-better-original-pistachio-bar.jpg?v=1791238336",
+    "index": 15,
+    "file": "015_cc-dubai-bar-pistachio-dubai-done-better.jpg",
+    "size": "3251x3251"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/pecan-french-praline-crunch-bar-in-pack.jpg?v=1787778874",
+    "alt": "Pecan Praline Crunch Bar in its raspberry botanical wrapper by Charles Chocolates",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/pecan-french-praline-crunch-bar-in-pack.jpg?v=1787778874",
+    "index": 16,
+    "file": "016_pecan-french-praline-crunch-bar-in-pack.jpg",
+    "size": "2323x2323"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/pecan-french-praline-crunch-bar-unwrapped.jpg?v=1787778874",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/pecan-french-praline-crunch-bar-unwrapped.jpg?v=1787778874",
+    "index": 17,
+    "file": "017_pecan-french-praline-crunch-bar-unwrappe.jpg",
+    "size": "2415x2415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/almond-french-praline-crunch-bar-in-pack.jpg?v=1787778859",
+    "alt": "Almond Praline Crunch Bar in its teal botanical wrapper by Charles Chocolates",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/almond-french-praline-crunch-bar-in-pack.jpg?v=1787778859",
+    "index": 18,
+    "file": "018_almond-french-praline-crunch-bar-in-pack.jpg",
+    "size": "2323x2323"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/almond-french-praline-crunch-bar-unwrapped.jpg?v=1787778859",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/almond-french-praline-crunch-bar-unwrapped.jpg?v=1787778859",
+    "index": 19,
+    "file": "019_almond-french-praline-crunch-bar-unwrapp.jpg",
+    "size": "2415x2415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/hazelnut-french-praline-crunch-bar-in-pack.jpg?v=1787778864",
+    "alt": "Hazelnut Praline Crunch Bar in its olive botanical wrapper by Charles Chocolates",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/hazelnut-french-praline-crunch-bar-in-pack.jpg?v=1787778864",
+    "index": 20,
+    "file": "020_hazelnut-french-praline-crunch-bar-in-pa.jpg",
+    "size": "2323x2323"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/hazelnut-french-praline-crunch-bar-unwrapped.jpg?v=1787778865",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/hazelnut-french-praline-crunch-bar-unwrapped.jpg?v=1787778865",
+    "index": 21,
+    "file": "021_hazelnut-french-praline-crunch-bar-unwra.jpg",
+    "size": "2415x2415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/peanut-french-praline-crunch-bar-in-pack.jpg?v=1787778869",
+    "alt": "Peanut Praline Crunch Bar in its purple botanical wrapper by Charles Chocolates",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/peanut-french-praline-crunch-bar-in-pack.jpg?v=1787778869",
+    "index": 22,
+    "file": "022_peanut-french-praline-crunch-bar-in-pack.jpg",
+    "size": "2323x2323"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/peanut-french-praline-crunch-bar-unwrapped.jpg?v=1787778869",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/peanut-french-praline-crunch-bar-unwrapped.jpg?v=1787778869",
+    "index": 23,
+    "file": "023_peanut-french-praline-crunch-bar-unwrapp.jpg",
+    "size": "2415x2415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_FAMILYX3_dubai-done-better-3-bar-bundle.jpg?v=1790182008",
+    "alt": "CC DUBAI FAMILYX3 dubai-done-better-3-bar-bundle",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_FAMILYX3_dubai-done-better-3-bar-bundle.jpg?v=1790182008",
+    "index": 24,
+    "file": "024_cc-dubai-familyx3-dubai-done-better-3-ba.jpg",
+    "size": "4397x4397"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CARAMEL_SMALL_R10-02.jpg?v=1790182322",
+    "alt": "CC SIG BOX CARAMEL SMALL R10-02",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CARAMEL_SMALL_R10-02.jpg?v=1790182322",
+    "index": 25,
+    "file": "025_cc-sig-box-caramel-small-r10-02.jpg",
+    "size": "4399x4399"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CARAMELS_LARGE_R20-02.jpg?v=1790182321",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CARAMELS_LARGE_R20-02.jpg?v=1790182321",
+    "index": 26,
+    "file": "026_cc-sig-box-caramels-large-r20-02.jpg",
+    "size": "4393x4393"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_BUNDLEX7_R39-01.jpg?v=1790182218",
+    "alt": "CC SIG BAR BUNDLEX7 R39-01",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_BUNDLEX7_R39-01.jpg?v=1790182218",
+    "index": 27,
+    "file": "027_cc-sig-bar-bundlex7-r39-01.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/072726_Olio_CharlesChocolate-1462_R32-02.jpg?v=1790182218",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      178
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/072726_Olio_CharlesChocolate-1462_R32-02.jpg?v=1790182218",
+    "index": 28,
+    "file": "028_072726-olio-charleschocolate-1462-r32-02.jpg",
+    "size": "5408x3605"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_NUTS_BUNDLEX4_ultimate-chocolate-covered-nut-collection.jpg?v=1790182113",
+    "alt": "CC NUTS BUNDLEX4 ultimate-chocolate-covered-nut-collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_NUTS_BUNDLEX4_ultimate-chocolate-covered-nut-collection.jpg?v=1790182113",
+    "index": 29,
+    "file": "029_cc-nuts-bundlex4-ultimate-chocolate-cove.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/Nuts_web_1024x1024_bb49e354-4652-4d6b-a6e7-286c03512683.jpg?v=1584467035",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/Nuts_web_1024x1024_bb49e354-4652-4d6b-a6e7-286c03512683.jpg?v=1584467035",
+    "index": 30,
+    "file": "030_nuts-web-1024x1024-bb49e354-4652-4d6b-a6.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319620",
+    "alt": "CC DUBAI WRAPPED RASPBERRY dubai-done-better-raspberry-ganache-bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319620",
+    "index": 31,
+    "file": "031_cc-dubai-wrapped-raspberry-dubai-done-be.jpg",
+    "size": "3251x3251"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319909",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_RASPBERRY_dubai-done-better-raspberry-ganache-bar.jpg?v=1791319909",
+    "index": 32,
+    "file": "032_cc-dubai-bar-raspberry-dubai-done-better.jpg",
+    "size": "3251x3251"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319487",
+    "alt": "CC DUBAI WRAPPED CARAMEL dubai-done-better-pistachio-milk-chocolate-caramel-bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319487",
+    "index": 33,
+    "file": "033_cc-dubai-wrapped-caramel-dubai-done-bett.jpg",
+    "size": "3252x3252"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319541",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_CARAMEL_dubai-done-better-pistachio-milk-chocolate-caramel-bar.jpg?v=1791319541",
+    "index": 34,
+    "file": "034_cc-dubai-bar-caramel-dubai-done-better-p.jpg",
+    "size": "3252x3252"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319313",
+    "alt": "CC DUBAI WRAPPED GANACHE dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_WRAPPED_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319313",
+    "index": 35,
+    "file": "035_cc-dubai-wrapped-ganache-dubai-done-bett.jpg",
+    "size": "3251x3251"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319369",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_DUBAI_BAR_GANACHE_dubai-done-better-pistachio-bittersweet-chocolate-ganache-bar.jpg?v=1791319369",
+    "index": 36,
+    "file": "036_cc-dubai-bar-ganache-dubai-done-better-p.jpg",
+    "size": "3251x3251"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREAT_SMORES_s-mores-collection.jpg?v=1790182321",
+    "alt": "CC TREAT SMORES s-mores-collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREAT_SMORES_s-mores-collection.jpg?v=1790182321",
+    "index": 37,
+    "file": "037_cc-treat-smores-s-mores-collection.jpg",
+    "size": "3825x3825"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREAT_SMORES_OPEN_s-mores-collection.jpg?v=1790182321",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREAT_SMORES_OPEN_s-mores-collection.jpg?v=1790182321",
+    "index": 38,
+    "file": "038_cc-treat-smores-open-s-mores-collection.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/FDSEd_web_1024x1024_e2af1ecb-5eac-4bff-986e-9f10f9ee2616.jpg?v=1441088360",
+    "alt": "Fleur de Sel Caramel Edible Chocolate Box - Charles Chocolates\n",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/FDSEd_web_1024x1024_e2af1ecb-5eac-4bff-986e-9f10f9ee2616.jpg?v=1441088360",
+    "index": 39,
+    "file": "039_fdsed-web-1024x1024-e2af1ecb-5eac-4bff-9.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CLASSIC_COLLECTION_SMALL_R10-01.jpg?v=1790182322",
+    "alt": "CC SIG BOX CLASSIC COLLECTION SMALL R10-01",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CLASSIC_COLLECTION_SMALL_R10-01.jpg?v=1790182322",
+    "index": 40,
+    "file": "040_cc-sig-box-classic-collection-small-r10-.jpg",
+    "size": "4399x4399"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CLASSIC_COLLECTION_LARGE_R20-01.jpg?v=1790182321",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_CLASSIC_COLLECTION_LARGE_R20-01.jpg?v=1790182321",
+    "index": 41,
+    "file": "041_cc-sig-box-classic-collection-large-r20-.jpg",
+    "size": "4393x4393"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_SMALL_R10-04.jpg?v=1790182321",
+    "alt": "CC SIG BOX NUT-PRALINE-CARAMELS SMALL R10-04",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_SMALL_R10-04.jpg?v=1790182321",
+    "index": 42,
+    "file": "042_cc-sig-box-nut-praline-caramels-small-r1.jpg",
+    "size": "4399x4399"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_LARGE_R20-04.jpg?v=1790182321",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_NUT-PRALINE-CARAMELS_LARGE_R20-04.jpg?v=1790182321",
+    "index": 43,
+    "file": "043_cc-sig-box-nut-praline-caramels-large-r2.jpg",
+    "size": "4393x4393"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Confections_Butterflies_Small_R10-03.jpg?v=1790179352",
+    "alt": "Peanut Butterflies small gift box, open, milk chocolate butterflies",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Confections_Butterflies_Small_R10-03.jpg?v=1790179352",
+    "index": 44,
+    "file": "044_cc-confections-butterflies-small-r10-03.jpg",
+    "size": "2805x2805"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Confections_Butterflies_Large_R20-03.jpg?v=1790178808",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Confections_Butterflies_Large_R20-03.jpg?v=1790178808",
+    "index": 45,
+    "file": "045_cc-confections-butterflies-large-r20-03.jpg",
+    "size": "4006x4006"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_PAVES_SMALL_paves.jpg?v=1790182321",
+    "alt": "CC SIG BOX PAVES SMALL paves",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_PAVES_SMALL_paves.jpg?v=1790182321",
+    "index": 46,
+    "file": "046_cc-sig-box-paves-small-paves.jpg",
+    "size": "3559x3559"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_PAVES_LARGE_paves.jpg?v=1790182322",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BOX_PAVES_LARGE_paves.jpg?v=1790182322",
+    "index": 47,
+    "file": "047_cc-sig-box-paves-large-paves.jpg",
+    "size": "4399x4399"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Combo_3_SB-01S.jpg?v=1790264938",
+    "alt": "Artisan Chocolate Gift Set Small: Triple Chocolate Almonds, Caramelized Cocoa Nib Bar, Salty-Sweet Cashew Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Combo_3_SB-01S.jpg?v=1790264938",
+    "index": 48,
+    "file": "048_cc-combo-3-sb-01s.jpg",
+    "size": "1254x1254"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/Artisan-Chocolate-Set-Small-web.png?v=1585241836",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/Artisan-Chocolate-Set-Small-web.png?v=1585241836",
+    "index": 49,
+    "file": "049_artisan-chocolate-set-small-web.png",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Combo_3_SB-01M.jpg?v=1790268909",
+    "alt": "Artisan Chocolate Set Medium: Triple Chocolate Almonds, Caramel Almond Sticks, Ruby Raspberry & Pistachio Bar, Salty-Sweet Hazelnut Bar, Salty-Sweet Cashew Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Combo_3_SB-01M.jpg?v=1790268909",
+    "index": 50,
+    "file": "050_cc-combo-3-sb-01m.jpg",
+    "size": "1254x1254"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TRIPLE_ALMOND_WRAPPED_R40-01.jpg?v=1791237764",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TRIPLE_ALMOND_WRAPPED_R40-01.jpg?v=1791237764",
+    "index": 51,
+    "file": "051_cc-triple-almond-wrapped-r40-01.jpg",
+    "size": "2541x2541"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Combo_4_SB-01L.jpg?v=1790264171",
+    "alt": "Charles Chocolates Starter Pack, nuts, orange peel and a bar with two open signature boxes",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Combo_4_SB-01L.jpg?v=1790264171",
+    "index": 52,
+    "file": "052_cc-combo-4-sb-01l.jpg",
+    "size": "4480x4480"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/Artisan-Chocolate-Set-Large-web.png?v=1585241883",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/Artisan-Chocolate-Set-Large-web.png?v=1585241883",
+    "index": 53,
+    "file": "053_artisan-chocolate-set-large-web.png",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREATS_ORANGE-LEMON_PEEL_BUNDLE_chocolate-covered-lemon-and-orange-peels-variety-pack.jpg?v=1790182321",
+    "alt": "CC TREATS ORANGE-LEMON PEEL BUNDLE chocolate-covered-lemon-and-orange-peels-variety-pack",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREATS_ORANGE-LEMON_PEEL_BUNDLE_chocolate-covered-lemon-and-orange-peels-variety-pack.jpg?v=1790182321",
+    "index": 54,
+    "file": "054_cc-treats-orange-lemon-peel-bundle-choco.jpg",
+    "size": "4082x4082"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/orange_lemonpeel4-pack.jpg?v=1710262727",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/orange_lemonpeel4-pack.jpg?v=1710262727",
+    "index": 55,
+    "file": "055_orange-lemonpeel4-pack.jpg",
+    "size": "2000x2000"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_RUBY_BUNDLEX3_ruby-chocolate-bar-collection.jpg?v=1790267542",
+    "alt": "Ruby Garnet Chocolate Bar Collection: Cocoa Nib Brittle, Raspberry & Pistachio and Strawberry bars",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_RUBY_BUNDLEX3_ruby-chocolate-bar-collection.jpg?v=1790267542",
+    "index": 56,
+    "file": "056_cc-sig-bar-ruby-bundlex3-ruby-chocolate-.jpg",
+    "size": "1254x1254"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_BAR_R32-09.jpg?v=1791486009",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_BAR_R32-09.jpg?v=1791486009",
+    "index": 57,
+    "file": "057_cc-sig-bar-cocoa-nib-brittle-bar-r32-09.jpg",
+    "size": "2619x2619"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Truffle_12pkBox_Unwrapped_R-122C2.jpg?v=1790378978",
+    "alt": "12 Piece Signature Handcrafted Chocolate Collection with Satin Ribbon",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Truffle_12pkBox_Unwrapped_R-122C2.jpg?v=1790378978",
+    "index": 58,
+    "file": "058_truffle-12pkbox-unwrapped-r-122c2.jpg",
+    "size": "3156x3156"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Truffle_12pkBox_Wrapped_R-122C2.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Truffle_12pkBox_Wrapped_R-122C2.jpg?v=1790378978",
+    "index": 59,
+    "file": "059_truffle-12pkbox-wrapped-r-122c2.jpg",
+    "size": "3156x3156"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_x4_Variety-2_Wrapped_R-T-1L.jpg?v=1790378978",
+    "alt": "Large Assorted Gift Tower",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_x4_Variety-2_Wrapped_R-T-1L.jpg?v=1790378978",
+    "index": 60,
+    "file": "060_tower-x4-variety-2-wrapped-r-t-1l.jpg",
+    "size": "3682x3682"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_Large_AllOpen_R-T-1L.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_Large_AllOpen_R-T-1L.jpg?v=1790378978",
+    "index": 61,
+    "file": "061_tower-large-allopen-r-t-1l.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_3X_Variety_Wrapped_R-T-1M.jpg?v=1790378978",
+    "alt": "Medium Assorted Gift Tower",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_3X_Variety_Wrapped_R-T-1M.jpg?v=1790378978",
+    "index": 62,
+    "file": "062_tower-3x-variety-wrapped-r-t-1m.jpg",
+    "size": "3979x3979"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_Medium_AllOpen_R-T-1M.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_Medium_AllOpen_R-T-1M.jpg?v=1790378978",
+    "index": 63,
+    "file": "063_tower-medium-allopen-r-t-1m.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-342_R-82C5.jpg?v=1790378978",
+    "alt": "8 Piece Signature Handcrafted Dark Chocolate Collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-342_R-82C5.jpg?v=1790378978",
+    "index": 64,
+    "file": "064_081126-olio-johnkelly-342-r-82c5.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Box_8pk_Uwrapped_R-82C5.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Box_8pk_Uwrapped_R-82C5.jpg?v=1790378978",
+    "index": 65,
+    "file": "065_box-8pk-uwrapped-r-82c5.jpg",
+    "size": "2963x2963"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Truffles_Box_Unwrapped_R-242C2.jpg?v=1790378978",
+    "alt": "24 Piece Signature Handcrafted Chocolate Collection with Satin Ribbon",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Truffles_Box_Unwrapped_R-242C2.jpg?v=1790378978",
+    "index": 66,
+    "file": "066_truffles-box-unwrapped-r-242c2.jpg",
+    "size": "4109x4109"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/2W0A7228_WebR.jpg?v=1782141646",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/2W0A7228_WebR.jpg?v=1782141646",
+    "index": 67,
+    "file": "067_2w0a7228-webr.jpg",
+    "size": "403x403"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-345_R-62-C1.jpg?v=1790378978",
+    "alt": "6 Piece Signature Handcrafted Chocolate Collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-345_R-62-C1.jpg?v=1790378978",
+    "index": 68,
+    "file": "068_081126-olio-johnkelly-345-r-62-c1.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Truffle_6pkBox_Unwrapped_R-62-C1.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Truffle_6pkBox_Unwrapped_R-62-C1.jpg?v=1790378978",
+    "index": 69,
+    "file": "069_truffle-6pkbox-unwrapped-r-62-c1.jpg",
+    "size": "2758x2758"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_x5_Variety_Wrapped_R-T-PT.jpg?v=1790378978",
+    "alt": "Premier Gift Tower",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_x5_Variety_Wrapped_R-T-PT.jpg?v=1790378978",
+    "index": 70,
+    "file": "070_tower-x5-variety-wrapped-r-t-pt.jpg",
+    "size": "3649x3649"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_Premier_AllOpen_R-T-PT.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_Premier_AllOpen_R-T-PT.jpg?v=1790378978",
+    "index": 71,
+    "file": "071_tower-premier-allopen-r-t-pt.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-126_R-41C2.jpg?v=1790378978",
+    "alt": "4 Piece Dark Chocolate with French Grey Sea Salt",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-126_R-41C2.jpg?v=1790378978",
+    "index": 72,
+    "file": "072_081126-olio-johnkelly-126-r-41c2.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/TruffleFudgeBites_DarkFrenchSalt_Unwrapped_R-41C2.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/TruffleFudgeBites_DarkFrenchSalt_Unwrapped_R-41C2.jpg?v=1790378978",
+    "index": 73,
+    "file": "073_trufflefudgebites-darkfrenchsalt-unwrapp.jpg",
+    "size": "2316x2316"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-364_R-42C5.jpg?v=1790378978",
+    "alt": "4 Piece Signature Handcrafted Chocolate Collection",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/081126_Olio_JohnKelly-364_R-42C5.jpg?v=1790378978",
+    "index": 74,
+    "file": "074_081126-olio-johnkelly-364-r-42c5.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Truffle-Caramel_4pkVariety_Unwrapped_R-42C5.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Truffle-Caramel_4pkVariety_Unwrapped_R-42C5.jpg?v=1790378978",
+    "index": 75,
+    "file": "075_truffle-caramel-4pkvariety-unwrapped-r-4.jpg",
+    "size": "3105x3105"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_x8_Variety_Wrapped_R-T-GT.jpg?v=1790378978",
+    "alt": "Grand Gift Tower",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_x8_Variety_Wrapped_R-T-GT.jpg?v=1790378978",
+    "index": 76,
+    "file": "076_tower-x8-variety-wrapped-r-t-gt.jpg",
+    "size": "4358x4358"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/Tower_Grand_AllOpen_R-T-GT.jpg?v=1790378978",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/Tower_Grand_AllOpen_R-T-GT.jpg?v=1790378978",
+    "index": 77,
+    "file": "077_tower-grand-allopen-r-t-gt.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_1_Single_Box.jpg?v=1791044620",
+    "alt": "5-Piece Garnet Skulls with Candied Apple Caramel Filling, closed box with one skull in front",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_1_Single_Box.jpg?v=1791044620",
+    "index": 78,
+    "file": "078_jkc-filledskulls-garnet-1-single-box.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_2_Box_TopDown.jpg?v=1791044620",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_2_Box_TopDown.jpg?v=1791044620",
+    "index": 79,
+    "file": "079_jkc-filledskulls-garnet-2-box-topdown.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Dark_1_Single_Box.jpg?v=1791044620",
+    "alt": "5-Piece Dark Chocolate Skulls with Spiced Chocolate Caramel Filling, closed box with one skull in front",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Dark_1_Single_Box.jpg?v=1791044620",
+    "index": 80,
+    "file": "080_jkc-filledskulls-dark-1-single-box.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Dark_2_Box_TopDown.jpg?v=1791044620",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Dark_2_Box_TopDown.jpg?v=1791044620",
+    "index": 81,
+    "file": "081_jkc-filledskulls-dark-2-box-topdown.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Milk_1_Single_Box.jpg?v=1791044620",
+    "alt": "5-Piece Milk Chocolate Skulls with S'mores Filling, closed box with one skull in front",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Milk_1_Single_Box.jpg?v=1791044620",
+    "index": 82,
+    "file": "082_jkc-filledskulls-milk-1-single-box.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Milk_2_Box_TopDown.jpg?v=1791044621",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Milk_2_Box_TopDown.jpg?v=1791044621",
+    "index": 83,
+    "file": "083_jkc-filledskulls-milk-2-box-topdown.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Trio_1_Three_Boxes.jpg?v=1791044640",
+    "alt": "Filled Skulls Trio: garnet, dark chocolate and milk chocolate skull boxes, each with one skull in front",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Trio_1_Three_Boxes.jpg?v=1791044640",
+    "index": 84,
+    "file": "084_jkc-filledskulls-trio-1-three-boxes.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_1_Single_Box_59acd201-35b0-4273-8a49-d06e08080bb5.jpg?v=1791044640",
+    "alt": "",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/JKC_FilledSkulls_Garnet_1_Single_Box_59acd201-35b0-4273-8a49-d06e08080bb5.jpg?v=1791044640",
+    "index": 85,
+    "file": "085_jkc-filledskulls-garnet-1-single-box-59a.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/collections/CC_web_1024x1024_8e25de1b-740b-4353-b558-1a026879cd13.jpg?v=1790378774",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/collections/CC_web_1024x1024_8e25de1b-740b-4353-b558-1a026879cd13.jpg?v=1790378774",
+    "index": 86,
+    "file": "086_cc-web-1024x1024-8e25de1b-740b-4353-b558.jpg",
+    "size": "2048x2048"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/collections/FDSEd_web_1024x1024_8bf01c59-898a-4a07-bf48-de3d4a300447.jpg?v=1448976688",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/collections/FDSEd_web_1024x1024_8bf01c59-898a-4a07-bf48-de3d4a300447.jpg?v=1448976688",
+    "index": 87,
+    "file": "087_fdsed-web-1024x1024-8bf01c59-898a-4a07-b.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/collections/TCA2_web_1024x1024_fb542c64-de19-488b-be20-c971719e246c.jpg?v=1790378775",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/collections/TCA2_web_1024x1024_fb542c64-de19-488b-be20-c971719e246c.jpg?v=1790378775",
+    "index": 88,
+    "file": "088_tca2-web-1024x1024-fb542c64-de19-488b-be.jpg",
+    "size": "2048x2048"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/collections/BARS_web_1024x1024_867ed082-8144-4913-9a20-e175dd284a9f.jpg?v=1791352338",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      146
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/collections/BARS_web_1024x1024_867ed082-8144-4913-9a20-e175dd284a9f.jpg?v=1791352338",
+    "index": 89,
+    "file": "089_bars-web-1024x1024-867ed082-8144-4913-9a.jpg",
+    "size": "5408x3605"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/collections/Collection_Artisan_Chocolate_Gift_Sets.jpg?v=1790378779",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/collections/Collection_Artisan_Chocolate_Gift_Sets.jpg?v=1790378779",
+    "index": 90,
+    "file": "090_collection-artisan-chocolate-gift-sets.jpg",
+    "size": "2048x2048"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_WRAPPED.jpg?v=1791486110",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_RASPBERRY_PISTACHIO_WRAPPED.jpg?v=1791486110",
+    "index": 91,
+    "file": "091_cc-sig-bar-raspberry-pistachio-wrapped.jpg",
+    "size": "2622x2622"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREAT_GIANDUJA_WRAPPED_R41-01.jpg?v=1790182321",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREAT_GIANDUJA_WRAPPED_R41-01.jpg?v=1790182321",
+    "index": 92,
+    "file": "092_cc-treat-gianduja-wrapped-r41-01.jpg",
+    "size": "3763x3763"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweethazelnut.jpg?v=1791484564",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweethazelnut.jpg?v=1791484564",
+    "index": 93,
+    "file": "093_bar-wrapped-saltysweethazelnut.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-caramelized_cocoa_nib.jpg?v=1791484564",
+    "alt": "",
+    "w": 206,
+    "h": 206,
+    "natural": [
+      220,
+      220
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-caramelized_cocoa_nib.jpg?v=1791484564",
+    "index": 94,
+    "file": "094_bar-wrapped-caramelized-cocoa-nib.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_STRAWBERRY_WRAPPED_R32-07.jpg?v=1791486195",
+    "alt": "CC SIG BAR STRAWBERRY WRAPPED R32-07",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_STRAWBERRY_WRAPPED_R32-07.jpg?v=1791486195",
+    "index": 95,
+    "file": "095_cc-sig-bar-strawberry-wrapped-r32-07.jpg",
+    "size": "2620x2620"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_WRAPPED_R32-09.jpg?v=1791485979",
+    "alt": "CC SIG BAR COCOA NIB BRITTLE WRAPPED R32-09",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_SIG_BAR_COCOA_NIB_BRITTLE_WRAPPED_R32-09.jpg?v=1791485979",
+    "index": 96,
+    "file": "096_cc-sig-bar-cocoa-nib-brittle-wrapped-r32.jpg",
+    "size": "2610x2610"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweetcashew.jpg?v=1791484564",
+    "alt": "Salty-Sweet Cashew Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweetcashew.jpg?v=1791484564",
+    "index": 97,
+    "file": "097_bar-wrapped-saltysweetcashew.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweetpecancherry.jpg?v=1791484564",
+    "alt": "Salty-Sweet Pecan Cherry Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-saltysweetpecancherry.jpg?v=1791484564",
+    "index": 98,
+    "file": "098_bar-wrapped-saltysweetpecancherry.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-dk_crisped_rice.jpg?v=1791403033",
+    "alt": "Caramelized Crisped Rice Bar, Bittersweet Chocolate",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-dk_crisped_rice.jpg?v=1791403033",
+    "index": 99,
+    "file": "099_bar-wrapped-dk-crisped-rice.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-milk_crisped_rice.jpg?v=1791484564",
+    "alt": "Caramelized Crisped Rice Bar, Milk Chocolate",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-milk_crisped_rice.jpg?v=1791484564",
+    "index": 100,
+    "file": "100_bar-wrapped-milk-crisped-rice.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-toffeecoffe.jpg?v=1791484564",
+    "alt": "Toffee Coffee Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-toffeecoffe.jpg?v=1791484564",
+    "index": 101,
+    "file": "101_bar-wrapped-toffeecoffe.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-peanutprailine.jpg?v=1791484564",
+    "alt": "Peanut Praline Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-peanutprailine.jpg?v=1791484564",
+    "index": 102,
+    "file": "102_bar-wrapped-peanutprailine.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/BAR_wrapped-trescojones.jpg?v=1791484564",
+    "alt": "Tres Cojones (Triple Nut) Bar",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/BAR_wrapped-trescojones.jpg?v=1791484564",
+    "index": 103,
+    "file": "103_bar-wrapped-trescojones.jpg",
+    "size": "2550x2550"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/VAB_web_1024x1024_f7514c20-acda-4752-82ba-f7a7ff7bc236.jpg?v=1441087464",
+    "alt": "Candied Valencia & Almond Bar, Bittersweet Chocolate - Charles Chocolates\n",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/VAB_web_1024x1024_f7514c20-acda-4752-82ba-f7a7ff7bc236.jpg?v=1441087464",
+    "index": 104,
+    "file": "104_vab-web-1024x1024-f7514c20-acda-4752-82b.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_TOFFEE_COFFEE_WRAPPED_R35-03.jpg?v=1790182113",
+    "alt": "CC MINIBAR TOFFEE COFFEE WRAPPED R35-03",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_TOFFEE_COFFEE_WRAPPED_R35-03.jpg?v=1790182113",
+    "index": 105,
+    "file": "105_cc-minibar-toffee-coffee-wrapped-r35-03.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_CARAMELIZED_RICE_MILK_WRAPPED_R35-02.jpg?v=1790182114",
+    "alt": "CC MINIBAR CARAMELIZED RICE MILK WRAPPED R35-02",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_CARAMELIZED_RICE_MILK_WRAPPED_R35-02.jpg?v=1790182114",
+    "index": 106,
+    "file": "106_cc-minibar-caramelized-rice-milk-wrapped.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/LHB_web_1024x1024_9506afe6-dc55-457f-9d7a-dcbcef25f61d.jpg?v=1441087395",
+    "alt": "Candied Lemon & Hazelnut Bar, Bittersweet Chocolate - Charles Chocolates\n",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/LHB_web_1024x1024_9506afe6-dc55-457f-9d7a-dcbcef25f61d.jpg?v=1441087395",
+    "index": 107,
+    "file": "107_lhb-web-1024x1024-9506afe6-dc55-457f-9d7.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_CARAMELIZED_RICE_DARK_WRAPPED_R35-01.jpg?v=1790182114",
+    "alt": "CC MINIBAR CARAMELIZED RICE DARK WRAPPED R35-01",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_MINIBAR_CARAMELIZED_RICE_DARK_WRAPPED_R35-01.jpg?v=1790182114",
+    "index": 108,
+    "file": "108_cc-minibar-caramelized-rice-dark-wrapped.jpg",
+    "size": "4327x4327"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/VAB_web_1024x1024_4995392c-8f79-4f26-8123-dc545dbd56ac.jpg?v=1441087499",
+    "alt": "Candied Valencia & Almond Bar, Milk Chocolate - Charles Chocolates\n",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/VAB_web_1024x1024_4995392c-8f79-4f26-8123-dc545dbd56ac.jpg?v=1441087499",
+    "index": 109,
+    "file": "109_vab-web-1024x1024-4995392c-8f79-4f26-812.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/products/LHM_web_1024x1024_8e40840d-5c07-46ab-9f24-ec93d122e0ee.jpg?v=1441087429",
+    "alt": "Candied Lemon & Hazelnut Bar, Milk Chocolate - Charles Chocolates\n",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/products/LHM_web_1024x1024_8e40840d-5c07-46ab-9f24-ec93d122e0ee.jpg?v=1441087429",
+    "index": 110,
+    "file": "110_lhm-web-1024x1024-8e40840d-5c07-46ab-9f2.jpg",
+    "size": "1024x1024"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TRIPLE_HAZELNUT_WRAPPED_R40-02.jpg?v=1791568102",
+    "alt": "CC TRIPLE HAZELNUT WRAPPED R40-02",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TRIPLE_HAZELNUT_WRAPPED_R40-02.jpg?v=1791568102",
+    "index": 111,
+    "file": "111_cc-triple-hazelnut-wrapped-r40-02.jpg",
+    "size": "2541x2541"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_MINT_ALMONDS_WRAPPED_R40-03.jpg?v=1790182114",
+    "alt": "CC MINT ALMONDS WRAPPED R40-03",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_MINT_ALMONDS_WRAPPED_R40-03.jpg?v=1790182114",
+    "index": 112,
+    "file": "112_cc-mint-almonds-wrapped-r40-03.jpg",
+    "size": "4393x4393"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TOFFEE_MACADAMIA_WRAPPED_R40-04.jpg?v=1790182114",
+    "alt": "CC TOFFEE MACADAMIA WRAPPED R40-04",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TOFFEE_MACADAMIA_WRAPPED_R40-04.jpg?v=1790182114",
+    "index": 113,
+    "file": "113_cc-toffee-macadamia-wrapped-r40-04.jpg",
+    "size": "4244x4244"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREATS_CARAMEL_ALMOND_WRAPPED_R41-03.jpg?v=1790182321",
+    "alt": "CC TREATS CARAMEL ALMOND WRAPPED R41-03",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREATS_CARAMEL_ALMOND_WRAPPED_R41-03.jpg?v=1790182321",
+    "index": 114,
+    "file": "114_cc-treats-caramel-almond-wrapped-r41-03.jpg",
+    "size": "3967x3967"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREATS_ORANGE_PEEL_BUNDLE_R36-06.jpg?v=1790182321",
+    "alt": "CC TREATS ORANGE PEEL BUNDLE R36-06",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREATS_ORANGE_PEEL_BUNDLE_R36-06.jpg?v=1790182321",
+    "index": 115,
+    "file": "115_cc-treats-orange-peel-bundle-r36-06.jpg",
+    "size": "4415x4415"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_TREATS_LEMON_PEEL_BUNDLE_R36-07.jpg?v=1790268629",
+    "alt": "Chocolate Covered Lemon Peel three-pack",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_TREATS_LEMON_PEEL_BUNDLE_R36-07.jpg?v=1790268629",
+    "index": 116,
+    "file": "116_cc-treats-lemon-peel-bundle-r36-07.jpg",
+    "size": "1254x1254"
+  },
+  {
+    "src": "//www.charleschocolates.com/cdn/shop/files/CC_Combo_2_the-classic-chocolate-covered-gift-set.jpg?v=1790267583",
+    "alt": "Charles Chocolates Starter Pack, open signature box with four chocolate covered nut bags",
+    "w": 279,
+    "h": 279,
+    "natural": [
+      267,
+      267
+    ],
+    "page": "homepage",
+    "full_src": "https://www.charleschocolates.com/cdn/shop/files/CC_Combo_2_the-classic-chocolate-covered-gift-set.jpg?v=1790267583",
+    "index": 117,
+    "file": "117_cc-combo-2-the-classic-chocolate-covered.jpg",
+    "size": "4094x4094"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0652/4045/files/chocolate-club-cc.jpg?v=1790272686",
+    "alt": "",
+    "w": 1440,
+    "h": 576,
+    "natural": [
+      1280,
+      512
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0652/4045/files/chocolate-club-cc.jpg?v=1790272686",
+    "index": 118,
+    "file": "118_chocolate-club-cc.jpg",
+    "size": "1280x512"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Trio_1_Three_Boxes.jpg?v=1791044640",
+    "alt": "Filled Skulls Trio: Garnet, Dark and Milk Chocolate",
+    "product": "filled-skulls-trio",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Trio_1_Three_Boxes.jpg?v=1791044640",
+    "index": 119,
+    "file": "119_jkc-filledskulls-trio-1-three-boxes.jpg",
+    "size": "1600x1600"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_1_Single_Box_59acd201-35b0-4273-8a49-d06e08080bb5.jpg?v=1791044640",
+    "alt": "Filled Skulls Trio: Garnet, Dark and Milk Chocolate",
+    "product": "filled-skulls-trio",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0652/4045/files/JKC_FilledSkulls_Garnet_1_Single_Box_59acd201-35b0-4273-8a49-d06e08080bb5.jpg?v=1791044640",
+    "index": 120,
+    "file": "120_jkc-filledskulls-garnet-1-single-box-59a.jpg",
+    "size": "1600x1600"
+  }
+]

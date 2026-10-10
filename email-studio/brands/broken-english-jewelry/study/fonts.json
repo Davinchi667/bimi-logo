@@ -1,0 +1,601 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Halant, serif",
+      "family": "Halant",
+      "weight": "400",
+      "sizes": [
+        "31px",
+        "22px"
+      ],
+      "color": "#000308",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Rings to Double-Up On",
+        "Break Out the Bling",
+        "Laura’s Edit: Laid-Back Elegance"
+      ]
+    },
+    "h3": {
+      "family_stack": "\"Open Sans\", sans-serif",
+      "family": "Open Sans",
+      "weight": "500",
+      "sizes": [
+        "15px"
+      ],
+      "color": "#101820",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "uppercase",
+      "radius": null,
+      "samples": [
+        "VENDOR \nPIPPA SMALL",
+        "VENDOR \nPIPPA SMALL",
+        "VENDOR \nPIPPA SMALL"
+      ]
+    },
+    "body": {
+      "family_stack": "\"Open Sans\", sans-serif",
+      "family": "Open Sans",
+      "weight": "400",
+      "sizes": [
+        "16.96px",
+        "16px",
+        "13px"
+      ],
+      "color": "#101820",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Free Ground Shipping + Returns on U.S. orders over $250",
+        "$100 Flat-Fee Shipping on international orders",
+        "Rings to Double-Up On\n\nWe love a healthy stack of rings that span across the han"
+      ]
+    },
+    "button": {
+      "family_stack": "\"Open Sans\", sans-serif",
+      "family": "Open Sans",
+      "weight": "400",
+      "sizes": [
+        "12.72px",
+        "14px",
+        "13.78px"
+      ],
+      "color": "#101820",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": "3px",
+      "samples": [
+        "Press Option+1 for screen-reader mode, Option+0 to cancel\nAccessibility Screen-R",
+        "Search",
+        "Search"
+      ]
+    },
+    "nav": {
+      "family_stack": "\"Open Sans\", sans-serif",
+      "family": "Open Sans",
+      "weight": "400",
+      "sizes": [
+        "13.78px"
+      ],
+      "color": "#101820",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Search",
+        "Laura's Edit",
+        "New Arrivals"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Frutiger Serif",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.shopifycdn.com/frutiger_serif/frutigerserif_n4.7d4db66a4841e4f65e872946647c32bbd32c9b7f.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=0aa8d9a4b6345846665e886cc2fc00f47249c0f78436e774ba6cb41f37f776d1",
+        "https://fonts.shopifycdn.com/frutiger_serif/frutigerserif_n4.54031742a690cbc90a24d9e5faae6620bc149f6b.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=77882d72ffe939debe065b2d7cdc89438a9675b8b40d1856454eddde1aeaf117"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.shopifycdn.com/open_sans/opensans_n4.5460e0463a398b1075386f51084d8aa756bafb17.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=37f3515eee5c64d6053dc56f6bd8a3428ed5cb2c2cd95adaed898822fb2e1f0e",
+        "https://fonts.shopifycdn.com/open_sans/opensans_n4.8512334118d0e9cf94c4626d298dba1c9f12a294.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=eddd785b3d02e4877715f1c93658f9d1a4aab93b84c7e3b4b6ac72a19b22f94d"
+      ]
+    },
+    {
+      "family": "Frutiger Serif",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://fonts.shopifycdn.com/frutiger_serif/frutigerserif_n5.c91dcb6d87b84c0793ced972c8830ed7565b3863.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=22cce41cfc01ea23f179a9a3634d745781326ef678850adf01dcca09ef13d1cc",
+        "https://fonts.shopifycdn.com/frutiger_serif/frutigerserif_n5.424ea6b1427bf12dfc989eb21f5f89441fbd2016.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=d0ff787b20b1b355a861051bd2e723755597e5f5a99bbb17c548503aafb1450a"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.shopifycdn.com/open_sans/opensans_n6.63a74f6cbbfef729fb07955b2d5b4cc83273862e.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=a90ab1af7bcb272c87dba28e58e3153683320f784ca36e985616c03ad7775867",
+        "https://fonts.shopifycdn.com/open_sans/opensans_n6.1c4dde7af5554df3b20e440ca17dc8a316a9e1d0.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=eb9969572211bfe02ac7fbfe8c0f737530d355e2dbf65762dea44df0f7976af8"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://fonts.shopifycdn.com/open_sans/opensans_i4.3854a246d5acf17aab4c771d3d4542818d3a46a8.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=cbd87e8a027a7762102a75d9436287e1300247bba9e40fe8029ee668c7ad2ab5",
+        "https://fonts.shopifycdn.com/open_sans/opensans_i4.1cb364a3d4a7a0305132a25a76ac8fa7d381d3c6.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=f84b37cbeb6cd6fb590cb41058022ebcb98574e3f14b4fc50d55d195d1d03b65"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "style": "italic",
+      "files": [
+        "https://fonts.shopifycdn.com/open_sans/opensans_i6.3c2f244fa87a8349d8ae0b5a10085e371e7fee16.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=88e62b59a639334de6626f47afdff2a5510852c3bff461b624ecc1b5688bd4e3",
+        "https://fonts.shopifycdn.com/open_sans/opensans_i6.1e8aab012f9b827eab6b16d8f48ab8f1a34375b4.woff?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=95bb7c0685ee8e246ed85fcd2fd81be90b3d9408324566f15e22958690929606"
+      ]
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "style": "normal",
+      "files": [
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2",
+        "https://procdn.swymrelay.com/code/v3/swym_fonts.ttf",
+        "https://cdn.shopify.com/extensions/01a1219a-52ea-7aa9-b07f-09eabf4bba5b/swym-relay-848/assets/swym_fonts.svg#icomoon"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "file": "fonts/open-sans-400.woff2",
+      "url": "https://fonts.shopifycdn.com/open_sans/opensans_n4.5460e0463a398b1075386f51084d8aa756bafb17.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=37f3515eee5c64d6053dc56f6bd8a3428ed5cb2c2cd95adaed898822fb2e1f0e"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "file": "fonts/open-sans-600.woff2",
+      "url": "https://fonts.shopifycdn.com/open_sans/opensans_n6.63a74f6cbbfef729fb07955b2d5b4cc83273862e.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=a90ab1af7bcb272c87dba28e58e3153683320f784ca36e985616c03ad7775867"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "file": "fonts/open-sans-400-italic.woff2",
+      "url": "https://fonts.shopifycdn.com/open_sans/opensans_i4.3854a246d5acf17aab4c771d3d4542818d3a46a8.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=cbd87e8a027a7762102a75d9436287e1300247bba9e40fe8029ee668c7ad2ab5"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "file": "fonts/open-sans-600-italic.woff2",
+      "url": "https://fonts.shopifycdn.com/open_sans/opensans_i6.3c2f244fa87a8349d8ae0b5a10085e371e7fee16.woff2?h1=YnJva2VuZW5nbGlzaGpld2VscnkuY29t&hmac=88e62b59a639334de6626f47afdff2a5510852c3bff461b624ecc1b5688bd4e3"
+    },
+    {
+      "family": "swym-font",
+      "weight": "normal",
+      "file": "fonts/swym-font-normal.woff2",
+      "url": "https://procdn.swymrelay.com/code/v3/swym_fonts.woff2"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "31px",
+        "color": "rgb(0, 3, 8)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "37.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 3, 8)",
+        "sample": "Rings to Double-Up On"
+      },
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "31px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "37.2px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Break Out the Bling"
+      },
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "22px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "26.4px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Laura’s Edit: Laid-Back Elegance"
+      },
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "31px",
+        "color": "rgb(0, 3, 8)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "37.2px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 3, 8)",
+        "sample": "Rings to Double-Up On"
+      },
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "31px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "37.2px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Break Out the Bling"
+      },
+      {
+        "family": "Halant, serif",
+        "weight": "400",
+        "size": "22px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "26.4px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Laura’s Edit: Laid-Back Elegance"
+      }
+    ],
+    "h3": [
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "500",
+        "size": "15px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "17.8302px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "VENDOR \nPIPPA SMALL"
+      }
+    ],
+    "body": [
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Free Ground Shipping + Returns on U.S. orders over $250"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "$100 Flat-Fee Shipping on international orders"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "16.96px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27.136px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Rings to Double-Up On\n\nWe love a healthy stack of rings that span across the han"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 3, 8)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "25.6px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 3, 8)",
+        "sample": "We love a healthy stack of rings that span across the hand."
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "16.96px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27.136px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Break Out the Bling\n\nAt Broken English, we strongly believe in wearing your jewe"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "25.6px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "At Broken English, we strongly believe in wearing your jewels - not saving them "
+      }
+    ],
+    "button": [
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "16.96px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27.136px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Press Option+1 for screen-reader mode, Option+0 to cancel\nAccessibility Screen-R"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Search"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Search"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "3px",
+        "border": "2px solid rgb(255, 255, 255)",
+        "sample": "Shop Collection"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "3px",
+        "border": "2px solid rgb(255, 255, 255)",
+        "sample": "Shop Collection"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "3px",
+        "border": "2px solid rgb(255, 255, 255)",
+        "sample": "Shop Now"
+      }
+    ],
+    "nav": [
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Search"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Laura's Edit"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "New Arrivals"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Designers"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Trending"
+      },
+      {
+        "family": "\"Open Sans\", sans-serif",
+        "weight": "400",
+        "size": "13.78px",
+        "color": "rgb(16, 24, 32)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.048px",
+        "radius": "0px",
+        "border": "0px none rgb(16, 24, 32)",
+        "sample": "Charms & Pendants"
+      }
+    ]
+  }
+}

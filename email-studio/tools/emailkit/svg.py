@@ -80,7 +80,7 @@ class Module:
 
 class Group:
     def __init__(self, email: "Email", id: str, x: float = 0, y: float = 0,
-                 opacity: float | None = None, clip: str | None = None, parent: "Group | None" = None):
+                 opacity: float | None = None, clip: str | None = None, parent: "Group | None" = None, rotate: float = 0):
         if not id or not str(id).strip():
             raise ValueError("every group needs a readable id")
         self.email = email
@@ -89,16 +89,17 @@ class Group:
         self.opacity = opacity
         self.clip = clip
         self.parent = parent
+        self.rotate = rotate
         self.children: list[str] = []
 
     # ---- nesting -----------------------------------------------------------
-    def g(self, id: str, x: float = 0, y: float = 0, opacity: float | None = None, clip=None) -> "Group":
+    def g(self, id: str, x: float = 0, y: float = 0, opacity: float | None = None, clip=None, rotate: float = 0) -> "Group":
         """clip: a clipPath id, or a (x, y, w, h) box (local coords) to clip the group to.
         Clipped groups are exempt from the validator's margin rule (tickers, bleeds)."""
         if isinstance(clip, (tuple, list)):
             cx, cy, cw, ch = clip
             clip = self.email._clip(f"M{cx} {cy} H{cx + cw} V{cy + ch} H{cx} Z")
-        child = Group(self.email, id, x, y, opacity, clip, parent=self)
+        child = Group(self.email, id, x, y, opacity, clip, parent=self, rotate=rotate)
         self.children.append(child)   # rendered lazily
         return child
 
@@ -193,6 +194,47 @@ class Group:
         ax = x + (width / 2 if anchor == "middle" else width if anchor == "end" else 0)
         spans = "".join(f"<tspan{_attrs(x=ax, y=y + i * lh)}>{_esc(ln)}</tspan>" for i, ln in enumerate(lines))
         self.raw(f"<text{_attrs(id=id, font_family=family, font_size=size, font_weight=weight, fill=fill, text_anchor=anchor if anchor != 'start' else None, letter_spacing=letter_spacing, font_style=style if style != 'normal' else None, opacity=opacity)}>{spans}</text>")
+        return len(lines) * lh
+
+    def text_runs_block(self, x, y, segments, family, size, width, fill="#000", weight=400, bold_weight=700,
+                        bold_fill=None, line_height=None, anchor="start", id=None, max_lines=None, style="normal") -> float:
+        """Wrapped paragraph with mixed weights: segments = [(text, is_bold), ...].
+        One <text> per line, sibling <tspan>s per run (each with its own x). Returns height used."""
+        lh = line_height or round(size * 1.3)
+        reg = self.email.fonts.get(family, weight, style)
+        bold = self.email.fonts.get(family, bold_weight, style)
+        self.email._check_font(family, weight, style)
+        self.email._check_font(family, bold_weight, style)
+        words = []
+        for seg, b in segments:
+            for w in str(seg).split(" "):
+                if w:
+                    words.append((w, bool(b)))
+        space = reg.width(" ", size)
+        lines, cur, cur_w = [], [], 0.0
+        for w, b in words:
+            ww = (bold if b else reg).width(w, size)
+            trial = cur_w + (space if cur else 0) + ww
+            if trial <= width or not cur:
+                cur.append((w, b)); cur_w = trial
+            else:
+                lines.append(cur); cur, cur_w = [(w, b)], ww
+        if cur:
+            lines.append(cur)
+        if max_lines and len(lines) > max_lines:
+            raise ValueError(f"rich text does not fit in {max_lines} lines: {segments[0][0][:50]!r}")
+        for i, ln in enumerate(lines):
+            runs = []
+            for w, b in ln:
+                ov = {"weight": bold_weight if b else weight, "fill": (bold_fill or fill) if b else fill}
+                if runs and runs[-1][1] == ov:
+                    runs[-1] = (runs[-1][0] + " " + w, ov)
+                else:
+                    if runs:
+                        runs[-1] = (runs[-1][0] + " ", runs[-1][1])
+                    runs.append((w, ov))
+            ax = x + (width / 2 if anchor == "middle" else width if anchor == "end" else 0)
+            self.text(ax, y + i * lh, "", family, size, weight, fill, anchor=anchor, runs=runs, id=id if i == 0 else None)
         return len(lines) * lh
 
     def curved_text(self, cx, cy, r, s, family, size, weight=400, fill="#000", start_deg=-90, letter_spacing=2, id=None, inside=False):
@@ -319,7 +361,10 @@ class Group:
 
     # ---- render --------------------------------------------------------------
     def render(self) -> str:
-        tr = f"translate({_num(self.x)} {_num(self.y)})" if (self.x or self.y) else None
+        tr = f"translate({_num(self.x)} {_num(self.y)})" if (self.x or self.y) else ""
+        if self.rotate:
+            tr = (tr + " " if tr else "") + f"rotate({_num(self.rotate)})"
+        tr = tr or None
         inner = "\n".join(c.render() if isinstance(c, Group) else c for c in self.children)
         return f"<g{_attrs(id=self.id, transform=tr, opacity=self.opacity, clip_path=f'url(#{self.clip})' if self.clip else None)}>\n{inner}\n</g>"
 

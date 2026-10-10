@@ -1,0 +1,98 @@
+{
+  "aggregate": [
+    {
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "name": "product_classic-black-vietnamese-ground-coffee-10oz",
+      "rating": "4.9",
+      "count": "627",
+      "how": "printed text"
+    },
+    {
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "name": "product_the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "rating": "5.0",
+      "count": "11",
+      "how": "printed text"
+    }
+  ],
+  "quotes": [
+    {
+      "widget": ".oke-w-review",
+      "text": "We learned about Copper Cow Coffee at an upscale bed & breakfast in Monterey, California a few years ago while vacationing with family. The lovely gentleman in charge of the nighttime lobby kept bragging they stocked our rooms with “the best coffee you’ll ever enjoy.” I found out he was right!! I don’t like strong coffee and its mild and easy flavor is just perfect for me. It’s just swell to finally find the perfect blend for me…",
+      "name": "Carolyn J. M.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "product": "Classic Black Ground Coffee - 10oz"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Been purchasing from Cooper Cow consistently for probably two years or so. I get the classic and my wife loves the churro. Great product, great company.",
+      "name": "Ken M.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "product": "Classic Black Ground Coffee - 10oz"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "This was a gift to a family member who wanted to try a different type of coffee. He loved it.",
+      "name": "Alice H. E.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "product": "Classic Black Ground Coffee - 10oz"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Got for my friend and shared my own with people at work. Great flavors. Easy to make. I use my office water dispenser. It has hot water. Really delicious and a great energy boost.",
+      "name": "Kristyn P.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "product": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "I got this as a present for my mom's birthday who loves coffee and she loved this kit.",
+      "name": "Daniel G.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "product": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "This is some of the best tasting and smoothest coffee, and super convenient! Love that the mug comes with measurements to make the perfect cup!",
+      "name": "Whitney W.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "product": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Ok so I love this coffee. It’s quite pricey but I think that’s because it’s the real deal. Strange to think the less chems and the less ingredients the higher the cost, yet it is this way more often than not! Ok so, I can’t do coffee, it attacks my guts. Causing many issues for me. I have heard a variety of reasons why this could be. It has not been something I wanted to deep dive to find a good coffee so I haven’t! Until this!! This coffee doesn’t upset my stomach at all. Not even slightly !! It’s wonderful!! I’ve tried almost all the flavors, they are delicious and not one of them have upset",
+      "name": "Elizabeth R.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "product": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "I got this as a gift and loved it! Ordered more coffee after trying it!",
+      "name": "Monica A.",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://coppercowcoffee.com/products/the-perfect-pour-gift-set-includes-1-mug-1-5ct-best-seller-coffee-pour-over",
+      "product": "The Perfect Pour Gift Set (1 Mug + 1 5ct Best Brews)"
+    }
+  ],
+  "count_mentions": [
+    {
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "text": "627 Reviews"
+    },
+    {
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "text": "627 reviews"
+    },
+    {
+      "source": "https://coppercowcoffee.com/products/classic-black-vietnamese-ground-coffee-10oz",
+      "text": "627 reviews"
+    }
+  ]
+}

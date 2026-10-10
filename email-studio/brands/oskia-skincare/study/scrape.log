@@ -1,0 +1,24 @@
+11:27:17 brand=oskia-skincare base=https://www.oskiaskincare.com -> /home/user/bimi-logo/email-studio/brands/oskia-skincare/study
+11:27:18 products: 86
+11:27:34 popup captured, closed 9 control(s)
+11:27:52 fonts: roles={'h1': None, 'h2': 'Suranna', 'h3': 'Montserrat', 'body': 'Montserrat', 'button': 'Montserrat', 'nav': 'Montserrat'} faces=14 files=14
+11:27:53 logos: 1, favicon: https://www.oskiaskincare.com/cdn/shop/files/stayy.png?crop=center&height=32&v=1697765312&width=32
+11:27:55 homepage captured
+11:28:04 page about: https://www.oskiaskincare.com/pages/about-us (7572 chars)
+11:28:09 page faq: https://www.oskiaskincare.com/pages/faqs (1773 chars)
+11:28:18 page reviews: https://www.oskiaskincare.com/# (4024 chars)
+11:28:28 page ingredients: https://www.oskiaskincare.com/pages/ingredients (73805 chars)
+11:28:34 product autumn-trio: 0 review quotes
+11:28:40 product micro-exfoliating-balm-50ml: 0 review quotes
+11:28:47 product adaptive-tan-mist-100ml: 0 review quotes
+11:28:49   image https://www.oskiaskincare.com/cdn/shop/files/delcar_400x.svg?v=1693543836 skipped: cannot identify image file <_io.BytesIO object at 0x7fc92f95
+11:28:49   image https://www.oskiaskincare.com/cdn/shop/files/comp_400x.svg?v=1693543859 skipped: cannot identify image file <_io.BytesIO object at 0x7fc92fac
+11:28:49   image https://www.oskiaskincare.com/cdn/shop/files/therr_400x.svg?v=1693543881 skipped: cannot identify image file <_io.BytesIO object at 0x7fc92fa8
+11:28:55   image https://www.oskiaskincare.com/cdn/shop/files/Starburst-04_400x.svg?v=1695293419 skipped: cannot identify image file <_io.BytesIO object at 0x7fc92fac
+11:29:30   image https://instafeed.nfcube.com/assets/img/instagram-icon-v2.svg skipped: cannot identify image file <_io.BytesIO object at 0x7fc939d2
+11:29:35   image https://cdn.shopify.com/s/files/1/0801/4151/7122/files/delcar_400x.svg?v=1693543836 skipped: cannot identify image file <_io.BytesIO object at 0x7fc93a7f
+11:29:35   image https://cdn.shopify.com/s/files/1/0801/4151/7122/files/comp_400x.svg?v=1693543859 skipped: cannot identify image file <_io.BytesIO object at 0x7fc939d2
+11:29:35   image https://cdn.shopify.com/s/files/1/0801/4151/7122/files/therr_400x.svg?v=1693543881 skipped: cannot identify image file <_io.BytesIO object at 0x7fc92fa8
+11:29:36   image https://instafeed.nfcube.com/assets/img/icons-new/pause-solid-full.svg skipped: cannot identify image file <_io.BytesIO object at 0x7fc92f67
+11:29:36   image https://instafeed.nfcube.com/assets/img/icons-new/sound-on.svg skipped: cannot identify image file <_io.BytesIO object at 0x7fc92fa8
+11:30:13 images: 110 downloaded, 3 contact sheet(s)

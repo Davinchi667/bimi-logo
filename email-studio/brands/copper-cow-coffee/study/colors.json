@@ -1,0 +1,124 @@
+{
+  "body": {
+    "bg": "#F9F6E7",
+    "color": "#1C1D1D"
+  },
+  "header": {
+    "bg": null,
+    "color": "#1C1D1D"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "link": {
+    "bg": null,
+    "color": "#1C1D1D"
+  },
+  "sections": [
+    {
+      "bg": "#004E42",
+      "color": "#1C1D1D",
+      "tag": "DIV",
+      "class": "shopify-section index-section subscriptions-slider"
+    },
+    {
+      "bg": "#F9F6E7",
+      "color": "#1C1D1D",
+      "tag": "DIV",
+      "class": "shopify-section ratings-and-press"
+    }
+  ],
+  "buttons": [
+    {
+      "bg": "#FFFFFF",
+      "color": "#01BF6E",
+      "radius": "24px",
+      "border": "2px solid rgb(234, 186, 198)",
+      "sample": "BESTSELLER\nBUILD YOUR BUNDLE"
+    },
+    {
+      "bg": "#03BF6F",
+      "color": "#FFFFFF",
+      "radius": "40px",
+      "border": "1px solid rgba(0, 0, 0, 0)",
+      "sample": "TRY SNICKERDOODLE"
+    },
+    {
+      "bg": null,
+      "color": "#1C1D1D",
+      "radius": "0px",
+      "border": "0px none rgb(28, 29, 29)",
+      "sample": "Subscribe and Save 15%"
+    },
+    {
+      "bg": null,
+      "color": "#1C1D1D",
+      "radius": "0px",
+      "border": "0px none rgb(28, 29, 29)",
+      "sample": "Subscribe and Save 15%"
+    },
+    {
+      "bg": null,
+      "color": "#1C1D1D",
+      "radius": "0px",
+      "border": "0px none rgb(28, 29, 29)",
+      "sample": "Subscribe and Save 15%"
+    },
+    {
+      "bg": "#00BF6F",
+      "color": "#FFFFFF",
+      "radius": "100px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Previous subscription product\n←"
+    },
+    {
+      "bg": "#00BF6F",
+      "color": "#FFFFFF",
+      "radius": "100px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Next subscription product\n→"
+    },
+    {
+      "bg": "#00BF6F",
+      "color": "#FFFFFF",
+      "radius": "100px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Previous press item\n←"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#004E42",
+      "share": 0.345
+    },
+    {
+      "hex": "#EAE9BE",
+      "share": 0.335
+    },
+    {
+      "hex": "#18C37C",
+      "share": 0.203
+    },
+    {
+      "hex": "#989589",
+      "share": 0.06
+    },
+    {
+      "hex": "#004E41",
+      "share": 0.021
+    },
+    {
+      "hex": "#3F3733",
+      "share": 0.019
+    },
+    {
+      "hex": "#004E48",
+      "share": 0.011
+    },
+    {
+      "hex": "#009E64",
+      "share": 0.006
+    }
+  ]
+}

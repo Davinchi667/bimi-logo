@@ -126,3 +126,28 @@ def wave(x0: float, x1: float, y: float, length: float = 40, amp: float = 6) -> 
         d.append(f"Q{sx + lw / 4:.2f} {y - amp:.2f} {sx + lw / 2:.2f} {y:.2f}")
         d.append(f"Q{sx + 3 * lw / 4:.2f} {y + amp:.2f} {sx + lw:.2f} {y:.2f}")
     return " ".join(d)
+
+
+def drop(cx: float, cy: float, r: float) -> str:
+    """Coffee-drop / teardrop marker centred on (cx, cy) with a round belly of radius r."""
+    return (f"M{cx:.2f} {cy - r * 1.7:.2f} C{cx + r * 0.9:.2f} {cy - r * 0.5:.2f} {cx + r:.2f} {cy - r * 0.1:.2f} {cx + r:.2f} {cy + r * 0.2:.2f} "
+            f"A{r:.2f} {r:.2f} 0 1 1 {cx - r:.2f} {cy + r * 0.2:.2f} C{cx - r:.2f} {cy - r * 0.1:.2f} {cx - r * 0.9:.2f} {cy - r * 0.5:.2f} {cx:.2f} {cy - r * 1.7:.2f} Z")
+
+
+def paperclip(x: float, y: float, h: float, w: float = 14) -> str:
+    """Paper clip outline (stroke it, round caps), top-left at (x, y), height h."""
+    r = w / 2
+    ri = r * 0.5
+    return (f"M{x + r:.2f} {y + h - 6:.2f} V{y + r:.2f} A{r:.2f} {r:.2f} 0 0 1 {x + w - r + r:.2f} {y + r:.2f} "
+            f"V{y + h - r:.2f} A{r:.2f} {r:.2f} 0 0 1 {x + r:.2f} {y + h - r:.2f} V{y + r * 2:.2f} "
+            f"A{ri:.2f} {ri:.2f} 0 0 1 {x + r + ri * 2:.2f} {y + r * 2:.2f} V{y + h - r * 2.2:.2f}")
+
+
+def binder_clip(cx: float, y: float, w: float = 64, h: float = 18) -> str:
+    """Binder clip body (fill) sitting on the sheet's top edge, centred at cx."""
+    x = cx - w / 2
+    return (f"M{x:.2f} {y + h:.2f} V{y + 4:.2f} A4 4 0 0 1 {x + 4:.2f} {y:.2f} H{x + w - 4:.2f} A4 4 0 0 1 {x + w:.2f} {y + 4:.2f} V{y + h:.2f} Z")
+
+
+def staple(x: float, y: float, w: float = 12, h: float = 5) -> str:
+    return f"M{x:.2f} {y + h:.2f} V{y:.2f} H{x + w:.2f} V{y + h:.2f}"

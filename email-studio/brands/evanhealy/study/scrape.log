@@ -1,0 +1,16 @@
+11:32:45 brand=evanhealy base=https://evanhealy.com -> /home/user/bimi-logo/email-studio/brands/evanhealy/study
+11:32:47 products: 284
+11:32:56 popup captured, closed 2 control(s)
+11:33:17 fonts: roles={'h1': 'Cochin', 'h2': 'Cochin', 'h3': 'Cochin', 'body': 'proxima-nova', 'button': 'proxima-nova', 'nav': 'Cochin'} faces=23 files=23
+11:33:18 logos: 1, favicon: https://www.evanhealy.com/cdn/shop/files/evanhealy-favicon_d755da96-e12b-43d3-959d-60663d472971_32x32.jpg?v=1661281633
+11:33:20 homepage captured
+11:33:37 page about: https://www.evanhealy.com/pages/about (4823 chars)
+11:33:42 page faq: https://www.evanhealy.com/pages/faq (4281 chars)
+11:33:47 page press: https://www.evanhealy.com/pages/press (3762 chars)
+11:33:54 product autumn-skin-ritual: 5 review quotes
+11:33:59 product salon-sea-algae-serum-1oz: 0 review quotes
+11:34:04 product garden-hydrosoul-sample-10-pack-5-ml: 0 review quotes
+11:34:05   image https://www.evanhealy.com/cdn/shop/t/527/assets/canada-flag-icon.svg?v=69031712887341690791791309236 skipped: cannot identify image file <_io.BytesIO object at 0x7f79115f
+11:34:32   image https://www.evanhealy.com/cdn/shop/files/ROC-seal-260Height_only.svg?v=1761694906 skipped: cannot identify image file <_io.BytesIO object at 0x7f79112f
+11:34:33   image https://www.evanhealy.com/cdn/shop/files/usda-organic_260_x_260.svg?v=1761694906 skipped: cannot identify image file <_io.BytesIO object at 0x7f79108c
+11:35:17 images: 117 downloaded, 3 contact sheet(s)

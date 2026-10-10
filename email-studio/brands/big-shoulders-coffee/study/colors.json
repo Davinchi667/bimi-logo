@@ -1,0 +1,111 @@
+{
+  "body": {
+    "bg": "#FFFFFF",
+    "color": "#121212"
+  },
+  "header": {
+    "bg": null,
+    "color": "#121212"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#121212"
+  },
+  "link": {
+    "bg": "#121212",
+    "color": "#FFFFFF"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": "#121212",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Skip to content"
+    },
+    {
+      "bg": null,
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgba(255, 255, 255, 0.9)",
+      "sample": "SHOP ALL COFFEE"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "SHOP ALL COFFEE"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "QUICK ADD"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "QUICK ADD"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "QUICK ADD"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "QUICK ADD"
+    },
+    {
+      "bg": "#F68B1E",
+      "color": "#FFFFFF",
+      "radius": "5px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "QUICK ADD"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FCF7F3",
+      "share": 0.192
+    },
+    {
+      "hex": "#421E17",
+      "share": 0.16
+    },
+    {
+      "hex": "#FFFFFE",
+      "share": 0.155
+    },
+    {
+      "hex": "#201B1A",
+      "share": 0.128
+    },
+    {
+      "hex": "#BFA26A",
+      "share": 0.12
+    },
+    {
+      "hex": "#DFDCDA",
+      "share": 0.104
+    },
+    {
+      "hex": "#494E3D",
+      "share": 0.072
+    },
+    {
+      "hex": "#F9F6F2",
+      "share": 0.069
+    }
+  ]
+}

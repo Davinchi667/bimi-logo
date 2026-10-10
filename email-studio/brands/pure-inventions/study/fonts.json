@@ -1,0 +1,592 @@
+{
+  "roles": {
+    "h1": {
+      "family_stack": "\"Noto Sans\", sans-serif",
+      "family": "Noto Sans",
+      "weight": "400",
+      "sizes": [
+        "48px"
+      ],
+      "color": "#362E29",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Wellness Begins with Better Hydration"
+      ]
+    },
+    "h2": {
+      "family_stack": "\"Noto Sans\", sans-serif",
+      "family": "Noto Sans",
+      "weight": "400",
+      "sizes": [
+        "40px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Hydration with Benefits",
+        "Why Once You Drop In, You’ll Never Drop Out.",
+        "Our Promise: Be Pure In Our Inventions And In Our Intentions."
+      ]
+    },
+    "h3": null,
+    "body": {
+      "family_stack": "Roboto, sans-serif",
+      "family": "Roboto",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "14px",
+        "24px"
+      ],
+      "color": "#5E5854",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Shop By Flavor",
+        "Shop By Benefits",
+        "Collections"
+      ]
+    },
+    "button": {
+      "family_stack": "Roboto, sans-serif",
+      "family": "Roboto",
+      "weight": "600",
+      "sizes": [
+        "16px",
+        "14px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": "8px",
+      "samples": [
+        "Submit",
+        "Sign In",
+        "Shop By Flavor"
+      ]
+    },
+    "nav": {
+      "family_stack": "Roboto, sans-serif",
+      "family": "Roboto",
+      "weight": "400",
+      "sizes": [
+        "14px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Sign In",
+        "My Cart",
+        "Subscribe & Save"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_n4.2019d890f07b1852f56ce63ba45b2db45d852cba.woff2",
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_n4.238690e0007583582327135619c5f7971652fa9d.woff"
+      ]
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_n7.f38007a10afbbde8976c4056bfe890710d51dec2.woff2",
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_n7.94bfdd3e80c7be00e128703d245c207769d763f9.woff"
+      ]
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_i4.57ce898ccda22ee84f49e6b57ae302250655e2d4.woff2",
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_i4.b21f3bd061cbcb83b824ae8c7671a82587b264bf.woff"
+      ]
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_i7.7ccaf9410746f2c53340607c42c43f90a9005937.woff2",
+        "https://pureinventions.com/cdn/fonts/roboto/roboto_i7.49ec21cdd7148292bffea74c62c0df6e93551516.woff"
+      ]
+    },
+    {
+      "family": "stamped-font",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi#iefix",
+        "https://cdn1.stamped.io/fonts/stamped-font.ttf?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.woff?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.svg?rkevfi#stamped-font"
+      ]
+    },
+    {
+      "family": "Quicksand",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58m-wjwxUD2GF9Zc.woff2"
+      ]
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://fonts.gstatic.com/s/notosans/v42/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce2V3SyEldxrO-96OU.woff2"
+      ]
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu3mhPy1Fig.woff2"
+      ]
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu3mhPy1Fig.woff2"
+      ]
+    },
+    {
+      "family": "slick",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://pureinventions.com/cdn/shop/t/20/assets/slick.eot",
+        "https://pureinventions.com/cdn/shop/t/20/assets/slick.eot#iefix",
+        "https://pureinventions.com/cdn/shop/t/20/assets/slick.woff",
+        "https://pureinventions.com/cdn/shop/t/20/assets/slick.ttf",
+        "https://pureinventions.com/cdn/shop/t/20/assets/slick.svg#slick"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "file": "fonts/roboto-400.woff2",
+      "url": "https://pureinventions.com/cdn/fonts/roboto/roboto_n4.2019d890f07b1852f56ce63ba45b2db45d852cba.woff2"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "file": "fonts/roboto-700.woff2",
+      "url": "https://pureinventions.com/cdn/fonts/roboto/roboto_n7.f38007a10afbbde8976c4056bfe890710d51dec2.woff2"
+    },
+    {
+      "family": "Roboto",
+      "weight": "400",
+      "file": "fonts/roboto-400-italic.woff2",
+      "url": "https://pureinventions.com/cdn/fonts/roboto/roboto_i4.57ce898ccda22ee84f49e6b57ae302250655e2d4.woff2"
+    },
+    {
+      "family": "Roboto",
+      "weight": "700",
+      "file": "fonts/roboto-700-italic.woff2",
+      "url": "https://pureinventions.com/cdn/fonts/roboto/roboto_i7.7ccaf9410746f2c53340607c42c43f90a9005937.woff2"
+    },
+    {
+      "family": "stamped-font",
+      "weight": "400",
+      "file": "fonts/stamped-font-400.eot",
+      "url": "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi"
+    },
+    {
+      "family": "Quicksand",
+      "weight": "400",
+      "file": "fonts/quicksand-400.woff2",
+      "url": "https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58m-wjwxUD2GF9Zc.woff2"
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "400",
+      "file": "fonts/noto-sans-400-italic.woff2",
+      "url": "https://fonts.gstatic.com/s/notosans/v42/o-0kIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevHtVtX57DGjDU1QDce2V3SyEldxrO-96OU.woff2"
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "400",
+      "file": "fonts/noto-sans-400.woff2",
+      "url": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu3mhPy1Fig.woff2"
+    },
+    {
+      "family": "Noto Sans",
+      "weight": "700",
+      "file": "fonts/noto-sans-700.woff2",
+      "url": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5aPdu3mhPy1Fig.woff2"
+    },
+    {
+      "family": "slick",
+      "weight": "400",
+      "file": "fonts/slick-400.eot",
+      "url": "https://pureinventions.com/cdn/shop/t/20/assets/slick.eot"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "file": "fonts/open-sans-400.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "file": "fonts/open-sans-600.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    }
+  ],
+  "raw_samples": {
+    "h1": [
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "48px",
+        "color": "rgb(54, 46, 41)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "56.0016px",
+        "radius": "0px",
+        "border": "0px none rgb(54, 46, 41)",
+        "sample": "Wellness Begins with Better Hydration"
+      }
+    ],
+    "h2": [
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Hydration with Benefits"
+      },
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Why Once You Drop In, You’ll Never Drop Out."
+      },
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Our Promise: Be Pure In Our Inventions And In Our Intentions."
+      },
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Choose Your Pure Benefits"
+      },
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Reviews and Testimonials"
+      },
+      {
+        "family": "\"Noto Sans\", sans-serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "48px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Featured in Spectacular Spas, Resorts, Fitness and Wellness Centers"
+      }
+    ],
+    "h3": [],
+    "body": [
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Shop By Flavor"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Shop By Benefits"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Collections"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Subscribe & Save"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Wholesale Interest"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "24px",
+        "color": "rgb(54, 46, 41)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "31.9992px",
+        "radius": "0px",
+        "border": "0px none rgb(54, 46, 41)",
+        "sample": "Shop Now!"
+      }
+    ],
+    "button": [
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Submit"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "600",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(90, 166, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "8px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Sign In"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop By Flavor"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop By Benefits"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Collections"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "600",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(90, 166, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "8px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop Now!"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "600",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(90, 166, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "8px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Sign In"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "My Cart"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Subscribe & Save"
+      },
+      {
+        "family": "Roboto, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "21px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Wholesale Interest"
+      }
+    ]
+  }
+}

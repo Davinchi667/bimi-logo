@@ -1,0 +1,18 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://www.oskiaskincare.com/cdn/shop/files/new_logo.svg?v=1706870525&width=90",
+      "alt": "OSKIA",
+      "w": 190,
+      "h": 105.296875,
+      "hint": "oskia header__heading-logo motion-reduce //www.oskiaskincare.com/cdn/shop/files/new_logo.svg?v=1706870525&width=600 header__heading-link link link--text focus-inset",
+      "where": "div",
+      "tone": "dark",
+      "file": "logos/logo_01_div_dark-marks.svg"
+    }
+  ],
+  "favicons": [
+    "https://www.oskiaskincare.com/cdn/shop/files/stayy.png?crop=center&height=32&v=1697765312&width=32"
+  ]
+}

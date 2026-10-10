@@ -1,0 +1,588 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Canela-Thin-Web, sans-serif",
+      "family": "Canela-Thin-Web",
+      "weight": "400",
+      "sizes": [
+        "35px",
+        "41.3px",
+        "61.775px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Trick or Treat Yourself",
+        "New Arrivals",
+        "Wellness products that create joyful moments for the happiest you."
+      ]
+    },
+    "h3": null,
+    "body": {
+      "family_stack": "CircularXXWeb-Book, sans-serif",
+      "family": "CircularXXWeb-Book",
+      "weight": "400",
+      "sizes": [
+        "18px"
+      ],
+      "color": "#333333",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Discover",
+        "Bath",
+        "Shower"
+      ]
+    },
+    "button": {
+      "family_stack": "CircularXXWeb-Book, sans-serif",
+      "family": "CircularXXWeb-Book",
+      "weight": "400",
+      "sizes": [
+        "18px",
+        "15.75px"
+      ],
+      "color": "#333333",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": "0px",
+      "samples": [
+        "United States (USD $)",
+        "Ghost Boxed Bath Balm\n$12.00",
+        "SHOP NOW"
+      ]
+    },
+    "nav": {
+      "family_stack": "CircularXXWeb-Book, sans-serif",
+      "family": "CircularXXWeb-Book",
+      "weight": "400",
+      "sizes": [
+        "18px"
+      ],
+      "color": "#333333",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "0",
+        "Discover",
+        "Bath"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/poppins/poppins_n5.ad5b4b72b59a00358afc706450c864c3c8323842.woff2",
+        "https://www.museebath.com/cdn/fonts/poppins/poppins_n5.33757fdf985af2d24b32fcd84c9a09224d4b2c39.woff"
+      ]
+    },
+    {
+      "family": "DM Sans",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2",
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n7.af5c214f5116410ca1d53a2090665620e78e2e1b.woff"
+      ]
+    },
+    {
+      "family": "DM Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n4.ec80bd4dd7e1a334c969c265873491ae56018d72.woff2",
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n4.87bdd914d8a61247b911147ae68e754d695c58a6.woff"
+      ]
+    },
+    {
+      "family": "DM Sans",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i4.b8fe05e69ee95d5a53155c346957d8cbf5081c1a.woff2",
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i4.403fe28ee2ea63e142575c0aa47684d65f8c23a0.woff"
+      ]
+    },
+    {
+      "family": "DM Sans",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i7.52b57f7d7342eb7255084623d98ab83fd96e7f9b.woff2",
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i7.d5e14ef18a1d4a8ce78a4187580b4eb1759c2eda.woff"
+      ]
+    },
+    {
+      "family": "DM Sans",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2",
+        "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n5.9ad2e755a89e15b3d6c53259daad5fc9609888e6.woff"
+      ]
+    },
+    {
+      "family": "stamped-font",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi#iefix",
+        "https://cdn1.stamped.io/fonts/stamped-font.ttf?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.woff?rkevfi",
+        "https://cdn1.stamped.io/fonts/stamped-font.svg?rkevfi#stamped-font"
+      ]
+    },
+    {
+      "family": "Canela-Medium-Web",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/shop/files/Canela-Medium-Web.woff2?v=3988718778787333801"
+      ]
+    },
+    {
+      "family": "Canela-Thin-Web",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/shop/files/Canela-Thin-Web.woff2?v=9231011210617344774"
+      ]
+    },
+    {
+      "family": "Canela-Bold-Web",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/shop/files/Canela-Bold-Web.woff2?v=2971017377516209231"
+      ]
+    },
+    {
+      "family": "CircularXXWeb-Book",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.museebath.com/cdn/shop/files/CircularXXWeb-Book.woff2?v=12471314861564032701"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "file": "fonts/poppins-500.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/poppins/poppins_n5.ad5b4b72b59a00358afc706450c864c3c8323842.woff2"
+    },
+    {
+      "family": "DM Sans",
+      "weight": "700",
+      "file": "fonts/dm-sans-700.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2"
+    },
+    {
+      "family": "DM Sans",
+      "weight": "400",
+      "file": "fonts/dm-sans-400.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n4.ec80bd4dd7e1a334c969c265873491ae56018d72.woff2"
+    },
+    {
+      "family": "DM Sans",
+      "weight": "400",
+      "file": "fonts/dm-sans-400-italic.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i4.b8fe05e69ee95d5a53155c346957d8cbf5081c1a.woff2"
+    },
+    {
+      "family": "DM Sans",
+      "weight": "700",
+      "file": "fonts/dm-sans-700-italic.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_i7.52b57f7d7342eb7255084623d98ab83fd96e7f9b.woff2"
+    },
+    {
+      "family": "DM Sans",
+      "weight": "500",
+      "file": "fonts/dm-sans-500.woff2",
+      "url": "https://www.museebath.com/cdn/fonts/dm_sans/dmsans_n5.8a0f1984c77eb7186ceb87c4da2173ff65eb012e.woff2"
+    },
+    {
+      "family": "stamped-font",
+      "weight": "400",
+      "file": "fonts/stamped-font-400.eot",
+      "url": "https://cdn1.stamped.io/fonts/stamped-font.eot?rkevfi"
+    },
+    {
+      "family": "Canela-Medium-Web",
+      "weight": "400",
+      "file": "fonts/canela-medium-web-400.woff2",
+      "url": "https://www.museebath.com/cdn/shop/files/Canela-Medium-Web.woff2?v=3988718778787333801"
+    },
+    {
+      "family": "Canela-Thin-Web",
+      "weight": "400",
+      "file": "fonts/canela-thin-web-400.woff2",
+      "url": "https://www.museebath.com/cdn/shop/files/Canela-Thin-Web.woff2?v=9231011210617344774"
+    },
+    {
+      "family": "Canela-Bold-Web",
+      "weight": "400",
+      "file": "fonts/canela-bold-web-400.woff2",
+      "url": "https://www.museebath.com/cdn/shop/files/Canela-Bold-Web.woff2?v=2971017377516209231"
+    },
+    {
+      "family": "CircularXXWeb-Book",
+      "weight": "400",
+      "file": "fonts/circularxxweb-book-400.woff2",
+      "url": "https://www.museebath.com/cdn/shop/files/CircularXXWeb-Book.woff2?v=12471314861564032701"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "file": "fonts/open-sans-400.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "file": "fonts/open-sans-600.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "61.775px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "98.84px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Trick or Treat Yourself"
+      },
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "35px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "56px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "New Arrivals"
+      },
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "35px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "56px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Wellness products that create joyful moments for the happiest you."
+      },
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "35px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "56px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Featured In"
+      },
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "41.3px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "66.08px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Originals Collection"
+      },
+      {
+        "family": "Canela-Thin-Web, sans-serif",
+        "weight": "400",
+        "size": "41.3px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "66.08px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Therapy Collection"
+      }
+    ],
+    "h3": [],
+    "body": [
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Discover"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Bath"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Shower"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Lifestyle"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Collections"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "27px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Gifts"
+      }
+    ],
+    "button": [
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "15.75px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.05px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "United States (USD $)"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Ghost Boxed Bath Balm\n$12.00"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgb(255, 123, 167)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "20px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "SHOP NOW"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgb(255, 123, 167)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "25.2px",
+        "radius": "20px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "SIGN UP"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "15.75px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "22.05px",
+        "radius": "0px",
+        "border": "1px solid rgb(51, 51, 51)",
+        "sample": "United States (USD $)"
+      }
+    ],
+    "nav": [
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "0"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Discover"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Bath"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Shower"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Lifestyle"
+      },
+      {
+        "family": "CircularXXWeb-Book, sans-serif",
+        "weight": "400",
+        "size": "18px",
+        "color": "rgb(51, 51, 51)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgb(51, 51, 51)",
+        "sample": "Collections"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+11:29:47 brand=pure-inventions base=https://pureinventions.com -> /home/user/bimi-logo/email-studio/brands/pure-inventions/study
+11:29:47 products: 36
+11:30:04 fonts: roles={'h1': 'Noto Sans', 'h2': 'Noto Sans', 'h3': None, 'body': 'Roboto', 'button': 'Roboto', 'nav': 'Roboto'} faces=12 files=12
+11:30:04 logos: 2, favicon: https://pureinventions.com/cdn/shop/files/pureinventions-favicon_32x32.png?v=1618346008
+11:30:06 homepage captured
+11:30:15 page about: https://pureinventions.com/pages/about-us (2664 chars)
+11:30:20 page faq: https://pureinventions.com/pages/frequently-asked-questions (2802 chars)
+11:30:28 page reviews: https://pureinventions.com/pages/testimonials (3641 chars)
+11:30:33 page ingredients: https://pureinventions.com/pages/pure-benefits (3393 chars)
+11:30:38 product mini-electrolyte-bundle-trio-lemon-lime-watermelon-coconut-water-12-servings-each-travel-bag-copy: 0 review quotes
+11:30:43 product deluxe-travel-size-electrolyte-bundle-trio-lemon-lime-watermelon-coconut-water-12-servings-each-travel-bag-copy: 0 review quotes
+11:30:48 product vitamin-c-electrolytes-black-cherry-family-size-500-servings: 0 review quotes
+11:30:49   GET failed //pureinventions.com/cdn/shop/files/Model_-_blonde_-_holding_A_coconut_-_sipping_from_straw_-_bright_blue_background_4_{width}x.jpg?v=1766598968: Invalid URL '//pureinventions.com/cdn/shop/files/Model_-_blonde_-_holding_A_coconut_-_sipping_from_straw_-_bright_blue_background_4_{width}x.jpg?v=1766598968': No scheme supplied. Perhaps you meant https:////pureinventions.com/cdn/shop/files/Model_-_blonde_-_holding_A_coconut_-_sipping_from_straw_-_bright_blue_background_4_{width}x.jpg?v=1766598968?
+11:30:58   image https://cdn1.stamped.io/cdn/images/shopify_verified-by-shop-gray.svg skipped: cannot identify image file <_io.BytesIO object at 0x7f277ecd
+11:31:07   image https://pureinventions.com/cdn/shop/t/20/assets/ico-select.svg?v=29003672709104678581752782272 skipped: cannot identify image file <_io.BytesIO object at 0x7f277f18
+11:31:56 images: 116 downloaded, 3 contact sheet(s)

@@ -1,0 +1,630 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Fatura_display",
+      "family": "Fatura_display",
+      "weight": "600",
+      "sizes": [
+        "48px",
+        "60.8px",
+        "25.6px"
+      ],
+      "color": "#121212",
+      "bg": null,
+      "letter_spacing": "0.72px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "No Nonsense Artisan Coffee Crafted In Chicago",
+        "Seasonal Coffee",
+        "Oscar Henao - Red Honey"
+      ]
+    },
+    "h3": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "600",
+      "sizes": [
+        "17.92px",
+        "21.12px",
+        "14.4px"
+      ],
+      "color": "#121212",
+      "bg": null,
+      "letter_spacing": "0.3584px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Seasonal Roasters Choice Subscription",
+        "Costa Rica Las Lajas - Black Honey",
+        "Kenya - Karatu SL-28"
+      ]
+    },
+    "body": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "300",
+      "sizes": [
+        "16px",
+        "19.2px",
+        "15.6px"
+      ],
+      "color": "#FFFFFF",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Facebook",
+        "Instagram",
+        "YouTube"
+      ]
+    },
+    "button": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "300",
+      "sizes": [
+        "16px",
+        "15px",
+        "18.24px"
+      ],
+      "color": "#FFFFFF",
+      "bg": "#F68B1E",
+      "letter_spacing": "1px",
+      "transform": "none",
+      "radius": "5px",
+      "samples": [
+        "Skip to content",
+        "SHOP ALL COFFEE",
+        "SHOP ALL COFFEE"
+      ]
+    },
+    "nav": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "700",
+      "sizes": [
+        "17.28px",
+        "14px"
+      ],
+      "color": "#121212",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Subscriptions",
+        "Locations",
+        "Contact"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n3.05f58335c3209cce17da4f1f1ab324ebe2982441.woff2",
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n3.6971368e1f131d2c8ff8e3a44a36b577fdda3ff5.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2",
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n7.f34f55d9b3d3205d2cd6f64955ff4b36f0cfd8da.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "italic",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i3.8536b4423050219f608e17f134fe9ea3b01ed890.woff2",
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i3.0f4433ada196bcabf726ed78f8e37e0995762f7f.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i7.42fd71da11e9d101e1e6c7932199f925f9eea42d.woff2",
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i7.ec8499dbd7616004e21155106d13837fff4cf556.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n6.aa29d4918bc243723d56b59572e18228ed0786f6.woff2",
+        "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n6.5f815d845fe073750885d5b7e619ee00e8111208.woff"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+      ]
+    },
+    {
+      "family": "Fatura_display",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://bigshoulderscoffee.com/cdn/shop/files/Futura_Display.woff2?v=1752416252",
+        "https://bigshoulderscoffee.com/cdn/shop/files/Futura_Display.woff?v=1752417005"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "file": "fonts/poppins-300.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n3.05f58335c3209cce17da4f1f1ab324ebe2982441.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "file": "fonts/poppins-700.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "file": "fonts/poppins-300-italic.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i3.8536b4423050219f608e17f134fe9ea3b01ed890.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "file": "fonts/poppins-700-italic.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_i7.42fd71da11e9d101e1e6c7932199f925f9eea42d.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "file": "fonts/poppins-600.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/fonts/poppins/poppins_n6.aa29d4918bc243723d56b59572e18228ed0786f6.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "file": "fonts/gtstandard-m-450.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "file": "fonts/gtstandard-m-500.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "file": "fonts/gtstandard-m-600.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+    },
+    {
+      "family": "Fatura_display",
+      "weight": "400",
+      "file": "fonts/fatura-display-400.woff2",
+      "url": "https://bigshoulderscoffee.com/cdn/shop/files/Futura_Display.woff2?v=1752416252"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Fatura_display",
+        "weight": "200",
+        "size": "60.8px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "65.664px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "No Nonsense Artisan Coffee Crafted In Chicago"
+      },
+      {
+        "family": "Fatura_display",
+        "weight": "600",
+        "size": "48px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "60px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Seasonal Coffee"
+      },
+      {
+        "family": "Fatura_display",
+        "weight": "600",
+        "size": "44.8px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "56px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Oscar Henao - Red Honey"
+      },
+      {
+        "family": "Fatura_display",
+        "weight": "600",
+        "size": "44.8px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "56px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Meet Our Head Roaster"
+      },
+      {
+        "family": "Fatura_display",
+        "weight": "600",
+        "size": "48px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "60px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Year Round Coffee"
+      },
+      {
+        "family": "Fatura_display",
+        "weight": "600",
+        "size": "48px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "60px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Best Sellers"
+      }
+    ],
+    "h3": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "17.92px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.3584px",
+        "transform": "none",
+        "lineHeight": "23.6544px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Seasonal Roasters Choice Subscription"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "17.92px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.3584px",
+        "transform": "none",
+        "lineHeight": "23.6544px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Costa Rica Las Lajas - Black Honey"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "17.92px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.3584px",
+        "transform": "none",
+        "lineHeight": "23.6544px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Kenya - Karatu SL-28"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "17.92px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.3584px",
+        "transform": "none",
+        "lineHeight": "23.6544px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Honduras Finca Adolfo - Anaerobic Natural"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "17.92px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.3584px",
+        "transform": "none",
+        "lineHeight": "23.6544px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "El Salvador - Santa Ana Balam Washed"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "21.12px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "26.4px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Colombia"
+      }
+    ],
+    "body": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 255, 255, 0.9)",
+        "sample": "Facebook"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 255, 255, 0.9)",
+        "sample": "Instagram"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 255, 255, 0.9)",
+        "sample": "YouTube"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 255, 255, 0.9)",
+        "sample": "TikTok"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "15.6px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "New Monthly Drop Available Now"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgba(18, 18, 18, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(18, 18, 18, 0.9)",
+        "sample": "Shop"
+      }
+    ],
+    "button": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(18, 18, 18)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "18px",
+        "radius": "5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Skip to content"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgba(255, 255, 255, 0.9)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 255, 255, 0.9)",
+        "sample": "SHOP ALL COFFEE"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "700",
+        "size": "19.2px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(246, 139, 30)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "23.04px",
+        "radius": "5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "SHOP ALL COFFEE"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(246, 139, 30)",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "lineHeight": "19.2px",
+        "radius": "5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "QUICK ADD"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(246, 139, 30)",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "lineHeight": "19.2px",
+        "radius": "5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "QUICK ADD"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(246, 139, 30)",
+        "letterSpacing": "1px",
+        "transform": "uppercase",
+        "lineHeight": "19.2px",
+        "radius": "5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "QUICK ADD"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "700",
+        "size": "17.28px",
+        "color": "rgba(18, 18, 18, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgba(18, 18, 18, 0.75)",
+        "sample": "Subscriptions"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "700",
+        "size": "17.28px",
+        "color": "rgba(18, 18, 18, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgba(18, 18, 18, 0.75)",
+        "sample": "Locations"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "700",
+        "size": "17.28px",
+        "color": "rgba(18, 18, 18, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "22.464px",
+        "radius": "0px",
+        "border": "0px none rgba(18, 18, 18, 0.75)",
+        "sample": "Contact"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "14px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Log in"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "14px",
+        "color": "rgb(18, 18, 18)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(18, 18, 18)",
+        "sample": "Cart"
+      }
+    ]
+  }
+}

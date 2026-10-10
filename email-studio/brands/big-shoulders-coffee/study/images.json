@@ -1,0 +1,912 @@
+[
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/collections/Manos.jpg?v=1713799051",
+    "alt": "All Coffee",
+    "w": 320,
+    "h": 320,
+    "natural": [
+      1300,
+      1300
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/collections/Manos.jpg?v=1713799051",
+    "index": 1,
+    "file": "001_manos.jpg",
+    "size": "3059x3059"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-Colombia-Apr142026.png?v=1776261643&width=300",
+    "alt": "Colombia",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-Colombia-Apr142026.png?v=1776261643",
+    "index": 2,
+    "file": "002_bscwebtile-colombia-apr142026.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebEthiopiaKoseGeshaGCA.png?v=1789762059&width=300",
+    "alt": "Ethiopia Natural",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebEthiopiaKoseGeshaGCA.png?v=1789762059",
+    "index": 3,
+    "file": "003_bscwebethiopiakosegeshagca.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Web_Graphics_NIGHT_SHIFT.png?v=1759856718&width=300",
+    "alt": "Night Shift",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      0,
+      0
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Web_Graphics_NIGHT_SHIFT.png?v=1759856718",
+    "index": 4,
+    "file": "004_bsc-web-graphics-night-shift.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Single_Line_with_Drip.png?v=1760383450&width=600",
+    "alt": "Big Shoulders Coffee",
+    "w": 222,
+    "h": 27,
+    "natural": [
+      300,
+      37
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Single_Line_with_Drip.png?v=1760383450",
+    "index": 5,
+    "file": "005_bsc-logotype-single-line-with-drip.png",
+    "size": "2263x276"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Hero.png?v=1749494200&width=800",
+    "alt": "",
+    "w": 518,
+    "h": 518,
+    "natural": [
+      800,
+      800
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Hero.png?v=1749494200",
+    "index": 6,
+    "file": "006_big-shoulders-coffee-hero.png",
+    "size": "850x850"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-Seasonal_eb9c6281-e2c7-4192-9981-8cd6a64a17bb.png?v=1782756991",
+    "alt": "Text description of a seasonal roasters choice coffee subscription ",
+    "w": 250,
+    "h": 250,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-Seasonal_eb9c6281-e2c7-4192-9981-8cd6a64a17bb.png?v=1782756991",
+    "index": 7,
+    "file": "007_bscwebtile-seasonal-eb9c6281-e2c7-4192-9.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebTileCostaRicaLasLajasBlackHoneyGCA.png?v=1789762274",
+    "alt": "Costa Rica Las Lajas - Black Honey",
+    "w": 250,
+    "h": 250,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebTileCostaRicaLasLajasBlackHoneyGCA.png?v=1789762274",
+    "index": 8,
+    "file": "008_bscwebtilecostaricalaslajasblackhoneygca.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-KenyaSL28Washed.png?v=1777994204",
+    "alt": "Text description of Kenya SL28 Washed coffee on a purple background",
+    "w": 250,
+    "h": 250,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebTile-KenyaSL28Washed.png?v=1777994204",
+    "index": 9,
+    "file": "009_bscwebtile-kenyasl28washed.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebhonduras_84063a04-5d0d-4575-a042-9833559c3df8.png?v=1787664711",
+    "alt": "Honduras Finca Adolfo - Anaerobic Natural",
+    "w": 250,
+    "h": 250,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebhonduras_84063a04-5d0d-4575-a042-9833559c3df8.png?v=1787664711",
+    "index": 10,
+    "file": "010_bscwebhonduras-84063a04-5d0d-4575-a042-9.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebElSalvador.png?v=1791472127",
+    "alt": "El Salvador - Santa Ana Balam Washed",
+    "w": 250,
+    "h": 250,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebElSalvador.png?v=1791472127",
+    "index": 11,
+    "file": "011_bscwebelsalvador.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/WEBTILE-OscarHenaoRedhoney.png?v=1790096040&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 650,
+    "natural": [
+      650,
+      650
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/WEBTILE-OscarHenaoRedhoney.png?v=1790096040",
+    "index": 12,
+    "file": "012_webtile-oscarhenaoredhoney.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/IMG_3881.jpg?v=1739394854&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 867,
+    "natural": [
+      650,
+      866
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/IMG_3881.jpg?v=1739394854",
+    "index": 13,
+    "file": "013_img-3881.jpg",
+    "size": "3357x4476"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSCWebGraphics_1848ESPRESSO.png?v=1759856645",
+    "alt": "1848",
+    "w": 425,
+    "h": 425,
+    "natural": [
+      317,
+      317
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSCWebGraphics_1848ESPRESSO.png?v=1759856645",
+    "index": 14,
+    "file": "014_bscwebgraphics-1848espresso.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebEthiopiaKoseGeshaGCA_720x720.png?v=1789762059",
+    "alt": "Ethiopia Natural",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebEthiopiaKoseGeshaGCA.png?v=1789762059",
+    "index": 15,
+    "file": "015_bscwebethiopiakosegeshagca.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSPinkBerries-2_720x720.jpg?v=1755875140",
+    "alt": "Cloza Farm Pacamara “Don Clodoveo",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSPinkBerries-2.jpg?v=1755875140",
+    "index": 16,
+    "file": "016_bspinkberries-2.jpg",
+    "size": "2047x2048"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Ecuador_30855_1_720x720.jpg?v=1743310834",
+    "alt": "Tropical Splash Coconut Co Ferment",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Ecuador_30855_1.jpg?v=1743310834",
+    "index": 17,
+    "file": "017_ecuador-30855-1.jpg",
+    "size": "750x750"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSC_Web_Graphics_NIGHT_SHIFT_720x720.png?v=1759856718",
+    "alt": "Night Shift",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      719
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSC_Web_Graphics_NIGHT_SHIFT.png?v=1759856718",
+    "index": 18,
+    "file": "018_bsc-web-graphics-night-shift.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_1848ESPRESSO_720x720.png?v=1759856645",
+    "alt": "1848",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      719
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_1848ESPRESSO.png?v=1759856645",
+    "index": 19,
+    "file": "019_bscwebgraphics-1848espresso.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_BOLDSLUGGER_720x720.png?v=1759856606",
+    "alt": "Bold Slugger",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      719
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_BOLDSLUGGER.png?v=1759856606",
+    "index": 20,
+    "file": "020_bscwebgraphics-boldslugger.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_MANOSDEMUJER_720x720.png?v=1759856433",
+    "alt": "Colombia Manos De Mujer",
+    "w": 407,
+    "h": 360,
+    "natural": [
+      720,
+      720
+    ],
+    "page": "homepage",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_MANOSDEMUJER.png?v=1759856433",
+    "index": 21,
+    "file": "021_bscwebgraphics-manosdemujer.png",
+    "size": "1042x1042"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/21_BSC_Subsciption_4802_Green_99318cf8-43cb-4fc8-aab3-128c534cbdab.jpg?v=1709126438&width=800",
+    "alt": "",
+    "w": 650,
+    "h": 650,
+    "natural": [
+      800,
+      800
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/21_BSC_Subsciption_4802_Green_99318cf8-43cb-4fc8-aab3-128c534cbdab.jpg?v=1709126438",
+    "index": 22,
+    "file": "022_21-bsc-subsciption-4802-green-99318cf8-4.jpg",
+    "size": "1000x1000"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/products/21_BSC_Subsciption_4802_ColorEdit_RoyalBlue.jpg?v=1698779308&width=800",
+    "alt": "",
+    "w": 650,
+    "h": 650,
+    "natural": [
+      800,
+      800
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/products/21_BSC_Subsciption_4802_ColorEdit_RoyalBlue.jpg?v=1698779308",
+    "index": 23,
+    "file": "023_21-bsc-subsciption-4802-coloredit-royalb.jpg",
+    "size": "1000x1000"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/products/cold_brew_w_badge.jpg?crop=center&height=360&v=1698779200&width=360",
+    "alt": "",
+    "w": 180,
+    "h": 180,
+    "natural": [
+      360,
+      360
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/products/cold_brew_w_badge.jpg?crop=center&&v=1698779200",
+    "index": 24,
+    "file": "024_cold-brew-w-badge.jpg",
+    "size": "750x750"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/Miirteeback.jpg?crop=center&height=360&v=1733847793&width=360",
+    "alt": "",
+    "w": 180,
+    "h": 180,
+    "natural": [
+      360,
+      360
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Miirteeback.jpg?crop=center&&v=1733847793",
+    "index": 25,
+    "file": "025_miirteeback.jpg",
+    "size": "4284x4284"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Left_Justified_-_White.png?v=1760383450&width=1100",
+    "alt": "",
+    "w": 0,
+    "h": 0,
+    "natural": [
+      1439,
+      797
+    ],
+    "page": "homepage",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/BSC_Logotype_-_Left_Justified_-_White.png?v=1760383450",
+    "index": 26,
+    "file": "026_bsc-logotype-left-justified-white.png",
+    "size": "1930x1068"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_About_Us_Hero.jpg?v=1750701426&width=3600",
+    "alt": "",
+    "w": 1728,
+    "h": 504,
+    "natural": [
+      1728,
+      1069
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_About_Us_Hero.jpg?v=1750701426",
+    "index": 27,
+    "file": "027_big-shoulders-coffee-about-us-hero.jpg",
+    "size": "1999x1237"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Backstory.jpg?v=1750701814&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 510,
+    "natural": [
+      650,
+      487
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Backstory.jpg?v=1750701814",
+    "index": 28,
+    "file": "028_big-shoulders-coffee-backstory.jpg",
+    "size": "1500x1124"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Sustainably_Sourced.jpg?v=1750701979&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 460,
+    "natural": [
+      650,
+      866
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Sustainably_Sourced.jpg?v=1750701979",
+    "index": 29,
+    "file": "029_big-shoulders-coffee-sustainably-sourced.jpg",
+    "size": "768x1024"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_In_The_Cafe.jpg?v=1750702109&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 460,
+    "natural": [
+      650,
+      487
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_In_The_Cafe.jpg?v=1750702109",
+    "index": 30,
+    "file": "030_big-shoulders-coffee-in-the-cafe.jpg",
+    "size": "2300x1723"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Chicago.png?v=1750702221&width=1500",
+    "alt": "",
+    "w": 650,
+    "h": 460,
+    "natural": [
+      650,
+      486
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Chicago.png?v=1750702221",
+    "index": 31,
+    "file": "031_big-shoulders-coffee-chicago.png",
+    "size": "1440x1077"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Co_Founder_-_Patricia_Coonan.jpg?v=1750362888&width=1500",
+    "alt": "",
+    "w": 425,
+    "h": 645,
+    "natural": [
+      650,
+      867
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_Co_Founder_-_Patricia_Coonan.jpg?v=1750362888",
+    "index": 32,
+    "file": "032_big-shoulders-coffee-co-founder-patricia.jpg",
+    "size": "1000x1334"
+  },
+  {
+    "src": "//bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_Tim_in_the_farm.jpg?v=1750702702&width=1500",
+    "alt": "",
+    "w": 425,
+    "h": 756,
+    "natural": [
+      650,
+      1155
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_Tim_in_the_farm.jpg?v=1750702702",
+    "index": 33,
+    "file": "033_big-shoulders-coffee-tim-in-the-farm.jpg",
+    "size": "900x1600"
+  },
+  {
+    "src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_Coffee_Con.jpg?v=1750695453&width=1600",
+    "alt": " ",
+    "w": 1728,
+    "h": 780,
+    "natural": [
+      1600,
+      1067
+    ],
+    "page": "about",
+    "full_src": "https://bigshoulderscoffee.com/cdn/shop/files/Big_Shoulders_Coffee_-_Coffee_Con.jpg?v=1750695453",
+    "index": 35,
+    "file": "035_big-shoulders-coffee-coffee-con.jpg",
+    "size": "2500x1667"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebElSalvador.png?v=1791472127",
+    "alt": "El Salvador - Santa Ana Balam Washed",
+    "product": "el-salvador-santa-ana-balam-washed",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebElSalvador.png?v=1791472127",
+    "index": 36,
+    "file": "036_bscwebelsalvador.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WEBTILE-OscarHenaoRedhoney.png?v=1790096040",
+    "alt": "El Carmelo Reserve",
+    "product": "el-carmelo-reserve",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WEBTILE-OscarHenaoRedhoney.png?v=1790096040",
+    "index": 37,
+    "file": "037_webtile-oscarhenaoredhoney.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BlackBSCT-Shirt.png?v=1790189077",
+    "alt": "Big Shoulders Logo Tee",
+    "product": "big-shoulders-logo-tee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BlackBSCT-Shirt.png?v=1790189077",
+    "index": 38,
+    "file": "038_blackbsct-shirt.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MerchSchlitzTote.png?v=1790187508",
+    "alt": "Famous Tote",
+    "product": "famous-tote",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MerchSchlitzTote.png?v=1790187508",
+    "index": 39,
+    "file": "039_merchschlitztote.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSC_Schlitz_T-shirt_Back.png?v=1790186291",
+    "alt": "Famous Tee",
+    "product": "famous-tee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSC_Schlitz_T-shirt_Back.png?v=1790186291",
+    "index": 40,
+    "file": "040_bsc-schlitz-t-shirt-back.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCSchlitzT-shirt.png?v=1790186233",
+    "alt": "Famous Tee",
+    "product": "famous-tee",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCSchlitzT-shirt.png?v=1790186233",
+    "index": 41,
+    "file": "041_bscschlitzt-shirt.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Mirr_Straw_Tumbler.png?v=1790185908",
+    "alt": "Miir Tumbler - 20oz",
+    "product": "miir-tumbler-20oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Mirr_Straw_Tumbler.png?v=1790185908",
+    "index": 42,
+    "file": "042_mirr-straw-tumbler.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MirrStrawTumblerFull.png?v=1790185895",
+    "alt": "Miir Tumbler - 20oz",
+    "product": "miir-tumbler-20oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MirrStrawTumblerFull.png?v=1790185895",
+    "index": 43,
+    "file": "043_mirrstrawtumblerfull.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MiirWaterBottle33oz.png?v=1790181245",
+    "alt": "Miir Water Bottle - 33oz",
+    "product": "miir-water-bottle-33oz",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/MiirWaterBottle33oz.png?v=1790181245",
+    "index": 44,
+    "file": "044_miirwaterbottle33oz.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WheatStrawCup.png?v=1790180522",
+    "alt": "Wheat Straw Keep Cup",
+    "product": "wheat-straw-keep-cup",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WheatStrawCup.png?v=1790180522",
+    "index": 45,
+    "file": "045_wheatstrawcup.png",
+    "size": "1254x1254"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileColombiaTabiWashed_07c28200-fa76-44ee-a8a4-4b0119f9ff19.png?v=1779816066",
+    "alt": "Colombia - Tabi Washed",
+    "product": "tabi",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileColombiaTabiWashed_07c28200-fa76-44ee-a8a4-4b0119f9ff19.png?v=1779816066",
+    "index": 46,
+    "file": "046_bscwebtilecolombiatabiwashed-07c28200-fa.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/ColombiaPinkBourbon_30777_1.jpg?v=1722648699",
+    "alt": "Panama Natural Red Bourbon",
+    "product": "panama-natural-red-bourbon",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/ColombiaPinkBourbon_30777_1.jpg?v=1722648699",
+    "index": 47,
+    "file": "047_colombiapinkbourbon-30777-1.jpg",
+    "size": "750x750"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-GuatemalaHighlandsBlend_adf6bcf5-51e7-4c14-82a4-f5b57b2c32c7.png?v=1777386255",
+    "alt": "Guatemala",
+    "product": "guatemala",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-GuatemalaHighlandsBlend_adf6bcf5-51e7-4c14-82a4-f5b57b2c32c7.png?v=1777386255",
+    "index": 48,
+    "file": "048_bscwebtile-guatemalahighlandsblend-adf6b.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WEBTILE-WiltonBenitez.png?v=1788199759",
+    "alt": "Wilton Benitez - Thermal Shock Red Bourbon",
+    "product": "wilton-benitez-thermal-shock-red-bourbon-1",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WEBTILE-WiltonBenitez.png?v=1788199759",
+    "index": 49,
+    "file": "049_webtile-wiltonbenitez.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebhonduras_84063a04-5d0d-4575-a042-9833559c3df8.png?v=1787664711",
+    "alt": "Honduras Finca Adolfo - Anaerobic Natural",
+    "product": "honduras",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebhonduras_84063a04-5d0d-4575-a042-9833559c3df8.png?v=1787664711",
+    "index": 50,
+    "file": "050_bscwebhonduras-84063a04-5d0d-4575-a042-9.png",
+    "size": "2086x2086"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WebTile-CostaRicaWH_37a22b4a-763b-4155-9648-9ca732f22107.png?v=1785789796",
+    "alt": "Costa Rica - SL-28 White Honey",
+    "product": "costa-rica-sl-28-white-honey",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/WebTile-CostaRicaWH_37a22b4a-763b-4155-9648-9ca732f22107.png?v=1785789796",
+    "index": 51,
+    "file": "051_webtile-costaricawh-37a22b4a-763b-4155-9.png",
+    "size": "2000x2000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_WILDERLAZO96pt.png?v=1764627906",
+    "alt": "Wilder Lazo-Pink Bourbon-60 Hour Anaerobic Honey",
+    "product": "wilder-lazo-pink-bourbon-60-hour-anaerobic-honey",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_WILDERLAZO96pt.png?v=1764627906",
+    "index": 52,
+    "file": "052_bscwebgraphics-wilderlazo96pt.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Wilder_Lazo_1.png?v=1764866864",
+    "alt": "Wilder Lazo-Pink Bourbon-60 Hour Anaerobic Honey",
+    "product": "wilder-lazo-pink-bourbon-60-hour-anaerobic-honey",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Wilder_Lazo_1.png?v=1764866864",
+    "index": 53,
+    "file": "053_wilder-lazo-1.png",
+    "size": "1975x1472"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileFincaBellaAlejandraGeisha.png?v=1779803159",
+    "alt": "Finca Bella Alejandria - Geisha",
+    "product": "bella-alejandria",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileFincaBellaAlejandraGeisha.png?v=1779803159",
+    "index": 54,
+    "file": "054_bscwebtilefincabellaalejandrageisha.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Wilder_Lazzo.jpg?v=1779992476",
+    "alt": "Finca Bella Alejandria - Geisha",
+    "product": "bella-alejandria",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Wilder_Lazzo.jpg?v=1779992476",
+    "index": 55,
+    "file": "055_wilder-lazzo.jpg",
+    "size": "3265x4898"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Finca_Bella.jpg?v=1779992443",
+    "alt": "Finca Bella Alejandria - Geisha",
+    "product": "bella-alejandria",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Finca_Bella.jpg?v=1779992443",
+    "index": 56,
+    "file": "056_finca-bella.jpg",
+    "size": "1264x948"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Sebastian_Ramirez_Pink_Bourbon.png?v=1770139873",
+    "alt": "Sebastian Ramirez - Pink Bourbon",
+    "product": "sebastian-ramirez-pink-bourbon",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Sebastian_Ramirez_Pink_Bourbon.png?v=1770139873",
+    "index": 57,
+    "file": "057_sebastian-ramirez-pink-bourbon.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCLabelWebTiles-Mar272026_Myanmar.png?v=1775146170",
+    "alt": "Myanmar-SL-28 Natural",
+    "product": "myanmar",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCLabelWebTiles-Mar272026_Myanmar.png?v=1775146170",
+    "index": 58,
+    "file": "058_bsclabelwebtiles-mar272026-myanmar.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-ElYolomboChirosoColombia.png?v=1777472740",
+    "alt": "El Yolombo Chiroso - Colombia",
+    "product": "el-yolombo-chiroso-colombia",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-ElYolomboChirosoColombia.png?v=1777472740",
+    "index": 59,
+    "file": "059_bscwebtile-elyolombochirosocolombia.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_JORGEROJAS_94ce460d-83f8-4022-b8f8-ad8e79d6b1d0.png?v=1762882544",
+    "alt": "Jorge Rojas - Chiroso Natural",
+    "product": "jorge-rojas-chiroso-natural",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_JORGEROJAS_94ce460d-83f8-4022-b8f8-ad8e79d6b1d0.png?v=1762882544",
+    "index": 60,
+    "file": "060_bscwebgraphics-jorgerojas-94ce460d-83f8-.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCLabelWebGraphic-Buku-Redo.png?v=1775495674",
+    "alt": "Buku Able Anaerobic-Guji, Ethiopia",
+    "product": "buku-able-anaerobic-guji-ethiopia",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCLabelWebGraphic-Buku-Redo.png?v=1775495674",
+    "index": 61,
+    "file": "061_bsclabelwebgraphic-buku-redo.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-Seasonal_eb9c6281-e2c7-4192-9981-8cd6a64a17bb.png?v=1782756991",
+    "alt": "Seasonal Roasters Choice Subscription",
+    "product": "seasonal-roasters-choice-subscription",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-Seasonal_eb9c6281-e2c7-4192-9981-8cd6a64a17bb.png?v=1782756991",
+    "index": 62,
+    "file": "062_bscwebtile-seasonal-eb9c6281-e2c7-4192-9.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileWestJava-SundaCoucal.png?v=1781878272",
+    "alt": "West Java-Sunda Coucal",
+    "product": "west-java-sunda-coucal",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileWestJava-SundaCoucal.png?v=1781878272",
+    "index": 63,
+    "file": "063_bscwebtilewestjava-sundacoucal.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/West_Java_-_Sunda_Coucal-Resized.png?v=1783179540",
+    "alt": "West Java-Sunda Coucal",
+    "product": "west-java-sunda-coucal",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/West_Java_-_Sunda_Coucal-Resized.png?v=1783179540",
+    "index": 64,
+    "file": "064_west-java-sunda-coucal-resized.png",
+    "size": "2500x1876"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileCostaRicaLasLajasBlackHoneyGCA.png?v=1789762274",
+    "alt": "Costa Rica Las Lajas - Black Honey",
+    "product": "costa-rica-las-lajas-black-honey",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTileCostaRicaLasLajasBlackHoneyGCA.png?v=1789762274",
+    "index": 65,
+    "file": "065_bscwebtilecostaricalaslajasblackhoneygca.png",
+    "size": "2084x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/miirbottle2.jpg?v=1714074451",
+    "alt": "Miir Hydration Bottle",
+    "product": "miir-water-bottle",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/miirbottle2.jpg?v=1714074451",
+    "index": 66,
+    "file": "066_miirbottle2.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/miirbottle3.jpg?v=1714074947",
+    "alt": "Miir Hydration Bottle",
+    "product": "miir-water-bottle",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/miirbottle3.jpg?v=1714074947",
+    "index": 67,
+    "file": "067_miirbottle3.jpg",
+    "size": "3000x3000"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Miircloseup.jpg?v=1714160871",
+    "alt": "Miir Hydration Bottle",
+    "product": "miir-water-bottle",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/Miircloseup.jpg?v=1714160871",
+    "index": 68,
+    "file": "068_miircloseup.jpg",
+    "size": "2168x2168"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-KenyaSL28Washed.png?v=1777994204",
+    "alt": "Kenya - Karatu SL-28",
+    "product": "kenya-karatu-sl-28",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-KenyaSL28Washed.png?v=1777994204",
+    "index": 69,
+    "file": "069_bscwebtile-kenyasl28washed.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-Colombia-Apr142026.png?v=1776261643",
+    "alt": "Colombia",
+    "product": "colombia-popayan-reserve",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebTile-Colombia-Apr142026.png?v=1776261643",
+    "index": 70,
+    "file": "070_bscwebtile-colombia-apr142026.png",
+    "size": "2085x2084"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/DinerMug.jpg?v=1714669972",
+    "alt": "Diner Mug",
+    "product": "diner-mug",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/DinerMug.jpg?v=1714669972",
+    "index": 71,
+    "file": "071_dinermug.jpg",
+    "size": "1500x1500"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_LAKESTREETESPRESSO_e8453b65-9faa-498f-ba96-2ce1922e1b31.png?v=1759856519",
+    "alt": "Lake Street Espresso",
+    "product": "lake-street-copy",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_LAKESTREETESPRESSO_e8453b65-9faa-498f-ba96-2ce1922e1b31.png?v=1759856519",
+    "index": 72,
+    "file": "072_bscwebgraphics-lakestreetespresso-e8453b.png",
+    "size": "1042x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_DECAF.png?v=1759856470",
+    "alt": "DECAF-Palo Rosa",
+    "product": "decaf-mwp-lima-sp-sub",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/BSCWebGraphics_DECAF.png?v=1759856470",
+    "index": 73,
+    "file": "073_bscwebgraphics-decaf.png",
+    "size": "1043x1042"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/IMG_3103.jpg?v=1759856718",
+    "alt": "Night Shift",
+    "product": "night-shift",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/IMG_3103.jpg?v=1759856718",
+    "index": 74,
+    "file": "074_img-3103.jpg",
+    "size": "2850x2850"
+  },
+  {
+    "src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/giftcard.jpg?v=1714670757",
+    "alt": "Web Store Gift Card",
+    "product": "gift-card",
+    "page": "products.json",
+    "full_src": "https://cdn.shopify.com/s/files/1/0605/2469/1549/files/giftcard.jpg?v=1714670757",
+    "index": 75,
+    "file": "075_giftcard.jpg",
+    "size": "1500x1500"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "logos": [
+    {
+      "kind": "img",
+      "src": "https://brokenenglishjewelry.com/cdn/shop/files/Broken_English_Logo_Black_8178f53b-7d24-459a-923c-597bbd964228_500x.png?v=1778610407",
+      "alt": "Broken English Jewelry",
+      "w": 260,
+      "h": 26,
+      "hint": "broken english jewelry header__heading-logo //brokenenglishjewelry.com/cdn/shop/files/broken_english_logo_black_8178f53b-7d24-459a-923c-597bbd964228_500x.png?v=1778610407 header__heading-link link link--text focus-inset",
+      "where": "body",
+      "tone": "dark",
+      "file": "logos/logo_01_body_dark-marks.png"
+    },
+    {
+      "kind": "img",
+      "src": "https://d3k81ch9hvuctc.cloudfront.net/company/TkJyZx/images/b90ecc35-fe2b-499d-a833-2a34bc138378.png",
+      "alt": "BE Logo",
+      "w": 0,
+      "h": 0,
+      "hint": "be logo needsclick go3402896282 go1466145428 kl-private-reset-css-xuajs1 https://d3k81ch9hvuctc.cloudfront.net/company/tkjyzx/images/b90ecc35-fe2b-499d-a833-2a34bc138378.png ",
+      "where": "body",
+      "tone": "dark",
+      "file": "logos/logo_02_body_dark-marks.png"
+    }
+  ],
+  "favicons": [
+    "https://brokenenglishjewelry.com/cdn/shop/files/BEMonogram_BLK_TRANS_BG_2x_fd958710-08f0-4ec9-b674-0030471d0943_32x32.png?v=1641505556",
+    "https://brokenenglishjewelry.com/cdn/shop/files/BEMonogram_BLK_TRANS_BG_2x_fd958710-08f0-4ec9-b674-0030471d0943_32x32.png?v=1641505556",
+    "https://brokenenglishjewelry.com/cdn/shop/files/BEMonogram_BLK_TRANS_BG_2x_fd958710-08f0-4ec9-b674-0030471d0943_192x192.png?v=1641505556"
+  ]
+}

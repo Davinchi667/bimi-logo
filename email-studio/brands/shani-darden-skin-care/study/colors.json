@@ -1,0 +1,111 @@
+{
+  "body": {
+    "bg": "#FFFFFF",
+    "color": "#4A474A"
+  },
+  "header": {
+    "bg": "#FFFFFF",
+    "color": "#4A474A"
+  },
+  "footer": {
+    "bg": "#FFFFFF",
+    "color": "#4A474A"
+  },
+  "link": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "SEARCH"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "SHOP RESCUE SERUM"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nTRIPLE ACID SIGNATURE PEEL"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nSAKE NOURISHING ESSENCE"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nFACIAL SCULPTING WAND™"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nSHANI DARDEN BY DÉESSE PRO LED LIGHT MASK"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nRETINOL REFORM WITH 1% ENCAPSULATED RETINOL"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "1px solid rgb(0, 0, 0)",
+      "sample": "ADD TO BAG\nRESCUE SERUM"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FFFFFF",
+      "share": 0.317
+    },
+    {
+      "hex": "#F4F4F6",
+      "share": 0.145
+    },
+    {
+      "hex": "#C4BDB5",
+      "share": 0.143
+    },
+    {
+      "hex": "#E0DFDB",
+      "share": 0.123
+    },
+    {
+      "hex": "#312319",
+      "share": 0.115
+    },
+    {
+      "hex": "#9E8D7C",
+      "share": 0.094
+    },
+    {
+      "hex": "#EEEFEF",
+      "share": 0.05
+    },
+    {
+      "hex": "#FFFFFC",
+      "share": 0.013
+    }
+  ]
+}

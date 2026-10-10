@@ -1,0 +1,130 @@
+{
+  "body": {
+    "bg": "#F5F2ED",
+    "color": "#000000"
+  },
+  "header": {
+    "bg": null,
+    "color": "#FFFFFF"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#000000"
+  },
+  "link": {
+    "bg": "#000000",
+    "color": "#FFFFFF"
+  },
+  "sections": [
+    {
+      "bg": "#EAE2D5",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "shopify-section logos-section"
+    },
+    {
+      "bg": "#FFFFFF",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "rebuy-cart__flyout"
+    },
+    {
+      "bg": "#000000",
+      "color": "#000000",
+      "tag": "DIV",
+      "class": "rebuy-cart__background"
+    }
+  ],
+  "buttons": [
+    {
+      "bg": "#F5F2ED",
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "SKIP TO CONTENT\nQuestions?\nRewards\nFree Skin Consultation\n\nShop HydroSoul refill"
+    },
+    {
+      "bg": "#121212",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "SKIP TO CONTENT"
+    },
+    {
+      "bg": "#000000",
+      "color": "#FFFFFF",
+      "radius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "SHOP NOW"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "DRY"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "",
+      "sample": "DRY"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "COMBINATION"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "",
+      "sample": "COMBINATION"
+    },
+    {
+      "bg": null,
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "SENSITIVE"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#F5F2ED",
+      "share": 0.294
+    },
+    {
+      "hex": "#FBFAFA",
+      "share": 0.176
+    },
+    {
+      "hex": "#E6DCCB",
+      "share": 0.176
+    },
+    {
+      "hex": "#443D36",
+      "share": 0.117
+    },
+    {
+      "hex": "#999084",
+      "share": 0.106
+    },
+    {
+      "hex": "#D0CDC4",
+      "share": 0.073
+    },
+    {
+      "hex": "#EDEDE6",
+      "share": 0.052
+    },
+    {
+      "hex": "#EEEEEF",
+      "share": 0.005
+    }
+  ]
+}

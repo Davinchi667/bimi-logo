@@ -1,0 +1,111 @@
+{
+  "body": {
+    "bg": "#FFF8EB",
+    "color": "#523F38"
+  },
+  "header": {
+    "bg": null,
+    "color": "#523F38"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#523F38"
+  },
+  "link": {
+    "bg": "#49A7CC",
+    "color": "#F2EFDD"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": "#49A7CC",
+      "color": "#F2EFDD",
+      "radius": "42px",
+      "border": "0px none rgb(242, 239, 221)",
+      "sample": "Skip to content"
+    },
+    {
+      "bg": null,
+      "color": "#FFF8EB",
+      "radius": "0px",
+      "border": "0px none rgba(255, 248, 235, 0.75)",
+      "sample": "Shop the Skulls"
+    },
+    {
+      "bg": "#F96719",
+      "color": "#FFFFFF",
+      "radius": "42px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Shop the Skulls"
+    },
+    {
+      "bg": "#2C7999",
+      "color": "#FFFFFF",
+      "radius": "50px",
+      "border": "0px none rgb(255, 255, 255)",
+      "sample": "Mix your three"
+    },
+    {
+      "bg": "#FFF8EB",
+      "color": "#502419",
+      "radius": "42px",
+      "border": "0px none rgb(80, 36, 25)",
+      "sample": "Add to cart"
+    },
+    {
+      "bg": "#FFF8EB",
+      "color": "#502419",
+      "radius": "42px",
+      "border": "0px none rgb(80, 36, 25)",
+      "sample": "Add to cart"
+    },
+    {
+      "bg": "#FFF8EB",
+      "color": "#502419",
+      "radius": "42px",
+      "border": "0px none rgb(80, 36, 25)",
+      "sample": "Choose options"
+    },
+    {
+      "bg": "#FFF8EB",
+      "color": "#502419",
+      "radius": "42px",
+      "border": "0px none rgb(80, 36, 25)",
+      "sample": "Add to cart"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#FFF8EB",
+      "share": 0.44
+    },
+    {
+      "hex": "#615046",
+      "share": 0.202
+    },
+    {
+      "hex": "#DEDEDA",
+      "share": 0.136
+    },
+    {
+      "hex": "#F7F2EB",
+      "share": 0.104
+    },
+    {
+      "hex": "#FAF9FA",
+      "share": 0.077
+    },
+    {
+      "hex": "#FFFBEF",
+      "share": 0.038
+    },
+    {
+      "hex": "#FFF9E1",
+      "share": 0.002
+    },
+    {
+      "hex": "#FFF8F2",
+      "share": 0.001
+    }
+  ]
+}

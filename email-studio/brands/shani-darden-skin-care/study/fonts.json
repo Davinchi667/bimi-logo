@@ -1,0 +1,848 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Didot, times, serif",
+      "family": "Didot",
+      "weight": "300",
+      "sizes": [
+        "30px",
+        "60px",
+        "48px"
+      ],
+      "color": "#000000",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Rescue Your Skin",
+        "Bestsellers",
+        "Meet Shani"
+      ]
+    },
+    "h3": {
+      "family_stack": "\"Maison Neue Bold\", arial, sans-serif",
+      "family": "Maison Neue Bold",
+      "weight": "700",
+      "sizes": [
+        "14px"
+      ],
+      "color": "#4A474A",
+      "bg": null,
+      "letter_spacing": "2.625px",
+      "transform": "uppercase",
+      "radius": null,
+      "samples": [
+        "CUSTOMER CARE",
+        "EXPLORE",
+        "COMPANY"
+      ]
+    },
+    "body": {
+      "family_stack": "\"Maison Neue Light\", arial, sans-serif",
+      "family": "Maison Neue Light",
+      "weight": "400",
+      "sizes": [
+        "14px",
+        "18px",
+        "20px"
+      ],
+      "color": "#4A474A",
+      "bg": null,
+      "letter_spacing": "0.16px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Shop Now, Pay Later with Afterpay",
+        "Free Ground Shipping On Orders Over $50",
+        "Results Now, Pay Later with Cherry"
+      ]
+    },
+    "button": {
+      "family_stack": "\"Maison Neue Bold\", arial, sans-serif",
+      "family": "Maison Neue Bold",
+      "weight": "700",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#FFFFFF",
+      "bg": "#000000",
+      "letter_spacing": "normal",
+      "transform": "uppercase",
+      "radius": "0px",
+      "samples": [
+        "SEARCH",
+        "SHOP RESCUE SERUM",
+        "ADD TO BAG\nTRIPLE ACID SIGNATURE PEEL"
+      ]
+    },
+    "nav": {
+      "family_stack": "\"Maison Neue Book\", arial, sans-serif",
+      "family": "Maison Neue Book",
+      "weight": "400",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#494949",
+      "bg": null,
+      "letter_spacing": "0.16px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "SHOP",
+        "Toggle SHOP dropdown menu.",
+        "SHANI'S SKIN TIPS"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.woff",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/img/oke-widget-icons.bc0d6b0a.svg"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+      ]
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "100",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff2?v=47059267395625041041790106798",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff?v=180675626811702146541790106797"
+      ]
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "200",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff2?v=102429672558301162061790106796",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff?v=631828921746517751790106795"
+      ]
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff2?v=11624852873679948581790106792",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff?v=5078965970235740231790106792"
+      ]
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff2?v=176027037301721319071790106797",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff?v=105654120230461068811790106796"
+      ]
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff2?v=129966436913751435411790106791",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff?v=119263670306530566771790106791"
+      ]
+    },
+    {
+      "family": "Maison Neue Thin",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff2?v=47059267395625041041790106798",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff?v=180675626811702146541790106797"
+      ]
+    },
+    {
+      "family": "Maison Neue Book",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff2?v=11624852873679948581790106792",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff?v=5078965970235740231790106792"
+      ]
+    },
+    {
+      "family": "Maison Neue Medium",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff2?v=176027037301721319071790106797",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff?v=105654120230461068811790106796"
+      ]
+    },
+    {
+      "family": "Maison Neue Light",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff2?v=102429672558301162061790106796",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff?v=631828921746517751790106795"
+      ]
+    },
+    {
+      "family": "Maison Neue Bold",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff2?v=129966436913751435411790106791",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff?v=119263670306530566771790106791"
+      ]
+    },
+    {
+      "family": "Didot Display",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/82dd2e2b-2f8d-405b-a586-62fb380e127b.woff2?v=13233637368798245541790106733",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/1620218b-7b43-4ae6-8e2f-c4f3d23de858.woff?v=93707984154245503741790106732"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff2?v=17073292950450816561790106752",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff?v=105904113247246875501790106752"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff2?v=17073292950450816561790106752",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff?v=105904113247246875501790106752"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "300",
+      "style": "italic",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-LightIta42_Web.woff2?v=50878",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-LightIta42_Web.woff?v=72824035519344996411790106753"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Medium42_Web.woff2?v=50878",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Medium42_Web.woff?v=82646147601309233391790106753"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "500",
+      "style": "italic",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-MediumIta42_Web.woff2?v=50878",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-MediumIta42_Web.woff?v=179348441089081797181790106754"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Bold42_Web.woff2?v=50878",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Bold42_Web.woff?v=182203324807713090601790106751"
+      ]
+    },
+    {
+      "family": "Didot",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-BoldIta42_Web.woff2?v=50878",
+        "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-BoldIta42_Web.woff?v=13926990502845453761790106752"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.svg#fontawesome"
+      ]
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "style": "normal",
+      "files": [
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot#iefix",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff2",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.woff",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.ttf",
+        "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.svg#fontawesome"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "file": "fonts/oke-widget-icons-400.ttf",
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "file": "fonts/gtstandard-m-450.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "file": "fonts/gtstandard-m-500.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "file": "fonts/gtstandard-m-600.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "100",
+      "file": "fonts/maison-neue-100.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff2?v=47059267395625041041790106798"
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "200",
+      "file": "fonts/maison-neue-200.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff2?v=102429672558301162061790106796"
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "300",
+      "file": "fonts/maison-neue-300.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff2?v=11624852873679948581790106792"
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "400",
+      "file": "fonts/maison-neue-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff2?v=176027037301721319071790106797"
+    },
+    {
+      "family": "Maison Neue",
+      "weight": "600",
+      "file": "fonts/maison-neue-600.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff2?v=129966436913751435411790106791"
+    },
+    {
+      "family": "Maison Neue Thin",
+      "weight": "400",
+      "file": "fonts/maison-neue-thin-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Thin.woff2?v=47059267395625041041790106798"
+    },
+    {
+      "family": "Maison Neue Book",
+      "weight": "400",
+      "file": "fonts/maison-neue-book-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Book.woff2?v=11624852873679948581790106792"
+    },
+    {
+      "family": "Maison Neue Medium",
+      "weight": "400",
+      "file": "fonts/maison-neue-medium-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Medium.woff2?v=176027037301721319071790106797"
+    },
+    {
+      "family": "Maison Neue Light",
+      "weight": "400",
+      "file": "fonts/maison-neue-light-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Light.woff2?v=102429672558301162061790106796"
+    },
+    {
+      "family": "Maison Neue Bold",
+      "weight": "700",
+      "file": "fonts/maison-neue-bold-700.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/MaisonNeue-Bold.woff2?v=129966436913751435411790106791"
+    },
+    {
+      "family": "Didot Display",
+      "weight": "400",
+      "file": "fonts/didot-display-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/82dd2e2b-2f8d-405b-a586-62fb380e127b.woff2?v=13233637368798245541790106733"
+    },
+    {
+      "family": "Didot",
+      "weight": "400",
+      "file": "fonts/didot-400.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff2?v=17073292950450816561790106752"
+    },
+    {
+      "family": "Didot",
+      "weight": "300",
+      "file": "fonts/didot-300.woff2",
+      "url": "https://www.shanidarden.com/cdn/shop/t/404/assets/HTFDidot-Light42_Web.woff2?v=17073292950450816561790106752"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "300",
+      "file": "fonts/font-awesome-5-pro-300.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-light-300.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "400",
+      "file": "fonts/font-awesome-5-pro-400.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-regular-400.eot"
+    },
+    {
+      "family": "Font Awesome 5 Pro",
+      "weight": "900",
+      "file": "fonts/font-awesome-5-pro-900.eot",
+      "url": "https://cdn.rebuyengine.com/onsite/webfonts/fa-solid-900.eot"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Didot, times, serif",
+        "weight": "700",
+        "size": "60px",
+        "color": "rgb(240, 235, 235)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "60px",
+        "radius": "0px",
+        "border": "0px none rgb(240, 235, 235)",
+        "sample": "Rescue Your Skin"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "300",
+        "size": "30px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "49.0908px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Bestsellers"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "300",
+        "size": "48px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "51.9998px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Meet Shani"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "500",
+        "size": "32px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "32px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Take the Quiz"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "300",
+        "size": "30px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "49.0908px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "Shani Darden Skin Care Footer"
+      }
+    ],
+    "h3": [
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "14px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "2.625px",
+        "transform": "uppercase",
+        "lineHeight": "24.9999px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "CUSTOMER CARE"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "14px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "2.625px",
+        "transform": "uppercase",
+        "lineHeight": "24.9999px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "EXPLORE"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "14px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "2.625px",
+        "transform": "uppercase",
+        "lineHeight": "24.9999px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "COMPANY"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "14px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "2.625px",
+        "transform": "uppercase",
+        "lineHeight": "24.9999px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "LET'S KEEP IN TOUCH"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "300",
+        "size": "26px",
+        "color": "rgb(74, 71, 74)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "32px",
+        "radius": "0px",
+        "border": "0px none rgb(74, 71, 74)",
+        "sample": "Connect with Shani Darden Skin Care"
+      },
+      {
+        "family": "Didot, times, serif",
+        "weight": "300",
+        "size": "26px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "1.95px",
+        "transform": "uppercase",
+        "lineHeight": "32px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "YOUR BAG"
+      }
+    ],
+    "body": [
+      {
+        "family": "\"Maison Neue Light\", arial, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.4375px",
+        "transform": "none",
+        "lineHeight": "14px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop Now, Pay Later with Afterpay"
+      },
+      {
+        "family": "\"Maison Neue Light\", arial, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.4375px",
+        "transform": "none",
+        "lineHeight": "14px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Free Ground Shipping On Orders Over $50"
+      },
+      {
+        "family": "\"Maison Neue Light\", arial, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.4375px",
+        "transform": "none",
+        "lineHeight": "14px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Results Now, Pay Later with Cherry"
+      },
+      {
+        "family": "\"Maison Neue Light\", arial, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.4375px",
+        "transform": "none",
+        "lineHeight": "14px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop Now, Pay Later with Afterpay"
+      },
+      {
+        "family": "\"Maison Neue Light\", arial, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.4375px",
+        "transform": "none",
+        "lineHeight": "14px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Free Ground Shipping On Orders Over $50"
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "SHOP \nToggle SHOP dropdown menu."
+      }
+    ],
+    "button": [
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "SEARCH"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "1px solid rgb(0, 0, 0)",
+        "sample": "SHOP RESCUE SERUM"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "1px solid rgb(0, 0, 0)",
+        "sample": "ADD TO BAG\nTRIPLE ACID SIGNATURE PEEL"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "1px solid rgb(0, 0, 0)",
+        "sample": "ADD TO BAG\nSAKE NOURISHING ESSENCE"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "1px solid rgb(0, 0, 0)",
+        "sample": "ADD TO BAG\nFACIAL SCULPTING WAND™"
+      },
+      {
+        "family": "\"Maison Neue Bold\", arial, sans-serif",
+        "weight": "700",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "1px solid rgb(0, 0, 0)",
+        "sample": "ADD TO BAG\nSHANI DARDEN BY DÉESSE PRO LED LIGHT MASK"
+      }
+    ],
+    "nav": [
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "SHOP"
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "Toggle SHOP dropdown menu."
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "SHANI'S SKIN TIPS"
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "Toggle SHANI'S SKIN TIPS dropdown menu."
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "OUR STORY"
+      },
+      {
+        "family": "\"Maison Neue Book\", arial, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(73, 73, 73)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.16px",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(73, 73, 73)",
+        "sample": "THE STUDIO"
+      }
+    ]
+  }
+}

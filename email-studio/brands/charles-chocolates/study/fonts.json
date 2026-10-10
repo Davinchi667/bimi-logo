@@ -1,0 +1,599 @@
+{
+  "roles": {
+    "h1": null,
+    "h2": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "300",
+      "sizes": [
+        "28.8px",
+        "21.6px",
+        "48px"
+      ],
+      "color": "#523F38",
+      "bg": null,
+      "letter_spacing": "0.72px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "NEW FOR HALLOWEEN",
+        "Get a Free Chocolate Bar!",
+        "Best Sellers"
+      ]
+    },
+    "h3": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "300",
+      "sizes": [
+        "15.6px",
+        "21.6px"
+      ],
+      "color": "#523F38",
+      "bg": null,
+      "letter_spacing": "0.72px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Praline Crunch Collection (4 bars)",
+        "Dubai Done Better Collection (4 Bars)",
+        "Dubai Done Better - Original Pistachio Bar"
+      ]
+    },
+    "body": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "12px",
+        "14px"
+      ],
+      "color": "#523F38",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Home",
+        "Shop",
+        "Collections"
+      ]
+    },
+    "button": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "400",
+      "sizes": [
+        "15px",
+        "16px"
+      ],
+      "color": "#502419",
+      "bg": "#FFF8EB",
+      "letter_spacing": "1px",
+      "transform": "none",
+      "radius": "42px",
+      "samples": [
+        "Skip to content",
+        "Shop the Skulls",
+        "Shop the Skulls"
+      ]
+    },
+    "nav": {
+      "family_stack": "Poppins, sans-serif",
+      "family": "Poppins",
+      "weight": "400",
+      "sizes": [
+        "14px"
+      ],
+      "color": "#523F38",
+      "bg": null,
+      "letter_spacing": "0.6px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Home",
+        "Gifts / Corporate Gifts",
+        "Log in"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2",
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n4.214741a72ff2596839fc9760ee7a770386cf16ca.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2",
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n7.f34f55d9b3d3205d2cd6f64955ff4b36f0cfd8da.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i4.846ad1e22474f856bd6b81ba4585a60799a9f5d2.woff2",
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i4.56b43284e8b52fc64c1fd271f289a39e8477e9ec.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i7.42fd71da11e9d101e1e6c7932199f925f9eea42d.woff2",
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i7.ec8499dbd7616004e21155106d13837fff4cf556.woff"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n3.05f58335c3209cce17da4f1f1ab324ebe2982441.woff2",
+        "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n3.6971368e1f131d2c8ff8e3a44a36b577fdda3ff5.woff"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+      ]
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "file": "fonts/poppins-400.woff2",
+      "url": "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n4.0ba78fa5af9b0e1a374041b3ceaadf0a43b41362.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "file": "fonts/poppins-700.woff2",
+      "url": "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n7.56758dcf284489feb014a026f3727f2f20a54626.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "file": "fonts/poppins-400-italic.woff2",
+      "url": "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i4.846ad1e22474f856bd6b81ba4585a60799a9f5d2.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "file": "fonts/poppins-700-italic.woff2",
+      "url": "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_i7.42fd71da11e9d101e1e6c7932199f925f9eea42d.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "300",
+      "file": "fonts/poppins-300.woff2",
+      "url": "https://www.charleschocolates.com/cdn/fonts/poppins/poppins_n3.05f58335c3209cce17da4f1f1ab324ebe2982441.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "450",
+      "file": "fonts/gtstandard-m-450.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MRegular.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "500",
+      "file": "fonts/gtstandard-m-500.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MMedium.woff2"
+    },
+    {
+      "family": "GTStandard-M",
+      "weight": "600",
+      "file": "fonts/gtstandard-m-600.woff2",
+      "url": "https://cdn.shopify.com/shop-assets/static_uploads/shoplift/GTStandard-MSemibold.woff2"
+    }
+  ],
+  "raw_samples": {
+    "h1": [],
+    "h2": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "28.8px",
+        "color": "rgb(255, 248, 235)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "36px",
+        "radius": "0px",
+        "border": "0px none rgb(255, 248, 235)",
+        "sample": "NEW FOR HALLOWEEN"
+      },
+      {
+        "family": "Georgia, \"Times New Roman\", serif",
+        "weight": "400",
+        "size": "40px",
+        "color": "rgb(36, 25, 20)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "46px",
+        "radius": "0px",
+        "border": "0px none rgb(36, 25, 20)",
+        "sample": "Praline Crunch is staying a little longer"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "48px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "60px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Get a Free Chocolate Bar!"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "28.8px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "36px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Best Sellers"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "28.8px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "36px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Best of John Kelly Chocolates"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "28.8px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "36px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Explore Our Collections"
+      }
+    ],
+    "h3": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Praline Crunch Collection (4 bars)"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Dubai Done Better Collection (4 Bars)"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Dubai Done Better - Original Pistachio Bar"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Pecan Praline Crunch Bar (3 bars)"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Almond Praline Crunch Bar (3 bars)"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "300",
+        "size": "15.6px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.72px",
+        "transform": "none",
+        "lineHeight": "19.5px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Hazelnut Praline Crunch Bar (3 bars)"
+      }
+    ],
+    "body": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Home"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Shop"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Collections"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Dietary Restrictions"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Gifts / Corporate Gifts"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(255, 248, 235, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 248, 235, 0.75)",
+        "sample": "Filled chocolate skulls from John Kelly Chocolates, our LA sister brand. Garnet "
+      }
+    ],
+    "button": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "15px",
+        "color": "rgb(242, 239, 221)",
+        "bg": "rgb(73, 167, 204)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "18px",
+        "radius": "42px",
+        "border": "0px none rgb(242, 239, 221)",
+        "sample": "Skip to content"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgba(255, 248, 235, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "0px",
+        "border": "0px none rgba(255, 248, 235, 0.75)",
+        "sample": "Shop the Skulls"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "15px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(249, 103, 25)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "18px",
+        "radius": "42px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Shop the Skulls"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "600",
+        "size": "16px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgb(44, 121, 153)",
+        "letterSpacing": "0.3px",
+        "transform": "none",
+        "lineHeight": "28.8px",
+        "radius": "50px",
+        "border": "0px none rgb(255, 255, 255)",
+        "sample": "Mix your three"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "15px",
+        "color": "rgb(80, 36, 25)",
+        "bg": "rgb(255, 248, 235)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "18px",
+        "radius": "42px",
+        "border": "0px none rgb(80, 36, 25)",
+        "sample": "Add to cart"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "15px",
+        "color": "rgb(80, 36, 25)",
+        "bg": "rgb(255, 248, 235)",
+        "letterSpacing": "1px",
+        "transform": "none",
+        "lineHeight": "18px",
+        "radius": "42px",
+        "border": "0px none rgb(80, 36, 25)",
+        "sample": "Add to cart"
+      }
+    ],
+    "nav": [
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Home"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgba(82, 63, 56, 0.75)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "18.2px",
+        "radius": "0px",
+        "border": "0px none rgba(82, 63, 56, 0.75)",
+        "sample": "Gifts / Corporate Gifts"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Log in"
+      },
+      {
+        "family": "Poppins, sans-serif",
+        "weight": "400",
+        "size": "14px",
+        "color": "rgb(82, 63, 56)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "0.6px",
+        "transform": "none",
+        "lineHeight": "25.2px",
+        "radius": "0px",
+        "border": "0px none rgb(82, 63, 56)",
+        "sample": "Cart"
+      }
+    ]
+  }
+}
