@@ -1,0 +1,10 @@
+playwright==1.56.0
+Pillow>=12
+numpy
+scipy
+fonttools
+lxml
+beautifulsoup4
+requests
+rembg
+onnxruntime

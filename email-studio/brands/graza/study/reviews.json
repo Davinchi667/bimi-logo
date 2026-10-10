@@ -1,0 +1,96 @@
+{
+  "aggregate": [
+    {
+      "source": "https://www.graza.co/pages/reviews",
+      "name": "reviews",
+      "rating": "4.9",
+      "count": "7,790",
+      "how": "printed text"
+    },
+    {
+      "source": "https://www.graza.co/products/hot-n-sweet-olive-oil-potato-chips",
+      "name": "product_hot-n-sweet-olive-oil-potato-chips",
+      "rating": "4.9",
+      "count": "7,790",
+      "how": "printed text"
+    },
+    {
+      "source": "https://www.graza.co/products/zesty-caesar-olive-oil-potato-chips",
+      "name": "product_zesty-caesar-olive-oil-potato-chips",
+      "rating": "4.9",
+      "count": "7,790",
+      "how": "printed text"
+    },
+    {
+      "source": "https://www.graza.co/products/sea-salt-vinegar-olive-oil-potato-chips",
+      "name": "product_sea-salt-vinegar-olive-oil-potato-chips",
+      "rating": "4.9",
+      "count": "7,790",
+      "how": "printed text"
+    }
+  ],
+  "quotes": [
+    {
+      "widget": ".oke-w-review",
+      "text": "Quality olive oil at a good price",
+      "name": "Alice",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.graza.co/pages/reviews"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "I love this oil!! It’s the taste!",
+      "name": "Jill",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.graza.co/pages/reviews"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "best olive oil ever!",
+      "name": "Melissa",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.graza.co/pages/reviews"
+    },
+    {
+      "widget": ".oke-w-review",
+      "text": "Looks great on my counter looks like I’m a chef",
+      "name": "Susan",
+      "rating_raw": "Rated 5 out of 5 stars",
+      "source": "https://www.graza.co/pages/reviews"
+    }
+  ],
+  "count_mentions": [
+    {
+      "source": "https://www.graza.co/pages/reviews",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/pages/reviews",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/hot-n-sweet-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/hot-n-sweet-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/zesty-caesar-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/zesty-caesar-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/sea-salt-vinegar-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    },
+    {
+      "source": "https://www.graza.co/products/sea-salt-vinegar-olive-oil-potato-chips",
+      "text": "7,790 reviews"
+    }
+  ]
+}

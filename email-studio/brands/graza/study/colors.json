@@ -1,0 +1,111 @@
+{
+  "body": {
+    "bg": "#F6E6D9",
+    "color": "#3C422E"
+  },
+  "header": {
+    "bg": null,
+    "color": "#3C422E"
+  },
+  "footer": {
+    "bg": null,
+    "color": "#3C422E"
+  },
+  "link": {
+    "bg": "#FFFFFF",
+    "color": "#000000"
+  },
+  "sections": [],
+  "buttons": [
+    {
+      "bg": "#FFFFFF",
+      "color": "#000000",
+      "radius": "0px",
+      "border": "0px none rgb(0, 0, 0)",
+      "sample": "Pause animations"
+    },
+    {
+      "bg": null,
+      "color": "#FFF4EC",
+      "radius": "0px",
+      "border": "0px solid rgb(255, 244, 236)",
+      "sample": "Shop"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "CLOSE"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "Shop Olive Oil"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "SHOP NOW"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "SHOP THE TRIO"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "FIND CHIPS"
+    },
+    {
+      "bg": null,
+      "color": "#3C422E",
+      "radius": "0px",
+      "border": "0px solid rgb(60, 66, 46)",
+      "sample": "SHOP NOW"
+    }
+  ],
+  "screenshot_palette": [
+    {
+      "hex": "#F6E6D9",
+      "share": 0.439
+    },
+    {
+      "hex": "#595742",
+      "share": 0.239
+    },
+    {
+      "hex": "#D8CF78",
+      "share": 0.165
+    },
+    {
+      "hex": "#EAE7BB",
+      "share": 0.072
+    },
+    {
+      "hex": "#FAEBDF",
+      "share": 0.032
+    },
+    {
+      "hex": "#F7E6D9",
+      "share": 0.032
+    },
+    {
+      "hex": "#F7E6D6",
+      "share": 0.019
+    },
+    {
+      "hex": "#F7E5DA",
+      "share": 0.002
+    }
+  ]
+}

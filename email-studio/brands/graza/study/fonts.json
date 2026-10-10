@@ -1,0 +1,1077 @@
+{
+  "roles": {
+    "h1": {
+      "family_stack": "\"ITC Garamond Condensed\", \"serif\"",
+      "family": "ITC Garamond Condensed",
+      "weight": "400",
+      "sizes": [
+        "72px"
+      ],
+      "color": "#FFF4EC",
+      "bg": null,
+      "letter_spacing": "-2.16px",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Extra Virgin Olive Oil makes everything better.",
+        "Made by people who take olives very seriously."
+      ]
+    },
+    "h2": {
+      "family_stack": "\"GT Alpina Typewriter\", \"monospace\"",
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "12px",
+        "18px"
+      ],
+      "color": "#3C422E",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Cart(0)\n0 items",
+        "“Drizzle”\nExtra Virgin Olive Oil",
+        "“Sizzle”\nExtra Virgin Olive Oil"
+      ]
+    },
+    "h3": {
+      "family_stack": "\"GT Alpina Typewriter\", \"monospace\"",
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#3C422E",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "uppercase",
+      "radius": null,
+      "samples": [
+        "HAPPY OLIVES, HAPPY OIL",
+        "FRESH IS BEST",
+        "Recipe: Vermouth Braised Beef with Herb Relish"
+      ]
+    },
+    "body": {
+      "family_stack": "\"GT Alpina Typewriter\", \"monospace\"",
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "sizes": [
+        "16px",
+        "18px"
+      ],
+      "color": "#3C422E",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Shop",
+        "Get Refills",
+        "About"
+      ]
+    },
+    "button": {
+      "family_stack": "\"GT Alpina Typewriter\", \"monospace\"",
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#3C422E",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": "0px",
+      "samples": [
+        "Pause animations",
+        "Shop",
+        "CLOSE"
+      ]
+    },
+    "nav": {
+      "family_stack": "\"GT Alpina Typewriter\", \"monospace\"",
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "sizes": [
+        "16px"
+      ],
+      "color": "#F6E6D9",
+      "bg": null,
+      "letter_spacing": "normal",
+      "transform": "none",
+      "radius": null,
+      "samples": [
+        "Get Refills",
+        "About",
+        "Glog"
+      ]
+    }
+  },
+  "font_faces": [
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.woff",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/img/oke-widget-icons.bc0d6b0a.svg"
+      ]
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Light",
+      "weight": "300",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Light.woff?v=1707835249"
+      ]
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Medium",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Light.woff?v=1707835249"
+      ]
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Medium-2",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Medium.woff2?v=1707868323"
+      ]
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Medium-3",
+      "weight": "800",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Medium-3.woff2"
+      ]
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Bold.woff2?v=1671116429"
+      ]
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Medium.woff2?v=1671116447"
+      ]
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Regular.woff2?v=1671116459"
+      ]
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_italic_400.woff2"
+      ]
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_italic_700.woff2"
+      ]
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_regular_400.woff2"
+      ]
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_regular_700.woff2"
+      ]
+    },
+    {
+      "family": "PitchSans",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/pitch-sans-bold.woff2?v=1671046843"
+      ]
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_400.woff2"
+      ]
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "italic",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_700.woff2"
+      ]
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_400_2.woff2"
+      ]
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_700.woff2"
+      ]
+    },
+    {
+      "family": "Seriously-Nostalgic",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0465/1889/4755/files/Seriously_Nostalgic.woff?v=1696611415"
+      ]
+    },
+    {
+      "family": "Seriously-Nostalgic-Alt",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://cdn.shopify.com/s/files/1/0465/1889/4755/files/Seriously_Nostalgic.woff?v=1696611415"
+      ]
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "100 300",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "400 500",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "600 900",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "100 300",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "400 500",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "600 900",
+      "style": "normal",
+      "files": [
+        "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light.static.woff",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light.static.ttf"
+      ]
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light-italic.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light-italic.static.woff",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light-italic.static.ttf"
+      ]
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium.static.woff",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium.static.ttf"
+      ]
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "style": "italic",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium-italic.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium-italic.static.woff",
+        "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium-italic.static.ttf"
+      ]
+    },
+    {
+      "family": "ITC Garamond Condensed",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond.static.woff"
+      ]
+    },
+    {
+      "family": "ITC Garamond Condensed",
+      "weight": "400",
+      "style": "italic",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond-italic.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond-italic.static.woff"
+      ]
+    },
+    {
+      "family": "Apercu",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://www.graza.co/cdn/shop/t/38/assets/apercu-bold.static.woff2",
+        "https://www.graza.co/cdn/shop/t/38/assets/apercu-bold.static.woff",
+        "https://www.graza.co/cdn/shop/t/38/assets/apercu-bold.static.ttf"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Open Sans",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2"
+      ]
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "style": "normal",
+      "files": [
+        "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2"
+      ]
+    }
+  ],
+  "downloaded": [
+    {
+      "family": "oke-widget-icons",
+      "weight": "400",
+      "file": "fonts/oke-widget-icons-400.ttf",
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/reviews-widget-plus/fonts/oke-widget-icons.ttf"
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Light",
+      "weight": "300",
+      "file": "fonts/gt-alpina-typewriter-light-300.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Light.woff?v=1707835249"
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Medium",
+      "weight": "500",
+      "file": "fonts/gt-alpina-typewriter-medium-500.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Light.woff?v=1707835249"
+    },
+    {
+      "family": "GT-Alpina-Typewriter-Medium-3",
+      "weight": "800",
+      "file": "fonts/gt-alpina-typewriter-medium-3-800.woff2",
+      "url": "https://cdn.shopify.com/s/files/1/0550/0003/9638/files/GT-Alpina-Typewriter-Medium-3.woff2"
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "700",
+      "file": "fonts/monumentgrotesk-700.woff2",
+      "url": "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Bold.woff2?v=1671116429"
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "500",
+      "file": "fonts/monumentgrotesk-500.woff2",
+      "url": "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Medium.woff2?v=1671116447"
+    },
+    {
+      "family": "MonumentGrotesk",
+      "weight": "400",
+      "file": "fonts/monumentgrotesk-400.woff2",
+      "url": "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/ABCMonumentGrotesk-Regular.woff2?v=1671116459"
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/nunito-sans-klaviyo-hosted-400-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_italic_400.woff2"
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/nunito-sans-klaviyo-hosted-700-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_italic_700.woff2"
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/nunito-sans-klaviyo-hosted-400.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_regular_400.woff2"
+    },
+    {
+      "family": "Nunito-Sans-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/nunito-sans-klaviyo-hosted-700.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Nunito-Sans/latin/nunito-sans_latin_regular_700.woff2"
+    },
+    {
+      "family": "PitchSans",
+      "weight": "700",
+      "file": "fonts/pitchsans-700.woff2",
+      "url": "https://cdn.shopify.com/s/files/1/0257/7953/5927/files/pitch-sans-bold.woff2?v=1671046843"
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/poppins-klaviyo-hosted-400-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_400.woff2"
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/poppins-klaviyo-hosted-700-italic.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_italic_700.woff2"
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "400",
+      "file": "fonts/poppins-klaviyo-hosted-400.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_400_2.woff2"
+    },
+    {
+      "family": "Poppins-Klaviyo-Hosted",
+      "weight": "700",
+      "file": "fonts/poppins-klaviyo-hosted-700.woff2",
+      "url": "https://static.klaviyo.com/onsite/hosted-fonts/Poppins/latin/poppins_latin_regular_700.woff2"
+    },
+    {
+      "family": "Seriously-Nostalgic",
+      "weight": "400",
+      "file": "fonts/seriously-nostalgic-400.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0465/1889/4755/files/Seriously_Nostalgic.woff?v=1696611415"
+    },
+    {
+      "family": "Seriously-Nostalgic-Alt",
+      "weight": "400",
+      "file": "fonts/seriously-nostalgic-alt-400.woff",
+      "url": "https://cdn.shopify.com/s/files/1/0465/1889/4755/files/Seriously_Nostalgic.woff?v=1696611415"
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "100 300",
+      "file": "fonts/sf-primary-font-100-300.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "400 500",
+      "file": "fonts/sf-primary-font-400-500.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "SF-Primary-Font",
+      "weight": "600 900",
+      "file": "fonts/sf-primary-font-600-900.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "100 300",
+      "file": "fonts/sf-secondary-font-100-300.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "400 500",
+      "file": "fonts/sf-secondary-font-400-500.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "SF-Secondary-Font",
+      "weight": "600 900",
+      "file": "fonts/sf-secondary-font-600-900.ttf",
+      "url": "https://microsite-files.superfiliate-cdn.com/production/getgraza.myshopify.com/2023-12-18t21-43-13z-apercu-bold.static.ttf"
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "file": "fonts/gt-alpina-typewriter-400.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light.static.woff2"
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "400",
+      "file": "fonts/gt-alpina-typewriter-400-italic.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-light-italic.static.woff2"
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "file": "fonts/gt-alpina-typewriter-500.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium.static.woff2"
+    },
+    {
+      "family": "GT Alpina Typewriter",
+      "weight": "500",
+      "file": "fonts/gt-alpina-typewriter-500-italic.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/gt-alpina-typewriter-medium-italic.static.woff2"
+    },
+    {
+      "family": "ITC Garamond Condensed",
+      "weight": "400",
+      "file": "fonts/itc-garamond-condensed-400.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond.static.woff2"
+    },
+    {
+      "family": "ITC Garamond Condensed",
+      "weight": "400",
+      "file": "fonts/itc-garamond-condensed-400-italic.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/itc-garamond-cond-italic.static.woff2"
+    },
+    {
+      "family": "Apercu",
+      "weight": "600",
+      "file": "fonts/apercu-600.woff2",
+      "url": "https://www.graza.co/cdn/shop/t/38/assets/apercu-bold.static.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "400",
+      "file": "fonts/open-sans-400.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "500",
+      "file": "fonts/open-sans-500.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "600",
+      "file": "fonts/open-sans-600.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Open Sans",
+      "weight": "700",
+      "file": "fonts/open-sans-700.woff2",
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu0SC55K5gw.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "400",
+      "file": "fonts/poppins-400.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "500",
+      "file": "fonts/poppins-500.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "600",
+      "file": "fonts/poppins-600.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2"
+    },
+    {
+      "family": "Poppins",
+      "weight": "700",
+      "file": "fonts/poppins-700.woff2",
+      "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2"
+    }
+  ],
+  "raw_samples": {
+    "h1": [
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "72px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "72px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Extra Virgin Olive Oil makes everything better."
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "72px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "72px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Made by people who take olives very seriously."
+      }
+    ],
+    "h2": [
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Cart(0)\n0 items"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "102px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "91.8px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Get The Trio"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "102px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "91.8px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "New E.V.O.O. Potato Chips"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "102px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "91.8px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Graza in Glass"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "102px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "91.8px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Get The Trio"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "102px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "91.8px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "New E.V.O.O. Potato Chips"
+      }
+    ],
+    "h3": [
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "HAPPY OLIVES, HAPPY OIL"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "FRESH IS BEST"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "19.2px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Recipe: Vermouth Braised Beef with Herb Relish"
+      }
+    ],
+    "body": [
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Shop"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Get Refills"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "About"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Glog"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Looks like your ca(r)t has some issues"
+      },
+      {
+        "family": "\"ITC Garamond Condensed\", \"serif\"",
+        "weight": "400",
+        "size": "72px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "-2.16px",
+        "transform": "none",
+        "lineHeight": "72px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Extra Virgin Olive Oil makes everything better."
+      }
+    ],
+    "button": [
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 255, 255)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "sample": "Pause animations"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Shop"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "CLOSE"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "16px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "Shop Olive Oil"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "16px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "SHOP NOW"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "uppercase",
+        "lineHeight": "16px",
+        "radius": "0px",
+        "border": "0px solid rgb(60, 66, 46)",
+        "sample": "SHOP THE TRIO"
+      }
+    ],
+    "nav": [
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Get Refills"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "About"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(255, 244, 236)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "0px solid rgb(255, 244, 236)",
+        "sample": "Glog"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "500",
+        "size": "16px",
+        "color": "rgb(60, 66, 46)",
+        "bg": "rgb(255, 244, 236)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "32px",
+        "border": "1px solid rgb(60, 66, 46)",
+        "sample": "Cart\n[0]"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(246, 230, 217)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "",
+        "sample": "The Trio"
+      },
+      {
+        "family": "\"GT Alpina Typewriter\", \"monospace\"",
+        "weight": "400",
+        "size": "16px",
+        "color": "rgb(246, 230, 217)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "letterSpacing": "normal",
+        "transform": "none",
+        "lineHeight": "24px",
+        "radius": "0px",
+        "border": "",
+        "sample": "The Duo Glass"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# scraped binaries are regenerable; keep the facts (json, txt, STUDY.md, logos, screenshots)
+brands/*/study/images/
+brands/*/study/fonts/
+# downloaded Google Fonts cache
+tools/fonts/cache/
+__pycache__/
+*.pyc
