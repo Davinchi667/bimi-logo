@@ -1,0 +1,35 @@
+01 Hero                                  y=0      text=9   words=43   img=1
+  M1 Night to morning band                 y=0      text=9   words=43   img=1
+    Announcement bar                         y=0      text=1   words=8    img=0
+    Headline                                 y=0      text=3   words=6    img=0
+    Stars hero                               y=0      text=0   words=0    img=0
+    CTA DISCOVER MIDNIGHT ELIXIR S1          y=0      text=1   words=3    img=0
+02 Ten pounds off                        y=520    text=6   words=29   img=2
+  Offer column                             y=520    text=4   words=25   img=0
+  CTA DISCOVER MIDNIGHT ELIXIR S2          y=520    text=1   words=3    img=0
+03 Nutrition facts                       y=820    text=32  words=153  img=1
+  Nutrition label                          y=820    text=30  words=147  img=0
+    M2 Results bars band                     y=820    text=16  words=46   img=0
+  Bottle on the corner                     y=848    text=0   words=0    img=1
+  CTA DISCOVER MIDNIGHT ELIXIR S3          y=820    text=1   words=3    img=0
+04 Georgie                               y=1883   text=5   words=55   img=1
+  Slate rail                               y=1883   text=2   words=7    img=0
+    Rail facts                               y=1883   text=2   words=7    img=0
+  Quote                                    y=1883   text=3   words=48   img=0
+05 Reviews                               y=2283   text=30  words=141  img=1
+  Rating column                            y=2283   text=13  words=20   img=0
+    M3 Histogram band                        y=2283   text=10  words=10   img=0
+  Review list                              y=2283   text=16  words=117  img=0
+    Review Emma M                            y=2283   text=4   words=30   img=0
+      Stars Emma M                             y=2283   text=0   words=0    img=0
+    Review Monika                            y=2283   text=4   words=28   img=0
+      Stars Monika                             y=2283   text=0   words=0    img=0
+    Review Roma25, Scotland                  y=2283   text=4   words=39   img=0
+      Stars Roma25, Scotland                   y=2283   text=0   words=0    img=0
+    Review Adele, London                     y=2283   text=4   words=20   img=0
+      Stars Adele, London                      y=2283   text=0   words=0    img=0
+06 Close                                 y=3049   text=6   words=60   img=1
+  CTA DISCOVER MIDNIGHT ELIXIR S6          y=3049   text=1   words=3    img=0
+  Footer                                   y=3049   text=3   words=37   img=0
+    Logo OSKIA #FFFFFF                       y=3049   text=0   words=0    img=0
+34 groups, 88 text elements, 7 images
