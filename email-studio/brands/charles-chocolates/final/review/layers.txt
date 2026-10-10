@@ -1,0 +1,39 @@
+01 Hero                                  y=0      text=6   words=45   img=3
+  Announcement bar                         y=0      text=1   words=18   img=0
+  Headline                                 y=0      text=2   words=6    img=0
+  Small box angled                         y=322    text=0   words=0    img=1
+  Ribbon tag                               y=526    text=1   words=5    img=0
+  CTA SHOP THE CLASSIC COLLECTION S1       y=0      text=1   words=4    img=0
+02 Box key                               y=660    text=16  words=50   img=2
+  M1 Box key band                          y=660    text=15  words=46   img=1
+    Key card                                 y=660    text=15  words=46   img=0
+    Leader lines                             y=660    text=0   words=0    img=0
+  CTA SHOP THE CLASSIC COLLECTION S2       y=660    text=1   words=4    img=0
+03 Free bar meter                        y=1322   text=8   words=48   img=2
+  M2 Meter band                            y=1322   text=4   words=11   img=1
+    Flag at 50                               y=1322   text=1   words=4    img=0
+  CTA SHOP THE 20 PIECE BOX S3             y=1322   text=1   words=5    img=0
+04 Awards and press                      y=1762   text=14  words=56   img=1
+  Seal San Francisco Magazine              y=1762   text=4   words=9    img=0
+  Seal Sunset Magazine                     y=1762   text=4   words=6    img=0
+  Press TASTING TABLE                      y=1762   text=2   words=17   img=0
+  Press PRIME REAL ESTATE                  y=1762   text=2   words=14   img=0
+  Press MSN                                y=1762   text=2   words=10   img=0
+05 Gift tags                             y=2155   text=14  words=125  img=1
+  Black signature ribbon                   y=2155   text=0   words=0    img=0
+  Gift tags                                y=2155   text=12  words=111  img=0
+    Tag Anonymous                            y=2271   text=3   words=28   img=0
+      Stars Anonymous                          y=2271   text=0   words=0    img=0
+    Tag Christine Duffy                      y=2281   text=3   words=38   img=0
+      Stars Christine Duffy                    y=2281   text=0   words=0    img=0
+    Tag Pomponette                           y=2552   text=3   words=17   img=0
+      Stars Pomponette                         y=2552   text=0   words=0    img=0
+    Tag Darren Gibbs                         y=2552   text=3   words=28   img=0
+      Stars Darren Gibbs                       y=2552   text=0   words=0    img=0
+06 Also in the shop                      y=2815   text=9   words=55   img=3
+  Left Skulls                              y=2815   text=5   words=29   img=1
+  Right Almonds                            y=2815   text=4   words=26   img=1
+07 Close                                 y=3235   text=4   words=35   img=2
+  CTA SHOP THE CLASSIC COLLECTION S7       y=3235   text=1   words=4    img=0
+  Footer                                   y=3235   text=2   words=22   img=1
+38 groups, 71 text elements, 14 images

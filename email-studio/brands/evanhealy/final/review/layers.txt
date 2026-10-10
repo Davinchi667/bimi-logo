@@ -1,0 +1,37 @@
+01 Hero                                  y=0      text=5   words=32   img=3
+  Headline                                 y=0      text=2   words=5    img=0
+  CTA SHOP THE OIL & WATER START S1        y=0      text=1   words=6    img=0
+02 Your code                             y=520    text=6   words=31   img=1
+  M1 Popup replay band                     y=520    text=3   words=16   img=0
+  CTA SHOP THE OIL & WATER START S2        y=520    text=1   words=6    img=0
+03 Lab sheet                             y=940    text=23  words=110  img=2
+  Lab grid                                 y=940    text=0   words=0    img=0
+  Sheet header                             y=940    text=2   words=9    img=0
+  Copper tubing line                       y=940    text=0   words=0    img=0
+  Steps                                    y=940    text=9   words=42   img=0
+  M2 Press band                            y=940    text=1   words=5    img=0
+    Palm drawing                             y=940    text=1   words=5    img=0
+  Bottle labels                            y=940    text=8   words=28   img=2
+  CTA SHOP THE OIL & WATER START S3        y=940    text=1   words=6    img=0
+04 Notes in the margin                   y=1772   text=18  words=137  img=1
+  Rose geranium sprig                      y=1772   text=0   words=0    img=0
+  Specimen labels                          y=1772   text=16  words=116  img=0
+    Label Gloria P.                          y=1772   text=4   words=27   img=0
+      Stars Gloria                             y=1772   text=0   words=0    img=0
+    Label Pam F.                             y=1772   text=4   words=34   img=0
+      Stars Pam F.                             y=1772   text=0   words=0    img=0
+    Label Dana H.                            y=1772   text=4   words=22   img=0
+      Stars Dana H                             y=1772   text=0   words=0    img=0
+    Label Maxine S.                          y=1772   text=4   words=33   img=0
+      Stars Maxine                             y=1772   text=0   words=0    img=0
+05 Harvest Ritual                        y=2910   text=24  words=88   img=2
+  M3 Price rail band                       y=2910   text=19  words=39   img=0
+  Stars ritual                             y=2910   text=0   words=0    img=0
+  CTA SHOP THE HARVEST RITUAL S5           y=2910   text=1   words=4    img=0
+06 Regenerative                          y=3650   text=49  words=123  img=2
+  ROC seal (drawn type)                    y=3650   text=44  words=44   img=0
+    Seal rim top                             y=3650   text=24  words=24   img=0
+    Seal rim bottom                          y=3650   text=19  words=19   img=0
+  CTA SHOP THE OIL & WATER START S6        y=3650   text=1   words=6    img=0
+  Footer                                   y=3650   text=2   words=28   img=1
+36 groups, 125 text elements, 11 images
