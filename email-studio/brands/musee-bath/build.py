@@ -74,16 +74,15 @@ def build(state: dict | None = None) -> Email:
     s.text_block(MARGIN + 60, 278, "Musee invites you to slow down and enjoy the sweet things in life like a warm bath.", P, 15, 420, 400, INK, line_height=22, anchor="middle", max_lines=3)
     stand = s.g("Cake stand")
     # balm in a circle sitting on a drawn cake stand
-    stand.image(A / "balm_circle.png", 220, 326, 160, 160, fit="contain", id="Dreamweaver balm circle")
     stand.ellipse(300, 490, 120, 10, fill=WHITE, stroke=BLACK, stroke_width=2)
+    stand.image(A / "balm_cut.png", 222, 322, 156, 164, fit="contain", id="Dreamweaver balm cut-out")
     stand.path("M292 500 V526 M308 500 V526", fill="none", stroke=BLACK, stroke_width=2)
     stand.ellipse(300, 530, 48, 7, fill=WHITE, stroke=BLACK, stroke_width=2)
     tag = s.g("Hanging tag")
-    tag.line(410, 492, 436, 528, stroke=BLACK, stroke_width=1)
-    tag.circle(448, 548, 30, fill=HOT, stroke=BLACK, stroke_width=1.2)
-    tag.circle(448, 522, 2.5, fill="none", stroke=BLACK, stroke_width=1)
-    tag.text(448, 545, "DREAMWEAVER", P, 14, 700, BLACK, anchor="middle", letter_spacing=-0.5)
-    tag.text(448, 562, "$12", P, 14, 700, BLACK, anchor="middle")
+    tag.line(410, 492, 428, 526, stroke=BLACK, stroke_width=1)
+    tag.path("M426 526 L440 512 H548 a6 6 0 0 1 6 6 V544 a6 6 0 0 1 -6 6 H440 Z", fill=HOT, stroke=BLACK, stroke_width=1.2, join="round")
+    tag.circle(438, 531, 2.5, fill="none", stroke=BLACK, stroke_width=1)
+    tag.text(494, 536, "DREAMWEAVER · $12", P, 14, 700, BLACK, anchor="middle")
     cta(s, 300, 566, where="S1")
     doily = s.g("Doily edge")
     doily.path(shapes.scallop_edge(0, W, H1 - 12, bump=24, depth=12, down=False), fill=CREAM)
@@ -141,9 +140,9 @@ def build(state: dict | None = None) -> Email:
     CH = y
     card.children[face_idx] = f'<rect x="{CX0 + 6}" y="6" width="{CW}" height="{CH}" fill="{BLACK}" opacity="0.1"/>'
     card.children[face_idx + 1] = f'<rect x="{CX0}" y="0" width="{CW}" height="{CH}" fill="{WHITE}"/>'
-    corner = card.g("Low stock corner tag", x=CX0 + CW - 20, y=-6, rotate=8)
-    corner.rect(-96, 0, 120, 44, fill=HOT)
-    corner.text_block(-88, 18, "is low in stock! Order now before we sell out.", P, 14, 106, 600, BLACK, line_height=15)
+    corner = card.g("Low stock corner tag", x=CX0 + CW - 10, y=-8, rotate=6)
+    corner.rect(-176, 0, 190, 46, fill=HOT)
+    corner.text_block(-166, 19, "is low in stock! Order now before we sell out.", P, 14, 172, 600, BLACK, line_height=17)
     e.module("M1", "Fizz", "02 Recipe card", 40 + 70, 150, states=4, durations_ms=[1500, 600, 600, 900],
              what_moves="clear water with the whole balm, first fizz ring and faint lavender, more fizz and deeper lavender, then the half-dissolved balm in lavender water with a swirl", frame1="balm half dissolved, water lavender, bubbles", assets=["Dreamweaver balm circle crop"], facts=["product photo only"])
     S2H = 40 + CH + 50 + 52 + 40

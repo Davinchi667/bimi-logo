@@ -1,16 +1,16 @@
-01 Hero                                  y=0      text=7   words=31   img=3
+01 Hero                                  y=0      text=6   words=32   img=3
   Headline                                 y=0      text=2   words=7    img=0
   Cake stand                               y=0      text=0   words=0    img=1
-  Hanging tag                              y=0      text=2   words=2    img=0
+  Hanging tag                              y=0      text=1   words=3    img=0
   CTA SHOP DREAMWEAVER S1                  y=0      text=1   words=2    img=0
   Doily edge                               y=0      text=0   words=0    img=0
-02 Recipe card                           y=640    text=16  words=126  img=2
-  Recipe card                              y=680    text=15  words=122  img=1
+02 Recipe card                           y=640    text=16  words=128  img=2
+  Recipe card                              y=680    text=15  words=124  img=1
     M1 Fizz band                             y=680    text=0   words=0    img=1
     Margin notes                             y=680    text=4   words=33   img=0
       Stars Dr W                               y=680    text=0   words=0    img=0
       Stars Gypsy831                           y=680    text=0   words=0    img=0
-    Low stock corner tag                     y=674    text=1   words=7    img=0
+    Low stock corner tag                     y=672    text=1   words=9    img=0
   CTA SHOP DREAMWEAVER · $12 S2            y=640    text=1   words=4    img=0
 03 Story                                 y=1426   text=5   words=65   img=1
 T Ticker                                 y=1800   text=3   words=13   img=0
@@ -42,4 +42,4 @@ T Ticker                                 y=1800   text=3   words=13   img=0
   Free shipping meter                      y=3570   text=2   words=5    img=0
   CTA SHOP DREAMWEAVER S6                  y=3570   text=1   words=2    img=0
   Footer                                   y=3570   text=3   words=28   img=1
-44 groups, 70 text elements, 14 images
+44 groups, 69 text elements, 14 images
