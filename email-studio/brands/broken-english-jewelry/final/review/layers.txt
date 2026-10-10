@@ -1,0 +1,33 @@
+01 Hero                                  y=0      text=11  words=46   img=3
+  Announcement bar                         y=0      text=1   words=10   img=0
+  M1 Designer ticker band                  y=0      text=4   words=6    img=0
+  Headline                                 y=0      text=2   words=5    img=0
+  CTA SHOP THE EAR EDIT S1                 y=0      text=1   words=4    img=0
+02 The ten percent                       y=490    text=5   words=42   img=1
+  Terms column                             y=490    text=4   words=41   img=0
+03 Ear map                               y=760    text=44  words=139  img=6
+  M2 Ear map band                          y=760    text=39  words=99   img=5
+    Ear sketch                               y=922    text=0   words=0    img=0
+    Pin labels                               y=760    text=25  words=60   img=5
+      Pin 5 Upper helix                        y=760    text=5   words=9    img=1
+      Pin 4 Helix                              y=760    text=5   words=13   img=1
+      Pin 3 Upper lobe                         y=760    text=5   words=13   img=1
+      Pin 2 Second lobe                        y=760    text=5   words=11   img=1
+      Pin 1 Lobe                               y=760    text=5   words=14   img=1
+    Running total receipt                    y=760    text=14  words=39   img=0
+  CTA SHOP THE EAR EDIT S3                 y=760    text=1   words=4    img=0
+04 Laura                                 y=1956   text=5   words=42   img=1
+  Quotes                                   y=1956   text=3   words=35   img=0
+  Fact rail                                y=1956   text=2   words=7    img=0
+05 Client Care                           y=2325   text=4   words=19   img=1
+  M3 Chat band                             y=2325   text=2   words=16   img=0
+    Bubble incoming                          y=2325   text=1   words=2    img=0
+    Bubble reply                             y=2325   text=1   words=14   img=0
+06 Lauras Picks                          y=2655   text=10  words=23   img=4
+  Pick Twister Maxi Earring                y=2655   text=3   words=5    img=1
+  Pick Half Paved Huggie 9.                y=2655   text=3   words=8    img=1
+  Pick Gummy Pendant Neckla                y=2655   text=3   words=8    img=1
+07 Close                                 y=3050   text=5   words=57   img=3
+  CTA SHOP THE EAR EDIT S7                 y=3050   text=1   words=4    img=0
+  Footer                                   y=3050   text=2   words=32   img=2
+32 groups, 84 text elements, 19 images
