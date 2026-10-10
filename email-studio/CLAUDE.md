@@ -45,6 +45,7 @@ Batch of 10 (Prompt 2): one brand at a time to the full bar. No two emails share
 - No motion state held under 120 ms (tween frames excepted); 3 to 8 held states per module; loop forever; frame 1 = finished static state.
 - Flat colour (10 px blocks) under 60 % of the email.
 - Rendering uses Chromium (Playwright) with the exact font files; look at final/review/slice_NN.png at full size, not just the contact sheet.
+- Learned on the first batch (see tools/README.md "Helpers"): logos with odd SVGs go through `tools/svg_to_png.py`; every flat field gets a faint grain or a brand photo texture; tags, cards and tickets grow from measured text, never fixed heights; the validator catches margin overruns, so put rotated tags well inside 570 px; re-scrape facts can differ from the copy brief's (announcement bars, popup wording, offers), so DELIVERY.md's verify list names the difference rather than silently picking one.
 
 ## Folders
 ```

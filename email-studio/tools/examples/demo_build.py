@@ -17,6 +17,8 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
 from emailkit import Email, FontRegistry, shapes, MARGIN  # noqa: E402
 
+BRAND = "_demo"
+NAME = "demo_welcome-01"
 fonts = FontRegistry()
 fonts.google("Fraunces", weights=(400, 700, 900))
 fonts.google("Inter", weights=(400, 500, 700))

@@ -56,6 +56,12 @@ Fonts: `fonts = FontRegistry(); fonts.google("Fraunces", weights=(400,700,900))`
 ## g) Figma import test
 See `figma_import.md`. The Figma MCP is connected (David's team, Starter plan); the quota is small. `svg_layers.py email.svg` prints the expected layer tree (ids, y, text/word/image counts) to compare with `get_metadata`.
 
+## Helpers added during the first batch
+- `svg_to_png.py logo.svg out.png --width 1200`: rasterise a brand logo SVG with Chromium (transparent PNG) when its path data does not survive extraction (nested transforms, fill rules). Use the PNG via `Group.image`.
+- `svg_layers.py` + `batch_overview.py brands/BATCH_<date>_overview.jpg --scale 0.22`: the layer tree for Figma checks, and all final PNGs side by side at one scale.
+- `FontRegistry.substitute(..., italics=True)` loads italic cuts for a substitute family. `Group.text_runs_block` wraps mixed-weight text (bolded phrases inside a quote). `Group.g(..., rotate=deg)` for tilted cards, tags and prints. `shapes.drop / paperclip / binder_clip / staple` for the small props.
+- Build-script conventions that kept QA green: dynamic section heights (`e.section_h[...]`, `e.y`, and replace `children[0]` for the background rect); measure before placing (`wrap`, `measure`) so tags and cards grow with their copy; a light grain JPEG on every flat field (flat-area check); clipped groups for tickers; `OUT = "final/popup"` for a second frame.
+
 ## Known limits
 - Instagram and other logged-in sources are not scraped; pass product and review URLs as `--extra`.
 - Review widgets in iframes are invisible to the DOM pass.

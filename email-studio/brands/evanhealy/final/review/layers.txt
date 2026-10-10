@@ -28,10 +28,10 @@
   M3 Price rail band                       y=2910   text=19  words=39   img=0
   Stars ritual                             y=2910   text=0   words=0    img=0
   CTA SHOP THE HARVEST RITUAL S5           y=2910   text=1   words=4    img=0
-06 Regenerative                          y=3650   text=49  words=123  img=2
-  ROC seal (drawn type)                    y=3650   text=44  words=44   img=0
-    Seal rim top                             y=3650   text=24  words=24   img=0
-    Seal rim bottom                          y=3650   text=19  words=19   img=0
+06 Regenerative                          y=3650   text=32  words=107  img=2
+  ROC seal (drawn type)                    y=3650   text=27  words=28   img=0
+    Seal rim top                             y=3650   text=12  words=12   img=0
+    Seal rim bottom                          y=3650   text=12  words=12   img=0
   CTA SHOP THE OIL & WATER START S6        y=3650   text=1   words=6    img=0
   Footer                                   y=3650   text=2   words=28   img=1
-36 groups, 125 text elements, 11 images
+36 groups, 108 text elements, 11 images
