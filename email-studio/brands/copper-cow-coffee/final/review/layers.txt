@@ -1,0 +1,45 @@
+01 Hero                                  y=0      text=10  words=45   img=2
+  Cow spots                                y=0      text=0   words=0    img=0
+    Spot top right                           y=0      text=0   words=0    img=0
+    Spot right                               y=0      text=0   words=0    img=0
+    Spot bottom left                         y=0      text=0   words=0    img=0
+  Headline                                 y=0      text=2   words=6    img=0
+  Stars hero                               y=0      text=0   words=0    img=0
+  CTA SHOP CLASSIC BLACK S1                y=0      text=1   words=3    img=0
+  M1 Marquee band                          y=0      text=4   words=9    img=0
+02 The 15 percent                        y=520    text=5   words=22   img=1
+  Lime wave edge                           y=520    text=0   words=0    img=0
+  Coupon ticket                            y=520    text=4   words=19   img=0
+  CTA SHOP CLASSIC BLACK S2                y=520    text=1   words=3    img=0
+03 Brew clock                            y=830    text=25  words=90   img=5
+  M2 Brew clock band                       y=830    text=12  words=23   img=4
+    Dial                                     y=830    text=10  words=16   img=4
+      Step Tear                                y=830    text=2   words=3    img=1
+      Step Hang                                y=830    text=2   words=3    img=1
+      Step Pour                                y=830    text=2   words=3    img=1
+      Step Enjoy!                              y=830    text=2   words=3    img=1
+    Strength rail                            y=830    text=2   words=7    img=0
+  Callouts                                 y=830    text=2   words=10   img=0
+  Steps                                    y=830    text=8   words=47   img=0
+  CTA SHOP CLASSIC BLACK S3                y=830    text=1   words=3    img=0
+04 Brewers                               y=1697   text=27  words=114  img=1
+  Green slab                               y=1697   text=8   words=27   img=0
+    M3 Counter band                          y=1697   text=5   words=5    img=0
+    Stars slab                               y=1697   text=0   words=0    img=0
+  Hung review tags                         y=1697   text=19  words=87   img=0
+    Tag Natalie D.                           y=1697   text=6   words=25   img=0
+      Stars Natalie D.                         y=1697   text=0   words=0    img=0
+    Tag Cheryl P.                            y=1697   text=5   words=25   img=0
+      Stars Cheryl P.                          y=1697   text=0   words=0    img=0
+    Tag dee B.                               y=1697   text=5   words=22   img=0
+      Stars dee B.                             y=1697   text=0   words=0    img=0
+    Tag Kara M.                              y=1697   text=3   words=15   img=0
+      Stars Kara M.                            y=1697   text=0   words=0    img=0
+05 Debbie and the farmers                y=2375   text=4   words=36   img=1
+06 Next box and close                    y=2791   text=13  words=64   img=5
+  Block *NEW* SNICKERDOODLE POUR           y=2791   text=3   words=10   img=1
+  Block MYSTERY LATTE BUNDLE - 1           y=2791   text=3   words=12   img=1
+  Block VANILLA CREAMER - 24CT             y=2791   text=2   words=4    img=1
+  CTA SHOP CLASSIC BLACK S6                y=2791   text=1   words=3    img=0
+  Footer                                   y=2791   text=3   words=31   img=1
+44 groups, 84 text elements, 15 images
